@@ -1,0 +1,68 @@
+tibetan:
+  dictionary:
+  - ['37-dag_tshig_gsar_bsgrigs-Tib', 'དག་གསར།']
+  - ['25-tshig-mdzod-chen-mo-Tib', 'ཚིག་མཛོད་ཆེན་མོ།']
+  - ['34-dung-dkar-tshig-mdzod-chen-mo-Tib', 'དུང་དཀར།']
+  - ['48-TibTermProject', 'ཐ་སྙད་གསར་པ།']
+
+  tenses:
+  - ['19-Hopkins-TibetanTenses2015', 'Hopkins']
+  - ['26-Verbinator', 'Verbinator']
+
+  divisions_bo:
+  - ['12-Hopkins-Divisions,Tib2015', 'Hopkins']
+
+  definitions_bo:
+  - ['18-Hopkins-TibetanDefinitions2015', 'Hopkins']
+  - ['42-Sera-Textbook-Definitions', 'སེ་ར་མཚན་ཉིད།']
+
+  examples_bo:
+  - ['14-Hopkins-Examples,Tib', 'Hopkins']
+
+  synonyms_bo:
+  - ['17-Hopkins-TibetanSynonyms1992', 'Hopkins']
+  - ['17-Hopkins-TibetanSynonyms2015', 'Hopkins']
+  - ['45-84000Synonyms', '84000Syn.']
+
+english:
+  dictionary:
+  - ['38-Gaeng,Wetzel', 'Wetzel']
+  - ['23-GatewayToKnowledge', 'Gateway']
+  - ['01-Hopkins2015', 'Hopkins']
+  - ['05-Hopkins-Def2015', 'Hopkins']
+  - ['03-Berzin', 'Berzin']
+  - ['04-Berzin-Def', 'Berzin']
+  - ['40-CommonTerms-Lin', 'Lin']
+  - ['10-RichardBarron', 'Barron']
+  - ['05-Hackett-Def2015', 'Hackett']
+  - ['08-IvesWaldo', 'Waldo']
+  - ['09-DanMartin', 'Martin']
+  - ['35-ThomasDoctor', 'Doctor']
+  - ["20-Hopkins-others'English2015", 'Hopkins']
+  - ['06-Hopkins-Comment', 'Hopkins']
+  - ['02-RangjungYeshe', 'RY']
+  - ['33-TsepakRigdzin', 'ཚེ་དཔག་རིག་འཛིན།']
+  - ['47-Misc', 'WordsPerfectTeacher']
+  - ['07-JimValby', 'Valby']
+  - ['36-ComputerTerms', 'Computer']
+  - ['43-84000Dict', '84000']
+  - ['44-84000Definitions', '84000']
+
+  divisions_en:
+  - ['11-Hopkins-Divisions2015', 'Hopkins']
+
+  examples_en:
+  - ['13-Hopkins-Examples', 'Hopkins']
+
+  synonyms_en:
+  - ['16-Hopkins-Synonyms1992', 'Hopkins']
+
+sanskrit:
+  lexicon:
+  - ['21-Mahavyutpatti-Skt', 'བྱེ་བྲག་རྟོགས་བྱེད་ཆེན་མོ']
+  - ['46-84000Skt', '84000']
+  - ['15-Hopkins-Skt1992', 'Hopkins']
+  - ['15-Hopkins-Skt2015', 'Hopkins']
+  - ['22-Yoghacharabhumi-glossary', 'བྱང་ས།']
+  - ['49-LokeshChandraSkt', 'L.Chandra']
+  - ['50-NegiSkt', 'Negi']
