@@ -561,7 +561,7 @@
 འགྲོ་དོན|[C]jagārtha
 འགྲོ་དོན་རབ་ཏུ་འདོད་པ|[C]jagad-artha-kāmo
 འགྲོ་ལ་སྙིང་བརྩེར་ལྡན་པའི་ཕྱིར|[C]jagānukampi
-འགྲོ་ལྡིང་པ|[Pagel; "Dharani" 2007; p.163] dramidha
+འགྲོ་ལྡིང་པ|[Pagel; 'Dharani' 2007; p.163] dramidha
 འགྲོ་མེད|[C]anirgamam; [C]agati
 འགྲོ་ན|[C]prakrāmati
 འགྲོ་ཉིད|[C]gāmitva
@@ -5316,7 +5316,7 @@
 ཁ་ཕྱར|[C]pragalbha
 ཁ་ཏོན་བྱང་བར་བྱས|[C]vacasā paricita
 ཁ་ཏོན་བྱེད་པ|[MV]svādhyāya; [MV]svādhyāyana
-ཁ་ཏོན་དུ|[C]svādhyāyati; s what is this "s"? [C]vādhyāyanti
+ཁ་ཏོན་དུ|[C]svādhyāyati; s what is this 's'? [C]vādhyāyanti
 ཁ་ཏོན་དུ་བྱ|[C]svādhyāyati
 ཁ་ཏོན་དུའང་བྱེད|[C]svādhyāyanti
 ཁ་ཟས|[MSA]bhojana; [MSA]bhojya; [C]bhaktāgra

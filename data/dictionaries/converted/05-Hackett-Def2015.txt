@@ -70,7 +70,7 @@
 འགྲམ|(PH) banks; shores
 འགྲམ་པ|(PH) race
 འགྲན་སེམས|(PH) competitiveness
-འགྲེལ་བཤད་ཚིག་གསལ|(PH) [Dharmamitra's] Clear Words; An Explanatory Commentary [on (Maitreya's) 'Ornament for Clear Realization"]
+འགྲེལ་བཤད་ཚིག་གསལ|(PH) [Dharmamitra's] Clear Words; An Explanatory Commentary [on (Maitreya's) 'Ornament for Clear Realization']
 འགྲིག་ལམ|(PH) regulation; rule
 འགྲིམས་འགྲུལ|(PH) transport
 འགྲོ་བ|(PH) transmigration; rebirth
@@ -213,7 +213,7 @@
 བཅོས་མིན་གྱི་མྱོང་བ|(PH) non-artificial experience 
 བཅུ|(PH) ten
 བཅུ་བཅུ|(PH) ten each
-བཅུ་དྲུག་ཆ|(PH) full-moon-like (lit. having all 16 parts ("lunar digits") [of the full moon])
+བཅུ་དྲུག་ཆ|(PH) full-moon-like (lit. having all 16 parts ('lunar digits') [of the full moon])
 བཅུ་གསུམ་རྡོ་རྗེ་འཛིན་པའི་ས|(PH) thirteenth ground vajra-holder
 བདག|(PH) self; ″I″
 བདག་འཛིན|(PH) grasping at a self; conception of a self
@@ -252,7 +252,7 @@
 བདུད་རྩི་ཐབ་སྦྱོར|(PH) Āmṛtakuṇḍalī
 བདུན་ཕྲག|(PH) week
 བེམ་ཤེས་ལྡན་མིན་འདུ་བྱེད|(PH) matter; consciousness; and non-associated compositional factors
-བགེགས་གཏོར|(PH) "Gektor" [torma offering to an obstructing being]
+བགེགས་གཏོར|(PH) 'Gektor' [torma offering to an obstructing being]
 བགེགས་རིགས|(PH) types of obstructing spirits
 བྷར་མ|(PH) Burma; Burmese
 བི་ཀྲ་མ་ལ་ཤི་ལ|(PH) Vikramalaśila
@@ -356,7 +356,7 @@
 བསམ་པའི་ཡོན་ཏན|(PH) qualities of intention
 བསམ་སྦྱོར|(PH) thoughts and actions
 བསམ་ཡས|(PH) Sam-ye [Temple]
-བསམ་ཡས་མི་འགྱུར་ལྷུན་གྱིས་གྲུབ་པ|(PH) Samye Mi-gyur Hlun-gyi-drup-pa [Temple] ("spontaneous fulfillment of unchanging limitless aspirations")
+བསམ་ཡས་མི་འགྱུར་ལྷུན་གྱིས་གྲུབ་པ|(PH) Samye Mi-gyur Hlun-gyi-drup-pa [Temple] ('spontaneous fulfillment of unchanging limitless aspirations')
 བསེ་ཡབ|(PH) tamarind
 བསྒོ་བ|(PH) command; order
 བསྒྲུབ་བྱ|(PH) that which is to be proven (probandum); thesis
@@ -388,7 +388,7 @@
 བསྔོ་བ|(PH) dedication
 བསྙེན་བཀུར་བྱ་བ|(PH) object of respect; object of veneration
 བསྙེན་སྒྲུབ་ལས་གསུམ|(PH) prior approximation; attainment; and actitives
-བསོད་སྙོམས་ཆེན་པོ|(PH) "the great almsman" (en epithet of Śākyaśrībhadra)
+བསོད་སྙོམས་ཆེན་པོ|(PH) 'the great almsman' (en epithet of Śākyaśrībhadra)
 བསོད་སྙོམས་ཀྱི་ཞལ་ཟས|(PH) alms food
 བསྲབ་མོ|(PH) diminishment
 བསྲབ་པའི་ས|(PH) ground of diminishment
@@ -603,7 +603,7 @@
 དབུ་བའི་གོང་བུ|(PH) ball of foam
 དབུ་ཤོག|(PH) initial page; opening page
 དབུ་སྙུང|(PH) oath on one's head
-དབུག་གུ|(PH) half-hour ("extended breath") [25 minutes]
+དབུག་གུ|(PH) half-hour ('extended breath') [25 minutes]
 དབུགས་མི་བདེ|(PH) asthma
 དབུགས་རླུང|(PH) breath-wind
 དབུལ་བ་ཀུན|(PH) extreme poverty
@@ -621,7 +621,7 @@
 དབྱར་གྱི་རྔ|(PH) drums of thunder; dragon's voice
 དབྱར་རྔ|(PH) drums of thunder; dragon's voice
 དབྱིག|(PH) precious resources
-དབྱིག་འཛིན|(PH) treasure-bearing [realm]; Vasundhara ("Bearer of Treasure") [epithet of the earth]
+དབྱིག་འཛིན|(PH) treasure-bearing [realm]; Vasundhara ('Bearer of Treasure') [epithet of the earth]
 དབྱིག་གི་སྙིང་པོ|(PH) Hiraṇyagarbha (Brahmā)
 དབྱུག་སྔོན་ཅན|(PH) Nīladaṇḍa
 དེ|(PH) [continuative syntactic particle]
@@ -659,7 +659,7 @@
 དེང་སང|(PH) these days; nowadays
 དགའ་བ་ཁྱད་པར་ཅན|(PH) a special joy
 དགའ་བོ|(PH) Nanda (p.n. of a monk during the time of the Buddha)
-དགའ་ལྡན|(PH) Tuṣita ["Joyous," fourth of the six Desire Realm Heavens]; Ganden Monastic University [one of the three large monastic universities in Lhasa/_Mundgod]; Ganden [Government]
+དགའ་ལྡན|(PH) Tuṣita ['Joyous,' fourth of the six Desire Realm Heavens]; Ganden Monastic University [one of the three large monastic universities in Lhasa/_Mundgod]; Ganden [Government]
 དགའ་མགུ|(PH) immense joy
 དགའ་སྟོན|(PH) festival; party
 དགག་བྱ་བཀག་པའི་མེད་འགག|(PH) non-affirming negation that is the negation of the object of negation
@@ -682,7 +682,7 @@
 དགེ་ཚུལ་གྱི་སློབ་དཔོན|(PH) novice preceptor
 དགོན|(PH) lord
 དགོན|(PH) wilderness
-དགོན་པའི་ཐིག་ལེ|(PH) "Drop of wilderness" [n. of a tree]
+དགོན་པའི་ཐིག་ལེ|(PH) 'Drop of wilderness' [n. of a tree]
 དགོན་རྙིང|(PH) ancient monastery
 དགོངས་པའི་སྐད|(PH) implied speech
 དགོས་པ་ཆུང|(PH) minor consideration
@@ -690,7 +690,7 @@
 དགུན་སྒང|(PH) period of winter
 དགུང་གྲངས|(PH) age (hon.)
 དགུང་སྤར|(PH) trigram
-དཀའ་བཅུ་པ|(PH) "Master of the Ten Difficult Texts" (dka' bcu pa)
+དཀའ་བཅུ་པ|(PH) 'Master of the Ten Difficult Texts' (dka' bcu pa)
 དཀའ་ཟློག|(PH) ascetic
 དཀའ་ཟློག་དད|(PH) devotee of Durgā
 དཀར་དམར་མདངས་གསལ|(PH) clear white complexion with a tinge of red
@@ -753,11 +753,11 @@
 དཔལ|(PH) ensignia; banner
 དཔལ་བེའུ|(PH) endless knot
 དཔལ་བརྩེགས་རྒྱལ་པོ|(PH) Śrīkūṭa-rāja
-དཔལ་བསམ་ཡས་ལྷུན་གྱིས་གྲུབ་པ|(PH) Samye Hlun-gyi-drup-pa [Temple] ("spontaneous fulfillment of limitless aspirations")
-དཔལ་གྱི་བསམ་ཡས་ལྷུན་གྱིས་གྲུབ་པ|(PH) Samye Hlun-gyi-drup-pa [Temple] ("spontaneous fulfillment of limitless aspirations")
+དཔལ་བསམ་ཡས་ལྷུན་གྱིས་གྲུབ་པ|(PH) Samye Hlun-gyi-drup-pa [Temple] ('spontaneous fulfillment of limitless aspirations')
+དཔལ་གྱི་བསམ་ཡས་ལྷུན་གྱིས་གྲུབ་པ|(PH) Samye Hlun-gyi-drup-pa [Temple] ('spontaneous fulfillment of limitless aspirations')
 དཔལ་མགྲིན|(PH) Śrīkaṇṭha
 དཔལ་ནག་པོ|(PH) Śrī Kṛṣṇa
-དཔང་སྐོང་ཕྱག་བརྒྱ་པ|(PH) "One Hundred Homages for Mending Transgressions" (D 267)
+དཔང་སྐོང་ཕྱག་བརྒྱ་པ|(PH) 'One Hundred Homages for Mending Transgressions' (D 267)
 དཔར|(PH) page
 དཔེ་བྲིས་མ|(PH) manuscript
 དཔེ་ལྡེབ|(PH) book
@@ -907,7 +907,7 @@
 གདུང་ཤུགས|(PH) strong devotion; intense longing
 གདུང་ཤུགས་དྲག་པོ|(PH) strong devotion; intense longing
 གེ་སར|(PH) flower bud
-གི་གུ|(PH) "i" vowel mark; [name of vowel marker for 'i']
+གི་གུ|(PH) 'i' vowel mark; [name of vowel marker for 'i']
 གླ་བ|(PH) musk deer
 གླན་དེ་འཇོག་པ|(PH) resetting [the 3rd mental abiding (sems gnas)]
 གླིང་བཞི་གླིང་ཕྲན་བཅུ་གཉིས|(PH) twelve major and minor continents
@@ -953,7 +953,7 @@
 གཉིད་མཚན་ཉིད་པ|(PH) actual sleep
 གཉིས་གཉིས|(PH) two each
 གཉིས་པ་ཤོས|(PH) the other of the two
-གཉིས་སྐྱེས|(PH) birds ("twice born")
+གཉིས་སྐྱེས|(PH) birds ('twice born')
 གཉིས་སྣང་ཅན་གྱི་ཤེས་པ|(PH) dualistic consciousness
 གཉིས་སྟོང་གི་རྣམ་པ་ཅན|(PH) having the aspect of an emptiness of duality
 གཉིས་སུ་གྲངས|(PH) enumeration as two
@@ -1041,7 +1041,7 @@
 གསུང་བསལ་བའི་སྒྲ|(PH) a sound that clears away speech (?)
 གསུང་ཆོས|(PH) teachings; religious instruction
 གསུང་དབྱངས་ཡན་ལག་དྲུག་ཅུ|(PH) speech [with] sixty [types of] melodies
-གསུང་ངག་རིན་པོ་ཆེ|(PH) "precious instruction" [epithet of Sakya "Path and Fruit" tradition]
+གསུང་ངག་རིན་པོ་ཆེ|(PH) 'precious instruction' [epithet of Sakya 'Path and Fruit' tradition]
 གསུང་སྒྲོས|(PH) sayings; teachings; analects
 གཏད|(PH) aim; purview
 གཏད་པ|(PH) aim; purview
@@ -1137,7 +1137,7 @@
 གཟོད་བསྒོམ་པ|(PH) primordial meditative state
 གཟོད་ནས|(PH) from the beginning
 གཟུགས་ཅན་སྙིང་པོ|(PH) [King] Bimbisāra
-གཟུགས་གཟུགས་ཞེས་པའི་སྒྲའི་འཇུག་གཞི|(PH) form's being the basis for affixing the term "form"
+གཟུགས་གཟུགས་ཞེས་པའི་སྒྲའི་འཇུག་གཞི|(PH) form's being the basis for affixing the term 'form'
 གཟུགས་ཀྱི་སྐྱེ་མཆེད|(PH) form sense-sphere
 གཟུགས་མཛེས|(PH) beautiful form
 གཟུགས་མཚན་ཉིད་པ|(PH) fully qualified form
@@ -1171,7 +1171,7 @@
 ཇོ་བོ་རིན་པོ་ཆེ|(PH) Precious Jowo [Śākyamuni statue]
 ཇོ་བཟང|(PH) good reputation; good repute
 ཇོ་ལུགས་སྒྲོལ་དཀར|(PH) White Tara in Atiśa's lineage
-ཀ|(PH) [verbal suffix meaning "about to"]
+ཀ|(PH) [verbal suffix meaning 'about to']
 ཀ་བུམ་གཉིས|(PH) pillar and pot, the two
 ཀ་ཅོག་ཞང|(PH) the three — Ka-wa [Pel-tsek (ka ba dpal brtsegs)]; Jok-ro [Lü-gyal-tsen (cog ro klu'i rgyal mtshan)]; and Zhang [Na-nam Ye-she-de (zhang sna nam ye shes sde)]
 ཀ་དག|(PH) primordially pure
@@ -1264,8 +1264,8 @@
 ཀླད་ནད|(PH) headache
 ཀློག|(PH) reading
 ཀློག་ཐབས|(PH) pronunciation manual
-ཀླུའི་རྩ་ཤེ་རབ|(PH) Nāgārjuna’s Fundamental Treatise on the Middle Way; Called "Wisdom"
-ཀླུའི་རྩ་ཤེ་རབ་བྱེད|(PH) Nāgārjuna’s Fundamental Treatise on the Middle Way; Called "Wisdom" Chapter #
+ཀླུའི་རྩ་ཤེ་རབ|(PH) Nāgārjuna’s Fundamental Treatise on the Middle Way; Called 'Wisdom'
+ཀླུའི་རྩ་ཤེ་རབ་བྱེད|(PH) Nāgārjuna’s Fundamental Treatise on the Middle Way; Called 'Wisdom' Chapter #
 ཀོ|(PH) [emphatic particle]
 ཀོའུ་ཤམ་བི|(PH) Kauśambi
 ཀོང་ཆུ|(PH) Kong-po river
@@ -1387,7 +1387,7 @@
 ལྷོའི་འདོད་མ|(PH) ″desirous″ southern [right] channel at the heart
 ལྷོད་ལྷོད་པོ|(PH) loose; very loose
 ལྷོད་པ་ཉིད|(PH) loose
-ལྷུན་གྲུབ་བརྩེགས|(PH) "Spontaneously Accomplished Mound" [n. of a charnel ground]
+ལྷུན་གྲུབ་བརྩེགས|(PH) 'Spontaneously Accomplished Mound' [n. of a charnel ground]
 ལྷུན་གྲུབ་ཆོས་སྐུ|(PH) spontaneously established Truth Body
 ལྷུན་གྲུབ་གཟུགས་སྐུ|(PH) spontaneously established Form Body
 ལྷུན་གྱིས་གྲུབ་པ|(PH) spontaneous
@@ -1425,7 +1425,7 @@
 ལྟ་ལ་ཅི་སྨོས|(PH) what need is there
 ལྟ་སྨོས་ཀྱང་ཅི|(PH) what need is there
 ལྟ་ཞིག|(PH) just such a one
-ལྟར་པོ|(PH) "lump" [n. of a stage of development of the embryo in the third week]
+ལྟར་པོ|(PH) 'lump' [n. of a stage of development of the embryo in the third week]
 ལྟེ་བ|(PH) hub; center
 ལྟོ་འཕྱེ་ཆེ|(PH) Mahoraga
 ལྟོ་བགྲངས|(PH) full stomach
@@ -1500,8 +1500,8 @@
 མདོ་སྡེ་སྤྱོད་པའི་དབུ་མ་པ|(PH) Sautrantika-[Svātantrika]-Mādhyamika; Middle Way [Autonomy School] Following Sūtra
 མདོ་སྡེ་སྤྱོད་པའི་དབུ་མ་རང་རྒྱུད་པ|(PH) Sautrāntika-Svātantrika-Mādhyamika; Middle Way Autonomy Following Sūtra [School]
 མདོ་ཙམ་དུ|(PH) briefly
-མདོ་ཟ་མ་ཏོག་བཀོད་པ|(PH) "Chest of Jewels Sutra" (Karaṇḍavyūha Sūtra)
-མདོངས|(PH) "eye" [in a peacock's feathers]
+མདོ་ཟ་མ་ཏོག་བཀོད་པ|(PH) 'Chest of Jewels Sutra' (Karaṇḍavyūha Sūtra)
+མདོངས|(PH) 'eye' [in a peacock's feathers]
 མདོངས་པ|(PH) forehead
 མདོར་བསྡུས|(PH) short form; condensation; condensed; brief
 མདུད|(PH) knot
@@ -1578,7 +1578,7 @@
 མཁའ་དབྱིངས|(PH) expanse of space
 མཁའ་དབྱིངས་ཕྱག་རྒྱ|(PH) space mudra
 མཁའ་མཉམ་ལུས་ཅན|(PH) [all] beings as infinite as space
-མཁའ་སྤྲིན་ཅན|(PH) "clouded sky"; [n. 7th month]
+མཁའ་སྤྲིན་ཅན|(PH) 'clouded sky'; [n. 7th month]
 མཁའ་སྤྱོད་དབང་པོ|(PH) lord of khecaris
 མཁའ་སྤྱོད་པའི་རིག་འཛིན|(PH) sky-traveling tantric adept
 མཁའ་སྤྱོད་རིག་པ་འཛིན་པ|(PH) sky-traveling tantric adept
@@ -1605,7 +1605,7 @@
 མངའ་ཐང་འབྱོར་བ|(PH) power and fortune
 མངག་གཞུག|(PH) servant
 མངོན་བརྗོད|(PH) synonyms
-མངོན་དགའ་ཞིང|(PH) Abhirati ["great joy", the Buddhafield of Akṣobhya]
+མངོན་དགའ་ཞིང|(PH) Abhirati ['great joy', the Buddhafield of Akṣobhya]
 མངོན་ལྐོག|(PH) manifest [phenomena] and hidden [phenomena]
 མངོན་ལྐོག་གཉིས|(PH) the two -- manifest [phenomena] and hidden [phenomena]
 མངོན་མཐོ་ངེས་ལེགས|(PH) high status [within cyclic existence] and definite goodness [of liberation from cyclic existence and/_or omniscience]
@@ -1742,7 +1742,7 @@
 ང་རོ|(PH) roar; pronunciation
 ང་རོ་ཆེན་པོ|(PH) great roar
 ང་རོའི་རྣམ་པ|(PH) tone
-ང་ཙམ|(PH) mere "I"; mere notion of a self
+ང་ཙམ|(PH) mere 'I'; mere notion of a self
 ངག་མི་སྨྲ་བ|(PH) not speaking
 ངན་སེམས|(PH) evil thought; evil intent
 ངན་སོང་སེལ|(PH) *Durgati-pariśodhana/_*Durgatyapoha/_*Apāyāpoha [p.n. of Bodhisattva]
@@ -1780,7 +1780,7 @@
 ནོར་ཕྱུག་པ|(PH) wealthiest man
 ནོར་རྒྱས|(PH) [the Nāga King] Vāsuki
 ནུབ་ཀྱི་ཁྱིམ་མ|(PH) ″householder″ west [back] channel at the heart
-ནུར་ནུར་པོ|(PH) "elogated" [n. of a stage of development of the embryo]
+ནུར་ནུར་པོ|(PH) 'elogated' [n. of a stage of development of the embryo]
 ནུས་ཁྱད་པར་ཅན|(PH) special capacity
 ནུས་པ|(PH) indication
 ནུས་པ་ཁྱད་པར་ཅན|(PH) special capacity
@@ -1847,7 +1847,7 @@
 པ་ལ་བ|(PH) Parthian (i.e. Bactrian)
 པ་ལ་ཤ|(PH) palāśa tree
 པ་ལ་ཤའི་མེ་ཏོག|(PH) palāśa flower
-པ་ཊ་རི་མོ|(PH) scrollwork patterns ("volutes")
+པ་ཊ་རི་མོ|(PH) scrollwork patterns ('volutes')
 པད་འབྱུང་ཡབ་ཡུམ|(PH) Padmasambhava and consort
 པད་མའི་ངང་ཚུལ|(PH) [The one who is] the nature of the Lotus [epith. of Kamalaśīla]
 པདམ|(PH) lotus
@@ -1869,7 +1869,7 @@
 པར་འགྱའ|(PH) wisdom [arch. spelling]
 ཕ|(PH) beyond; farther
 ཕ་མྱེས|(PH) paternal ancestor(s)
-ཕ་རོལ་ཚུ|(PH) the "opposite" bank [of a river]
+ཕ་རོལ་ཚུ|(PH) the 'opposite' bank [of a river]
 ཕག|(PH) hidden
 ཕག་མོ་གཞུང་དྲུག|(PH) six treatises on Vārāhī
 ཕག་རྒོད|(PH) wild boar
@@ -1929,7 +1929,7 @@
 ཕྱི་ངོས་སུ|(PH) facing outward
 ཕྱི་རྒོལ|(PH) opponent; second party
 ཕྱི་རོལ་དོན|(PH) external objects
-ཕྱིའི་རྣམ་ཐར|(PH) exoteric biography; "outer" biography
+ཕྱིའི་རྣམ་ཐར|(PH) exoteric biography; 'outer' biography
 ཕྱིར་འཚོང་གོང་ཚད|(PH) sales price
 ཕྱིར་ལ་|(PH) moreover
 ཕྱིར་མི་ལྡོག་པའི་བྱང་སེམས|(PH) irreversible bodhisattva
@@ -2543,8 +2543,8 @@
 ཤུལ|(PH) ruins; remains
 ཤུར་པ|(PH) juniper [incense]
 ཤུར་ཤིང|(PH) juniper tree
-སི|(PH) "si" [a type of incense]
-སི་ལ|(PH) "sila" [a type of incense]
+སི|(PH) 'si' [a type of incense]
+སི་ལ|(PH) 'sila' [a type of incense]
 སིང་ག་ལ་པ|(PH) Singhalese [person]
 སྐ་བ|(PH) astringent
 སྐབས་གསུམ|(PH) three realms
@@ -2735,7 +2735,7 @@
 སྤང་བྱ་སྤོང་ཚུལ|(PH) the mode of abandoning the objects of abandonment
 སྤང་བྱའི་གཙོ་བོ|(PH) main object of abandonment
 སྤང་གཉེན་གྱི་འདོད་ཚུལ|(PH) mode of assertion of [objects of] abandonment and antidotes
-སྤང་ཀོང་ཕྱག་བརྒྱ་པ|(PH) "One Hundred Homages for Mending Transgressions" (D 267)
+སྤང་ཀོང་ཕྱག་བརྒྱ་པ|(PH) 'One Hundred Homages for Mending Transgressions' (D 267)
 སྤངས་བྱའི་གཙོ་བོ|(PH) main object of abandonment
 སྤར་གྱི་བླ་མ|(PH) teacher's teachers
 སྤར་ཁ་བརྒྱད|(PH) eight trigrams
@@ -2745,7 +2745,7 @@
 སྤོས|(PH) incense
 སྤྲང་མོ|(PH) lowly (female) mendicant
 སྤྲིན་བཞིན|(PH) nimbly; like a cloud
-སྤྲིན་མེད|(PH) "Cloudless" [n. fourth concentration in the Form Realm]
+སྤྲིན་མེད|(PH) 'Cloudless' [n. fourth concentration in the Form Realm]
 སྤྲིན་ཕུང|(PH) mass of clouds
 སྤྲིན་རུམ|(PH) dark cloud
 སྤྲིས་མ|(PH) cream; congealed fat
@@ -2820,7 +2820,7 @@
 སྟོང་གཞི|(PH) basis [upon which] emptiness [is predicated]
 སྟོང་ཁུན|(PH) eastern emperor
 སྟོང་རྩ་གཅིག|(PH) one thousand and one
-སུག་ཐུང|(PH) Suk-tung ("short-legged") [a style of script]
+སུག་ཐུང|(PH) Suk-tung ('short-legged') [a style of script]
 སུམ་གཉིས|(PH) two of the three
 སུམ་མདོ|(PH) three-fold intersection
 སུན་འབྱིན་བྱེད་ཕྱོགས|(PH) refutative thesis
@@ -3107,7 +3107,7 @@
 ཡུན་ཚད|(PH) length of time; period of time
 ཡུངས་འབྲུ་ཙམ་པོ|(PH) about the size of a mustard seed
 ཡུངས་མར|(PH) sesame oil
-ཟ་འོག་ཕུག|(PH) Zaog ("Brocade") Cave [n. of Milarepa's cave]
+ཟ་འོག་ཕུག|(PH) Zaog ('Brocade') Cave [n. of Milarepa's cave]
 ཟ་པོ|(PH) enjoyer; gluttony
 ཟ་སྒོ|(PH) share of allowance
 ཟབ|(PH) deep; profound
@@ -3117,7 +3117,7 @@
 ཟེ་བ|(PH) [lion's] mane; flowing mane
 ཟེད་པ|(PH) upright; right-side-up
 ཞ་བོ་མིག་ཅན|(PH) a cripple with good eyesight
-ཞབས་ལྷམ|(PH) "shoes for the alms bowl"
+ཞབས་ལྷམ|(PH) 'shoes for the alms bowl'
 ཞབས་ཕྱི|(PH) servant; service
 ཞབས་རྡུལ|(PH) dust of the feet
 ཞབས་སེན|(PH) toe nail
@@ -3181,4 +3181,4 @@
 ཟུང་འཇུག་གི་གོ་འཕང|(PH) stage of union
 ཟུང་འཇུག་ཡེ་ཤེས|(PH) exlated wisdom [of the state of] union
 ཟུང་ཐལ་མོ|(PH) palms of a pair [of hands]
-ཟུར་མཁར|(PH) Zur-khar [a district in U (dbus - "Central Tibet")]
+ཟུར་མཁར|(PH) Zur-khar [a district in U (dbus - 'Central Tibet')]

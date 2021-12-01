@@ -53,8 +53,8 @@
 འཆད་པ|བཤད་པ to explain/_set forth
 འཆམ|ritual dance
 འཆམ་དཔོན|master of dance
-འཆར་བ|ཤར་བ to arise; ཤར་བ to arise [emphasis on "inner" arising of thoughts versus "outer" manifesting; of sensory appearances]; isc. to become apparent/_happen/_occur; isc. to experience/_be(come) aware of/_be(come) conscious of
-འཆར་གཞི|[in "ultimate" sense of dharmakaya] ground for all that arises/_for the arising of things/_from which things arise [in "relative" sense of sambhogakaya and nirmanakaya] a ground from which things arise
+འཆར་བ|ཤར་བ to arise; ཤར་བ to arise [emphasis on 'inner' arising of thoughts versus 'outer' manifesting; of sensory appearances]; isc. to become apparent/_happen/_occur; isc. to experience/_be(come) aware of/_be(come) conscious of
+འཆར་གཞི|[in 'ultimate' sense of dharmakaya] ground for all that arises/_for the arising of things/_from which things arise [in 'relative' sense of sambhogakaya and nirmanakaya] a ground from which things arise
 འཆར་སྒོ|avenue for the arising/_expression (of . . . )
 འཆར་ཚུལ|manner/_way/_mode/_process of arising; the way in which . . . arises; isc. things arise such that they . . .
 འཆར་བྱེད་བརྒྱད|eight modes/_ways that allow [spontaneous presence] to arise
@@ -65,7 +65,7 @@
 འཆི་མེད|deathless/_immortal
 འཆི་སྲིད|death as a phase of conditioned existence
 འཆི་མེད་ཙེ་ཡི་དངོས་གྲུབ|siddhi/_spiritual attainment of longevity and immortality
-འཆི་བདག་གི་བདུད|mara of the "lord of death"
+འཆི་བདག་གི་བདུད|mara of the 'lord of death'
 འཆི་ཀའི་བར་དོ|interval/_intermediate state of dying process
 འཆི་བ་མི་རྟག་པ|death and impermanence
 འཆི་བ་མེད་པ|deathless/_immortal
@@ -86,11 +86,11 @@
 འདེམ་ཀ|choice; possible alternative
 འདེམ་ཀ་མེད་པར|without choice/_any alternative; inevitably
 འདེངས་པ|དེངས་པ to disperse; to vanish/_disappear
-འདི་ལྟར|as . . . do; like this; thus; in this way . . . ; in any way; such as . . . ; is such that . . . ; ="as/_see below" (cf. de ltar)
+འདི་ལྟར|as . . . do; like this; thus; in this way . . . ; in any way; such as . . . ; is such that . . . ; ='as/_see below' (cf. de ltar)
 འདི་ལྟ་སྟེ|it is thus: . . .
 འདི་ཡིན་གྱི|being this or that
-འདི་ཞེས་མེད|does not exist as some "thing"
-འདི་ཞེས་མི་མཚོན་པ|cannot be characterized as/_to be some "thing"
+འདི་ཞེས་མེད|does not exist as some 'thing'
+འདི་ཞེས་མི་མཚོན་པ|cannot be characterized as/_to be some 'thing'
 འདི་ལྟར་སྣང་བའི|(that) appear as it does/_they do
 འདོད་འཇོ|providing/_yielding all that is wished for/_desirable
 འདོད་ཆགས|desire-attachment/_desire and attachment; sexual desire/_passion
@@ -382,7 +382,7 @@
 བཅིང་གྲོལ|bondage versus freedom
 བཅིངས|. . . r bcings (pa) - to be embraced/_embodied as. . . . ltar bcings (pa) - to be epitomized/_embodied by
 བཅོལ་བ|འཆོལ་བ to enjoin/_entrust/_commission; isc. to require (of)
-བཅོམ་ལྡན་འདས|transcendent accomplished conqueror/_"Blessed One" [usual renderning in Western translations, esp.from sutra tradition]
+བཅོམ་ལྡན་འདས|transcendent accomplished conqueror/_'Blessed One' [usual renderning in Western translations, esp.from sutra tradition]
 བཅོས་བསླད|བཅོས་བསླད་མེད་པ (un)contrived and (un)corrupted/_(un)distorted; (without) contrivance and/_or contamination/_tampering
 བཅོས་མ|བཅོས་པ contrived/_artificial; concocted/_fabricated; isc. influence(d)/_affect(ed)
 བཅོས་མེད|uncontrived; བཅོས་མིན། བཅོས་མ་ཡིན་པ uncontrived; unfabricated; isc. not influenced/_affected
@@ -425,9 +425,9 @@
 བདེ་སྟོང|unity of bliss and emptiness; (simultaneously) blissful and/_yet empty
 བདེ་ཕྱམ་མེ|བདེ་ཆམ་མེ serene/_tranquil bliss
 བདེ་བར་གཤེགས་པ|sugata; sugata/_one arrived at a state of bliss
-བདེ་བར་གཤེགས་པའི་སྙིང་པོ|buddha nature; sugatagarbha; "buddha nature" potential/_heart essence for attaining/_reaching the state of bliss [sutra context] potential/_heart essence that constitutes attaining/_reaching the state of bliss [Dzogchen context]
+བདེ་བར་གཤེགས་པའི་སྙིང་པོ|buddha nature; sugatagarbha; 'buddha nature' potential/_heart essence for attaining/_reaching the state of bliss [sutra context] potential/_heart essence that constitutes attaining/_reaching the state of bliss [Dzogchen context]
 བདེ་བར་གནས་པ|blissful repose; resting in a stable experience of bliss
-བདེ་གཤེགས་སྙིང་པོ|བདེ་བར་གཤེགས་པའི་སྙིང་པོ sugatagarbha; "buddha nature" potential/_heart essence for attaining/_reaching the state of bliss [sutra context] potential/_heart essence that constitutes attaining/_reaching the state of bliss [Dzogchen context]
+བདེ་གཤེགས་སྙིང་པོ|བདེ་བར་གཤེགས་པའི་སྙིང་པོ sugatagarbha; 'buddha nature' potential/_heart essence for attaining/_reaching the state of bliss [sutra context] potential/_heart essence that constitutes attaining/_reaching the state of bliss [Dzogchen context]
 བདེ་ཆམ་མེ|བདེ་ཕྱམ་མེ serene/_tranquil bliss
 བདེ་བ་ཅན|Sukhavati/_Realm of Bliss
 བདེ་གསལ་མི་རྟོག་པ|(meditative experiences of) bliss, lucidity, and nonconceptual awareness
@@ -460,7 +460,7 @@
 བགྲང་བ|to enumerate; to quantify
 བགྲོད་པ|travel; to traverse/_progress/_travel/_pass over/_reach
 བྷ་ག|(cosmic) vagina
-བྷ་གའི་དཀྱིལ་འཁོར|mandala of the bhaga/_"cosmic vagina"
+བྷ་གའི་དཀྱིལ་འཁོར|mandala of the bhaga/_'cosmic vagina'
 བྷན་དྷ་འབར་བའི་གཞལ་ཡས|immeasurable mansion of the radiant skullcup
 བཀའ|(spiritual) command/_pronouncement/_permission
 བཀའ་བབས|(one who receives) precise/_specific transmission
@@ -519,7 +519,7 @@
 བློ་ཁེལ་བ|to trust/_rely on; trustworthy/_reliable
 བློ་གདིང་འཆའ་བ|to gain confidence in one's mind
 བློའི་དབང་པོ|faculty of ordinary consciousness
-བློའི་མདུན་ལ་མི་གནས་པ|is not experienced in light of ordinary consciousness [lit. "does not abide in the presence of ordinary consciousness"]
+བློའི་མདུན་ལ་མི་གནས་པ|is not experienced in light of ordinary consciousness [lit. 'does not abide in the presence of ordinary consciousness']
 བློས་བཏགས|mental/_intellectual construct; imputed by ordinary consciousness; mental projections; ordinary mind's projections
 བལྟམ་པ|to take birth/_be born (honorific; one of twelve deeds)
 བལྟམས་པ|to take birth/_be born (honorific; one of twelve deeds)
@@ -628,7 +628,7 @@
 བསྡུས་དོན|structural analysis
 བསྡུས་གརབ༹|(manual of) introductory topics in logic/_dialectics
 བསྒོམ་བྱ|focus of meditation; what is experienced in meditation
-བསྒོམ་བྱ་སྒོམ་བྱེད|[and similar constructions] isc. "someone" meditating on "something"
+བསྒོམ་བྱ་སྒོམ་བྱེད|[and similar constructions] isc. 'someone' meditating on 'something'
 བསྒྲལ་བ|སྒྲོལ་བ to liberate. (to perform the act of) liberation
 བསྒྲལ་བའི་ཞིང་བཅུ|ten candidates/_subjects suitable/_suitable candidates/_subjects (for liberation)
 བསྒྲེས་པ|(to) decay
@@ -769,7 +769,7 @@
 བྱིན་རླབས|blessing(s); consecration
 བྱིན་རླབས་པ|sacred/_blessed/_consecrated
 བྱིན་རླབས་ལམ་བྱེད|forging the path as/_through/_with blessings
-བྱིན་གྱིས་བརླབ་པ|to bless/_grant blessings; "Grant your blessings!"; བྱིན་གྱིས་རློབས to bless/_grant blessings; "Grant your blessings!"; to consecrate; to imbue with the quality/_attribute (of)
+བྱིན་གྱིས་བརླབ་པ|to bless/_grant blessings; 'Grant your blessings!'; བྱིན་གྱིས་རློབས to bless/_grant blessings; 'Grant your blessings!'; to consecrate; to imbue with the quality/_attribute (of)
 བྱིན་ཆེ་བ|majestic
 བྱིང་བ|laxity; (mental) laxity/_dullness
 བྱིང་རྒོད|dullness and agitation
@@ -785,7 +785,7 @@
 བྱུང་རྒྱལ|simply dealing with events as they arise; careless/_haphazard/_negligent
 བྱུང་རྐྱེན|conditions/_circumstances influencing events [?]
 བྱུང་ས|(place of) origin
-བྱུང་ཚོར|sensation; ordinary mental content/_sensations/_experience(s). sensation of what is happening/_"background awareness" of surroundings; ordinary mental activity
+བྱུང་ཚོར|sensation; ordinary mental content/_sensations/_experience(s). sensation of what is happening/_'background awareness' of surroundings; ordinary mental activity
 བྱུང་བའི་ཁུངས|origin from which (something) arises/_comes
 བཟའ་བ|food; (natural) food
 བཟང་བ|good; བཟང་པོ noble/_good/_positive/_edifying
@@ -943,7 +943,7 @@
 དད་པ|faith; isc. confidence (i.e. as one of the stobs lnga or dbang po lnga)
 དད་པ་མེད་པ|cynicism; cynical
 དག་མཉམ|equalness; unity of purity and equalness (mahayoga term)
-དག་པ|immaculacy/_purity; immaculate/_pure; pure/_purified aspect; isc. to be uncontaminated by . . ./_to be clear(ed) of; isc. innate purity/_innately pure [with cases of "the purity of the five poisons," for example]; isc. accurate
+དག་པ|immaculacy/_purity; immaculate/_pure; pure/_purified aspect; isc. to be uncontaminated by . . ./_to be clear(ed) of; isc. innate purity/_innately pure [with cases of 'the purity of the five poisons,' for example]; isc. accurate
 དག་སྣང|pure vision/_outlook/_view
 དག་པར་མཛད་པ|to purify; to make/_render immaculate/_pure; to make clear of/_clear away
 དག་པར་བྱེད་པ|to purify; to make/_render immaculate/_pure; to make clear of/_clear away
@@ -985,7 +985,7 @@
 དར་བ|to spread/_expand/_extend (e.g., teachings)
 དར་གྱི་ཅོད་པན|silk-ribboned tiara
 དབབ་པ|འབབས་པ to fall/_come down
-དབལ་མདོས|ritual of the "effigy of the blade"
+དབལ་མདོས|ritual of the 'effigy of the blade'
 དབང|empowerment
 དབང་འབྲིང|དབང་པོ་འབྲིང་པོ middling acumen
 དབང་བཅུ|དབང་ཕྱུག་བཅུ ten sovereign powers
@@ -993,7 +993,7 @@
 དབང་གིས|. . . dbang gis - due to (the influence of)/_on account of/_through agency of . . .
 དབང་མེད|helpless; involuntary
 དབང་ཕྱུག|powerful lord
-དབང་པོ|sense faculty; sense faculty (level of) acumen/_acuity/_sensibility/_sensitivity/_capacity; isc. intellect; controlling power; faculty; [acc. to Lama Drimed's preference, use "acuity" for lower yanas and "acumen" for Dzogchen]
+དབང་པོ|sense faculty; sense faculty (level of) acumen/_acuity/_sensibility/_sensitivity/_capacity; isc. intellect; controlling power; faculty; [acc. to Lama Drimed's preference, use 'acuity' for lower yanas and 'acumen' for Dzogchen]
 དབང་ཤེས|དབང་པོའི་ཤེས་པ sense consciousness
 དབང་བཞི་པ|བཞི་པའི་དབང fourth empowerment
 དབང་མེད་དུ|helplessly; involuntarily
@@ -1039,7 +1039,7 @@
 དབྱིངས་རུམ|ultimate womb (of basic space); matrix of basic space
 དབྱིངས་རྣམ་དག་གི་སྒྲོན་མ|lamp of the total purity of basic space*
 དེ་ལ|in this regard; de'ang. . . - in this regard/_that is to say . . .
-དེ་ལྟར|as . . . do; like that; in that way . . . ; such (a) . . . ; is/_are such that . . . ; ="as/_see above" (cf. 'di ltar) [a quirky idiom] iss. "alternative(ly)"; "to summarize" (at the end of a discussion)
+དེ་ལྟར|as . . . do; like that; in that way . . . ; such (a) . . . ; is/_are such that . . . ; ='as/_see above' (cf. 'di ltar) [a quirky idiom] iss. 'alternative(ly)'; 'to summarize' (at the end of a discussion)
 དེ་ཉིད|de kho na nyid; དེ་ཁོ་ན་ཉིད suchness (itself); isc. very nature
 དེ་ཙམ|rudimentary factors
 དེ་བས་ན|hence/_therefore/_so, . . . ; this being so/_the case, . . .
@@ -1049,10 +1049,10 @@
 དེ་བཞིན་ཉིད|suchness
 དེ་བཞིན་ཉིད་ཀྱི་ཏིང་ངེ་འཛིན|samadhi/_meditative absorption of suchness
 དེ་བཞིན་གཤེགས་པ|tathagata/_one gone to suchness
-དེ་བཞིན་གཤེགས་པའི་སྙིང་པོ|buddha nature; tathagatagarbha/_"buddha nature" [sutra context] potential/_heart essence for attaining (state of) suchness [Dzogchen context] potential/_heart essence that consitutes attaining (state of) suchness
+དེ་བཞིན་གཤེགས་པའི་སྙིང་པོ|buddha nature; tathagatagarbha/_'buddha nature' [sutra context] potential/_heart essence for attaining (state of) suchness [Dzogchen context] potential/_heart essence that consitutes attaining (state of) suchness
 དེ་ཁོ་ན་ཉིད|suchness (itself); isc. very nature
 དེ་ཙམ་མ་བྱུང་ན|failing this, . . .
-དེ་གཤེགས་སྙིང་པོ|tathagatagarbha/_"buddha nature" [sutra context] potential/_heart essence for attaining (state of) suchness [Dzogchen context] potential/_heart essence that consitutes attaining (state of) suchness
+དེ་གཤེགས་སྙིང་པོ|tathagatagarbha/_'buddha nature' [sutra context] potential/_heart essence for attaining (state of) suchness [Dzogchen context] potential/_heart essence that consitutes attaining (state of) suchness
 དེའང|de la . . . - in this regard/_that is to say . . .
 དེའི་ཕྱིར|because of that; because of that/_this; for that/_this reason . . .
 དེའི་ཕྱིར་ན|because of that/_this; for that/_this reason . . .
@@ -1096,11 +1096,11 @@
 དགོས་པའི་རྒྱུ་མཚན|reason for (something) being necessary
 དགྲ|enemy/_foe; isc. threat
 དགྲ་བགེགས|enemies and hindrances
-དགྲ་བཅོམ་པ|arhat; arhat/_"one who has vanquished the foe"
+དགྲ་བཅོམ་པ|arhat; arhat/_'one who has vanquished the foe'
 དགྲ་བཅོམ་པ་ལྷག་བཅས|arhat with residual traces
 དགྲ་བཅོམ་པ་ལྷག་མེད|arhat without residual traces
-དགྲ་བཅོམ་པ་རྒྱན་ཅན|"adorned" arhat
-དགྲ་བཅོམ་པ་རྒྱན་མེད|"unadorned" arhat
+དགྲ་བཅོམ་པ་རྒྱན་ཅན|'adorned' arhat
+དགྲ་བཅོམ་པ་རྒྱན་མེད|'unadorned' arhat
 དགུ་ཕྲུགས་སུ|(in) every kind/_all manner of . . .
 དགྱེས་པ|to delight; delight
 དི་རི་རི|(to) resound; (to set up) a humming/_low murmuring
@@ -1159,7 +1159,7 @@
 དངོས་པོར་ཞེན་པ|དངོས་ཞེན fixating/_to fixate on (something/_things) as real/_having real existence/_substantial existence; reification; to reify
 དངོས་སུ་སྦྱོར་བའི་མཆོད་པ|actual material (offerings)
 དངོས་སུ་གྲུབ་པ|དངོས་གྲུབ spiritual attainment/_siddhi
-དངོས་པོ་མཚན་མ་མེད་པ|nothing that can be characterized as "real"/_having substance
+དངོས་པོ་མཚན་མ་མེད་པ|nothing that can be characterized as 'real'/_having substance
 དངོས་པོ་མཐོང་བ|to perceive ultimate reality (directly)
 དངོས་པོ་མེད་པ|དངོས་མེད is not real; having no/_lacking substance; not actual; isc. intangible
 དངོས་ཀྱི་རྒྱུ|direct primary cause
@@ -1181,7 +1181,7 @@
 དོན་གྱི|ultimate/_actual/_true/_real; . . . of ultimate reality; in the ultimate sense. in point of fact
 དོན་ལ|in actuality/_truth/_actual fact; truly/_actually/_really; in the ultimate sense. in point of fact
 དོན་མེད|meaningless/_pointless/_useless
-དོན་ཉན|(Khampa dialect) "good enough" (RT)
+དོན་ཉན|(Khampa dialect) 'good enough' (RT)
 དོན་སྤྱི|conceptual generality; abstract notion/_concept; generic object/_image
 དོན་ཡོད|meaningful; meaningful(ness)
 དོན་དམ་པ|ultimate (reality)
@@ -1215,7 +1215,7 @@
 དཔའ་བ|courageous [one of the nine moods of dance (form (see 'bar ba) or mind)]
 དཔའ་བོ|vira/_(spiritual) hero
 དཔའ་མོ|virini [virA?] /_(spiritual) heroine
-དཔའ་བོ་མཁའ་འགྲོ|dakas and dakinis (literally. "viras/_heroes and dakinis")
+དཔའ་བོ་མཁའ་འགྲོ|dakas and dakinis (literally. 'viras/_heroes and dakinis')
 དཔའ་བཏུལ་ཕུ་ནུ|heroic kinsmen and kinswomen [of Gesar]
 དཔག་བསམ|wish granting
 དཔག་མེད|དཔག་ཏུ་མེད་པ countless; boundless; unfathomable
@@ -1271,7 +1271,7 @@
 དྲི་མེད་བཤགས་རྒྱུད|Stainless Confession Tantra
 དྲི་མ་ཅན|flawed/_stained/_distorted (being)/_maculate
 དྲི་མ་མེད་པ|the immaculate one/_immaculacy [2nd spiritual level/_bhumi]; without distortion; impeccable/_immaculate; immaculacy; stainless/_flawless
-དྲི་ཟའི་གྲོང་ཁྱེར|(mirage of) "castles in the air"
+དྲི་ཟའི་གྲོང་ཁྱེར|(mirage of) 'castles in the air'
 དྲིལ་བ|to roll/_twirl/_spin; to roll/_coil up; to blend
 དྲིན་ཅན|gracious/_kind
 དྲོ་བར་གྱུར་པ|to (have) develop(ed) meditative warmth
@@ -1326,7 +1326,7 @@
 དབ༹ངས་མ་འབྱེད་པ|un/_nondifferentiating
 དབ༹ངས་སངས་སུ|in its limpid pristineness
 ཛབ|mantra repetition
-ཛབ་ཁང་དབྱེ་བ|to "open the mansion"/_"set the stage" for mantra repetition
+ཛབ་ཁང་དབྱེ་བ|to 'open the mansion'/_'set the stage' for mantra repetition
 ཨེ་ཁྲམ|matrix of E/_basic space
 གཡང|prosperity
 གཡང་འགུགས|(ritual for) summoning the forces of prosperity
@@ -1347,7 +1347,7 @@
 གད་རྒྱངས|far-reaching laughter
 གལ་ཆེ|very important (point)
 གལ་པོ་ཆེ|very important (point)
-གང|whatever; (interrogative particle) who/_what/_which?; any . . . ; s/_he who . . .. [+verb] - whatever . . . ; regardless of what . . .. བཀང་བ to fill (up). /_ci yang ma grub pa - not (found) to have ever existed/_had existence/_been anything/_any "thing" whatsoever/_at all
+གང|whatever; (interrogative particle) who/_what/_which?; any . . . ; s/_he who . . .. [+verb] - whatever . . . ; regardless of what . . .. བཀང་བ to fill (up). /_ci yang ma grub pa - not (found) to have ever existed/_had existence/_been anything/_any 'thing' whatsoever/_at all
 གང་དུའང|anything; anything what(so)ever/_at all
 གང་རུང|whatever is appropriate; any given . . .
 གང་ཚེ|whenever; isc. always
@@ -1387,7 +1387,7 @@
 གཅིག་ཆར་དུ|གཅིག་ཅར་དུ simultaneous(ly); all together/_at once
 གཅིག་དང་ཐ་དད|identity and/_or separateness
 གཅིག་རྫོགས་ཀུན་རྫོགས|with that single perfection, all is perfect
-གཅིག་རྫོགས་གཉིས་རྫོགས་ཀུན་རྫོགས|perfection in oneness, perfection in duality, perfection in everything; "perfection in one, perfection in two, perfection in everything"
+གཅིག་རྫོགས་གཉིས་རྫོགས་ཀུན་རྫོགས|perfection in oneness, perfection in duality, perfection in everything; 'perfection in one, perfection in two, perfection in everything'
 གཅིག་ཏུ་ན|in one way/_sense; in a word, . . .
 གཅིག་ཏུ་འདྲེས་པ|to blend as one
 གཅིག་ཏུ་འདྲིལ་བ|to merge/_combine as/_in one; isc. totality of [cf. CYDz, 189.a.4]
@@ -1452,7 +1452,7 @@
 གིས|. . . (verb +) gis - though/_while . . . ; isc. in light of . . .
 གླགས|གླགས་རྙེད་པ - (to find) opportunity/_purchase
 གླེང་གཞི|narration; narrative background; mise-en-scène; isc. underlying basis
-གླེང་སློང་བ|to relate the background (of); to "set the scene"
+གླེང་སློང་བ|to relate the background (of); to 'set the scene'
 གླིང|continent
 གླིང་ཕྲན|subcontinent/_minor continent
 གློ་བ|lung(s)
@@ -1463,7 +1463,7 @@
 གློད་པ|to relax/_let go
 གླུ|song; གླུ་ལེན་པ (to sing a) song
 གནད|key/_crucial point; the very heart of . . . ; isc. (when ending a line of verse or a sentence) it is crucial to . . .
-གནད་བརྡེགས|to hit on/_strike at the vital point/_"hit the nail on the head"
+གནད་བརྡེགས|to hit on/_strike at the vital point/_'hit the nail on the head'
 གནད་སྡུ|to summarize the key points; synopsis of the key points
 གནད་ལ་དབབ་པ|to strike at/_hit on the key/_crucial point
 གནད་བཀྲོལ་བ|to reveal the key point
@@ -1589,7 +1589,7 @@
 གྲུབ་ཐོབ|siddha/_accomplished master/_master of spiritual attainment
 གྲུབ་པ་ཐོབ་པ|attain siddhi; to attain siddhi/_spiritual attainment
 གྲུང་པོ|clever/_sharp
-གརབ༹་ཟུར་མེད་པ|without "hard edges"/_(sharp) edges/_angles or corners/_corners or edges
+གརབ༹་ཟུར་མེད་པ|without 'hard edges'/_(sharp) edges/_angles or corners/_corners or edges
 གསལ་བ|clarity; clear/_vivid; to clarify/_elucidate; to be clear; to be evident/_apparent); (to be) brilliant; lucidity; to be lucid
 གསལ་ཆ|quality/_aspect of lucidity (of mind)
 གསལ་དངས|གསལ་དབ༹ངས pristine lucidity
@@ -1723,17 +1723,17 @@
 གཞན|other; incidental
 གཞན་དབང|relative dependence; relatively dependent; (seemingly) external influence; isc. projections; isc. externals
 གཞན་དོན|altruistic benefit/_benefit for others
-གཞན་དུ|otherwise; elsewhere; གཞན་དུ་ཡང otherwise; [isc. Tib. requires "any" constructions]
+གཞན་དུ|otherwise; elsewhere; གཞན་དུ་ཡང otherwise; [isc. Tib. requires 'any' constructions]
 གཞན་མེད|ལས་གཞན་མེད there is nothing other than . . .
 གཞན་པ|ལས་མི་གཞན་པར, ལས་མི་གཞན་པ without being anything other than . . .
-གཞན་སྣང|external/_other induced appearance/_apparent phenomenon/_manifestation; appearance as/_of something "other"
-གཞན་སྟོང|"other empty" school; qualified emptiness; empty/_emptiness of other factors
+གཞན་སྣང|external/_other induced appearance/_apparent phenomenon/_manifestation; appearance as/_of something 'other'
+གཞན་སྟོང|'other empty' school; qualified emptiness; empty/_emptiness of other factors
 གཞན་ཡང|furthermore; otherwise/_alternatively
 གཞན་དབང་གིས|through/_by some external force/_power
 གཞན་ལུས་ཤེས་རབ|another's body as the source of sublime knowing/_wisdom/_transcendent knowledge [euph. for karmamudra]
 གཞན་འགྱུར་བཞི|four ambivalent factors (mental events)
-གཞན་དུ་ཡང|otherwise; elsewhere; [isc. Tib. requires "any" constructions]
-གཞན་དུ་ཡོད་པ|to exist as something "other"/_else
+གཞན་དུ་ཡང|otherwise; elsewhere; [isc. Tib. requires 'any' constructions]
+གཞན་དུ་ཡོད་པ|to exist as something 'other'/_else
 གཞན་སྟོང་པ|proponent of qualified emptiness
 གཞན་དང་མཐུན་པར་སྣང་བ|to manifest in accord with the perceptions of others
 གཞི|[positive sense] ground (of being); ground aspect (of); isvfc. matrix [negative sense] basis/_foundation
@@ -1797,7 +1797,7 @@
 གཟུང་འཛིན|dualistic perception(s); subject-object dualism; dualistic grasping at/_perception of subject and object
 གཟུང་བ|perception (of objects); to reify/_perceive/_conceive of as/_to be an object
 གཟུང་བའི་ཡུལ|reified (sense) objects; objects of reification
-གཟུང་བའི་ཡུལ་ཕར་མ་བཅད་འཛིན་པའི་སེམས་ཚུར་མ་སྒྲུབ|"objects not being externalized and the subjectively perceiving mind not being internalized"
+གཟུང་བའི་ཡུལ་ཕར་མ་བཅད་འཛིན་པའི་སེམས་ཚུར་མ་སྒྲུབ|'objects not being externalized and the subjectively perceiving mind not being internalized'
 གཟུང་འཛིན་ཞེན་པ|dualistic fixation(s)
 གཟུངས|གཟུངས་སྔགས dharani mantra/_formula; isc. (power of) (complete) recall
 གཟུངས་མ|spiritual consort
@@ -1808,7 +1808,7 @@
 ཧད|abrupt
 ཧད་ཀྱི|abruptly
 ཧད་ཀྱིས|abruptly
-ཧད་དེ་བ|with wonder/_astonishment/_shock; (almost) startled; suddenly; ["a particular state of calm which resembles a state of astonishment in that one's habitual reactions to stimuli are temporarily suspended"]; "startlement"; wonderment
+ཧད་དེ་བ|with wonder/_astonishment/_shock; (almost) startled; suddenly; ['a particular state of calm which resembles a state of astonishment in that one's habitual reactions to stimuli are temporarily suspended']; 'startlement'; wonderment
 ཧར་པོ|ཧར་རེ vividly clear [acc. to KOT, such words are nyams kyi skad cha and all have a sense of gsal cha rnam rtog med pa]
 ཧར་རེ|ཧར་པོ vividly clear [acc. to KOT, such words are nyams kyi skad cha and all have a sense of gsal cha rnam rtog med pa]
 ཧར་སངས|wide-open clarity; unrestricted/_unconfined/_unrestrained/_unfettered [=rgya yan]; isc. wide-open clarity
@@ -1816,7 +1816,7 @@
 ཧོམ་ཁུང|firepit
 ཧྲག་གི|absorbed in a state of devotion [?]
 ཧྲག་གིས|absorbed in a state of devotion [?]
-ཧྲིག་གེ་བ|riveting; stark; ["the first moment of rig pa"]; vivid, "startlement"; pointless; stare directly at . . .
+ཧྲིག་གེ་བ|riveting; stark; ['the first moment of rig pa']; vivid, 'startlement'; pointless; stare directly at . . .
 ཧུར་བཏོན་པ|། འདོན་པ། ཕྱུང་བ to arouse vigorously
 ཧུར་ཕྱུང་པ|། འདོན་པ། བཏོན་བ to arouse vigorously
 ཧུར་འདོན་པ|། བཏོན་པ། ཕྱུང་བ to arouse vigorously
@@ -1952,7 +1952,7 @@
 ཀུན་བརྟགས|conceptual labeling/_ascription; conceptually ascribed
 ཀུན་བཏགས|conceptual labeling/_ascription; conceptually ascribed
 ཀུན་བྱེད|all-creating
-ཀུན་བཟང|all-positive/_positive in every way/_wholly positive; Samantabhadra; isc. "the wholly positive"
+ཀུན་བཟང|all-positive/_positive in every way/_wholly positive; Samantabhadra; isc. 'the wholly positive'
 ཀུན་གསལ|total clarity/_lucidity/_illumination
 ཀུན་གཞི|basis/_ground of all (ordinary) experience
 ཀུན་ཁྱབ|all-pervasive/_pervading
@@ -1976,7 +1976,7 @@
 ཀུན་འགྲོ་ལྔ|five ever-present/_omnipresent mental functions/_events
 ཀུན་ཉོན་གྱི་དབང་པོ་ལྔ|five controlling factors of all-consuming afflictive emotionality
 ཀུན་ཏུ་འོད|universal illumination [11th bhumi=buddhahood]
-ཀུན་ཏུ་བཟང་པོ|all-positive/_positive in every way/_wholly positive; Samantabhadra; isc. "the wholly positive"
+ཀུན་ཏུ་བཟང་པོ|all-positive/_positive in every way/_wholly positive; Samantabhadra; isc. 'the wholly positive'
 ཀུན་ཏུ་བཟང་པོའི་ཞིང་དུ་ཕྱིན་པ|to reach the pure realm of Samantabhadra
 ཀུན་ཏུ་རྟོག་པ|all-consuming/_all-absorbing concepts/_thinking/_thoughts/_thought patterns
 ཀུན་ཏུ་བཏགས་པའི་མ་རིག་པ|nonrecognition of awareness involving all-consuming labeling/_ascription
@@ -1996,7 +1996,7 @@
 ཀུན་རྫོབ་བདེན་པ|relative (level of) truth
 ཀུན་ཟླུམ་པ|all-embracing
 ཀུན་འགྲོའི་རྒྱུ|omnipresent cause; ever-present/_omnipresent cause
-ཀུན་འདར་མ|avadhuti; "all-vibrating" (central/_avadhuti) channel
+ཀུན་འདར་མ|avadhuti; 'all-vibrating' (central/_avadhuti) channel
 ཀུན་བཏགས་མ་རིག་པ|nonrecognition of awareness involving all-consuming labeling/_ascription
 ཀུན་ལ་རོལ་པ|to display (itself) in everything
 ཀུན་ལ་ཁྱབ་པ|all-pervasive/_pervading
@@ -2069,8 +2069,8 @@
 ལྷ་སྲིན་སྡེ་བརྒྱད|eight classes; eight classes of gods and demons
 ལྷ་མ་ཡིན|demigod
 ལྷའི་སྤྱན|divine vision/_eye
-ལྷའི་ང་རྒྱལ|divine pride of identification with a deity; "vajra pride"
-ལྷའི་བུའི་བདུད|mara of the "divine child"
+ལྷའི་ང་རྒྱལ|divine pride of identification with a deity; 'vajra pride'
+ལྷའི་བུའི་བདུད|mara of the 'divine child'
 ལྷབས་སེ་ལྷབ|(to) snap in the wind/_flap/_wave
 ལྷག་བསམ|lhag pa'i bsam pa; ལྷག་པའི་བསམ་པ higher alturism/_altruistic attitude/_altruistic motivation
 ལྷག་གེ|vivid; vivid/_resplendent; isc. obvious
@@ -2083,15 +2083,15 @@
 ལྷག་པའི་ང་རྒྱལ|excessive pride
 ལྷག་མ་མེད་པ|ལྷག་མེད without remainder
 ལྷན་ཅིག|together; simultaneous
-ལྷན་ནེ|ལྷན་ནེ་བ (to be) very present stable/_abiding/_steadfast; [EPK: "remaining in nonduality/_a natural state"]
-ལྷན་ནེ་བ|(to be) very present stable/_abiding/_steadfast; [EPK: "remaining in nonduality/_a natural state"]
+ལྷན་ནེ|ལྷན་ནེ་བ (to be) very present stable/_abiding/_steadfast; [EPK: 'remaining in nonduality/_a natural state']
+ལྷན་ནེ་བ|(to be) very present stable/_abiding/_steadfast; [EPK: 'remaining in nonduality/_a natural state']
 ལྷན་ཅིག་ཏུ|together with; simultaneously
 ལྷན་ཅིག་བྱུང་བའི་རྒྱུ|comergent cause
 ལྷན་ཅིག་བྱེད་པའི་རྐྱེན|coemergent condition
 ལྷན་ཅིག་གནས་པ|to abide simultaneously with being itself
 ལྷན་ཅིག་སྐྱེས་པ|innateness; coemergence
 ལྷན་ཅིག་སྐྱེས་པའི|innately; coemergent
-ལྷན་ཅིག་སྐྱེས་པའི་ལྷ|personal guardian gods (who are "coexistent" with one)
+ལྷན་ཅིག་སྐྱེས་པའི་ལྷ|personal guardian gods (who are 'coexistent' with one)
 ལྷན་ཅིག་སྐྱེས་པའི་ཡེ་ཤེས|innate/_coemergent timeless awareness; timeless awareness coemergent with being itself
 ལྷན་ཅིག་སྐྱེས་པའི་མ་རིག་པ|innate/_coemergent nonrecognition of awareness; nonrecognition of awareness (that is) coemergent with being itself
 ལྷན་ཅིག་སྐྱེས་པའི་དགའ་བ|coemergent joy/_joy (that is) coemergent with being itself
@@ -2128,7 +2128,7 @@
 ལྷུན་གྲུབ་རིག་འཛིན|ལྷུན་གྱིས་གྲུབ་པའི་རིག་འཛིན master/_holder of awareness of spontaneous presence*
 ལྷུང་བ|fall; ...ལྷུང་བ to fall into . . . ; isc. the pitfall of . . .
 ལྷུར་ལེན་པ|to seek actively/_be motivated by/_strive after
-ལོ|(verb) + ལོ (can indicate critical tone: "you should/_why don't you . . . ")
+ལོ|(verb) + ལོ (can indicate critical tone: 'you should/_why don't you . . . ')
 ལོག་འཆམ|exiting dance (in dance)
 ལོག་འདྲེན|one who leads astray
 ལོག་འགྲོས|exiting gait (in dance)
@@ -2152,7 +2152,7 @@
 ལོས|.་.་.་ལོས་ཡོད surely (there is) . . .
 ལྟ་བ|view; to view/_regard/_watch/_attend to/_observe/_consider; to be directed (toward); biased views; opinionatedness; isc. point of view; to look (at); isc. to believe in; isc. to hold a (point of) view [pejorative sense]
 ལྟ་བུ|. . . lta bu - (to be) like(ned to) . . . ; . . . as it were . . . ; comparable to . . .
-ལྟ་བས་ཆོག་མི་ཤེས་པ|"I couldn't take my eyes off it"
+ལྟ་བས་ཆོག་མི་ཤེས་པ|'I couldn't take my eyes off it'
 ལྟ་བ་མཆོག་ཏུ་འཛིན་པའི་ལྟ་བ|to view/_view of regarding (philosophical) views as supreme (principles) in their own right; view of regarding ideologies/_speculative opinions as some absolute principle
 ལྟ་བ་མཇལ་བའི་ཕྱག|homage through meeting the view face to face
 ལྟམས་པ|to take birth/_be born (honorific; one of twelve deeds)
@@ -2273,7 +2273,7 @@
 མཆོག་དང་ཐུན་མོང་གི་དངོས་གྲུབ|(the) sublime and more common spiritual attainments/_siddhis
 མདའ|arrow
 མདའ་ཡབ|ledge
-མདངས|(inner) "glow" *; luster
+མདངས|(inner) 'glow' *; luster
 མདངས་གསལ|lustrously clear
 མདོ|sutra/_discourse; point of convergence
 མདོ་མདུད|unifying principle [?]
@@ -2302,7 +2302,7 @@
 མེད|(pos. + neg.) མེད there is no question of whether . . . or not; whether . . . or. . . is of no consequence
 མེད་དགག|unqualified/_flat/_total negation
 མེད་ལ|.་.་.ར་མེད་ལ isc. there is no existence in
-མེད་པ|(in the "lower" sense, as the opposite of existence) (to be) nonexistent; to lack/_be without; not to involve; nonexistence; isc. to be negated/_denied (in the "higher" sense, beyond limitations or opposites) ineffability; ineffable
+མེད་པ|(in the 'lower' sense, as the opposite of existence) (to be) nonexistent; to lack/_be without; not to involve; nonexistence; isc. to be negated/_denied (in the 'higher' sense, beyond limitations or opposites) ineffability; ineffable
 མེད་པར|without (concern for) . . . ; in the absence of . . .
 མེད་སྣང|མེད་བཞིན་དུ་སྣང་བ appearing, but not being what it appears to be; isc. apparent yet nonexistent. མེད་པ་ལྟར་སྣང apparent yet/_(even) yet ineffable/_nonexistent; apparent phenomena that manifest yet are ineffable
 མེད་ཐབས་མེད|མེད་ཐབས་མེད་པ (to be) indispensable/_sine qua non/_inevitable; cannot be omitted
@@ -2381,10 +2381,10 @@
 མིག་གི་རྣམ་པར་ཤེས་པ|visual consciousness
 མིན་པ|not to be; is not
 མིང|name/_title/_term/_label; characterization
-མིང་གཟུགས|name and form; མིང་དང་གཟུགས (lit., "name and form") (formation of) mind-body (complex) (one of twelve links of interdependent connection)
+མིང་གཟུགས|name and form; མིང་དང་གཟུགས (lit., 'name and form') (formation of) mind-body (complex) (one of twelve links of interdependent connection)
 མིང་མེད|state beyond labels/_names; unnameable/_nameless/_without name/_label; cannot be/_not to be labeled/_characterized; isc. the label (of . . . ) is irrelevant; isc. to which no labels apply; not even the name … remains/_exists. མིང་མེད་དུ such that names/_concepts do not/_no longer exist; such that it cannot be characterized; . . . in its namelessness/_unnameability
 མིང་ཙམ|mere(ly) characterization/_label/_name
-མིང་དང་གཟུགས|name and form; (lit., "name and form") (formation of) mind-body (complex) (one of twelve links of interdependent connection)
+མིང་དང་གཟུགས|name and form; (lit., 'name and form') (formation of) mind-body (complex) (one of twelve links of interdependent connection)
 མིང་གི་ཚོགས|words; groups of words/_word stems/_names
 མིང་གི་རྣམ་གྲངས|synonyms; list of synonyms
 མིང་འདོགས་པ|མིང་བཏགས་པ to (apply a) label/_term/_name
@@ -2467,7 +2467,7 @@
 མཉམ་ཉིད་ཡེ་ཤེས|མཉམ་པ་ཉིད་ཀྱི་ཡེ་ཤེས timeless awareness as equalness/_of (the) equalness (of all phenomena)
 མཉམ་པ་ཉིད|(state of) equalness/_evenness; isc. impartiality
 མཉམ་པ་ཉིད་ཀྱི་ཡེ་ཤེས|timeless awareness as equalness/_of (the) equalness (of all phenomena)
-མཉམ་པོར་འོང་བའི་བདུད|personal injurious maras/_demons (who "follow/_come along" with one)
+མཉམ་པོར་འོང་བའི་བདུད|personal injurious maras/_demons (who 'follow/_come along' with one)
 མཉེན་ལྕུག་འཁྲིལ་ལྡེམ|graceful, pliant, lithe, and supple [qualities of peaceful deities]
 མཉེས་པ|to please/_serve
 མོ|lady of . . .
@@ -2480,7 +2480,7 @@
 མོས་པ་ལམ་བྱེད|forging the path as/_through/_with firm conviction/_devoted intent
 མོས་པས་སྤྱོད་པ|one who acts out of a sense of dedication; one who acts out of a sense of dedication/_dedicated interest
 མཐའ|limit(ation)/_extreme/_boundary; isc. scope; isc. (utmost) extent
-མཐའ་བྲལ|free of/_beyond extremes [where dualities seem "prevalent"]/_limit(ation)s [where there is no specific reference to dualities]; limitless/_boundless
+མཐའ་བྲལ|free of/_beyond extremes [where dualities seem 'prevalent']/_limit(ation)s [where there is no specific reference to dualities]; limitless/_boundless
 མཐའ་བཞི|four extremes/_limit(ation)s
 མཐའ་ཅན|subject to the limit(ation) of
 མཐའ་དག|countless/_unlimited
@@ -2528,7 +2528,7 @@
 མཐུ|power/_force; sorcery
 མཐུན་པ|. . . (dang) mthun pa - in harmony/_accord/_agreement/_keeping with . . . /_conducive to . . . ; (to) parallel; isc. in keeping with . . . ; conforming to . . .
 མཐུན་རྐྱེན|supportive/_productive circumstance
-མཐུན་སྣང|consensual/_collective manifestation; apparent phenomenon manifesting (to beings) collectively/_consensually; "consensus reality"
+མཐུན་སྣང|consensual/_collective manifestation; apparent phenomenon manifesting (to beings) collectively/_consensually; 'consensus reality'
 མཐུན་པའི་ཕྱོགས|harmonious elements/_factors
 མཐུས|power; . . . gi mthus - through the power/_force of . . . ; on the strength/_basis of . . .
 མཚམས|boundary; retreat; intermediate direction
@@ -2644,7 +2644,7 @@
 ངལ་བསོ་བ|(to (try to) take) rest/_repose/_relax; to refresh (oneself)
 ངན་པ|ignoble; contrary/_perverse
 ངན་སོང|lower (state of) rebirth; evil destiny
-ངང|. . . (gi) ngang (la) skyong/_bskyang ba - to maintain (the) continuity (of . . . ). scope (for rig pa'i ngang, "scope of awareness"); (true) state/_context; fundamental nature/_state; isc. continuity; isc. embrace; isc. natural state; isc. while . . . ; is(vf)c. quality. ངང་ཚུལ sphere/_context; fundamental nature/_state of affairs/_process; situation; isc. ramification; isc. the fact that . . .
+ངང|. . . (gi) ngang (la) skyong/_bskyang ba - to maintain (the) continuity (of . . . ). scope (for rig pa'i ngang, 'scope of awareness'); (true) state/_context; fundamental nature/_state; isc. continuity; isc. embrace; isc. natural state; isc. while . . . ; is(vf)c. quality. ངང་ཚུལ sphere/_context; fundamental nature/_state of affairs/_process; situation; isc. ramification; isc. the fact that . . .
 ངང་བཞག|to rest/_settle in the fundamental nature
 ངང་བཞེངས|manifestation of the nature [?]; isc. to experience intuitively [cf. CYDz 87.a.5]
 ངང་དུ|within a/_the state/_context/_sphere of . . . ; isc. while . . .
@@ -2657,7 +2657,7 @@
 ངང་ཚུལ|sphere/_context; fundamental nature/_state of affairs/_process; situation; isc. ramification; isc. the fact that . . .
 ངང་ཉིད་ཀྱིས|ངང་ཉིད་ལས due to the very nature of . . .
 ངང་ཉིད་ལས|ངང་ཉིད་ཀྱིས due to the very nature of . . .
-ངར་འཛིན|to conceive of/_grasp at/_reify an "I"; to invest with a sense of "I"/_ego/_selfhood
+ངར་འཛིན|to conceive of/_grasp at/_reify an 'I'; to invest with a sense of 'I'/_ego/_selfhood
 ངར་ཅན|intense/_forceful; precise
 ངར་ལྡན|intense/_forceful; precise
 ངེས་འབྱུང|certainty of release (from cyclic existence)
@@ -2675,14 +2675,14 @@
 ངེས་པ་མེད་པར|indeterminate(ly); arbitrary; (at) random; unpredictable/_y; changeable/_bly; isc. not finite
 ངེས་པ་རྙེད་པ|to gain certainty
 ངེས་མེད་ཀློང|expanse in which everything is indeterminate
-ངེས་འབྱེད་ཆ་མཐུན|decisive (and anticipatory) phase; decisive phase [of the path of application] that accords with/_presages/_anticipates [the path of seeing], which constitutes a decisive breakthrough [that represents a shift from the - path of ordinary mortal individuals to that of spiritually superior individuals]; isc. "watershed" experiences
+ངེས་འབྱེད་ཆ་མཐུན|decisive (and anticipatory) phase; decisive phase [of the path of application] that accords with/_presages/_anticipates [the path of seeing], which constitutes a decisive breakthrough [that represents a shift from the - path of ordinary mortal individuals to that of spiritually superior individuals]; isc. 'watershed' experiences
 ངེས་པར་ཐག་གཅོད་པ|ངེས་པར་ཐག་ཆོད། ངེས་པར་ཐག་བཅད་པ - decisive experience of certainty (concerning . . . )
 ངེས་པར་འབྱིན་པ|deliverance; certain(ty of) deliverance
 ངེས་པར་འབྱེད་པ|to distinguish/_differentiate thoroughly
 ངེས་པར་བཏགས་པ|fixated labeling
 ངེས་པར་རྫོགས་པ|definitive perfection; definitively complete
 ངེས་པའི་དོན|definitive meaning/_truth/_significance
-ངོ|"what is inherent in samsara"]
+ངོ|'what is inherent in samsara']
 ངོ་བོ|essence; . . . gi ngo bo - the essence of . . . ; isc. . . . in (its) essence; isc. is of the essence of. essence (of being)essence; identity (iso. something's individual essence)
 ངོ་ཁ|( . . . gi) ngo kha la - in relation to . . . [dialect word]
 ངོ་ལྐོག|hypocrisy
@@ -2812,7 +2812,7 @@
 ཕར་ཕྱིན|pha rol tu phyin pa; perfection; ཕ་རོལ་ཏུ་ཕྱིན་པ true consummation; usu. pha rol tu phyin pa
 ཕར་ཕྱིན་དྲུག|ཕ་རོལ་ཏུ་ཕྱིན་པ drug six perfections
 ཕར་མི་དགག་ཚུར་མི་སྡུད་བར་དུ་མི་གཞག|don't block, don't focus deliberately, don't leave alone as some compromise [CYDz, 109.b.1]
-ཕར་མ་བཏང་ཚུར་མ་སྒྲུབ|"no externalization, no internalization"
+ཕར་མ་བཏང་ཚུར་མ་སྒྲུབ|'no externalization, no internalization'
 ཕེབས་པ|to reach/_arrive at/_go to
 ཕི་ཤད|saddle roll [KNT]
 ཕོ་བྲང|palace
@@ -2954,7 +2954,7 @@
 ཕཡབ༹|affluence
 ཕཡབ༹་གཡང|affluence and prosperity
 པྲ་ཁྲིད|detailed teaching
-པུ་ཤུ|coping (of mansion); "Polish parapets"
+པུ་ཤུ|coping (of mansion); 'Polish parapets'
 པུ་རུ་རུ|(to) flutter and wave
 ར་བ|parameter; boundary; guideline
 ར་རི|ར་མ་རི vague/_imprecise
@@ -3010,7 +3010,7 @@
 རང་ལོག|to dissipate naturally
 རང་ལུགས|རང་ལུགས་སུ (in its) own/_natural mode; isc. as it is in itself
 རང་མལ|natural repose; (own) natural place of rest/_resting place/_abode/_(place/_state of) natural repose
-རང་མདངས|natural "glow"; "glow" of inherent potential*
+རང་མདངས|natural 'glow'; 'glow' of inherent potential*
 རང་མཚན|རང་མཚན་པ (to be/_seem) naturally/_inherently endowed with (its own) characteristics; self-justifying/_sustaining/_defining; isc. autonomous; isc. exist in and of itself; isc. (exist) in its own right; isc. to seem entirely legitimate
 རང་ངོ|very essence (of being); isc. (one's own) true nature/_face; isc. truth; isc. what is inherent (in … ) [cf. CYDz, 50.b.5: 'khor ba'i rang
 རང་རེ|རང་རེ་རྣམས those of us (who . . . )
@@ -3025,7 +3025,7 @@
 རང་སོ|(one's) own true/_natural condition/_place/_state; naturalness
 རང་སོང|naturally ensured (in and of itelf)
 རང་སྟོབས|རང་སྟོབས་ཀྱིས (through/_by) natural/_inherent/_its own power/_strength
-རང་སྟོང|"self-empty" school; unqualified emptiness/_self-emptiness
+རང་སྟོང|'self-empty' school; unqualified emptiness/_self-emptiness
 རང་ཡལ|naturally vanishing/_fading/_disappearing/_evanescent
 རང་ཡན|naturally expansive; isc. naturally unfolding; isc. naturally dissipating
 རང་ཞལ|(one's own) true face
@@ -3037,7 +3037,7 @@
 རང་བཞིན་གྱི|རང་བཞིན་གྱིས by (its very) nature; naturally occurring; that is natural(ly)/_inherent(ly) (so/_present)
 རང་བཞིན་གྱིས|naturally/_inherently; by its very nature. by (its very) nature; naturally occurring; that is natural(ly)/_inherent(ly) (so/_present)
 རང་བཞིན་གྱིས་འོད་གསལ་བ|utter lucidity/_utterly lucid by its very nature
-རང་བཞིན་གྱིས་མེད་པ|[in "higher" sense] ineffable by nature [acc. to CR, this means rang bzhin GYIS med pa]; isc. by nature not what it seems [in "lower" sense] without/_have no independent nature/_self-nature
+རང་བཞིན་གྱིས་མེད་པ|[in 'higher' sense] ineffable by nature [acc. to CR, this means rang bzhin GYIS med pa]; isc. by nature not what it seems [in 'lower' sense] without/_have no independent nature/_self-nature
 རང་བཞིན་གནས་པ|naturally abiding/_indwelling
 རང་བཞིན་གྱི་གནས|natural abode
 རང་བཞིན་གྱི་རིགས|natural spiritual affinity; spiritual affinity as the nature of being
@@ -3047,7 +3047,7 @@
 རང་བཞིན་གྱི་ལྟུང་བ|deed (naturally/_inherently) violating ordination (by its very nature)
 རང་བཞིན་བབས་ཀྱི|utterly natural
 རང་བཞིན་རྒྱུན་གྱི་རྟག་པ|permanent and fixed continuity of nature [?]
-རང་བཞིན་མེད་པ|རང་བཞིན་གྱིས་མེད་པ [in "higher" sense] ineffable by nature [acc. to CR, this means rang bzhin GYIS med pa]; isc. by nature not what it seems [in "lower" sense] without/_have no independent nature/_self-nature
+རང་བཞིན་མེད་པ|རང་བཞིན་གྱིས་མེད་པ [in 'higher' sense] ineffable by nature [acc. to CR, this means rang bzhin GYIS med pa]; isc. by nature not what it seems [in 'lower' sense] without/_have no independent nature/_self-nature
 རང་བཞིན་རྫོགས་པ་ཆེན་པོ|natural great perfection/_great perfection as the nature (of being/_reality/_things)
 རང་བཞིན་ཤུགས་ཀྱི་ཐུགས་རྗེ|responsiveness as a natural power
 རང་བཞིན་ཡེ་བབས་ཀྱི་བསམ་གཏན|natural meditative stability as a timeless and innate abiding [KOT=rDzogs chen equivalent of zhi gnas; cf. rang ngo rang gsal gyi lhag mthong; cf. rang ngo rang gsal gyi lhag mthong]
@@ -3197,7 +3197,7 @@
 རྒྱ་ཆེན་སྤྱོད་བརྒྱུད|lineage of extensive conduct
 རྒྱ་ཁ་རལ་བ|violation of encompassing sphere [?]
 རྒྱ་ཆེ་བ|vast/_enormous. (rgya che bar)/_chen po(r) - vast(ness)/_extensive; on a vast scale
-རྒྱ་ཆེ་བའི་རྟག་པ|"permanence in the largest sense/_on a cosmic scale"
+རྒྱ་ཆེ་བའི་རྟག་པ|'permanence in the largest sense/_on a cosmic scale'
 རྒྱ་ཆད་ཕྱོགས་ལྷུང་མེད་པ|[regarding phenomena] not subject to/_defined by restrictions or extremes [regarding nature of mind, etc.] not subject to restrictions or extremes [regarding space] not restricted and not localized
 རྒྱ་ཆད་མེད་པ|not subject to/_defined by restrictions; not subject to/_defined
 རྒྱ་མཚོ་ཅོག་བཞག|the ocean-like state of resting imperturbably/_imperturbable rest/_presence; the imperturbable resting of an ocean; state of resting imperturbably/_imperturbable rest/_presence that is like a ocean
@@ -3285,8 +3285,8 @@
 རིག་འཛིན་བརྡའི་བརྒྱུད་པ|lineage of transmission through symbols by/_of masters/_holders of awareness*
 རིག་རྗེན་ལ་ཕུད་པ|to elicit awareness in all its nakedness; awareness bursting forth in all its nakedess
 རིག་དང་མ་རིག|recognition or nonrecognition of awareness
-རིག་གདངས་རྡོ་རྗེ་ལུ་གུ་རྒྱུད|vajra continuum ("chain formation") of/_as the radiance of awareness*
-རིག་རྩལ་རྡོ་རྗེ་ལུ་གུ་རྒྱུད|vajra continuum ("chain formation") of/_as the dynamic energy of awareness*
+རིག་གདངས་རྡོ་རྗེ་ལུ་གུ་རྒྱུད|vajra continuum ('chain formation') of/_as the radiance of awareness*
+རིག་རྩལ་རྡོ་རྗེ་ལུ་གུ་རྒྱུད|vajra continuum ('chain formation') of/_as the dynamic energy of awareness*
 རིག་པའི་གདངས|radiance of awareness
 རིག་པའི་གནས|rig gnas; རིག་གནས field of knowledge/_study
 རིག་པའི་ནུས་པ|creative/_energetic potential of awareness
@@ -3295,7 +3295,7 @@
 རིག་པའི་རྩལ་དབང|empowerment into the dynamic energy of awareness*
 རིག་པ་ཅོག་བཞག|resting imperturbably/_imperturbable rest/_presence of awareness; state of imperturbable rest/_presence in awareness
 རིག་པ་ལྷོང་བ|རིག་པ་སློང་བ challenge to one's recognition of awareness
-རིག་པ་རྡོ་རྗེ་ལུ་གུ་རྒྱུད|vajra continuum ("chain formation") of/_as awareness*
+རིག་པ་རྡོ་རྗེ་ལུ་གུ་རྒྱུད|vajra continuum ('chain formation') of/_as awareness*
 རིག་པ་ཡེ་ཤེས|རིག་པའི་ཡེ་ཤེས awareness—timeless awareness; recognition of timeless awareness*; isc. to recognize timeless awareness; isc. one's personal experience of timeless awareness
 རིག་པ་ཚད་ཕེབས|awareness reaching full expression/_measure; the full expression of awareness*
 རིག་པ་ཅན་པ|logician
@@ -3305,14 +3305,14 @@
 རིག་པ་སྤྱི་བླུགས|deep immersion in awareness
 རིག་པ་སློང་བ|རིག་པ་ལྷོང་བ challenge to one's recognition of awareness
 རིག་གེ་བ|wakeful
-རིགས|རིགས་རྒྱུད (in sense of "buddha nature") spiritual affinity/_birthright; inborn family trait (in general sense) family/_(character) type/_kind/_species
+རིགས|རིགས་རྒྱུད (in sense of 'buddha nature') spiritual affinity/_birthright; inborn family trait (in general sense) family/_(character) type/_kind/_species
 རིགས་འགྲེ|རིགས་འགྲེས to follow the same pattern/_apply the same model
 རིགས་འགྲེས|to follow the same pattern/_apply the same model
 རིགས་དྲུག|six classes/_states of ordinary being(s)
 རིགས་གཅིག|of identical kind/_type
 རིགས་ལམ|path of reasoning; logician's approach
 རིགས་པ|(line of) (logical) reasoning; (to be) logical/_reasonable/_rational; to apply; to make (perfect) sense
-རིགས་རྒྱུད|(in sense of "buddha nature") spiritual affinity/_birthright; inborn family trait (in general sense) family/_(character) type/_kind/_species
+རིགས་རྒྱུད|(in sense of 'buddha nature') spiritual affinity/_birthright; inborn family trait (in general sense) family/_(character) type/_kind/_species
 རིགས་གཅིག་པ|of identical kind/_type
 རིགས་མཐུན་པ|compatibility; consistency; harmony
 རིགས་སད་པ|(to experience) the awakening of one's spiritual affinity
@@ -3404,7 +3404,7 @@
 རྐྱེན་བྱུང|circumstamces that occur; isc. conditioned
 རྐྱེན་གྱིས|. . . gi rkyen gyis - on the basis of . . .
 རྐྱེན་སྣང|conditioned appearance; circumstances that manifest; the manifestations of circumstances
-རྐྱེན་ལམ་སོང|"death by misadventure"
+རྐྱེན་ལམ་སོང|'death by misadventure'
 རླབས་ཆེན|རླབས་ཆེ་བ། རླབས་པོ་ཆེ enormously effective; of enormous power/_efficacy; enormous/_tremendous blessing
 རླབས་ཀྱི|རླབས་ཀྱིས wholly/_completely; in one fell swoop
 རླབས་ཀྱིས|wholly/_completely; in one fell swoop
@@ -3481,8 +3481,8 @@
 རྣམ་ཤེས་ཚོགས་བརྒྱད|eight modes/_avenues of (ordinary) consciousness
 རྣམ་ཤེས་ཚོགས་དྲུག|six modes/_avenues of (ordinary) consciousness
 རྣམ་ཤེས་ཀྱི་ཕུང་པོ|aggregate of (ordinary) consciousness
-རྣམ་ཤེས་མཐའ་ཡས་སྐྱེ་མཆེད|infinite consciousness; རྣམ་ཤེས་མཐའ་ཡས་ཀྱི་སྐྱེ་མཆེད field of infinite consciousness" (2nd of 4 states in formless realm)
-རྣམ་ཤེས་མཐའ་ཡས་ཀྱི་སྐྱེ་མཆེད|field of infinite consciousness" (2nd of 4 states in formless realm)
+རྣམ་ཤེས་མཐའ་ཡས་སྐྱེ་མཆེད|infinite consciousness; རྣམ་ཤེས་མཐའ་ཡས་ཀྱི་སྐྱེ་མཆེད field of infinite consciousness' (2nd of 4 states in formless realm)
+རྣམ་ཤེས་མཐའ་ཡས་ཀྱི་སྐྱེ་མཆེད|field of infinite consciousness' (2nd of 4 states in formless realm)
 རྣམ་གྲོལ་གྱི་ལམ|path of complete freedom
 རྣམ་འཕྲུལ་བཅུ་གཉིས|twelve manifestations (of Padmasambhava)
 རྣམ་བྱང་དབང་པོ་ལྔ|five controlling powers conducive to total enlightenment
@@ -3610,7 +3610,7 @@
 རྟོགས་པ|realization; understanding; to understand; (stable) realization; to realize (in a stable manner); to gain realization; isc. to fathom
 རྩ|subtle channel
 རྩ་འདབ|secondary subtle channel (in chakras)
-རྩ་བ|source; root/_source (iso. "source verses"); isc. fundamental (state); isc. to be at the very root (of); isc. at the source
+རྩ་བ|source; root/_source (iso. 'source verses'); isc. fundamental (state); isc. to be at the very root (of); isc. at the source
 རྩ་བའི|principal/_primary (iso. guru/_samaya)
 རྩ་བྲལ|free of/_beyond/_without any origin/_source; without foundation
 རྩ་ཁམས|subtle constitution; nervous constitution
@@ -3685,8 +3685,8 @@
 ས་གནོན་པ|ས་ནོན་པ to master a spiritual level
 ས་འཛིན་པ|ས་ཟིན་པ to provide the basis (for)
 སད་པ|to awaken (to the experience of)
-སལ་ལེ|སལ་ལེ་བ vivid(ness); ["although the nature is empty, it is naturally and unobstructedly clear"]; clarity [not falling into the direction/_extreme of emptiness]; luminous
-སལ་ལེ་བ|vivid(ness); ["although the nature is empty, it is naturally and unobstructedly clear"]; clarity [not falling into the direction/_extreme of emptiness]; luminous
+སལ་ལེ|སལ་ལེ་བ vivid(ness); ['although the nature is empty, it is naturally and unobstructedly clear']; clarity [not falling into the direction/_extreme of emptiness]; luminous
+སལ་ལེ་བ|vivid(ness); ['although the nature is empty, it is naturally and unobstructedly clear']; clarity [not falling into the direction/_extreme of emptiness]; luminous
 སང་ངེ|སང་ངེ་བ (state of) pure clarity/_lucidity; pristine/_immaculate/_pure; brilliance; brilliant [acc. to KOT, such words are nyams kyi skad cha and all have a sense of gsal cha rnam rtog med pa]
 སང་སེང|སང་མ་སེང vividly/_vibrantly clear [?]
 སང་ངེ་བ|(state of) pure clarity/_lucidity; pristine/_immaculate/_pure; brilliance; brilliant [acc. to KOT, such words are nyams kyi skad cha and all have a sense of gsal cha rnam rtog med pa]
@@ -3755,7 +3755,7 @@
 སྡུག་བསྔལ་རྗེས་ཤེས|སྡུག་བསྔལ་ལ་རྗེས་སུ་ཤེས་པ subsequent knowledge of suffering (specifically in the two higher realms)
 སེམས|(ordinary) mind
 སེམས་བྱུང|mental event; state of mind
-སེམས་ཅན|ordinary being [try to avoid "sentient being"]
+སེམས་ཅན|ordinary being [try to avoid 'sentient being']
 སེམས་ཉིད|mind itself
 སེམས་པ|(ordinary) mentation/_thinking (about); (to pay) attention; to think about
 སེམས་སྡེ|སེམས་ཀྱི་སྡེ Category of Mind*
@@ -3768,7 +3768,7 @@
 སེམས་གཟུང་བ|to focus/_hold the mind/_attention; .་.་.་ལ་སེམས་འཛིན་པ། ག། བཟུང་བ - to focus/_hold the mind/_attention (on)/_pay attention to . . .
 སེམས་ཅན་དམྱལ་བ|hell (being)
 སེམས་གནས་པའི་ཐབས་དགུ|nine methods of bringing the mind to rest/_causing the mind to settle
-སེམས་སྐད་ཅིག་མ་བཅུ་དྲུག|sixteen "moments" of experience (on the mahayana path of seeing)
+སེམས་སྐད་ཅིག་མ་བཅུ་དྲུག|sixteen 'moments' of experience (on the mahayana path of seeing)
 སེམས་བསྐྱེད་པ|to give rise to/_arouse (the motivation of) bodhicitta
 སེམས་བཟུང་བ|.་.་.་ལ་སེམས་འཛིན་པ། ག། བཟུང་བ - to focus/_hold the mind/_attention (on)/_pay attention to . . .
 སེམས་འཛིན་པ|.་.་.་ལ་སེམས་འཛིན་པ། ག། བཟུང་བ - to focus/_hold the mind/_attention (on)/_pay attention to . . .
@@ -3854,7 +3854,7 @@
 ཤའི་སྤྱན|ordinary vision; fleshy eye/_flesh and blood eye
 ཤན་འབྱེད|clear distinction/_delineation; to distinguish clearly
 ཤན་འབྱེད་པ|to make a clear distinction/_delineation; to distinguish clearly
-ཤར་བ|འཆར་བ to arise [emphasis on "inner" arising of thoughts versus "outer" manifesting; of sensory appearances]; isc. to become apparent/_happen/_occur; isc. to experience/_be(come) aware of/_be(come) conscious of
+ཤར་བ|འཆར་བ to arise [emphasis on 'inner' arising of thoughts versus 'outer' manifesting; of sensory appearances]; isc. to become apparent/_happen/_occur; isc. to experience/_be(come) aware of/_be(come) conscious of
 ཤར་བུ|cornice (of mansion)
 ཤར་གྲོལ་རིས་མེད|no distinction/_gap between things/_thoughts arising and being free/_the arising of thoughts and their freedom
 ཤར་དེད་བྱེད་པ|to trace (e.g., a lineage) directly
@@ -3941,7 +3941,7 @@
 སྐུར་བ་འདེབས་པ|to deny/_deprecate/_understate/_belittle/_misinterpret; deprecation; denial
 སྐྱབས་འགྲོ|to take refuge; taking refuge
 སྐྱབས་གནས|refuge; source of refuge
-སྐྱབས་རྗེ|refuge master/_lord; "His/_Her Holiness" (title)
+སྐྱབས་རྗེ|refuge master/_lord; 'His/_Her Holiness' (title)
 སྐྱབས་ཡུལ|object of refuge
 སྐྱབས་སུ་འགྲོ་བ|to take refuge; taking refuge
 སྐྱེ་འཆི|birth and death
@@ -4008,11 +4008,11 @@
 སྨྲ་མེད|indescribable
 སྨྲ་བསམ་བརྗོད་མེད|indescribable, inconceivable/_unimaginable, and inexpressible
 སྨྲ་བསམ་བརྗོད་ལས་འདས་པ|beyond description; beyond description, imagination, and/_or expression
-སྨྲས་པ|(at end of text)="(a few words) in conclusion . . . "
+སྨྲས་པ|(at end of text)='(a few words) in conclusion . . . '
 སྨྱོ་འབོག|psychotic episodes and fits
 སྨྱོ་འབོགས|psychotic episodes and fits
 སྨྱོ་བ|to go mad/_become insane; insanity; psychotic episode
-སྨྱོན་པ|madman/_person/_lunatic; "crazy yogi"; insane/_crazy
+སྨྱོན་པ|madman/_person/_lunatic; 'crazy yogi'; insane/_crazy
 སྣ|nose
 སྣ་རེ|a few; single/_solitary
 སྣ་ཚོགས|myriad; various; all (its/_their) variety; isc. multi-faceted
@@ -4059,8 +4059,8 @@
 སྔ་རྒོལ|opponent/_defendant (in debate); holder of initial position to be refuted
 སྔ་ཕྱི་མེད་པ|atemporal
 སྔ་འདྲེས་གཅིག་གིས་ཉེར་མ་སོང|not the slightest bit (closer to . . . )
-སྔགས|mantra [glossed as yid skyob pa=manas traya="that which guards the mind"]
-སྔགས་ཀྱི|tantric [as preferable to literal "mantric"]
+སྔགས|mantra [glossed as yid skyob pa=manas traya='that which guards the mind']
+སྔགས་ཀྱི|tantric [as preferable to literal 'mantric']
 སྔོན་འགྲོ|preliminary (practice)
 སྔོན་ཆད|previously/_formerly
 སྔོན་དུས་ཀྱི་སྲིད་པ|life between birth and death as a phase of conditioned existence
@@ -4170,7 +4170,7 @@
 སྤྱན་དྲང|invite; སྤྱན་འདྲེན་པ to invite; invitation
 སྤྱན་དྲངས|invite; སྤྱན་འདྲེན་པ to invite; invitation
 སྤྱན་ལྔ|five (sublime) states/_levels of deeper/_higher vision/_insight/_ways of seeing
-སྤྱི་བླུགས|(lit.) anointment; sanctity; "total/_deep immersion" (experience) [?]
+སྤྱི་བླུགས|(lit.) anointment; sanctity; 'total/_deep immersion' (experience) [?]
 སྤྱི་ཆིངས|common context
 སྤྱི་དོན|overview
 སྤྱི་དཔལ|universal/_general splendor
@@ -4190,9 +4190,9 @@
 སྤྱོད་པ་ལ་གཤེགས་པ|to engage in tantric conduct
 སྤྱོད་པ་རྣམ་བཞི|four kinds of authentic conduct
 སྤྱོད་པ་རྣམས་སྦྱོང་བའི་ཆོས|spiritual teachings for refining behavior patterns
-སྲ་བ|incorruptibility; incorruptible; ("gzhan gyis gcod du med pa"); (one of seven vajra qualities)
+སྲ་བ|incorruptibility; incorruptible; ('gzhan gyis gcod du med pa'); (one of seven vajra qualities)
 སྲང|pathway
-སྲང་དུ་འཛུད་པ|to "put to the test"; to "narrow it down"
+སྲང་དུ་འཛུད་པ|to 'put to the test'; to 'narrow it down'
 སྲས|son; spiritual heir
 སྲས་མོ|daughter; spiritual heir
 སྲེད་པ|thirst/_craving (one of twelve links of interdependent connection)
@@ -4278,7 +4278,7 @@
 སུན་འབྱིན་པའི་སྟོབས|power of disenchantment (i.e., with further wrongdoing)
 སུན་འབྱིན་པའི་གཉེན་པོ|antidote involving direct confrontation
 ཏ་ན་ག་ན|union and liberation [=sbyor sgrol]
-ཏེ|te/_ste/_de - [colon or m-dash]; [can imply] " . . . ; rather, . . . "
+ཏེ|te/_ste/_de - [colon or m-dash]; [can imply] ' . . . ; rather, . . . '
 ཐ་དད|separate/_distinct(ive) (from one another); isc. different (from one another)
 ཐ་མ|at the very least . . .
 ཐ་མལ|(state of) complete ordinariness; simple (state)
@@ -4451,7 +4451,7 @@
 ཚོགས་ཀྱི་འཁོར་ལོ|ganachakra/_feast gathering
 ཚོལ་བ|search for; འཚོལ་བ,་བཙལ་བ to seek/_look for/_search for
 ཚོལ་ཁྲོ|struggle; complication/_complexity; struggle/_frantic activity
-ཚོམ་བུ|mass; amassing (of) [eg. 'od gsal gyi tshom bu signifies "everything is utter lucidity"]
+ཚོམ་བུ|mass; amassing (of) [eg. 'od gsal gyi tshom bu signifies 'everything is utter lucidity']
 ཚོར་བ|feeling; sensation (i.e., as aggregate or one of twelve links of interdependent connection)
 ཚོར་བའི་ཕུང་པོ|aggregate of sensations
 ཚོར་བ་དྲན་པ་ཉེ་བར་གཞག་པ|application of mindfulness based on sensation(s)
@@ -4558,7 +4558,7 @@
 ཡི་དབ༹གས|preta/_tormented spirit
 ཡི་གེ|letter; syllable
 ཡི་གེའི་ཚོགས|letters; groups of letters/_syllables
-ཡིད|conceptual mind (as the "sixth sense"); isc. imagination
+ཡིད|conceptual mind (as the 'sixth sense'); isc. imagination
 ཡིད་འོང|attractive/_enticing
 ཡིད་བྱེད|to create concepts; to formulate thoughts/_ideas; to deliberate/_consider; to formulate ideas; ideation; idea; conceptual/_mental process; ordinary mental formations; isc. to concentrate
 ཡིད་བཞིན|wish-fulfilling
@@ -4605,12 +4605,12 @@
 ཡོང་སུ་གྲུབ་པ|absolute(ly) ideal; thoroughly established; to bring to a complete finish; (to be) complete/_ensured in and of itself
 ཡོངས|totally . . .. ཡོངས་སུ total(ly)/_absolute(ly)/_thorough(ly)/_comprehensive(ly)/_universal(ly); in its entirety; the entire spectrum of . . .
 ཡོངས་འཛིན|tutor (hon.)
-ཡོངས་གྲོལ|totally free; ཡོངས་སུ་གྲོལ་བ total freedom; totally free (use "completel(ly)" for rnam grol)
+ཡོངས་གྲོལ|totally free; ཡོངས་སུ་གྲོལ་བ total freedom; totally free (use 'completel(ly)' for rnam grol)
 ཡོངས་རྫོགས|ཡོངས་སུ་རྫོགས་པ absolutely/_thoroughly perfect and complete; to bring to absolute perfection/_completion
 ཡོངས་གཅོད་དུ|in any definitive sense
 ཡོངས་སུ་རྣལ་འབྱོར|thorough immersion in genuine being [anuyoga approach]
 ཡོངས་སུ་རྫོགས་པ|absolutely/_thoroughly perfect and complete; to bring to absolute perfection/_completion
-ཡོངས་སུ་གྲོལ་བ|total freedom; totally free (use "completel(ly)" for rnam grol)
+ཡོངས་སུ་གྲོལ་བ|total freedom; totally free (use 'completel(ly)' for rnam grol)
 ཡོས|hare
 ཡུད་ཙམ|for a brief/_the briefest moment
 ཡུལ|(sense) object; (objective) environment/_field; isc. domain/_scope/_purview/_reach; objective factor; isc. mode; isc. confines; visionary field*

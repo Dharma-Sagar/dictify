@@ -4,9 +4,6 @@ import re
 import pyewts
 
 converter = pyewts.pyewts()
-text = "srog gi yi ge (dbyangs bzhi/) rkyen gyi yi ge (dbu shad gnyis/) pha ma bu tsha'i yi ge'i ma ni (a dang )pa ni (a bor ba'i lhag ma nyer dgu dang/) b"
-conv = converter.toUnicode(text)
-print('')
 
 converted_path = Path('converted')
 source_path = Path('raw/public')
@@ -98,6 +95,9 @@ for f in sorted(source_path.glob('*')):
 
         if not conv_def:
             conv_def = defnt
+
+        # post processing: punctuation (html already uses " , so replace them with ' )
+        conv_def = conv_def.replace('"', "'")
         out.append(f'{lemma}|{conv_def}')
     out = '\n'.join(out)
 

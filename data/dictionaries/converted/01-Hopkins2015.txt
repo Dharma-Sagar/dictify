@@ -82,7 +82,7 @@
 འབྲས་མཆོག|highest fruit; highest result
 འབྲས་མཆོག་ལྡན་པ|having the highest fruit
 འབྲས་པུ|effect
-འབྲས་སྤུངས|Dre-pung ("Rice Mound") Monastic University (founded in 1416), west of Lhasa, relocated to Mundgod, N.K., India in 1959
+འབྲས་སྤུངས|Dre-pung ('Rice Mound') Monastic University (founded in 1416), west of Lhasa, relocated to Mundgod, N.K., India in 1959
 འབྲས་ཡོད|fruitful; having the fruit; existent effect
 འབྲས་ཡུམ|fruit Mother (perfection of wisdom)
 འབྲས་ཡུམ་ལ་ཉེ་བའི་གཞི་ཤེས|knower of bases that is close to the fruit Mother
@@ -341,7 +341,7 @@
 འདོད་པས་ལོག་པར་གཡེམ་པ|commit adultery (?); sexual misconduct
 འདོད་པས་ལོག་པར་སྤྱོད་པ|wrongly engage in desire
 འདོད་རྒྱལ|arbitrarily(N)
-འདོད་རྒྱལ་དུ་སྐྱེ་བ|arbitrary production; capricious production (literally "production in the manner of wish being dominant")
+འདོད་རྒྱལ་དུ་སྐྱེ་བ|arbitrary production; capricious production (literally 'production in the manner of wish being dominant')
 འདོད་སེམས|desire mind(Gön-chok); Desire Realm mind
 འདོད་སེམས་དགུ་པ|ninth mind of the Desire Realm
 འདོད་སེམས་དགུ་པའི་ཏིང་ངེ་འཛིན|meditative stabilization of the ninth mind of the Desire Realm
@@ -597,7 +597,7 @@
 འགོག་སྙོམས|absorption of cessation; meditative absorption of cessation
 འགྲམ|bank of a river; riverbank
 འགྲམ་པ|cheek
-འགྲེ|extend (as in "these can be known through extending the previous reasoning"); apply
+འགྲེ|extend (as in 'these can be known through extending the previous reasoning'); apply
 འགྲེལ|comment on; interpret; elucidate; explain
 འགྲེལ་བཤད|explanation of [someone else's] commentary; commentarial explanation; explanatory commentary; subcommentary
 འགྲེལ་བྱེད|commentator; elucidator
@@ -615,11 +615,11 @@
 འགྲིབ་པ་མེད་པ|non-diminishment; non-decrease
 འགྲིབ་པར་བགྱིད་པ|diminish; make diminish
 འགྲིབ་པར་མ་བྱས་པ|not diminished; not decreased
-འགྲིག་པ|put together; fit in/_together with (as in "since this does not fit together with the statement..."); make correspond
+འགྲིག་པ|put together; fit in/_together with (as in 'since this does not fit together with the statement...'); make correspond
 འགྲིམ|wander; rove; walk about
 འགྲིམས་པ|wander; rove; walk about
 འགྲིས|Ling Dynasty [502 - 557 ce] of China
-འགྲོ|verb: go; become; serve (as in "serving as vitality and exertion"); act\n noun: transmigrator; goer
+འགྲོ|verb: go; become; serve (as in 'serving as vitality and exertion'); act\n noun: transmigrator; goer
 འགྲོ་འོང|going and coming
 འགྲོ་བ|transmigrator; transmigration; going; go away from
 འགྲོ་བ་དྲུག|six transmigrations
@@ -703,7 +703,7 @@
 འཇམ་དབྱངས་བཞད་པ|Jam-yang-shay-pa (1648-1721), principal textbook writer for Go-mang (sgo mang) College of Dre-pung ('bras spungs) Monastic University
 འཇམ་དབྱངས་མཆོག་ལྷ་འོད་ཟེར|Jam-yang-chog-hla-o-ser (circa 15th c.), textbook author of Tag-tshang-ra-wa-dö-ba (stag tshang rwa ba stod pa) Monastery
 འཇམ་དཔལ|Mañjushrī; Mañjuśrī [p.n. of the Buddha of wisdom]
-འཇམ་མགོན|mañjunātha; epithet of Dzong-ka-ba; "smooth protector" (Mañjushrī)
+འཇམ་མགོན|mañjunātha; epithet of Dzong-ka-ba; 'smooth protector' (Mañjushrī)
 འཇམ་པ|softness; soft; smoothness
 འཇམ་པའི་དབྱངས|Mañjughoṣa; Mañjuśrī [p.n. of the Buddha of wisdom]
 འཇམ་པོ|smooth
@@ -880,7 +880,7 @@
 འཁོར་བར་ཡོངས་སུ་བསྔོ|thoroughly dedicate to cyclic existence [i.e., to those in cyclic existence]
 འཁོར་བས་འཇིགས་པ|frightened by cyclic existence
 འཁོར་དང་བཅས་པ|together with the retinue/_companions
-འཁོར་གསུམ|three spheres (as in three spheres of self-contradiction; as in "The three spheres!"); three spheres [i.e., agent, action, and object]
+འཁོར་གསུམ|three spheres (as in three spheres of self-contradiction; as in 'The three spheres!'); three spheres [i.e., agent, action, and object]
 འཁོར་གསུམ་གྱིས་དག་པ|devoid [of conceptualization] of three spheres [i.e., agent, action, and object]
 འཁོར་གསུམ་རྣམ་པར་དག་ཉིད|devoidness [of conceptualization] of three spheres [i.e., agent, action, and object]
 འཁོར་གསུམ་རྣམ་པར་དག་པ|devoid [of conceptualization] of three spheres [i.e., agent, action, and object]
@@ -1136,7 +1136,7 @@
 འཐབ་པ|fight; quarrel; dispute
 འཐབ་པར་བྱའོ|you should fight; one should quarrel
 འཐད|correct; acceptable; feasible; feasibility
-འཐད་ལྡན|Dharmottara's The Correct, Commentary on (Dharmakīrti's) "Ascertainment of Valid Cognition" (pramāṇa-viniścaya), P. 5727, vol. 136
+འཐད་ལྡན|Dharmottara's The Correct, Commentary on (Dharmakīrti's) 'Ascertainment of Valid Cognition' (pramāṇa-viniścaya), P. 5727, vol. 136
 འཐད་པ|acceptable; feasible; correct; feasibility
 འཐད་པ་དང་སྒྲུབ་པའི་རིགས་པ|reasoning which establishes correctness; reasonings of logical proof
 འཐད་པ་སྒྲུབ་པའི་རིགས་པ|reasoning which establishes correctness; reasonings of logical proof
@@ -1335,7 +1335,7 @@
 བཅུ་པ|tenth; ten
 བཅུ་པོ|tenth; ten
 བཅུད|beings; essence; what is in the vessel; animate being
-བཅུད་ཀྱི་སེམས་ཅན|beings in the world; worldly beings; lit.: "beings in the vessel"(Lati)
+བཅུད་ཀྱི་སེམས་ཅན|beings in the world; worldly beings; lit.: 'beings in the vessel'(Lati)
 བཅུད་ཀྱིས་ལེན|essence-extraction
 བཅུད་ལེན|essence-extraction; essence-extraction (the treatment of aging)
 བཅུག|1) indicates causative construction; 2) enter; engage; apply; usher into
@@ -1366,9 +1366,9 @@
 བདག་གཅིག་འབྲེལ|relationship of sameness of nature; related in the sense of being one essence; related as the same essence
 བདག་གཅིག་ཏུ་འབྲེལ|related in the sense of being one essence
 བདག་གི|mine; my
-བདག་གི་འདུ་ཤེས|conception of "I"
-བདག་གི་བ|mine(N); the "mine"
-བདག་གི་བའི་ངོ་བོ|the entity that is the "mine"; the innermost entity
+བདག་གི་འདུ་ཤེས|conception of 'I'
+བདག་གི་བ|mine(N); the 'mine'
+བདག་གི་བའི་ངོ་བོ|the entity that is the 'mine'; the innermost entity
 བདག་གི་བར་འཛིན་པ|conceive as mine
 བདག་གི་བརྩོན་འགྲུས|personal effort
 བདག་གི་དབྱིངས|basic element of self
@@ -1436,7 +1436,7 @@
 བདག་རྐྱེན|proprietary condition; empowering condition; dominant condition
 བདག་སྒྲ|a possessor
 བདག་སྤོབས|personal inspiration
-བདག་ཏུ་འདུ་ཤེས|conception of "I"
+བདག་ཏུ་འདུ་ཤེས|conception of 'I'
 བདག་ཏུ་འཛིན་པ|conception of self; conceive as a self
 བདག་ཏུ་འཛིན་པའི་རྟེན་ཉེ་བར་ལེན་པའི་ཕུང་པོ་ལྔ|the five appropriated aggregates that are the basis for the conception of a self
 བདག་ཏུ་འཛིན་པའི་རྟེན་སྤངས་པའི་ཕྱིར|through abandoning the basis of the conception of self
@@ -1452,7 +1452,7 @@
 བདག་ཏུ་མངོན་པར་ཞེན་པའི་གཞི་ནི་སེམས|the basis which is conceived to be the self is the mind  (T)
 བདག་ཏུ་རྨོངས་པ་ལ་སོགས་པ|obscuration with respect to self, and so forth
 བདག་ཏུ་སྣང་བ|appearance as a self; appear as a self
-བདག་ཡོད་ཅེས་བྱ་བ|the statement, I exist"  (T)"
+བདག་ཡོད་ཅེས་བྱ་བ|the statement, I exist'  (T)'
 བདར་ཤ་ཆོད|take to heart
 བདེ|bliss; pleasure; happiness; abiding(LG); easy (to understand)(BJ 8.2)
 བདེ་འབྱུང|Bliss-Arising (Maheśvara; Śiva)
@@ -1503,7 +1503,7 @@
 བདེ་དང་མི་ལྡན|free from happiness
 བདེ་དང་སྡུག་བསྔལ་ཆེན་པོ་ཞི་བ་ཐོབ་བྱ|attain the pacification of great happiness and suffering
 བདེ་དང་སྡུག་བསྔལ་ཞི་བ|pacify happiness and suffering
-བདེ་དབྱངས|Day-yang ("Blissful Melody") College of Dre-pung Monastic University
+བདེ་དབྱངས|Day-yang ('Blissful Melody') College of Dre-pung Monastic University
 བདེ་གཤེགས|One Gone to Bliss; Well-Gone One; an epithet of Buddha; the One Gone to Bliss (an epithet of Buddha)
 བདེ་གཤེགས་བསྟན་པ|teaching of the One Gone to Bliss
 བདེ་ལ་བག་ཡོད|predisposed to happiness; predispositions to happiness
@@ -1762,7 +1762,7 @@
 བློ་གྲོས་ཞི་བ|peaceful intelligence; pacified intelligence
 བློ་གསལ|clear intellect
 བློ་གསལ་གླིང|Lo-sel-ling College of Dre-pung Monastic University
-བློ་གསལ་ལིང|Lo-sel-ling ("Lucid Intelligence") College of Dre-pung Monastic University
+བློ་གསལ་ལིང|Lo-sel-ling ('Lucid Intelligence') College of Dre-pung Monastic University
 བློ་གསར|new awareness(BR)
 བློ་གསར་མིག་འབྱེད|opener of the eye of new awarenesses(BR)
 བློ་གཏེར|treasury of wisdom(BR)
@@ -2125,8 +2125,8 @@
 བསགས་པ|composite; accumulate
 བསགས་པ་རྗེས་སུ་དྲན་པས་དགའ་བ་ཡིད་ལ་བྱེད་པ|since one remembers the collections, there is the mental engagement of joy (T)
 བསལ|clear away; remove; throw off; eradicate; separate
-བསལ་བ|clear away; remove; throw off; eradicate; separate; the "thesis" [of a consequence]
-བསལ་བ་སོང|you have come to accept the "thesis" [of the consequence]
+བསལ་བ|clear away; remove; throw off; eradicate; separate; the 'thesis' [of a consequence]
+བསལ་བ་སོང|you have come to accept the 'thesis' [of the consequence]
 བསལ་བར་བྱ་བ་ཡིན|is an object of removal; will clear away/_remove/_throw off/_eradicate/_separate
 བསལ་བར་གྱུར|clear away; remove; throw off; eradicate; separate
 བསལ་བྱ|object of removal; that which should be cleared away/_removed/_thrown off/_eradicated/_separated; should be cleared away/_removed/_thrown off/_eradicated/_separated
@@ -2233,7 +2233,7 @@
 བསྡམས་པར་འགྱུར|restrain; bind
 བསྡིགས་པ|conquer; subdue
 བསྡུ|collect; conclude; gather; include; abridge
-བསྡུ་བ|collect; conclude; gather; include; abridge; Asaṅga's Compendium of Ascertainments (nirnaya-saṃgraha); "the Compendium"
+བསྡུ་བ|collect; conclude; gather; include; abridge; Asaṅga's Compendium of Ascertainments (nirnaya-saṃgraha); 'the Compendium'
 བསྡུ་བ་དམན་པ་དང་འབྲིང་བ་དང་མཆོག|the small, middling, and great collections
 བསྡུ་བའི་དངོས་པོ|collected things
 བསྡུ་བར་ཚིགས་སུ་བཅད་པ|collected verses
@@ -2831,7 +2831,7 @@
 བྱང་ཆུབ་ཀྱི་སྐབས|occasion of enlightenment
 བྱང་ཆུབ་ཀྱི་སྙིང་པོ|essence of enlightenments; place/_seat of enlightenment; platform of enlightenment in Bodh Gayā on which Shākyamuni attained enlightenment
 བྱང་ཆུབ་ཀྱི་སྙིང་པོ་ལ་འདུག་གི་བར་དུ|seated in the middle of the place of enlightenment
-བྱང་ཆུབ་ཀྱི་སྤྱོད་པ་ལ་འཇུག་པའི་དཀའ་འགྲེལ|Commentary on the Difficult Points of "Engaging in the Bodhisattva Deeds" [by Prajñākaramati (shes rab 'byung gnas blo gros), P5273, vol. 100]
+བྱང་ཆུབ་ཀྱི་སྤྱོད་པ་ལ་འཇུག་པའི་དཀའ་འགྲེལ|Commentary on the Difficult Points of 'Engaging in the Bodhisattva Deeds' [by Prajñākaramati (shes rab 'byung gnas blo gros), P5273, vol. 100]
 བྱང་ཆུབ་ཀྱི་ཚོགས|collection of enlightenment
 བྱང་ཆུབ་ཀྱི་ཡན་ལག|branch of enlightenment
 བྱང་ཆུབ་ཀྱི་ཡན་ལག་བདུན|seven branches of enlightenment
@@ -2873,7 +2873,7 @@
 བྱང་ཆུབ་སེམས་དཔའི་འབྲས་བུ་བཞི|four fruits of a Bodhisattva
 བྱང་ཆུབ་སེམས་དཔའི་མཚན་སྤྱི|general name of a Bodhisattva
 བྱང་ཆུབ་སེམས་དཔའི་རིགས་ཅན་མ་ངེས་པ|not definite in the Bodhisattva lineage
-བྱང་ཆུབ་སེམས་དཔའི་རྣལ་འབྱོར་སྤྱོད་པ་བཞི་བརྒྱ་པའི་རྒྱ་ཆེར་འགྲེལ་པ|Commentary on [Āryadeva's] "Four Hundred [Stanzas] on the Yogic Deeds of Bodhisattvas" [by Candrakīrti, P5266, vol. 98; D3864, Ya]
+བྱང་ཆུབ་སེམས་དཔའི་རྣལ་འབྱོར་སྤྱོད་པ་བཞི་བརྒྱ་པའི་རྒྱ་ཆེར་འགྲེལ་པ|Commentary on [Āryadeva's] 'Four Hundred [Stanzas] on the Yogic Deeds of Bodhisattvas' [by Candrakīrti, P5266, vol. 98; D3864, Ya]
 བྱང་ཆུབ་སེམས་དཔའི་རྟགས་ལྔ|five signs of a Bodhisattva
 བྱང་ཆུབ་སེམས་དཔའི་ས|Bodhisattva ground
 བྱང་ཆུབ་སེམས་དཔའི་སྡེ་སྣོད|Bodhisattva basket
@@ -2904,7 +2904,7 @@
 བྱང་ཆུབ་ཞི་བ|peace of enlightenment
 བྱང་ཕྱོགས|the [thirty-seven] harmonies with enlightenment\n north; northern direction
 བྱང་ཕྱོགས་སོ་བདུན|thirty-seven harmonies with enlightenment; the thirty-seven harmonies with enlightenment
-བྱང་རྩེ|Jang-tsay ("North Point") College of Gan-den Monastic University
+བྱང་རྩེ|Jang-tsay ('North Point') College of Gan-den Monastic University
 བྱང་ས|Asaṇga's Bodhisattva Grounds(DASI 558.6)
 བྱང་ས་དང་དེའི་བསྡུ་བ|[Asaṇga's] Bodhisattva Grounds (bodhisattva-bhūmi) and its Compendium of Ascertainments (nirṇaya-saṃgraha)(BJ 37.1)
 བྱང་སྡོམ|Bodhisattva's vow
@@ -2981,7 +2981,7 @@
 བྱེད་རྒྱུ་ནུས་མེད|impotent creative cause
 བྱེད་རིགས་པ|suitable to refer (to)(BJ 24.5)
 བྱེད་སྒྲ|the instrumental case
-བྱེས|Jay ("Splinter") College of Se-ra Monastic University
+བྱེས|Jay ('Splinter') College of Se-ra Monastic University
 བྱི་དོར|sweeping
 བྱི་དོར་བྱས|wiped; sweep
 བྱི་ལ|cat
@@ -3588,7 +3588,7 @@
 ཆུང་ངུའི་ཆུང་ངུ|small of the small
 ཆུང་ངུའི་སེམས|small mind; small-minded
 ཆུང་ངུས་ཆོག་ཤེས་པ|satisfied with little
-ཅི|what; however; whatever; can indicate question: "Is ... (the case)?; who
+ཅི|what; however; whatever; can indicate question: 'Is ... (the case)?; who
 ཅི་འང་མེད་པ|nothingness
 ཅི་འང་མེད་པའི་སྐྱེ་མཆེད|sphere of nothingness
 ཅི་འདྲ|[what-like]; whatever like; whatever; what like?
@@ -3611,7 +3611,7 @@
 ཅི་ཡོད|[what-is]; what is?; whatever
 ཅི་ཞིག|what
 ཅིའི་སླད་དུ|on account of what?; why?
-ཅིག|particle indicating "a" or imperative (often untranslatable)
+ཅིག|particle indicating 'a' or imperative (often untranslatable)
 ཅིག་ཅར|simultaneously; simultaneous; at one time
 ཅིག་ཅར|simultaneously; simultaneous
 ཅིག་ཅར་བ|simultaneous
@@ -3860,7 +3860,7 @@
 དབུ་མ|center; middle; middle way(N); Mādhyamika [Proponent of the Middle Way]; Middle Way School
 དབུ་མ་ཆེན་པོ|Great Middle Way
 དབུ་མ་ལ་འཇུག་པ|Supplement to the Middle Way, by Candrakīrti (zla ba grags pa), P. 5261, 5262, vol. 98; Chandrakīrti's Supplement to (Nāgārjuna's) Treatise on the Middle
-དབུ་མ་ལ་འཇུག་པའི་འགྲེལ་བཤད|[Jaya-ānanda's] Commentarial Explanation of (Chandrakirti's) "Supplement to (Nagarjuna's) 'Treatise on the Middle'" [P5271, vol. 99]
+དབུ་མ་ལ་འཇུག་པའི་འགྲེལ་བཤད|[Jaya-ānanda's] Commentarial Explanation of (Chandrakirti's) 'Supplement to (Nagarjuna's) 'Treatise on the Middle'' [P5271, vol. 99]
 དབུ་མ་ལ་འཇུག་པའི་བཤད་པ|Commentary on the 'Supplement to the Middle Way', by Candrakīrti (zla ba grags pa), P. 5263, vol. 98; Also: Dharmasala: The Council of Cultural and Religious Affairs of His Holiness the Dalai Lama, 1968
 དབུ་མ་ལ་འཇུག་པའི་མཐའ་དཔྱོད་ལུང་རིགས་གཏེར་མཛོད་ཟབ་དོན་ཀུན་གསལ་བཟང་འཇུག་ངོགས|Great Exposition of the Middle Way, by Jam-yang-shay-ba ('jam dbyangs bzhad pa), Buxaduor: Gomang, 1967
 དབུ་མ་ལ་འཇུག་པའི་རྒྱ་ཆེར་བཤད་པ་དགོངས་པ་རབ་གསལ|Illumination of the Thought, An Extensive Explanation of [Candrakīrti's] 'Supplement to the Middle Way', by Dzong-ka-ba, P. 6143, vol. 154; also: Dharmasala: Tibetan Cultural Printing Press, no date [often referred to as: dgongs pa rab gsal]
@@ -3868,9 +3868,9 @@
 དབུ་མ་པ་དཔའ་བོ་རྡོ་རྗེ|the lama U-ma-pa Pa-wo-dor-jay (one of the teachers of Tzong-ka-pa)
 དབུ་མ་རང་རྒྱུད་པ|Middle Way Autonomy School
 དབུ་མ་རྒྱན|Śāntarakṣita's Ornament for the Middle Way
-དབུ་མ་རྩ་བའི་འགྲེལ་པ་ཤེས་རབ་སྒྲོན་མ|Commentary on (Nagarjuna's) "Fundamental Treatise on the Middle": Lamp for "Wisdom" [by Bhāvaviveka (legs ldan 'byed), P5253, vol. 95]
-དབུ་མ་རྩ་བའི་ཚིག་ལེའུར་བྱས་པ་ཤེས་རབ་ཅེས་བྱ་བ|Fundamental Treatise on the Middle Way, Called "Wisdom", by Nāgārjuna (klu sgrub), P. 5224, vol. 95
-དབུ་མ་རྩ་བའི་ཚིག་ལེའུར་བྱས་པ་ཤེས་རབ་ཅེས་བྱ་བའི་རྣམ་བཤད་རིགས་པའི་རྒྱ་མཚོ|Ocean of Reasoning, Explanation of [Nāgārjuna's (klu sgrub)] "Treatise on the Middle Way," by Dzong-ka-ba (1357-1419), P. 6153, vol. 156. Varanasi: Ge-luk-pa Press, 1973.
+དབུ་མ་རྩ་བའི་འགྲེལ་པ་ཤེས་རབ་སྒྲོན་མ|Commentary on (Nagarjuna's) 'Fundamental Treatise on the Middle': Lamp for 'Wisdom' [by Bhāvaviveka (legs ldan 'byed), P5253, vol. 95]
+དབུ་མ་རྩ་བའི་ཚིག་ལེའུར་བྱས་པ་ཤེས་རབ་ཅེས་བྱ་བ|Fundamental Treatise on the Middle Way, Called 'Wisdom', by Nāgārjuna (klu sgrub), P. 5224, vol. 95
+དབུ་མ་རྩ་བའི་ཚིག་ལེའུར་བྱས་པ་ཤེས་རབ་ཅེས་བྱ་བའི་རྣམ་བཤད་རིགས་པའི་རྒྱ་མཚོ|Ocean of Reasoning, Explanation of [Nāgārjuna's (klu sgrub)] 'Treatise on the Middle Way,' by Dzong-ka-ba (1357-1419), P. 6153, vol. 156. Varanasi: Ge-luk-pa Press, 1973.
 དབུ་མ་སྣང་བ|Kamalaśīla's Illumination of the Middle Way
 དབུ་མ་ཐལ་འགྱུར་པ|Middle Way Consequence School; Prāsaṅgika-Mādhyamaka; Proponent of the Middle Way Consequence School
 དབུ་མ་ཐལ་རང|Mādhyamika Prāsaṅgikas and Svātantrikas(BJ 41.4)
@@ -3878,7 +3878,7 @@
 དབུ་མའི་ལམ|the middle way; the middle path(N)
 དབུ་མའི་ལྟ་ཁྲིད|Instructions on the View of the Middle Way(N)
 དབུ་མའི་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ|Ornament of the Middle Way; by Śāntirakṣita (zhi ba 'tsho), P. 5284, vol. 101
-དབུ་མའི་སྙིང་པོའི་འགྲེལ་པ་རྟོག་གེ་འབར་བ|Commentary on the Heart of the Middle": Blaze of Reasoning [by Bhāvaviveka (legs ldan 'byed), P5256, vol. 96]"
+དབུ་མའི་སྙིང་པོའི་འགྲེལ་པ་རྟོག་གེ་འབར་བ|Commentary on the Heart of the Middle': Blaze of Reasoning [by Bhāvaviveka (legs ldan 'byed), P5256, vol. 96]'
 དབུ་མའི་སྙིང་པོའི་ཚིག་ལེའུར་བྱས་པ|Essence of the Middle Way, by Bhāvaviveka (legs ldan 'byed), P. 5255, vol. 96
 དབུགས|breath
 དབུགས་འབྱུང་བ|exhalation
@@ -4043,7 +4043,7 @@
 དེ་ཉིད་བཟང་རྟོགས|understand reality well
 དེ་ཉིད་དང་གཞན་ལས་རྣམ་པར་གྲོལ་བ|liberated from just that and from other
 དེ་ཉིད་དོན|meaning of reality; object of reality
-དེ་ཉིད་གོང་མ|the previous "just those"
+དེ་ཉིད་གོང་མ|the previous 'just those'
 དེ་ཉིད་གསུམ་གྱི་བསམ་གཏན|concentration of the three principles; concentrations of the three principles
 དེ་ཉིད་མཆོག|highest reality
 དེ་ཉིད་ཟབ་མོ་མཐོང|seeing the profound reality (T)
@@ -4066,8 +4066,8 @@
 དེ་ཡི་རྒྱུ|cause of that
 དེ་ཟུང་འབྲེལ་གྱི་ཚོགས་སྒྲུབ|achieving through the collection of a union of those [that is; calm abiding and special insight]
 དེའང|also
-དེའི་འོག|after that [lit.: "under that"]
-དེའི་འོག་ཏུ|after that [lit.: "under that"](Lati)
+དེའི་འོག|after that [lit.: 'under that']
+དེའི་འོག་ཏུ|after that [lit.: 'under that'](Lati)
 དེའི་དོན་མེད|not the meaning of that
 དེའི་གོང་དེ་མ་ཐག་ཏུ|immediately/_right/_just before that
 དེའི་གཞི་ལས|from the base of that
@@ -4130,7 +4130,7 @@
 དགའ་བྱེད|make happy
 དགའ་བྱེད་པ|make happy
 དགའ་དང་ལྡན་པ|endowed with joy/_happiness
-དགའ་ལྡན|Gan-dan; Joyous Place; Joyous Land; [name of a Buddhist pure land]; Gan-dan ("Joyous") Monastic University [name of one of the large monasteries of the Ge-lug-pa order in Tibet founded by Tsong-kha-pa in 1408]
+དགའ་ལྡན|Gan-dan; Joyous Place; Joyous Land; [name of a Buddhist pure land]; Gan-dan ('Joyous') Monastic University [name of one of the large monasteries of the Ge-lug-pa order in Tibet founded by Tsong-kha-pa in 1408]
 དགའ་ལྡན་འཁྲི་པ|holder of the throne of Gan-den [head of the Ge-luk-pa order]
 དགའ་ལྡན་གནས་ལ་སོགས་པར་སྐྱེ་བར་ཀུན་ཏུ་སྟོན་པ|thoroughly displaying birth in the Joyous Land and so forth
 དགའ་ལྡན་གྱི་གནས་ན་བཞུགས་པ|dwelling in the Joyous Land
@@ -4288,7 +4288,7 @@
 དགོངས་པ་ཅན་གྱི་དོན|meaning that has a thought behind it
 དགོངས་པ་དེར་འབབ་པ|thought comes down to that
 དགོངས་པ་མཛད་དེ|consider; take under consideration
-དགོངས་པ་རབ་གསལ|Illumination of the Thought [Dzong-ka-ba's commentary on Chandrakīrti's Madhyamakāvatāra, Illumination of the Thought, Extensive Explanation of (Chandrakīrti's) Supplement to (Nāgārjuna's) 'Treatise on the Middle'" (dbu ma la 'jug pa'i rgya cher bsha
+དགོངས་པ་རབ་གསལ|Illumination of the Thought [Dzong-ka-ba's commentary on Chandrakīrti's Madhyamakāvatāra, Illumination of the Thought, Extensive Explanation of (Chandrakīrti's) Supplement to (Nāgārjuna's) 'Treatise on the Middle'' (dbu ma la 'jug pa'i rgya cher bsha
 དགོངས་པ་རྟོགས་པ|realization of the thought; realization of the thought behind it
 དགོངས་པ་ཤིན་ཏུ་ཟབ|very profound thought
 དགོངས་པར་སྣང་བ|appears to be the thought
@@ -4334,7 +4334,7 @@
 དགུང་སེང|vacation; holiday
 དགྱེས་པ|to be pleased (hon.); rejoiced
 དྷི|DHI, seed syllable of Mañjuśrī
-དྷུ་ཏི|dhuti; "central channel"
+དྷུ་ཏི|dhuti; 'central channel'
 དཀའ|difficult; hard
 དཀའ་འགྲེལ|commentary on the difficult points; difficult points commentary
 དཀའ་བ|difficult; hard; hardship
@@ -4482,7 +4482,7 @@
 དངོས་ཀྱི་མ་ངེས་པའི་གཏན་ཚིགས|actual indefinite reason
 དངོས་ཀྱི་ཉེར་ལེན|direct substantial cause
 དངོས་ཀྱི་སྟོང་གཞི|actual basis of emptiness
-དངོས་ལ་བདག་གིར་འཛིན་པ|conception/_apprehension "mine" with respect to things
+དངོས་ལ་བདག་གིར་འཛིན་པ|conception/_apprehension 'mine' with respect to things
 དངོས་ལ་གནས་པ|abiding in fact
 དངོས་ལ་གནོད་བྱེད|refutation of the explicit teaching; refutation of the explicit [indication]; damage to the explicit [indication]; damage to the explicit [teaching]
 དངོས་མེད|thinglessness; non-thing; that which is not a [functioning] thing; non-existent
@@ -5175,7 +5175,7 @@
 གང་ཟག་དང་ཆོས་ལ་བདག་མེད་པ|selflessness in persons and [other] phenomena
 གང་ཟག་དང་ཆོས་ལ་བདག་མེད་པ་དག་ཡོངས་སུ་ཤེས་པར་བྱ་བའི་ཕྱིར|in order to thoroughly understand selflessness in persons and [other] phenomena
 གང་ཟག་དང་ཆོས་མེད་པའི་མཚན་ཉིད་ཡིན་པ|character of non-existence of persons and [other] phenomena
-གང་ཟག་གང་གིས་ཡིད་གཏད་པས་མཐོང་ཙམ་ཉིད་ནས་འདི་དང་འདི་འདྲའོ་སྙམ་པའི་བློ་ངང་གི་སྐྱེད་ནུས་པའི་ཆོས|phenomena naturally able to produce an awareness thinking, "This and that are alike," upon merely being seen by whatever person directs the mind [toward them]
+གང་ཟག་གང་གིས་ཡིད་གཏད་པས་མཐོང་ཙམ་ཉིད་ནས་འདི་དང་འདི་འདྲའོ་སྙམ་པའི་བློ་ངང་གི་སྐྱེད་ནུས་པའི་ཆོས|phenomena naturally able to produce an awareness thinking, 'This and that are alike,' upon merely being seen by whatever person directs the mind [toward them]
 གང་ཟག་གདགས་པ|imputation of a person
 གང་ཟག་གི་བདག|self of persons
 གང་ཟག་གི་བདག་འཛིན་པའི་བློ|awareness apprehending a self of persons
@@ -5189,7 +5189,7 @@
 གང་ཟག་གི་བསམ་པ་ལ་དགོངས་པ|thinking of a person's attitude; in consideration of a person's thought
 གང་ཟག་གི་བྱེ་བྲག|instance of a person
 གང་ཟག་གི་ལོངས་སྤྱད་བྱ|objects of use of a person
-གང་ཟག་ལ་མི་སྲིད་སྙམ་པ|thinking, "[Such and such] does not occur among persons"
+གང་ཟག་ལ་མི་སྲིད་སྙམ་པ|thinking, '[Such and such] does not occur among persons'
 གང་ཟག་མ་ཡིན་པའི་ལྡན་མིན་འདུ་བྱེད|non-person compositional factor
 གང་ཟག་མ་ཡིན་པར་གྱུར་པའི་ལྡན་མིན་འདུ་བྱེད|non-associated compositional factors that are not persons; non-associated compositional factor which is not a person
 གང་ཟག་མེད་པ|non-existence of persons
@@ -5209,7 +5209,7 @@
 གང་ཟག་ཡོད་པར་ཁས་བླང་བར་མི་བྱ|persons are not to be asserted as existing
 གང་ཟག་ཡོད་པར་སྨྲ་བ|Proponent of a Person
 གང་ཟག་ཟླ་མེད་པ|person without equal; matchless person
-གང་ཞེ་ན|if [someone asks], "What?"; if [someone asks], "Which?"
+གང་ཞེ་ན|if [someone asks], 'What?'; if [someone asks], 'Which?'
 གང་ཞིག|for one [indicates the first part of a reason]; whoever; which
 གངས|snow
 གངས་ཅན|that endowed with snow; The Snowy Land [i.e., Tibet]
@@ -5426,8 +5426,8 @@
 གནས་ལ་དགའ|delight in an abode
 གནས་ལུགས|[abide-system]; mode of subsistence; mode of abiding(N); way of being; mode of existence; way things are; state of things
 གནས་ལུགས་མཐར་ཐུག|final mode of subsistence
-གནས་ལུགས་ནད་གཞི|actual situation [of the body] which is the basis of disease (the first of the three roots of the "Illustrated Trees of Medicine")
-གནས་ལུགས་རྩ་བ|definition of the body (the first of the three roots of the "Illustrated Trees of Medicine")
+གནས་ལུགས་ནད་གཞི|actual situation [of the body] which is the basis of disease (the first of the three roots of the 'Illustrated Trees of Medicine')
+གནས་ལུགས་རྩ་བ|definition of the body (the first of the three roots of the 'Illustrated Trees of Medicine')
 གནས་མ་བུ་པ|Vatsīputrīya [name of a Buddhist school]
 གནས་མ་མཆིས་པ|non-abiding; not remain
 གནས་མ་ཡིན་པ|non-abiding; not remaining
@@ -5517,7 +5517,7 @@
 གནོན་པར་འགྱུར་བ|to press down; to subdue; to cover
 གནོན་པར་བྱ་བ|to press down; to subdue; to cover
 གནོང|ashamed
-གཉན|evil spirit; a type of wild sheep which has a huge horn structure; "chronic sore" or "tumor" (refers to a swelling with abrasions)
+གཉན|evil spirit; a type of wild sheep which has a huge horn structure; 'chronic sore' or 'tumor' (refers to a swelling with abrasions)
 གཉེན|relative; friend
 གཉེན་པོ|antidote; counteragents
 གཉེན་པོ་བསྒོམ་པ|cultivate antidote
@@ -5765,7 +5765,7 @@
 གྲུབ་མཐའ|tenet; established conclusion; tenet system; system of tenets; system; outlook
 གྲུབ་མཐའ་བཞིའི་ལུགས་ཀྱི་ཀུན་རྫོབ་དང་དོན་དམ་པའི་དོན་རྣམ་པར་བཤད་པ་ལེགས་བཤད་དཔྱིད་ཀྱི་དཔལ་མོའི་གླུ་དབྱངས|Explanation of the Conventional and the Ultimate in the Four Systems of Tenets: The Spring Cuckoo's Song of Good Explanations [by Ngag-wang-pal-dan (ngag dbang dpal ldan, b. 1797)]
 གྲུབ་མཐའ་དོར་བ|forsake the tenet [by holding a tenet contrary to it]
-གྲུབ་མཐའ་ཀུན་ཤེས་ནས་མཐའ་བྲལ་སྒྲུབ་པ་ཞེས་བྱ་བའི་བསྟན་བཅོས་རྣམ་པར་བཤད་པ་ལེགས་བཤད་ཀྱི་རྒྱ་མཚོ|Ocean of Good Explanations: Explanation of  the Treatise "Establishment of Freedom from Extremes through Understanding All Tenets" [by the Translator Tag-tshang Shay-rab-rin-chen (stag tshang lo tsā bā shes rab rin chen; b. 1405)]
+གྲུབ་མཐའ་ཀུན་ཤེས་ནས་མཐའ་བྲལ་སྒྲུབ་པ་ཞེས་བྱ་བའི་བསྟན་བཅོས་རྣམ་པར་བཤད་པ་ལེགས་བཤད་ཀྱི་རྒྱ་མཚོ|Ocean of Good Explanations: Explanation of  the Treatise 'Establishment of Freedom from Extremes through Understanding All Tenets' [by the Translator Tag-tshang Shay-rab-rin-chen (stag tshang lo tsā bā shes rab rin chen; b. 1405)]
 གྲུབ་མཐའ་རྩ་བ|The Root Text on Tenets [by Jam-yang-shay-pa which is the basis for his own comentary called Great Exposition of Tenets (grub mtha' chen mo) in its short title]
 གྲུབ་མཐའ་སྨྲ་བ|proponent of tenets
 གྲུབ་མཐའི་རྣམ་བཞག|presentation of tenets [genre of literature]
@@ -6235,7 +6235,7 @@
 གཟུགས་གཟུགས་འཛིན་རྟོག་པའི་ཞེན་གཞིར་རང་གི་མཚན་ཉིད་ཀྱིས་གྲུབ་པ|form's establishment by way of its own character as the referent of a conceptual consciousness apprehending a form
 གཟུགས་གཟུགས་འཛིན་རྟོག་པའི་ཞེན་གཞིར་རང་གི་མཚན་ཉིད་ཀྱིས་གྲུབ་པར་སྒྲོ་བཏགས་པའི་ཆ|superimposed factor that a form is established by way of its own character as the referent of a conceptual consciousness apprehending a form
 གཟུགས་གཟུགས་འཛིན་རྟོག་པའི་ཞེན་གཞིར་རང་གི་མཚན་ཉིད་ཀྱིས་གྲུབ་པར་སྣང་བ|appearance that a form is established by way of its own character as the referent of a conceptual consciousness apprehending a form
-གཟུགས་གཟུགས་ཞེས་པའི་སྒྲའི་འཇུག་གཞི|form's being the basis for affixing the term "form"
+གཟུགས་གཟུགས་ཞེས་པའི་སྒྲའི་འཇུག་གཞི|form's being the basis for affixing the term 'form'
 གཟུགས་གཟུགས་ཞེས་རྗོད་པའི་སྒྲ་འཇུག་པའི་འཇུག་གཞིར་རང་གི་མཚན་ཉིད་ཀྱིས་གྲུབ་པ|establishment of form by way of its own character as the referent of a term expressing “form”
 གཟུགས་ཁམས|form realm
 གཟུགས་ཁམས་ཀྱི་ལྷ|god of the Form Realm
@@ -6253,7 +6253,7 @@
 གཟུགས་ལ་སོགས་པ|form, etc.; forms and so forth
 གཟུགས་ལ་སོགས་པ་ཡོད་པ་ཉིད་དུ་བསྟན་པ|form and so forth are indicated as existent
 གཟུགས་ལ་སོགས་པ་ཡུལ་ལྔ|the four objects, form, etc.
-གཟུགས་ལ་སོགས་ཞེས་བྱ་བའི་གཞི|the bases, "form and so forth"
+གཟུགས་ལ་སོགས་ཞེས་བྱ་བའི་གཞི|the bases, 'form and so forth'
 གཟུགས་མ་ཡིན་པ|formless; non-form
 གཟུགས་མང་བ|many forms; in many forms
 གཟུགས་མེད|formless; formless [absorption]
@@ -6360,7 +6360,7 @@
 ཇི་ལྟ་བུ|[what-like]; how; what
 ཇི་ལྟ་བུར་གྲུབ་པའི་ཤེས་རབ་ཀྱིས|how it is established (by exalted wisdom)
 ཇི་ལྟ་ཇི་ལྟར|accordingly; in accordance with
-ཇི་ལྟ་ཞེ་ན|when one asks how?",  (T)"
+ཇི་ལྟ་ཞེ་ན|when one asks how?',  (T)'
 ཇི་ལྟར|[what-like]; how; just as; what
 ཇི་ལྟར་་་་་འདི་ལྟར|how is it that ...
 ཇི་ལྟར་འདི་ལྟར|how is it that ...?(S 1)
@@ -6530,12 +6530,12 @@
 ཁོ་བོ|I
 ཁོ་བོས་བྲིས་པ་ལས་ཤེས་པར་བྱའོ|These are to be known through/_from my own writings
 ཁོ་བོས་བཤད་པར་བྱ|I will explain [this]
-ཁོ་བོས་སྔོན་པོ་མཐོང་ངམ་མ་མཐོང་སྙམ་པའི་ཐེ་ཚོམ་འདྲེན་པར་བྱེད་པའི་སྔོན་འཛིན་དབང་པོ་མངོན་སུམ|a sense direct perception apprehending blue which induces a doubting consciousness that thinks, "Was blue seen or not?"
+ཁོ་བོས་སྔོན་པོ་མཐོང་ངམ་མ་མཐོང་སྙམ་པའི་ཐེ་ཚོམ་འདྲེན་པར་བྱེད་པའི་སྔོན་འཛིན་དབང་པོ་མངོན་སུམ|a sense direct perception apprehending blue which induces a doubting consciousness that thinks, 'Was blue seen or not?'
 ཁོ་ཅག|we
 ཁོ་ལག|limb
 ཁོ་ན|only; just; sole
 ཁོ་ན་རེ་་་་་ཟེར་ན|if someone says...
-ཁོ་ན་ཞེས་བྱ་བའི་སྒྲས་ངེས་པར་གཟུང་བ|delimited by the term "only"
+ཁོ་ན་ཞེས་བྱ་བའི་སྒྲས་ངེས་པར་གཟུང་བ|delimited by the term 'only'
 ཁོ་ནར|only
 ཁོག་པ|the inside; the trunk (of the body); the container
 ཁོལ་ཕྱུང|extract; excerpt [from a text]
@@ -6574,7 +6574,7 @@
 ཁོར་ཡུག་ཏུ|in the surrounding area
 ཁྲ|sparrow hawk
 ཁྲ་བོ|mottled; variegated
-ཁྲ་མ|type of grain; quick "60 day" barley
+ཁྲ་མ|type of grain; quick '60 day' barley
 ཁྲག|blood
 ཁྲག་འཐུང|drinking blood
 ཁྲག་དང་ཁུ་བ་དང་རླུང|blood, semen, and wind
@@ -6767,7 +6767,7 @@
 ཀླུང་ལ་རྣག|pus-river
 ཀོ|still again; still
 ཀོ་གྲུ|leather boat
-ཀོང་སྤྲུལ་བོལ་གྲོས་མཐའ་ཡས|Kong-trül Lo-drö-ta-yay [author of "the Encyclopedia" (theg pa'i sgo kun...)] complete
+ཀོང་སྤྲུལ་བོལ་གྲོས་མཐའ་ཡས|Kong-trül Lo-drö-ta-yay [author of 'the Encyclopedia' (theg pa'i sgo kun...)] complete
 ཀུན|all; complete; entire; whole; total; entirety; thorough
 ཀུན་འབྱུང|source; origination
 ཀུན་འབྱུང་བའི་དོན་རྣམ་པ་གསུམ|three aspects of the meaning of soure/_origin/_origination
@@ -7130,7 +7130,7 @@
 ལས་ཡོངས་སུ་སྦྱོང་བ|thoroughly purify actions/_karma
 ལས་ཞིག་པའི་ཞིག་པ|the state of disintegration which is an action's having disintegrated
 ལྦ་བ|goiter
-ལྕ་བ|a leaf called "ja-wa"
+ལྕ་བ|a leaf called 'ja-wa'
 ལྕགས|iron
 ལྕགས་ཀྱི་རི|iron mountains
 ལྕགས་ཀྱི་ཤལ་མ་ལ|iron hell-trees
@@ -7264,7 +7264,7 @@
 ལེགས་སམ་སྙམ་སྟེ|I think that [X] is good(LG)
 ལེགས་སོ|good!; well-done!
 ལེགས་སོ་ལེགས་སོ|good, good!; well-done!
-ལེགས་སོ་ཞེས་བྱ་བ་བྱིན|give [approval]: "Good!"
+ལེགས་སོ་ཞེས་བྱ་བ་བྱིན|give [approval]: 'Good!'
 ལེགས་སུ་གྲུབ|well-established; properly established
 ལེན|take; obtain; appropriate; appropriating; accept; grasping
 ལེན་དང་སྤོང་བ|appropriating and abandoning
@@ -7427,7 +7427,7 @@
 ལོ|year; [particle indicating the end of a statement]; leaf; petal (=lo ma)
 ལོ་འདབ|leaf
 ལོ་གཅིག|one year; a year
-ལོ་གསར་མེ་ཏོག|the "new year flower" (lo gsar me tog); a red leaved plant about two feet high also called (mon sne dmar po)
+ལོ་གསར་མེ་ཏོག|the 'new year flower' (lo gsar me tog); a red leaved plant about two feet high also called (mon sne dmar po)
 ལོ་ལེགས|good harvest
 ལོ་མ|leaf
 ལོ་མ་འདོར་ལེན|discarding and appropriating leaves
@@ -7483,7 +7483,7 @@
 ལོན་པ|take up; mature; developed; to pass [of time]; to reach; taken up; reached at; arrived at
 ལོང|duration; spare time
 ལོང་བུ|ankle
-ལོང་ཁྲིད|a guide; "leader of the blind"
+ལོང་ཁྲིད|a guide; 'leader of the blind'
 ལོང་པོ|rising
 ལོངས|enjoyment; duration; spare time; take; appropriate; obtain; accept; enjoy
 ལོངས་པར་སྤྱོད|resources; enjoyments; usables; enjoyment
@@ -7573,7 +7573,7 @@
 ལྟོ་ལྡིར|bulbous(D2)
 ལྟོ་ལྡིར་བ|bulbous
 ལྟོ་ལྡིར་ཞབས་ཤུམ་ཆུ་སྐྱོར་གྱི་དོན་བྱེད་ནུས་པ|bulbous, flat-bottomed, able to perform the function of holding water(D2)
-ལྟོ་ལྡིར་ཞབས་ཞུམ་ཆུ་སྐྱོར་གྱི་དོན་བྱེད་ནུས་པ་བུམ་པ་ཡིན་པར་མི་ཤེས་པའི་སྐྱེས་བུའི་རྒྱུད་ཀྱི་བུམ་པ་ཞེས་པའི་སྒྲ་ཙམ་ལ་བརྟེན་ནས་སྐྱེས་བུའི་བུམ་འཛིན་རྟོག་པ|a conceptual consciousness--in the continuum of a person who does not know that a bulbous flat-based thing that is able to perform the function of holding is a pot--which, generated in dependence on merely the sound pot," apprehends pot"
+ལྟོ་ལྡིར་ཞབས་ཞུམ་ཆུ་སྐྱོར་གྱི་དོན་བྱེད་ནུས་པ་བུམ་པ་ཡིན་པར་མི་ཤེས་པའི་སྐྱེས་བུའི་རྒྱུད་ཀྱི་བུམ་པ་ཞེས་པའི་སྒྲ་ཙམ་ལ་བརྟེན་ནས་སྐྱེས་བུའི་བུམ་འཛིན་རྟོག་པ|a conceptual consciousness--in the continuum of a person who does not know that a bulbous flat-based thing that is able to perform the function of holding is a pot--which, generated in dependence on merely the sound pot,' apprehends pot'
 ལྟོས|verb: rely; rely on; to view; to looknoun: view; false view
 ལྟོས་གཞི|basis of relation
 ལྟོས་མེད་དུ|without depending; independently
@@ -7873,7 +7873,7 @@
 མ་ཡིན་དགག་དང་མེད་དགག|affirming negative and non-affirming negative
 མ་ཡིན་དགག་གི་གཞན་སེལ|other-eliminator/_other-elimination that is an affirming negative
 མ་ཡིན་ཀུན་རྟོག|unreal imputation
-མ་ཡིན་ནོ་ཞེས་ཟེར་ན|if [someone] should say "it is not" ... (T)
+མ་ཡིན་ནོ་ཞེས་ཟེར་ན|if [someone] should say 'it is not' ... (T)
 མ་ཡིན་པ་དེ|the not-being  (T)
 མ་ཡིན་པ་ལས་ལོག་པ|opposite from not being; opposite from non-; non-non
 མ་ཡིན་པར་གྱུར་པའི་རྟག་པ|something which a permanent phenomenon is not
@@ -8866,7 +8866,7 @@
 མོག་མོག་པོ|lusterless
 མོག་མོག་པོར་བྱེད|make lusterless
 མོན་ལམ་ཆེན་མོ|Great Prayer Festival
-མོན་སྣེ་དམར་པོ|a red leaved plant about two feet high, commonly called the "new year flower" (lo gsar me tog)
+མོན་སྣེ་དམར་པོ|a red leaved plant about two feet high, commonly called the 'new year flower' (lo gsar me tog)
 མོས|belief; imagination; faith; interest; inclined towards; prefer; zeal; imagine; keen for
 མོས་མིན|non-belief/_faith/_interest/_inclination towards/_zeal/_keenness
 མོས་པ|belief; interest; imagination; faith; inclined towards; prefer; zeal; imagine; keen for; devoted
@@ -9355,7 +9355,7 @@
 ནེ་ལ|kite
 ནེ་ཙོ|parrot
 ང|I
-ང་དང་ངའི་ཞེས་བྱ་བ|I and mine; "I and my"
+ང་དང་ངའི་ཞེས་བྱ་བ|I and mine; 'I and my'
 ང་རང་གཉིས|we two
 ང་རྒྱལ|[I-victor]; pride; I-principle
 ང་རྒྱལ་ཅན|prideful; conceited
@@ -9372,8 +9372,8 @@
 ང་ཡིར་འཛིན་པ|conceive/_apprehend as mine
 ངའི|my; mine
 ངའི་མིག|my eye
-ངའོ་སྙམ་པ|the thought "I"
-ངའོ་སྙམ་པའི་ང་རྒྱལ|pride of thinking "I"
+ངའོ་སྙམ་པ|the thought 'I'
+ངའོ་སྙམ་པའི་ང་རྒྱལ|pride of thinking 'I'
 ངད|strong aroma
 ངག|speech
 ངག་འཆལ|senseless chatter
@@ -9586,8 +9586,8 @@
 ནུས་པ་དང་ལྡན་པ|possessing the capacity; one who possesses a capacity(Lati)
 ཉ|fish
 ཉ་དང་ཉུང་མ་བསྲེས་པའོ|to [absurdly] confuse fish with turnnips
-ཉ་ཊཱི་ཀཱ|Dispeller of Mental Darkness Commentary [on Maitreya's "Ornament for Clear Realization"]
-ཉ་ཊིཀ|Dispeller of Mental Darkness Commentary [on Maitreya's "Ornament for Clear Realization"]
+ཉ་ཊཱི་ཀཱ|Dispeller of Mental Darkness Commentary [on Maitreya's 'Ornament for Clear Realization']
+ཉ་ཊིཀ|Dispeller of Mental Darkness Commentary [on Maitreya's 'Ornament for Clear Realization']
 ཉག་གཅིག|uniquely
 ཉལ|lie down; sleep
 ཉལ་བ|lie down; sleep
@@ -10295,7 +10295,7 @@
 ཕྱིན་དྲུག|six perfections
 ཕྱིན་མ་ཐག་ཏུ|as soon as reaching; immediately/_right/_just after arriving
 ཕྱིན་ནས|having gone; having obtained
-ཕྱིན་པ|went [past of 'gro, "to go"]; reached
+ཕྱིན་པ|went [past of 'gro, 'to go']; reached
 ཕྱིན་པ་པ|goer
 ཕྱིན་པའི་གནས|level reached  (T)
 ཕྱིན་པར་འགྱུར|reached; went
@@ -10349,7 +10349,7 @@
 ཕྱོགས་གནས|abiding in a position
 ཕྱོགས་གསུམ་པ་མེད་པ|a third position does not exist  (T)
 ཕྱོགས་ཀྱི་གླང་པོ|Dignāga
-ཕྱོགས་ཀྱི་གོས་ཅན|Digambara(N) (lit.: "sky-clad")
+ཕྱོགས་ཀྱི་གོས་ཅན|Digambara(N) (lit.: 'sky-clad')
 ཕྱོགས་མེད|[bias-not-exist]; directionless; without bias; without partisanship
 ཕྱོགས་མེད་པ|[bias-not-exist]; directionless; without bias; without partisanship
 ཕྱོགས་མཚམས|intermediate direction; directions and intermediate directions
@@ -10380,7 +10380,7 @@
 པུར་རྒྱལ|kingdom of the dead [an epithet of Tibet]
 ར|goat
 ར|[accusative; dative and locative particle] to; as; -ly; in; at
-ར་མཉེ|a large leaf called "ra-nay"
+ར་མཉེ|a large leaf called 'ra-nay'
 ར་རྒོད|wild goat
 རབ|best; highest; as an intensifier: very
 རབ་འབྲིང་ཐ|high, middling, low
@@ -10896,7 +10896,7 @@
 རྡོ་ལེབ|flat stone; flat rock
 རྡོ་རྗེ|diamond; vajra; adamantine
 རྡོ་རྗེ་འཆང|[vajra-holding]; Vajradhara, the highest Tantric deity
-རྡོ་རྗེ་བསྙེམས་མ|p.n. of a female deity [Vajrasattva's consort "Vajra-Haughtiness"]
+རྡོ་རྗེ་བསྙེམས་མ|p.n. of a female deity [Vajrasattva's consort 'Vajra-Haughtiness']
 རྡོ་རྗེ་བཟླས་པ|vajra repetition
 རྡོ་རྗེ་གླུ|Song of the Vajra
 རྡོ་རྗེ་གཟེགས་མ|vajra node; diamond slivers
@@ -11213,8 +11213,8 @@
 རྒྱུའི་ཐེག་པ|Cause Vehicle
 རྒྱུད|continuum; mental continuum; life continuum; tantra
 རྒྱུད་འགལ|indirectly contradictory; indirect contradictories
-རྒྱུད་བླ་ཏཱིཀ་ཆེན|Gyel-tsap's (rgyal tshab) Great Commentary on (Maitreya's) "Great Vehicle Treatise on the Sublime Continuum"
-རྒྱུད་བླའི་འགྲེལ་པ|[Asaṅga's] Commentary on (Maitreya's) "Great Vehicle Treatise on the Sublime Continuum" [theg pa chen po'i rgyud bla ma'i bstan bcos kyi rnam par bshad pa; P5526, vol. 108]
+རྒྱུད་བླ་ཏཱིཀ་ཆེན|Gyel-tsap's (rgyal tshab) Great Commentary on (Maitreya's) 'Great Vehicle Treatise on the Sublime Continuum'
+རྒྱུད་བླའི་འགྲེལ་པ|[Asaṅga's] Commentary on (Maitreya's) 'Great Vehicle Treatise on the Sublime Continuum' [theg pa chen po'i rgyud bla ma'i bstan bcos kyi rnam par bshad pa; P5526, vol. 108]
 རྒྱུད་བཞི|Four [Medical] Tantras
 རྒྱུད་དྲུག|six transmigrations/_tantras/_continuums
 རྒྱུད་ལུང་རྟོགས་ཀྱི་ཡོན་ཏན་གྱིས་ལྕི་བ|mental continuum weighty with good qualities of scripture and realization
@@ -11364,9 +11364,9 @@
 རིགས་པ་ཅན|Logician
 རིགས་པ་དང་ལྡན་པར|suitably; properly
 རིགས་པ་དང་མི་འགལ་བ|not contradictory with reasoning
-རིགས་པ་དྲུག་ཅུ་པ|Nāgārjuna"s Sixty Stanzas of Reasoning, P. 5225, vol. 95
-རིགས་པ་དྲུག་ཅུ་པའི་འགྲེལ་པ|Commentary on (Nāgārjuna's) "Sixty Stanzas of Reasoning" [by Candrakīrti (zla ba grags pa); P 5265, vol. 98]
-རིགས་པ་དྲུག་ཅུ་པའི་ཚིག་ལེའུར་བྱས་པ|Nāgārjuna"s Sixty Stanzas of Reasoning, P. 5225, vol. 95
+རིགས་པ་དྲུག་ཅུ་པ|Nāgārjuna's Sixty Stanzas of Reasoning, P. 5225, vol. 95
+རིགས་པ་དྲུག་ཅུ་པའི་འགྲེལ་པ|Commentary on (Nāgārjuna's) 'Sixty Stanzas of Reasoning' [by Candrakīrti (zla ba grags pa); P 5265, vol. 98]
+རིགས་པ་དྲུག་ཅུ་པའི་ཚིག་ལེའུར་བྱས་པ|Nāgārjuna's Sixty Stanzas of Reasoning, P. 5225, vol. 95
 རིགས་པ་ལ་བརྟེན་ནས|in dependence upon reasoning
 རིགས་པ་ལྟར་སྣང|pseudo/_quasi/_counterfeit reasoning
 རིགས་པ་མ་ཡིན|not suitable; unsuitable; improper; non-reasoning
@@ -11405,8 +11405,8 @@
 རིགས་ཐ་དད་པ|different lineage(s); different type(s); different types; phenomena which are different types
 རིགས་ཐིག|Dharmakīrti's Drop of Reasonings, P. 5711, vol. 130
 རིགས་ཐིག་དར|Dharmakīrti's Drop of Reasonings, P. 5711, vol. 130
-རིགས་ཐིག་དར་ཊིཀ|Gyel-tsap's Commentary on [Dharmakīrti's] "Drop of Reasonings"
-རིགས་ཐིག་ཀྱི་ཕྱོགས་སྔ་མདོར་བསྡུས|Brief Exposition of the Positions of Opponents of [Dharmakīrti's] "Drop of Reasoning" [by Kamalaśīla]
+རིགས་ཐིག་དར་ཊིཀ|Gyel-tsap's Commentary on [Dharmakīrti's] 'Drop of Reasonings'
+རིགས་ཐིག་ཀྱི་ཕྱོགས་སྔ་མདོར་བསྡུས|Brief Exposition of the Positions of Opponents of [Dharmakīrti's] 'Drop of Reasoning' [by Kamalaśīla]
 རིགས་ཚོགས|Collections of Reasoning(N)
 རིགས་ཚོགས་དྲུག|Nāgārjuna's Six Collections of Reasonings
 རིགས་ཡང་དག་པར་འགྲུབ་པ|correctly established; correctly established in a lineage
@@ -11684,7 +11684,7 @@
 རླུང་ལྦ|wind goiter
 རླུང་ནི་རང་བཞིན་གྱིས་གཡོ་བའི་ཕྱིར|because wind is naturally moving
 རྨ་བྱ|peacock
-རྨ་བྱའི་མདོངས|the "eyes" in a peacock's feathers(LWT 21)
+རྨ་བྱའི་མདོངས|the 'eyes' in a peacock's feathers(LWT 21)
 རྨད་འབྱུང་བ|marvellous; astonishing; wonderful; marvel
 རྨད་བྱུང་བ|marvellous; astonishing; wonderful; marvel
 རྨད་དུ་འབྱུང་བ|marvellous; astonishing; wonderful; marvel
@@ -11753,9 +11753,9 @@
 རྣམ་འབྱེད|differentiate; separate; open
 རྣམ་འབྱེད་པ|differentiate; separate; open
 རྣམ་འབྱེས|distinct
-རྣམ་འགྲེལ|[Dharmakīrti's] Commentary on (Dignāga's) "Compilation of Valid/_Prime Cognition" [tshad ma rnam 'grel gyi tshig le'ur byas pa, pramāṇa-vārttikakārikā; P5709, vol. 130], commentary [in general]
+རྣམ་འགྲེལ|[Dharmakīrti's] Commentary on (Dignāga's) 'Compilation of Valid/_Prime Cognition' [tshad ma rnam 'grel gyi tshig le'ur byas pa, pramāṇa-vārttikakārikā; P5709, vol. 130], commentary [in general]
 རྣམ་འགྲེལ་བརྩམས|composition of commentary
-རྣམ་འགྲེལ་ཐར་ལམ་གསལ་བྱེད|[Gyel-tsap's] Illumination of the Path to Liberation /_Explanation of (Dharmakīrti's) Commentary on (Dignāga's) "Compilation of Prime Cognition": Unerring Illumination of the Path to Liberation [thar lam gsal byed /_tshad ma rnam 'grel gyi tshig
+རྣམ་འགྲེལ་ཐར་ལམ་གསལ་བྱེད|[Gyel-tsap's] Illumination of the Path to Liberation /_Explanation of (Dharmakīrti's) Commentary on (Dignāga's) 'Compilation of Prime Cognition': Unerring Illumination of the Path to Liberation [thar lam gsal byed /_tshad ma rnam 'grel gyi tshig
 རྣམ་འགྱུར|manifestation
 རྣམ་འཇོམས་པ|harm; injure; damage
 རྣམ་འཕེལ|increase; impel
@@ -12269,7 +12269,7 @@
 རྟགས|verb: to examinenoun: reason; sign; conceptuality; thought; conceptual consciousness; imputation; logical mark
 རྟགས་འཛིན་སེམས|mind apprehending the sign
 རྟགས་འཛིན་སེམས་སུ་གྱུར་པའི་རྟོག་པ|conceptual consciousness that is a mind apprehending a sign
-རྟགས་བསལ་ཁས་བླངས|the reason and "thesis" [consequence] have been accepted/_asserted
+རྟགས་བསལ་ཁས་བླངས|the reason and 'thesis' [consequence] have been accepted/_asserted
 རྟགས་ལྟར་སྣང|pseudo/_quasi/_counterfeit sign/_reason
 རྟགས་མ་གྲུབ|the reason is not established(D1)
 རྟགས་པ|to examine; conceptuality; thought; conceptual consciousness; imputation
@@ -12457,8 +12457,8 @@
 རྩ་བ|root; basic; fundamental; primary
 རྩ་བ་བཟང་པོ|good roots
 རྩ་བ་དྲུག་པ|the six/_sixth fundamental   (T)
-རྩ་བ་ཤེས་རབ|Nāgārjuna's Fundamental Treatise on the Middle Way, Called "Wisdom"; P5224, Vol. 95
-རྩ་བ་ཤེས་རབ་ཀྱི་འགྲེལ་པ|commentary on  (Nāgārjuna's) Fundamental Treatise on the Middle Called "Wisdom"
+རྩ་བ་ཤེས་རབ|Nāgārjuna's Fundamental Treatise on the Middle Way, Called 'Wisdom'; P5224, Vol. 95
+རྩ་བ་ཤེས་རབ་ཀྱི་འགྲེལ་པ|commentary on  (Nāgārjuna's) Fundamental Treatise on the Middle Called 'Wisdom'
 རྩ་བའི་ཆོས་ཀྱི་དབྱིངས|fundamental realm of phenomena
 རྩ་བའི་དེ་ཁོ་ན|fundamental reality
 རྩ་བའི་ཁ་དོག|primary colors
@@ -12479,7 +12479,7 @@
 རྩ་མདུད|channel-knot
 རྩ་རླུང་ཐིག་ལེ་གསུམ|the three channels, winds, and drops
 རྩ་རོ་མ|right channel
-རྩ་ཤེས|Nāgārjuna's Fundamental Treatise on the Middle Way Called "Wisdom"
+རྩ་ཤེས|Nāgārjuna's Fundamental Treatise on the Middle Way Called 'Wisdom'
 རྩ་ཤེས་ཏཱི་ཀ་ཆེན|Dzong-ka-ba's Great Commentary on (Nāgārjuna's) 'Treatise on the Middle Way'
 རྩ་ཚིག|root text; basic text
 རྩད་བཅད་པ|research(N)
@@ -12515,7 +12515,7 @@
 རྩིག་ཕུག|hole in the wall
 རྩིས|calculation; computation; to reckon; calculate; to hold as important; enumeration
 རྩིས་པ|accountant; astrologer
-རྩིས་ཟིན་པ|affected by the force [perhaps from rtsi, "sap"]
+རྩིས་ཟིན་པ|affected by the force [perhaps from rtsi, 'sap']
 རྩོད|debate; objection; dispute
 རྩོད་བཟློག|Nāgārjuna's Refutation of Objections(DASI 578.4) (P5228, Vol. 95)
 རྩོད་དུས|age of conflict
@@ -12609,7 +12609,7 @@
 ས་བཞི་པོ་ལ་ཡང་དག་བརྟེན|depending upon the fourth ground; based on the fourth ground
 ས་ཆེན་པོ|great ground; great earth
 ས་ཆེན་པོ་ལ་ཞུགས་པ|enter into a great ground/_level
-ས་དག་ནི་གནས་པ་ཞེས་བྱའོ|grounds are called "abodes"  ? (T)
+ས་དག་ནི་གནས་པ་ཞེས་བྱའོ|grounds are called 'abodes'  ? (T)
 ས་དང་པོ|first ground; first [Bodhisattva] ground
 ས་དང་པོ་ལ|on the first ground
 ས་དང་པོ་ལ་འཇུག་པ|enter into the first ground
@@ -13026,7 +13026,7 @@
 སེ་གོལ་གཏོགས|snap the fingers
 སེ་ར་སྨད|May College of Se-ra Monastic University
 སེ་རུ་རང་རྒྱལ་གྱི་ལམ་ཤེས་པའི་ལམ་ཤེས|knower of paths that knows Solitary Victor paths
-སེ་རྭ|Se-ra ("Rain of Hail")
+སེ་རྭ|Se-ra ('Rain of Hail')
 སེལ|clear away; remove; throw off; eliminate; avoid; exclude
 སེལ་འཇུག|eliminative engager
 སེལ་འཇུག་གི་བློ|awareness that is an eliminative engager; mind of partial engagement
@@ -13042,7 +13042,7 @@
 སེམས|mind
 སེམས་འབྱུང་བ|mental factor; arising of mind; mental arising
 སེམས་འདི|this mind; this thought
-སེམས་འདི་བཟང་བ་མིན་སྙམ|(thinking), this thought is not good""
+སེམས་འདི་བཟང་བ་མིན་སྙམ|(thinking), this thought is not good''
 སེམས་འགྲེལ་སྐོར་གསུམ|three cycles of Bodhisattva commentaries
 སེམས་འཇོག་གོ|setting the mind
 སེམས་འཇོག་པ|setting the mind
@@ -13346,7 +13346,7 @@
 སྒེའུ་ཁུང|window
 སྒོ|approach; door; mode; gate; infuse; deposit; order
 སྒོ་བ|infuse; deposit; order
-སྒོ་མང|many doors; Go-mang ("Many Doors") College [of Dre-pung Monastic University]
+སྒོ་མང|many doors; Go-mang ('Many Doors') College [of Dre-pung Monastic University]
 སྒོ་མང་གྲྭ་ཚང|Go-mang College [of Dre-pung Monastic University]
 སྒོ་ནས|[door-from]; from the point of view; from the viewpoint; from the approach of; through; by way of
 སྒོ་ང|egg; gonad
@@ -13396,7 +13396,7 @@
 སྒྲ་དོན་འདྲེས་རུང་དུ་འཛིན་པའི་ཞེན་རིག|determinative knower that apprehends a sound [generality] and a meaning [generality] as suitable to be associated/_mixed
 སྒྲ་དོན་འདྲེས་རུང་དུ་འཛིན་པའི་ཞེན་རིག་དང་བྲལ་བ|free from being a determinative knower that apprehends a sound [generality] and a meaning [generality] as suitable to be associated/_mixed
 སྒྲ་དོན་འདྲེས་རུང་དུ་འཛིན་པའི་ཞེན་རིག་དང་བྲལ་བའི་རིག་པ|awareness free from being a determinative knower that apprehends a sound [generality] and a meaning [generality] as suitable to be associated/_mixed
-སྒྲ་གཅན|Rāhu [in Indian astronomy, the name of a "planet"]
+སྒྲ་གཅན|Rāhu [in Indian astronomy, the name of a 'planet']
 སྒྲ་གནས་ཀྱི་བསམ་གཏན|concentration of abiding in sound
 སྒྲ་ཇི་བཞིན|literal; literally; literal meaning
 སྒྲ་ཇི་བཞིན་དུ|literal; literally
@@ -13406,8 +13406,8 @@
 སྒྲ་ཇི་བཞིན་པར་ཞེན་པ|adhering to...as literal
 སྒྲ་མེད|without a sound; without terms/_words
 སྒྲ་མི་ཉན|Unpleasant Sound
-སྒྲ་མི་རྟག་ཅེས་པའི་ངག་ཙམ་ལ་བརྟེན་ནས་སྒྲ་མི་རྟག་པར་འཛིན་པའི་བློ|awareness apprehending sound as impermanent in dependence upon merely hearing, "Sound is impermanent"
-སྒྲ་མི་རྟག་གམ་སྙམ་པའི་ཐེ་ཚོམ|a doubting consciousness that thinks, "Is sound impermanent?" [or, "Sound is probably impermanent."]
+སྒྲ་མི་རྟག་ཅེས་པའི་ངག་ཙམ་ལ་བརྟེན་ནས་སྒྲ་མི་རྟག་པར་འཛིན་པའི་བློ|awareness apprehending sound as impermanent in dependence upon merely hearing, 'Sound is impermanent'
+སྒྲ་མི་རྟག་གམ་སྙམ་པའི་ཐེ་ཚོམ|a doubting consciousness that thinks, 'Is sound impermanent?' [or, 'Sound is probably impermanent.']
 སྒྲ་མི་རྟག་པ|impermanence of sound; impermanent sound
 སྒྲ་མི་རྟག་པར་སྒྲུབ་པའི་རྟགས|sign/_reason proving that sound is impermanent
 སྒྲ་མི་རྟག་རྟོགས་ཀྱི་རྗེས་དཔག|inference realizing that sound is impermanent
@@ -13418,8 +13418,8 @@
 སྒྲ་མཐར་ཐར་པ་སྟེར་བའི་བསམ་གཏན|concentration bestowing liberation at the end of sound
 སྒྲ་རིག་པ|science of grammar; science of grammar and philology
 སྒྲ་རྟག་འཛིན་རྟོག་པ|conceptual conciousness apprehending sound as permanent
-སྒྲ་རྟག་གམ་མི་རྟག་སྙམ་པའི་ཐེ་ཚོམ|A doubting consciousness that thinks, "Is sound permanent or impermanent?"
-སྒྲ་རྟག་གམ་སྙམ་པའི་ཐེ་ཚོམ|a doubting consciousness that thinks, "Is sound permanent?" [or, "Sound is probably permanent."]
+སྒྲ་རྟག་གམ་མི་རྟག་སྙམ་པའི་ཐེ་ཚོམ|A doubting consciousness that thinks, 'Is sound permanent or impermanent?'
+སྒྲ་རྟག་གམ་སྙམ་པའི་ཐེ་ཚོམ|a doubting consciousness that thinks, 'Is sound permanent?' [or, 'Sound is probably permanent.']
 སྒྲ་རྟོག་གིས་བཏགས་པ་ལ་མ་ལྟོས་པར་གྲུབ་པ|establishment without depending on imputation by terms and conceptual consciousnesses
 སྒྲ་རྟོག་གིས་བཏགས་པ་ཙམ་ཡིན་གྱི་རང་མཚན་དུ་མ་གྲུབ་པའི་ཆོས|a phenomenon that is merely impued by terms or thought and is not established by way of its own character
 སྒྲ་རྟོག་གིས་བཏགས་པའི་ངོ་བོར་རང་གི་མཚན་ཉིད་ཀྱིས་གྲུབ་པ|establishment by way of its own character as an entity for imputation by terms and conceptual consciousnesses
@@ -13584,7 +13584,7 @@
 ཤར་ལུས་འཕགས་པོ|Pūrvavideha
 ཤར་ནུབ་ཀྱི་བྱེར་སྦས|eastern and western Upagupta(BJ 74.1)
 ཤར་ཕྱོགས|eastern direction(D1)
-ཤར་རྩེ|Shar-tse ("East Point") College of Gan-den Monastic University
+ཤར་རྩེ|Shar-tse ('East Point') College of Gan-den Monastic University
 ཤར་སྒོམ|reflective meditation
 ཤས|emphasis; very strong; powerful; much
 ཤས་ཆེ་བ|very strong; powerful; much; many; a good deal
@@ -13691,10 +13691,10 @@
 ཤེས་རབ་གྱི་ཚོགས|collection of wisdom
 ཤེས་རབ་ཀྱི་དབང་པོ|power of wisdom; faculty of wisdom
 ཤེས་རབ་ཀྱི་གོ་སྒྲུབ|achieving through the armor of wisdom
-ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་བརྒྱད་སྟོང་པའི་བཤད་པ་མངོན་པར་རྟོགས་པའི་རྒྱན་གྱི་སྣང་བ|Illumination of [Maitreya's] "Ornament for Clear Realization", an Explanation of the Eight Thousand Stanza Perfection of Wisdom by Haribhadra (seng ge bzang po), P. 5189, vol. 90
+ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་བརྒྱད་སྟོང་པའི་བཤད་པ་མངོན་པར་རྟོགས་པའི་རྒྱན་གྱི་སྣང་བ|Illumination of [Maitreya's] 'Ornament for Clear Realization', an Explanation of the Eight Thousand Stanza Perfection of Wisdom by Haribhadra (seng ge bzang po), P. 5189, vol. 90
 ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྡུད་པ་ཚིགས་སུ་བཅད་པ|Condensed Perfection of Wisdom Sūtra, P. 735, vol. 21
 ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་བརྒྱ་པ|One Hundred Thousand Stanza Perfection of Wisdom Sūtra, P. 730, vol. 12
-ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པའི་མན་ངག་གི་བསྟན་བཅོས་མངོན་པར་རྟོགས་པའི་རྒྱན་གྱི་འགྲེལ་པ|Commentary on (Maitreya's) "Ornament for Clear Realization," Treatise of Quintessential Instructions on the Twenty-five Thousand Stanza Perfection of Wisdom [by Āryavimuktasena ('phags pa grol sde); P5185, vol. 88]
+ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པའི་མན་ངག་གི་བསྟན་བཅོས་མངོན་པར་རྟོགས་པའི་རྒྱན་གྱི་འགྲེལ་པ|Commentary on (Maitreya's) 'Ornament for Clear Realization,' Treatise of Quintessential Instructions on the Twenty-five Thousand Stanza Perfection of Wisdom [by Āryavimuktasena ('phags pa grol sde); P5185, vol. 88]
 ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་མདོ|Perfection of Wisdom Sūtras
 ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་སྙིང་པོ|Essence/_Heart of the Perfection of Wisdom Sūtra
 ཤེས་རབ་ཀྱི་ཕར་རོལ་ཏུ་ཕྱིན་པ|Perfection of Wisdom
@@ -13874,7 +13874,7 @@
 སྐབས|occasion; time; context; chapter; with reference to
 སྐབས་འདིར|on this occasion; in this context; at this point
 སྐབས་འདིར་བསྟན|indicated on this occasion; indicated in this context; indicated at this point
-སྐབས་འདིར་བསྟན་གྱི་ཡིད་མངོན|mental direct perception that is indicated on this occasion [i.e., in Dharmakīriti's Commentary on (Dignāga's) Compilation of Prime Cognition" (tshad ma rnam 'grel, pramāṇavarttika)]"
+སྐབས་འདིར་བསྟན་གྱི་ཡིད་མངོན|mental direct perception that is indicated on this occasion [i.e., in Dharmakīriti's Commentary on (Dignāga's) Compilation of Prime Cognition' (tshad ma rnam 'grel, pramāṇavarttika)]'
 སྐབས་འདིར་དངོས་སུ་བསྟན་པའི་མཚན་ཉིད་ངོ་བོ་ཉིད་མེད་པའི་དོན|meaning of the character-non-nature explicitly indicated on this occasion
 སྐབས་དང་པོའི་སྤྱི་དོན|general meaning of the first chapter
 སྐབས་ཁྱད་པར་ཅན་ཡོད་པའི་བསྟན་པ|teaching in relation to which there is occasion for something more special
@@ -14218,7 +14218,7 @@
 སླུ་བར|deceptive
 སླུ་བར་འགྱུར་བ|deceive
 སླུ་སྣང|deceptive appearance
-སྨད|lower; lower part; May ("Lower") College of Se-ra Monastic University
+སྨད|lower; lower part; May ('Lower') College of Se-ra Monastic University
 སྨད་བྱུང|fantastic and marvellous; fantastic; extraordinary
 སྨད་དུ་བྱུང|fantastic and marvellous(BJ 29.3)
 སྨད་དུ་བྱུང་བ|wonderful
@@ -14296,7 +14296,7 @@
 སྨྲ་ནུས་པ|able to propound; able to speak
 སྨྲ་པ|propounding; proponent; speaker; teaching; spoke; taught; speak
 སྨྲར་མེད་པ|non-propounding; not propound; unutterable
-སྨྲས|propound; speak; utter; say; advocate; "it is said"
+སྨྲས|propound; speak; utter; say; advocate; 'it is said'
 སྨྲས་ནས་རིང་མོ་ཞིག་ལོན་པ|speak for a long time
 སྨྲས་པ|It is said; propound; speak; utter; say; advocate
 སྨྲེ་སྔགས|sorrowful moaning
@@ -14315,7 +14315,7 @@
 སྣ་དབང|nose sense-power
 སྣ་མིན་སྣ་ཚོགས|various kinds
 སྣ་རྣམ་ཤེས|nose consciousness
-སྣ་རོ|[nose-horn]; the "o" vowel
+སྣ་རོ|[nose-horn]; the 'o' vowel
 སྣ་རྩེ|upperpoint (?); tip of the nose (?)
 སྣ་རྩེར་འོད་ཐིག་སྒོམ་པ|meditation on a drop of light at the upper point [tip of the nose?] ...(TGP 40)
 སྣ་སྒོ|opening
@@ -15703,18 +15703,18 @@
 ཚད་མ་དང་ལྡན་པ|measureable; having size; valid
 ཚད་མ་གསུམ|three valid cognitions (T)
 ཚད་མ་ཀུན་བཏུས|Dignāga's Compendium of Valid Cognition (P. 5700, vol. 130)
-ཚད་མ་ཀུན་ལས་བསྟུས་པའི་འགྲེལ་བཤད|Jinendrabuddhi's Commentarial Explanation of [Dignāga's] "Compilation of Prime Cognition" [P5766]
+ཚད་མ་ཀུན་ལས་བསྟུས་པའི་འགྲེལ་བཤད|Jinendrabuddhi's Commentarial Explanation of [Dignāga's] 'Compilation of Prime Cognition' [P5766]
 ཚད་མ་ཀུན་ལས་བཏུས་པ|Dignāga's Compendium of Valid Cognition (P. 5700, vol. 130, Ce)
-ཚད་མ་ཀུན་ལས་བཏུས་པའི་འགྲེལ་པ|Dignāga's Auto-Commentary on the "Compilation of Prime Cognition (P5701, vol. 130)"
+ཚད་མ་ཀུན་ལས་བཏུས་པའི་འགྲེལ་པ|Dignāga's Auto-Commentary on the 'Compilation of Prime Cognition (P5701, vol. 130)'
 ཚད་མ་ལྡན་པ|measureable; having size; valid
 ཚད་མ་མཆིས་པ|immeasurable; not valid
 ཚད་མ་མེད|not valid; measureless; measurelessness
 ཚད་མ་པ|Epistemologists
-ཚད་མ་རྣམ་འགྲེལ|[Dharmakīrti's] Commentary on (Dignāga's) "Compilation of Prime Cognition"
-ཚད་མ་རྣམ་འགྲེལ་གྱི་དཀའ་འགྲེལ|Devendrabuddhi's Commentary on the Difficult Points of (Dharmakīrti's) "Commentary on (Dignāga's) 'Compilation of Prime Cognition'" [P5717]
-ཚད་མ་རྣམ་འགྲེལ་གྱི་ཚིག་ལེའུར་བྱས་པ|[Dharmakīrti's] Commentary on (Dignāga's) "Compilation of Prime Cognition"
+ཚད་མ་རྣམ་འགྲེལ|[Dharmakīrti's] Commentary on (Dignāga's) 'Compilation of Prime Cognition'
+ཚད་མ་རྣམ་འགྲེལ་གྱི་དཀའ་འགྲེལ|Devendrabuddhi's Commentary on the Difficult Points of (Dharmakīrti's) 'Commentary on (Dignāga's) 'Compilation of Prime Cognition'' [P5717]
+ཚད་མ་རྣམ་འགྲེལ་གྱི་ཚིག་ལེའུར་བྱས་པ|[Dharmakīrti's] Commentary on (Dignāga's) 'Compilation of Prime Cognition'
 ཚད་མ་རྣམ་པར་ངེས་པ|Dharmakīrti's Ascertainment of Valid Cognition (P. 5710, vol. 130; D:4229, Dze)
-ཚད་མ་རྣམ་པར་ངེས་པའི་འགྲེལ་བཤད|[Dharmottara's] Explanatory Commentary of [Dharmakīrti's] "Ascertainment of Prime/_Valid Cognition"
+ཚད་མ་རྣམ་པར་ངེས་པའི་འགྲེལ་བཤད|[Dharmottara's] Explanatory Commentary of [Dharmakīrti's] 'Ascertainment of Prime/_Valid Cognition'
 ཚད་མའི་བློ|prime consciousness
 ཚད་མའི་མདོར|Dignāga's Compendium of Valid Cognition
 ཚད་མའི་སྐྱེས་བུ|authoritative being; valid person; authoritative person
@@ -16330,7 +16330,7 @@
 ཡེ་ཐོག་གི་གཞི|primeval basis
 ཡེ་ཐོག་གཞིའི་གནས་ལུགས|primeval basic mode of subsistence
 ཡེངས|distraction
-ཡི|[genetive particle] of; '; which; also adjectival genetive; and non-case usage as "but" and "and"
+ཡི|[genetive particle] of; '; which; also adjectival genetive; and non-case usage as 'but' and 'and'
 ཡི|(as genitive particle) of; by; in; which. (as non-case particle) and; but; (semi-colon)
 ཡི་དགས|preta; hungry ghost
 ཡི་དམ|[mind-firm]; personal deity; tutelary deity; promise; vow; one who has a vow; deity
@@ -16508,7 +16508,7 @@
 ཡིན་ཚུལ|way of being
 ཡིན་ཡང|is, but...; even though; regardless
 ཡིས|by; by means of; with; because
-ཡིས|[instrumental particle] by; with; by means of; non-case usage as "but" and "and"
+ཡིས|[instrumental particle] by; with; by means of; non-case usage as 'but' and 'and'
 ཡོ་བ|crooked
 ཡོ་བྱད|goods; necessities; assets; belongings; possessions; requisites [of life]; acquisitions
 ཡོ་བྱད་འབྱོར་བ|necessities and acquisitions
@@ -17013,7 +17013,7 @@
 ཟང་ཟིང་མེད་པ|non-object; not disarranged; unconfused; non-thing
 ཟངས|copper; brass
 ཟངས་བུམ|a copper pot
-ཟངས་ལྟར་དམར་པོ|a microscopic organism/_parasite called "red like copper"
+ཟངས་ལྟར་དམར་པོ|a microscopic organism/_parasite called 'red like copper'
 ཟངས་མདོག|copper-colored; brass-colored
 ཟར་མ|a type of bean
 ཟས|food; sustenance; nourishment
@@ -17060,11 +17060,11 @@
 ཞེན་ཡུལ|conceived object; referent object; determining; determined object
 ཞེར་འདེབས་པ|strike
 ཞེས|thus; particle indicating quote
-ཞེས་འབྱུང་བའི་ཕྱིར|because it says "..."  (T)
+ཞེས་འབྱུང་བའི་ཕྱིར|because it says '...'  (T)
 ཞེས་བགྱི|(quote indicator)
 ཞེས་བྱ|quote indicator: thus
 ཞེས་བྱ་བ|quote indicator: thus
-ཞེས་བྱ་བའི་ཕྱིར|because it says "..."  (T)
+ཞེས་བྱ་བའི་ཕྱིར|because it says '...'  (T)
 ཞེས་བྱ་ན|quote indicator: thus
 ཞེས་བྱའོ|quote indicator: thus
 ཞེས་བྱར|quote indicator: thus
@@ -17123,13 +17123,13 @@
 ཞི་སྲིད་ཡོན་ཏན་སྐྱོན|the good qualities of pacification and the faults of existence (T)
 ཞིབ་མོ|subtle; fine
 ཞིབ་མོ་དཔྱད་ན|detailed analysis
-ཞིབ་མོ་རྣམ་པར་འཐག་པ་ཞེས་བྱ་བའི་མདོ|Nāgārjuna's Treatise Called "The Finely Woven" (P. 5225, vol. 95)
-ཞིབ་མོ་རྣམ་ཐག|Nāgārjuna's Treatise Called "The Finely Woven" (P. 5225, vol. 95)
+ཞིབ་མོ་རྣམ་པར་འཐག་པ་ཞེས་བྱ་བའི་མདོ|Nāgārjuna's Treatise Called 'The Finely Woven' (P. 5225, vol. 95)
+ཞིབ་མོ་རྣམ་ཐག|Nāgārjuna's Treatise Called 'The Finely Woven' (P. 5225, vol. 95)
 ཞིབ་པར|detail; finely; in detail
 ཞིབ་ཏུ|in detail
 ཞིབ་ཏུ་དཔྱད|analyze in detail(BJ 48.5)
 ཞིབ་ཏུ་མ་ཕྱེ་བར|without distinguishing in detail
-ཞིག|(1) particle indicating "a" [often untranslatable]; (2) disintegrate; destroy; perish [past tense]
+ཞིག|(1) particle indicating 'a' [often untranslatable]; (2) disintegrate; destroy; perish [past tense]
 ཞིག་གྱུར|disintegrate; destroy; perish
 ཞིག་པ|destroy; disintegrate; perish; disintegratedness
 ཞིག་པར་འགྱུར|destroy; disintegrate; perish
@@ -17341,13 +17341,13 @@
 བཏགས་པ|imputed; imputation; designated; designation; impute; designate; hang; imputed [phenomena]
 ཅང|at all; anything
 ཆོས་དབྱིངས་སྟོད་པ|Nāgārjuna's Praise of the Basic Element of [Superior] Qualities (dharmadhātustava)
-ཆོས་མངོན་པའི་མཛོད་ཀྱི་ཚིག་ལེའུར་བྱས་པའི་འགྲེལ་པ་མངོན་པའི་རྒྱན|Chim-jam-pel-yang's (mchims 'jam dpal dbyangs) Commentary on [Vasubandhu's] "Stanzas of the Treasury of Manifest Knowledge": Ornament of Manifest Knowledge
+ཆོས་མངོན་པའི་མཛོད་ཀྱི་ཚིག་ལེའུར་བྱས་པའི་འགྲེལ་པ་མངོན་པའི་རྒྱན|Chim-jam-pel-yang's (mchims 'jam dpal dbyangs) Commentary on [Vasubandhu's] 'Stanzas of the Treasury of Manifest Knowledge': Ornament of Manifest Knowledge
 ཆོས་མངོན་པར་རྟོགས་པ|clear realizer of doctrine
 ཅི་ཕྱིར|why?; for what reason?
 ཅི་ཡང|at all; anything
 ཅིའི་ཕྱིར|why?; for what reason? [lit.: because of what?]
-དབུ་མ་རྩ་བའི་འགྲེལ་པ་བུདད་པཱ་ལི་ཏ|Buddhapālita's (sangs rgyas bskyangs) Commentary on [Nāgārjuna's "Treatise on the Middle" [P5242, vol. 95]
-དབུ་མ་རྩ་བའི་འགྲེལ་པ་ཚིག་གསལ་བ|Clear Words, Commentary on Nāgārjuna's) "Treatise on the Middle" [by Candrakīrti (zla ba grags pa); P5260, vol. 98]
+དབུ་མ་རྩ་བའི་འགྲེལ་པ་བུདད་པཱ་ལི་ཏ|Buddhapālita's (sangs rgyas bskyangs) Commentary on [Nāgārjuna's 'Treatise on the Middle' [P5242, vol. 95]
+དབུ་མ་རྩ་བའི་འགྲེལ་པ་ཚིག་གསལ་བ|Clear Words, Commentary on Nāgārjuna's) 'Treatise on the Middle' [by Candrakīrti (zla ba grags pa); P5260, vol. 98]
 དེ་བཞིན་ཉིད|thusness
 དེ་ཉིད|suchness; reality; principle
 དེ་ཉིད|suchness
@@ -17370,8 +17370,8 @@
 གང་ཟག|person
 གཉུག་མའི་སེམས|fundamental mind
 གོ་རིམ་བཞིན|in order; in accordance with the order; respectively
-གྲེལ་ཆུང་དོན་གསལ|[Haribhadra's] Short Commentary: Clear Meaning (spuṭhārtha, 'grel pa don gsal), or Commentary on (Maitreya's) Ornament for Clear Realization, Treatise of Quintessential Instructions on the Perfection of Wisdom" (abhisamayālaṃkāranāmaprajñāpāramitopad
-གྲེལ་པ་དོན་གསལ|[Haribhadra's] Clear Meaning Commentary (spuṭhārtha, 'grel pa don gsal), or Commentary on (Maitreya's) Ornament for Clear Realization, Treatise of Quintessential Instructions on the Perfection of Wisdom" (abhisamayālaṃkāranāmaprajñāpāramitopadeśaśāst
+གྲེལ་ཆུང་དོན་གསལ|[Haribhadra's] Short Commentary: Clear Meaning (spuṭhārtha, 'grel pa don gsal), or Commentary on (Maitreya's) Ornament for Clear Realization, Treatise of Quintessential Instructions on the Perfection of Wisdom' (abhisamayālaṃkāranāmaprajñāpāramitopad
+གྲེལ་པ་དོན་གསལ|[Haribhadra's] Clear Meaning Commentary (spuṭhārtha, 'grel pa don gsal), or Commentary on (Maitreya's) Ornament for Clear Realization, Treatise of Quintessential Instructions on the Perfection of Wisdom' (abhisamayālaṃkāranāmaprajñāpāramitopadeśaśāst
 གསང་འདུས|Guhyasamāja; Guhyasamāja [Tantra]
 གསང་བ་འདུས་པ|Guhyasamāja; Guhyasamāja [Tantra]
 གཏན་ལ་འབེབས་པ|delineate; settle; ascertain; revise/_finalize [e.g., a translation]
@@ -17443,7 +17443,7 @@
 པགས་པ|skin; body
 ཕ་རོལ་ཏུ་ཕྱིན་པ|perfection
 ཕ་རོལ་ཏུ་ཕྱིན་པ|[other side-to-went]; perfection; that which has gone beyond
-ཕགས་པ་དགོངས་པ་ཟབ་མོ་ངེས་པར་འགྲེལ་པའི་མདོ་རྒྱ་ཆེར་འགྲེལ་པ|Extensive Commentary on the "Superior Sūtra Unraveling the Profound Thought" [by the Korean scholar-monk Won-ch'uk (612/_613-696; Tibetan: rdzogs gsal /_wen tshig /_wen tshegs /_wanydzeg; Chinese: Yüan ts'e); P5517, vol. 116]
+ཕགས་པ་དགོངས་པ་ཟབ་མོ་ངེས་པར་འགྲེལ་པའི་མདོ་རྒྱ་ཆེར་འགྲེལ་པ|Extensive Commentary on the 'Superior Sūtra Unraveling the Profound Thought' [by the Korean scholar-monk Won-ch'uk (612/_613-696; Tibetan: rdzogs gsal /_wen tshig /_wen tshegs /_wanydzeg; Chinese: Yüan ts'e); P5517, vol. 116]
 ཕྱི་དབྱངས|external expanse of the sky
 རབ་ཏུ་ཕྱེ་བ|distinguished; posit; posited; thoroughly distinguish; thoroughly differentiates
 རང་བཞིན་གྱིས་གྲུབ་པས་སྟོང་པའི་སྟོང་པ་ཉིད|emptiness of inherent existence
@@ -17478,8 +17478,8 @@
 སྒེག་མོ|[Vajra]lāsyā, offering goddess of dance
 སྒེག་པའི་རྡོ་རྗེ|Vilāsavajra/_Līlāvajra
 སྒེག་རྡོར|Vilāsavajra/_Līlāvajra
-སྒྲོན་གསལ|[Candrakīrti's] Brilliant Lamp: Extensive Commentary [on the "Guhyasamāja Tantra"] [P2650, vol. 60]
-སྒྲོན་མ་གསལ་བར་བྱེད་པ་ཞེས་བྱ་བའི་རྒྱ་ཆེར་བཤད་པ|[Candrakīrti's] Brilliant Lamp: Extensive Commentary [on the "Guhyasamāja Tantra"] [P2650, vol. 60]
+སྒྲོན་གསལ|[Candrakīrti's] Brilliant Lamp: Extensive Commentary [on the 'Guhyasamāja Tantra'] [P2650, vol. 60]
+སྒྲོན་མ་གསལ་བར་བྱེད་པ་ཞེས་བྱ་བའི་རྒྱ་ཆེར་བཤད་པ|[Candrakīrti's] Brilliant Lamp: Extensive Commentary [on the 'Guhyasamāja Tantra'] [P2650, vol. 60]
 སྒྲོན་མ|lamp; light
 སྒྲོན་མེ|lamp; light
 སྒྱུ་འཕྲུལ|magical emanation; illusory emanation
@@ -17487,7 +17487,7 @@
 ཤེས་པ|consciousness
 ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ|perfection of wisdom
 ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ|Perfection of Wisdom
-ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་མན་ངག་གི་བསྟན་བཅོས་མངོན་པར་རྟོགས་པའི་རྒྱན་ཅེས་བྱའི་འགྲེལ་པ|Commentary on (Maitreya's) "Ornament for Clear Realization," Treatise of Quintessential Instructions on the Perfection of Wisdom /_Clear Meaning Commentary [by Haribhadra (seng ge bzang po), P5191, vol. 90]
+ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་མན་ངག་གི་བསྟན་བཅོས་མངོན་པར་རྟོགས་པའི་རྒྱན་ཅེས་བྱའི་འགྲེལ་པ|Commentary on (Maitreya's) 'Ornament for Clear Realization,' Treatise of Quintessential Instructions on the Perfection of Wisdom /_Clear Meaning Commentary [by Haribhadra (seng ge bzang po), P5191, vol. 90]
 ཤིན་སྦྱངས|[very-practiced]; pliancy; flexibility; servicability; suppleness
 ཤིན་ཏུ་ལྐོག་གྱུར་གྱི་གཞལ་བྱ|very obscure objects of comprehension
 ཤིང་སལ་གྱི་སྒོན|cotton
@@ -17519,13 +17519,13 @@
 རྣམ་བརྟགས|imputed; imputation; designated; designation; impute; designate; hang; imputed [phenomena]
 ཅི་ཡང|at all; anything
 ཆོས་ཀྱི་དབྱིངས་སུ་བསྟོད་པ|Nāgārjuna's Praise of the Basic Element of [Superior] Qualities (dharmadhātustava)
-མཆིམས་མཛོད|Chim-jam-pel-yang's (mchims 'jam dpal dbyangs) Commentary on [Vasubandhu's] "Stanzas of the Treasury of Manifest Knowledge": Ornament of Manifest Knowledge
+མཆིམས་མཛོད|Chim-jam-pel-yang's (mchims 'jam dpal dbyangs) Commentary on [Vasubandhu's] 'Stanzas of the Treasury of Manifest Knowledge': Ornament of Manifest Knowledge
 ཆོས་མངོན་རྟོགས|clear realizer of doctrine
 ཅིའི་ཕྱིར|why?; for what reason?
 ཅང|at all; anything
 ཅི་ཕྱིར|why?; for what reason? [lit.: because of what?]
-འགྲེལ་པ་བུདདྷ་པཱ་ལི་ཏ|Buddhapālita's (sangs rgyas bskyangs) Commentary on [Nāgārjuna's "Treatise on the Middle" [P5242, vol. 95]
-ཚིག་གསལ|Clear Words, Commentary on Nāgārjuna's) "Treatise on the Middle" [by Candrakīrti (zla ba grags pa); P5260, vol. 98]
+འགྲེལ་པ་བུདདྷ་པཱ་ལི་ཏ|Buddhapālita's (sangs rgyas bskyangs) Commentary on [Nāgārjuna's 'Treatise on the Middle' [P5242, vol. 95]
+ཚིག་གསལ|Clear Words, Commentary on Nāgārjuna's) 'Treatise on the Middle' [by Candrakīrti (zla ba grags pa); P5260, vol. 98]
 ཏཐཱཏཱ|thusness
 དེ་ཁོ་ན་ཉིད|suchness; reality; principle
 དེ་ཁོ་ན་ཉིད|suchness
@@ -17548,8 +17548,8 @@
 སྐྱེས་བུ|person
 གཉུག་སེམས|fundamental mind
 གོ་རིམ་བཞིན་དུ|in order; in accordance with the order; respectively
-འགྲེལ་པ་དོན་གསལ|[Haribhadra's] Short Commentary: Clear Meaning (spuṭhārtha, 'grel pa don gsal), or Commentary on (Maitreya's) Ornament for Clear Realization, Treatise of Quintessential Instructions on the Perfection of Wisdom" (abhisamayālaṃkāranāmaprajñāpāramitopad
-འགྲེལ་ཆུང་དོན་གསལ|[Haribhadra's] Clear Meaning Commentary (spuṭhārtha, 'grel pa don gsal), or Commentary on (Maitreya's) Ornament for Clear Realization, Treatise of Quintessential Instructions on the Perfection of Wisdom" (abhisamayālaṃkāranāmaprajñāpāramitopadeśaśāst
+འགྲེལ་པ་དོན་གསལ|[Haribhadra's] Short Commentary: Clear Meaning (spuṭhārtha, 'grel pa don gsal), or Commentary on (Maitreya's) Ornament for Clear Realization, Treatise of Quintessential Instructions on the Perfection of Wisdom' (abhisamayālaṃkāranāmaprajñāpāramitopad
+འགྲེལ་ཆུང་དོན་གསལ|[Haribhadra's] Clear Meaning Commentary (spuṭhārtha, 'grel pa don gsal), or Commentary on (Maitreya's) Ornament for Clear Realization, Treatise of Quintessential Instructions on the Perfection of Wisdom' (abhisamayālaṃkāranāmaprajñāpāramitopadeśaśāst
 གསང་བ་འདུས་པ་ན|Guhyasamāja; Guhyasamāja [Tantra]
 གསང་འདུས|Guhyasamāja; Guhyasamāja [Tantra]
 གཏན་ལ་འབབས་པ|delineate; settle; ascertain; revise/_finalize [e.g., a translation]
@@ -17621,7 +17621,7 @@
 ལུས|skin; body
 ཕར་ཕྱིན|perfection
 ཕར་ཕྱིན|[other side-to-went]; perfection; that which has gone beyond
-རྒྱ་ནག་འགྲེལ་ཆེན|Extensive Commentary on the "Superior Sūtra Unraveling the Profound Thought" [by the Korean scholar-monk Won-ch'uk (612/_613-696; Tibetan: rdzogs gsal /_wen tshig /_wen tshegs /_wanydzeg; Chinese: Yüan ts'e); P5517, vol. 116]
+རྒྱ་ནག་འགྲེལ་ཆེན|Extensive Commentary on the 'Superior Sūtra Unraveling the Profound Thought' [by the Korean scholar-monk Won-ch'uk (612/_613-696; Tibetan: rdzogs gsal /_wen tshig /_wen tshegs /_wanydzeg; Chinese: Yüan ts'e); P5517, vol. 116]
 ཕྱི་དབྱངས་དབྱིངས|external expanse of the sky
 རབ་ཏུ་བཞག་པ|distinguished; posit; posited; thoroughly distinguish; thoroughly differentiates
 རང་བཞིན་སྟོང་པ་ཉིད|emptiness of inherent existence
@@ -17656,8 +17656,8 @@
 སྒེག་མོ་མ|[Vajra]lāsyā, offering goddess of dance
 སྒེག་རྡོར|Vilāsavajra/_Līlāvajra
 སྒེག་པའི་རྡོ་རྗེ|Vilāsavajra/_Līlāvajra
-སྒྲོན་མ་གསལ་བར་བྱེད་པ་ཞེས་བྱ་བའི་རྒྱ་ཆེར་བཤད་པ|[Candrakīrti's] Brilliant Lamp: Extensive Commentary [on the "Guhyasamāja Tantra"] [P2650, vol. 60]
-སྒྲོན་གསལ|[Candrakīrti's] Brilliant Lamp: Extensive Commentary [on the "Guhyasamāja Tantra"] [P2650, vol. 60]
+སྒྲོན་མ་གསལ་བར་བྱེད་པ་ཞེས་བྱ་བའི་རྒྱ་ཆེར་བཤད་པ|[Candrakīrti's] Brilliant Lamp: Extensive Commentary [on the 'Guhyasamāja Tantra'] [P2650, vol. 60]
+སྒྲོན་གསལ|[Candrakīrti's] Brilliant Lamp: Extensive Commentary [on the 'Guhyasamāja Tantra'] [P2650, vol. 60]
 སྒྲོན་མེ|lamp; light
 སྒྲོན་མ|lamp; light
 སྒྱུ་མའི་འཕྲུལ་པ|magical emanation; illusory emanation
@@ -17665,7 +17665,7 @@
 རྣམ་ཤེས|consciousness
 ཤེར་ཕྱིན|perfection of wisdom
 ཤེར་ཕྱིན|Perfection of Wisdom
-འགྲེལ་པ་དོན་གསལ|Commentary on (Maitreya's) "Ornament for Clear Realization," Treatise of Quintessential Instructions on the Perfection of Wisdom /_Clear Meaning Commentary [by Haribhadra (seng ge bzang po), P5191, vol. 90]
+འགྲེལ་པ་དོན་གསལ|Commentary on (Maitreya's) 'Ornament for Clear Realization,' Treatise of Quintessential Instructions on the Perfection of Wisdom /_Clear Meaning Commentary [by Haribhadra (seng ge bzang po), P5191, vol. 90]
 ཤིན་ཏུ་སྦྱངས་པ|[very-practiced]; pliancy; flexibility; servicability; suppleness
 གཞལ་བྱ་ཤིན་ཏུ་ལྐོག་གྱུར|very obscure objects of comprehension
 ཤིང་སལ་བལ་གྱི་སྒོན|cotton
@@ -17706,9 +17706,9 @@
 རྡོར་སཁྱིལ|vajra-posture [i.e., the full-lotus posture]
 རྡོ་རྗེ་སཁྱིལ་ཀྲུང|vajra-posture [i.e., the full-lotus posture]
 རྡོ་རྗེ་སཁྱིལ་མོ་ཀྲུང|vajra-posture [i.e., the full-lotus posture]
-རྒྱ་ནག་འགྲེལ་ཆེན|Chinese Great Commentary; Extensive Commentary on the "Sūtra Unraveling the Thought" [by the Korean scholar-monk Won-ch'uk (612/_613-696; Tibetan: rdzogs gsal /_wen tshig /_wen tshegs /_wanydzeg; Chinese: Yüan ts'e); P5517, vol. 116]
-རྒྱ་ནག་གི་འགྲེལ་ཆེན|Chinese Great Commentary; Extensive Commentary on the "Sūtra Unraveling the Thought" [by the Korean scholar-monk Won-ch'uk (612/_613-696; Tibetan: rdzogs gsal /_wen tshig /_wen tshegs /_wanydzeg; Chinese: Yüan ts'e); P5517, vol. 116]
-འཕགས་པ་དགོངས་པ་ངེས་པར་འགྲེལ་པའི་མདོའི་རྒྱ་ཆེར་འགྲེལ་པ|Chinese Great Commentary; Extensive Commentary on the "Sūtra Unraveling the Thought" [by the Korean scholar-monk Won-ch'uk (612/_613-696; Tibetan: rdzogs gsal /_wen tshig /_wen tshegs /_wanydzeg; Chinese: Yüan ts'e); P5517, vol. 116]
+རྒྱ་ནག་འགྲེལ་ཆེན|Chinese Great Commentary; Extensive Commentary on the 'Sūtra Unraveling the Thought' [by the Korean scholar-monk Won-ch'uk (612/_613-696; Tibetan: rdzogs gsal /_wen tshig /_wen tshegs /_wanydzeg; Chinese: Yüan ts'e); P5517, vol. 116]
+རྒྱ་ནག་གི་འགྲེལ་ཆེན|Chinese Great Commentary; Extensive Commentary on the 'Sūtra Unraveling the Thought' [by the Korean scholar-monk Won-ch'uk (612/_613-696; Tibetan: rdzogs gsal /_wen tshig /_wen tshegs /_wanydzeg; Chinese: Yüan ts'e); P5517, vol. 116]
+འཕགས་པ་དགོངས་པ་ངེས་པར་འགྲེལ་པའི་མདོའི་རྒྱ་ཆེར་འགྲེལ་པ|Chinese Great Commentary; Extensive Commentary on the 'Sūtra Unraveling the Thought' [by the Korean scholar-monk Won-ch'uk (612/_613-696; Tibetan: rdzogs gsal /_wen tshig /_wen tshegs /_wanydzeg; Chinese: Yüan ts'e); P5517, vol. 116]
 རྒྱུད་བླ་མ|[Maitreya's] Great Vehicle Treatise on the Sublime Continuum /_Treatise on the Later Scriptures of the Great Vehicle [P5525, vol. 108]
 རྒྱུད་བླ|[Maitreya's] Great Vehicle Treatise on the Sublime Continuum /_Treatise on the Later Scriptures of the Great Vehicle [P5525, vol. 108]
 ཐེག་པ་ཆེན་པོ་རྒྱུད་བླ་མའི་བསྟན་བཅོས|[Maitreya's] Great Vehicle Treatise on the Sublime Continuum /_Treatise on the Later Scriptures of the Great Vehicle [P5525, vol. 108]

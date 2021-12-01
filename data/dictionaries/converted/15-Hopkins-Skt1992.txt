@@ -5148,7 +5148,7 @@
 ཁ་ནང|antarmukha
 ཁ་ཕྱར|[C]pragalbha
 ཁ་ཟས|bhojana; [MSA]bhojana; [MSA]bhojya; [C]bhaktAgra
-ཁ་ཏོན་དུ|[C]svAdhyAyati; s what is this "s"? [C]vAdhyAyanti
+ཁ་ཏོན་དུ|[C]svAdhyAyati; s what is this 's'? [C]vAdhyAyanti
 ཁ་ཏོན་བྱེད་པ|svAdhyAya; [MV]svAdhyAya; [MV]svAdhyAyana
 ཁ་ཏོན་བྱང་བར་བྱས|[C]vacasA paricita
 ཁ་ཏོན་དུ་བྱ|[C]svAdhyAyati

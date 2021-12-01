@@ -95,7 +95,7 @@
 བཅོམ་ལྡན་འདས|Vanquishing Master Surpassing All
 བཅོས་མ|contrived
 བཅོས་མེད|uncontrived
-བདག|impossible "soul"
+བདག|impossible 'soul'
 བདག|soul
 བདག་འབྲས|dominating result
 བདག་འཇུག|self-initiation
@@ -103,7 +103,7 @@
 བདག་གཞན་བརྗེ་པ|exchanging self and others
 བདག་གཞན་མཉམ་བརྗེ|equalizing and exchanging self and others
 བདག་གཞན་མཉམ་པ|equalizing self and others
-བདག་མེད|lack of an impossible "soul"
+བདག་མེད|lack of an impossible 'soul'
 བདག་ཉིད|identity-nature
 བདག་རྐེན|dominating condition
 བདག་ཏུ་སྨྲ་བ|asserting one's identity
@@ -168,7 +168,7 @@
 བསམ་པ|motivating mental framework
 བསམ་པ|sincerity
 བསམ་པའི་ལས|urged impulse
-བསྡུ་བ་ལས་འབྱུང་བའི་བསླབས་བྱ|training specified in "The All-Inclusive Text"
+བསྡུ་བ་ལས་འབྱུང་བའི་བསླབས་བྱ|training specified in 'The All-Inclusive Text'
 བསྡུད་པ་ལས་གྱུར་པའི་གཟུགས|forms of physical phenomena that make up other things by amassing together
 བསྡུས་གརབ༹|set theory
 བསྒྲིབས་པའི་ལུང་མ་བསྟན|obstructive unspecified phenomenon
@@ -228,8 +228,8 @@
 ཆོས་ཅན|property-possessor
 ཆོས་དབྱིངས|sphere of reality
 ཆོས་དབྱིངས་ཡེ་ཤེས|deep awareness of reality
-ཆོས་ཀྱི་བདག|impossible "soul" of all phenomenon
-ཆོས་ཀྱི་བདག་མེད|lack of an impossible "soul" of all phenomena
+ཆོས་ཀྱི་བདག|impossible 'soul' of all phenomenon
+ཆོས་ཀྱི་བདག་མེད|lack of an impossible 'soul' of all phenomena
 ཆོས་ཀྱི་སྡོམ་པ་བཞི|four hallmarks of the Dharma
 ཆོས་ཀྱི་སྐྱེ་མཆེད|cognitive stimulators that are (all) phenomena
 ཆོས་ཀྱི་སྐྱེ་མཆེད་པའི་གཟུགས|forms of physical phenomena included (only) among the cognitive stimulators that are (all) phenomena
@@ -355,7 +355,7 @@
 ཛག་བདེ|bliss of orgasmic emission
 གའུ་མ|amulet box tradition
 གང་ཟག|person
-གང་ཟག་ཀྱི་བདག|impossible "soul" of a person
+གང་ཟག་ཀྱི་བདག|impossible 'soul' of a person
 གང་ཟག་ཀྱི་བདག་མེད|lack of an impossible soul of a person
 གཅེས་ཞིང་ཕམ་པའི་བྱམས་པ|cherishing concerned love
 གཅིག|monad
@@ -664,7 +664,7 @@
 ངན་འགྲོ་གསུམ|three worse rebirth states
 ངང་གིས་གནས|naturally settle down
 ངར|sharp focus
-ངར་འཛིན|preoccupation with "me"
+ངར་འཛིན|preoccupation with 'me'
 ངར་འཛིན|self-preoccupation
 ངེས་འབྱིན་པ|means for definite removals
 ངེས་འབྱུང|definite emergence
@@ -895,7 +895,7 @@
 ས་བཅུ|ten levels of highly realized minds
 ས་བོན|karmic legacy
 ས་བོན|karmic tendency
-ས་བོན|leaving a legacy (planting "seeds")
+ས་བོན|leaving a legacy (planting 'seeds')
 ས་བོན་གྱི་ངོ་བོར་གྱུར་བ|karmic force that has taken on the essential nature of a karmic tendency
 སངས་རྒྱས|Buddha
 སངས་རྒྱས|clear-minded and fully evolved

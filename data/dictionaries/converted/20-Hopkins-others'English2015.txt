@@ -954,7 +954,7 @@
 བཤེས་གཉེན་པ|{C}relative
 བཤིག|{C}having shattered [with rjes la]
 བསིལ་བར་གྱུར་ཅིག|{C}be cooled (down)
-བསིལ་ཟེར་བྱེད|{GD:155} "Cooling Light," a poetic name for the moon
+བསིལ་ཟེར་བྱེད|{GD:155} 'Cooling Light,' a poetic name for the moon
 བསྐ་བ|{C}bitter; astringent
 བསྐལ་པ་གྲངས་མ་མཆིས་པ|{C}incalculable number of aeons
 བསྐལ་པའི་མེ་འབར་བ|{C}universal conflagration (raging) at the end of an aeon
@@ -1445,7 +1445,7 @@
 ཆུས་བརྟན་ཏེ|{C}would water
 ཅི་འང་མེད་པ|{C}destitution; absolute non-existence
 ཅི་འང་མེད་པའི་སྐྱེ་མཆེད|{C}sense-field of absolute non-existence
-ཅི་འདྲ་བ|{C}but; if; moreover; however; but when; "as like"
+ཅི་འདྲ་བ|{C}but; if; moreover; however; but when; 'as like'
 ཅི་བར་མ་དོར|{C}meanwhile; midway; prematurely; intermediate state
 ཅི་དགོས|{C}what?; why?; who?; how much more?
 ཅི་ཕྱིར་ཞེ་ན|{C}for what reason?
@@ -2114,7 +2114,7 @@
 གཉིད|{C}torpor
 གཉིད་ཆེ་བར|{C}weighted down by sloth
 གཉིས|{C}dual; duality; both
-གཉིས་བཅས་ཀྱི་སྦྱོར་བ|{GD:319} "argument concerning having a companion" [a form of reasoning used by the Cārvākas to argue against reincarnation]
+གཉིས་བཅས་ཀྱི་སྦྱོར་བ|{GD:319} 'argument concerning having a companion' [a form of reasoning used by the Cārvākas to argue against reincarnation]
 གཉིས་གྱི་ཚུལ་གྱིས་སྤྱོད་པ|{C}the intellect courses in duality
 གཉིས་ཀ|{C}two
 གཉིས་ལ་བརྟེན་པ|{C}lean on duality
@@ -2365,7 +2365,7 @@
 ཇི་སྐད་སྨྲས|{C}as he speaks
 ཇི་སྙེད་ཡོད་པ་ཡིད|{C}as great; as much; as long as; until
 ཇི་སྲིད་ཚོའི་བར་དུ|{C}all their lives; during his entire life
-ཇི་སྟེ|{C}but; however; moreover; but if; but when; in; at; as; "as like"
+ཇི་སྟེ|{C}but; however; moreover; but if; but when; in; at; as; 'as like'
 ཇི་ཙམ་དུ|by that much; then; how much?
 ཇི་ཙམ་གྱིས་ན|how great; how much; however much; first of all; how large; how far
 ཀས་གདུགས|{C}parachute
@@ -2776,8 +2776,8 @@
 ལུང་བསྟན་མ་ཐོབ|{C}unpredicted; indeterminate; one who has not had his prediction
 ལུང་དུ་བསྟན་པ|prediction (of future Buddhahood)
 ལུང་དུ་མ་བསྟན་པ|unanswerable; inexpressible; {C}non-revealed; indeterminate; unpredicted; one who has not had his prediction
-ལུང་གེགས་བྱེད་དུ་འདོད་པ|{GD:773} Criticalists ("those who hold scripture to be an impediment" in the debate concerning the 'validity of scripture')
-ལུང་གནོད་བྱེད་དུ་འདོད་པ|{GD:773} Scriptualists ("those who hold scripture to refute" in the debate concerning the 'validity of scripture')
+ལུང་གེགས་བྱེད་དུ་འདོད་པ|{GD:773} Criticalists ('those who hold scripture to be an impediment' in the debate concerning the 'validity of scripture')
+ལུང་གནོད་བྱེད་དུ་འདོད་པ|{GD:773} Scriptualists ('those who hold scripture to refute' in the debate concerning the 'validity of scripture')
 ལུང་ཕོག་ཅིག|{C}expound; explain; show; point out
 ལུང་སྟོན་པ|{C}prediction
 ལུས|{C}receptacle; physical/_bodily basis; based on; foundation; by resorting to (as a foundation); wind; relics; dead body; personality; frame; personal existence; extent; all they have and all they are; personal life
@@ -4165,8 +4165,8 @@
 རྒྱས་པའི|{C}is inflated
 རྒྱས་པའི་བསྟན་བཅོས་ཚད་མ་རྣམ་འགྲེལ་གྱི་བཀའ་འགྲེལ་དགོངས་པ་རབ་གསལ་ཞེས་བྱ་བ་མཁས་པའི་དབང་པོ་བསོད་ནམས་གྲགས་པས་མཛད་པ་བོལ་གསལ་མཁས་པའི་མགྲིན་རྒྱན|{GD:846} Paṇ-chen S#ö-nam-drak-b#a's (paṇ chen bsod nams grags pa) The Throat Ornament of Clear-minded Scholars Composed by the Mighty Scholar Sö-nam-drak-ba called Commentary on the Teaching, the Complete Revealer of the Thought of the Extensive Treatise
 རྒྱས་པའི་བསྟན་བཅོས་ཚད་མ་རྣམ་འགྲེལ་གྱི་དོན་འགྲེལ་རྒྱལ་ཚབ་དགོངས་པ་རབ་གསལ་ཞེས་བྱ་བ་ལེའུ་དང་པོའི་དཀའ་བའི་གནས་ལ་དོགས་པ་གཅོད་པ་འདི་ནི་རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་དཔལ་བཟང་པོའི་གསུང་རྒུཡན་ལགས་སོ|{GD:844} Jay-d#zün Chö-g#yi-gyel-tsen's (rje btsun chos kyi rgyal mtshan) Stream of Sayings of the Noble and Glorious Jay-d#zün Chö-g#yi-gyel-tsan, the Elimination of Qualms with Respect to the Difficult Points of the First Chapter, Called the Complete Re
-རྒྱས་པའི་བསྟན་བཅོས་ཚད་མ་རྣམ་འགྲེལ་གྱི་ངག་དོན་རྣམ་པར་བཤད་པ་ཀུན་ཏུ་བཟང་པོའི་འོད་ཟེར|{GD:842} Go-ram-pa's (go rams pa bsod nams seng ge) The Perfect Light Explaining the Meaning of the Words of the Extensive Commentary on [Dharmakīrti's] "Valid Cognition" (The Complete Works of the Great Masters of the Sa-sKya Sect, XI)
-རྒྱས་པའི་བསྟན་བཅོས་ཚད་མ་རྣམ་འགྲེལ་གྱི་རྒྱ་ཆེར་བཤད་པ་རིགས་པའི་རྒྱ་མཚོ|{GD:845} Kay-drup's (mkhas grub) Extensive Explanation of the Extensive Commentary on "Prime Cognition," the Ocean of Reasoning (Collected Works, X)
+རྒྱས་པའི་བསྟན་བཅོས་ཚད་མ་རྣམ་འགྲེལ་གྱི་ངག་དོན་རྣམ་པར་བཤད་པ་ཀུན་ཏུ་བཟང་པོའི་འོད་ཟེར|{GD:842} Go-ram-pa's (go rams pa bsod nams seng ge) The Perfect Light Explaining the Meaning of the Words of the Extensive Commentary on [Dharmakīrti's] 'Valid Cognition' (The Complete Works of the Great Masters of the Sa-sKya Sect, XI)
+རྒྱས་པའི་བསྟན་བཅོས་ཚད་མ་རྣམ་འགྲེལ་གྱི་རྒྱ་ཆེར་བཤད་པ་རིགས་པའི་རྒྱ་མཚོ|{GD:845} Kay-drup's (mkhas grub) Extensive Explanation of the Extensive Commentary on 'Prime Cognition,' the Ocean of Reasoning (Collected Works, X)
 རྒྱས་པར་འགེངས་པ|{C}radiation; radiant
 རྒྱས་པར་བཀང|{C}irradiate; radiate (over)
 རྒྱས་པར་དགང་བར|{C}irradiate; radiate (over)
@@ -4656,7 +4656,7 @@
 རྟོགས་པ་དང་ལྡན་པ|{C}intelligent; clever
 རྟོགས་པ་དཀའ་བ|{C}hard to understand
 རྟོགས་པ་མེད་པ|{C}not bound
-རྟོགས་པ་མངོན་པར་བརྗོད་ཅན་གྱི་ཤེས་པ|{GD:322} "that cognition which is [characterized by] words"; this is Kamalasila's interpretation of Dharmakirti's characterization of conceptual thought
+རྟོགས་པ་མངོན་པར་བརྗོད་ཅན་གྱི་ཤེས་པ|{GD:322} 'that cognition which is [characterized by] words'; this is Kamalasila's interpretation of Dharmakirti's characterization of conceptual thought
 རྟོགས་པར|{C}follow; conform; regain; approach; emulate; arrive (at); pursue; follow up; penetrates to
 རྟོགས་པར་འགྱུར|{C}attain; arrive at; reach; incur
 རྟོགས་པར་བརྗོད་པའི་སྡེ|{C}Tales
@@ -4783,8 +4783,8 @@
 སྦྱོར་ཞིང་འབད་པ་ཆེར་རྩོལ|{C}bestirs himself; be astir with
 སྡམས་ཏེ|{C}bound; tied (to); tied up; caught in
 སྡང|{C}full of hate
-སྡེ་བདུན་མདོ་དང་བཅས་པའི་དགོངས་འགྲེལ་ཚད་མ་རིགས་གཏེར་གྱི་འགྲེལ་བ་རིགས་ལམ་རབ་གསལ|{GD:848} Tuk-je-b#el-sang's (thugs rje dpal bzang) Illumination of the Path of Reasoning, Commentary on [Sa-paṇ's] Treasury of Valid Cognition" which Explains the Thought of [Dharmakīrti's] Seven Texts together with [Dignāga's] Sūtra. Reprint of Der-ge ed
-སྡེ་བདུན་མདོ་དང་བཅས་པའི་དགོངས་འགྲེལ་ཚད་མ་རིགས་གཏེར་གྱི་འགྲེལ་བའི་རྣམ་བཤད་རིགས་ལམ་གསལ་བའི་ཉི་མ|{GD:845} Lo Khen-chen's (glo bo mkhan chen bsod nams lhun grub) Sun Illuminating the Path of Reasoning, an Extensive Explanation which is a Commentary to [Sa-paṇ's] Treasury of Valid Cognition" [and] a Commentary on the Thought of [Dharmakīrti's] Seven Tr
+སྡེ་བདུན་མདོ་དང་བཅས་པའི་དགོངས་འགྲེལ་ཚད་མ་རིགས་གཏེར་གྱི་འགྲེལ་བ་རིགས་ལམ་རབ་གསལ|{GD:848} Tuk-je-b#el-sang's (thugs rje dpal bzang) Illumination of the Path of Reasoning, Commentary on [Sa-paṇ's] Treasury of Valid Cognition' which Explains the Thought of [Dharmakīrti's] Seven Texts together with [Dignāga's] Sūtra. Reprint of Der-ge ed
+སྡེ་བདུན་མདོ་དང་བཅས་པའི་དགོངས་འགྲེལ་ཚད་མ་རིགས་གཏེར་གྱི་འགྲེལ་བའི་རྣམ་བཤད་རིགས་ལམ་གསལ་བའི་ཉི་མ|{GD:845} Lo Khen-chen's (glo bo mkhan chen bsod nams lhun grub) Sun Illuminating the Path of Reasoning, an Extensive Explanation which is a Commentary to [Sa-paṇ's] Treasury of Valid Cognition' [and] a Commentary on the Thought of [Dharmakīrti's] Seven Tr
 སྡིག་བྱེད|{C}a cause of evil
 སྡིག་པ|{C}evil; misfortune
 སྡིག་པ་དང་བྲལ་བ|{C}which desists from evil
@@ -4826,7 +4826,7 @@
 སེལ་ངོར|{GD:105} point of view of elimination (p.o.v. of ordinary beings); {GD:186} conceptual perspective; eliminative perspective
 སེམས|{C}attitude of mind; state of thought; state of mind; heart; inclination to; mind; mental activity; fancies (himself for); thinks of; minds about; thinks about; thinks with regard to; minds; puts his mind to; sets above; feel conceited; cares about; mindf
 སེམས་འབྱུང་བ|{C}arising citta; arising of the altruistic intention to become enlightened
-སེམས་འདི་བཟང་བ་མིན་སྙམ|{C}"(these are)" unwholesome (thoughts?)
+སེམས་འདི་བཟང་བ་མིན་སྙམ|{C}'(these are)' unwholesome (thoughts?)
 སེམས་འཁྲུག་པ|{C}perplexity; confusion of thought; mental distraction
 སེམས་འཁྲུགས་པར་འགྱུར་རོ|{C}become confused (distracted/_perplexed/_distraught) in mind; perplexity; confusion of thought; mental disturbance
 སེམས་འཁྲུལ་བ|{C}his mind does wander; bewildered in his heart
@@ -5020,7 +5020,7 @@
 ཤེས་ཏེ|{C}understands
 ཤི་འཕོས་པ|{C}deceased; fallen away from
 ཤི་བི་ཀཱ|{C}palanquin
-ཤིག|{C}lice [with negative: free from lice]; corrupt; deficient; "louse!"
+ཤིག|{C}lice [with negative: free from lice]; corrupt; deficient; 'louse!'
 ཤིག་མེད་པར་འགྱུར|{C}free from lice
 ཤིག་པ་རྗེས་ལ|{C}having shattered
 ཤིན་ཏུ|{C}supreme; utmost; outshines them all; others; (the) other; another; foreign; beyond; absolute; absolutely; infinite
@@ -5724,7 +5724,7 @@
 ཙང་མ|{C}unsoiled
 ཚ་བར་གྱུར་བ|{C}burns
 ཚད|{C}valid cognizer; valid cognition; valid means of knowledge; measurement; extent; as large as; which has the dimensions of; limitation
-ཚད་འབྲས|{GD:622} "means and result (knowledge)", a topic in the logico-epistemological tradition concerning the grammatical distinction between pramāṇa and pramiti
+ཚད་འབྲས|{GD:622} 'means and result (knowledge)', a topic in the logico-epistemological tradition concerning the grammatical distinction between pramāṇa and pramiti
 ཚད་དུ|{C}of the size
 ཚད་མ|{C}valid means of knowledge; measure; measurement; extent; as large as; size; which has the dimensions of
 ཚད་མ་འཇུག་ཡུལ|{GD:673} object of application of Valid Cognition
@@ -5746,12 +5746,12 @@
 ཚད་མའི་ཆོད་པའི་འབྲས་བུ|{GD:702} the interrupted results of valid cognition
 ཚད་མའི་ལམ་ཁྲིད|{GD:843} Gyel-tsap's (rgyal tshab dar ma rin chen) Teaching on the Path of Valid Cognition. Collected Works V. Delhi: Guru Deva.
 ཚད་མའི་མ་ཆོད་པའི་འབྲས་བུ|{GD:702} the non-interrupted (immediate) results of valid cognition
-ཚད་མའི་རིགས་གཏེར་གྱི་དཀའ་གནས་རྣམ་པར་བཤད་པ་སྡེ་བདུན་རབ་གསལ|{GD:842} Go-ram-b#a's (go rams pa bsod nams sen ge) Explanation of the Difficult Points of [S#a-g#ya Paṇḍita's] "Treasure on the Science of Valid Cognition": Illumination of the Seven Texts. (Complete Works of the Great Masters of the Sa sKya Sect, XII.1.
+ཚད་མའི་རིགས་གཏེར་གྱི་དཀའ་གནས་རྣམ་པར་བཤད་པ་སྡེ་བདུན་རབ་གསལ|{GD:842} Go-ram-b#a's (go rams pa bsod nams sen ge) Explanation of the Difficult Points of [S#a-g#ya Paṇḍita's] 'Treasure on the Science of Valid Cognition': Illumination of the Seven Texts. (Complete Works of the Great Masters of the Sa sKya Sect, XII.1.
 ཚད་མའི་སྡུས་དོན|{GD:308} Cha-ba's (phya pa chos kyi seng ge) Summaries on Valid Cognition
 ཚད་མའི་སྐྱེས་བུ|{GD:812} person of authority; {GD:829} reliable person
-ཚད་མར་འགྱར་པ|{GD:637} "serving as valid cognition" [Dignāga praising the Buddha]; {GD:812} person of authority
+ཚད་མར་འགྱར་པ|{GD:637} 'serving as valid cognition' [Dignāga praising the Buddha]; {GD:812} person of authority
 ཚད་མར་བྱས་ཏེ|{C}is authoritative; when measured by the standard; when one has taken as a standard; taking as a standard
-ཚད་མར་གྲུབ་པ|{GD:589} "Establishment [of Buddha] as Valid", commentary II of Dharmakirti's Pramāṇavārttika
+ཚད་མར་གྲུབ་པ|{GD:589} 'Establishment [of Buddha] as Valid', commentary II of Dharmakirti's Pramāṇavārttika
 ཚད་མས་ཡོངས་སུ་གཅོད་པའི་ཡུལ|{GD:674} realized object of valid cognition
 ཚད་མེད་པ|{C}measureless; illimitable; innumerable; magnificent; unlimited
 ཚད་མིན་གྱི་ཤེས་པ|measureless cognition; limitless cognition
@@ -6069,10 +6069,10 @@
 ཡིག་བྲིས|{C}write; copy (out)
 ཡོ་བྱད|{C}furniture; articles; donation; offering; freely bestow; generosity; requirement; {Das} chattel
 ཡོ་བྱད་དང་ཉེ་བར་མཁོ་བ|{C}what is necessary to life
-ཡོད|{C}science(s); (secret) lore; existence; knowledge; magical formula; being; being-ness; is-ness; there is; "it is"
+ཡོད|{C}science(s); (secret) lore; existence; knowledge; magical formula; being; being-ness; is-ness; there is; 'it is'
 ཡོད་བརྟན་དུ་མི་རུང་བ|{C}distrust
 ཡོད་ངེས|{GD:106} definite existence
-ཡོད་པ|{C}becomes; stands; takes place; occurs; comes about; exists; source; there can be; possibility; possible origin; make possible; be present in; have at one's disposal; exist potentially; can possibly be; being-ness; is-ness; there is; "it is"; {GD:486} re
+ཡོད་པ|{C}becomes; stands; takes place; occurs; comes about; exists; source; there can be; possibility; possible origin; make possible; be present in; have at one's disposal; exist potentially; can possibly be; being-ness; is-ness; there is; 'it is'; {GD:486} re
 ཡོད་པ་མ་ཡིན་པ་ལ་ཡོངས་སུ་བརྟགས་པ|{C}imagine what is not
 ཡོད་པ་མེད|{C}true non-attachment
 ཡོད་པའི་བཏགས་པ་བ|{GD:103} metaphorically existent
@@ -6204,7 +6204,7 @@
 ཡོངས་སུ་མ་བཏང་བ|{C}(does) not abandon; not abandoned
 ཡོངས་སུ་མ་བཟུང|{C}no(n-) appropriation; not upheld; not gaining; not taken hold of
 ཡོངས་སུ་མ་གྲུབ་པ|{C}absence of accomplishment; not totally real
-ཡོངས་སུ་མ་ཤེས་པ་ཡོངས་སུ་ཤེས་པར་བྱ་བའི་དབང་པོ|{C}the dominant "I shall come to understand the not yet understood"
+ཡོངས་སུ་མ་ཤེས་པ་ཡོངས་སུ་ཤེས་པར་བྱ་བའི་དབང་པོ|{C}the dominant 'I shall come to understand the not yet understood'
 ཡོངས་སུ་མི་གཏོང་བ|{C}(does) not abandon; not abandoned
 ཡོངས་སུ་མི་ངལ|{C}(persistent) indefatiguability
 ཡོངས་སུ་མི་ཉམས་པའི་ཆོས་ཅན|{C}unfailing; one who never again loses interest in
@@ -6282,7 +6282,7 @@
 ཡུལ་གྱི་མི་ལ་མཐུ་དང་བརྩོན་འགྲུས་ཐོབ་པ|{C}one who feels strong and secure in his kingdom
 ཡུལ་ལ་ལྟ་བ|{GD:625} seeing the object
 ཡུལ་ལ་ཡོད་པ|{GD:486} existing in the object
-ཡུལ་མ་འདྲེས་པ|{GD:123} "unmixed in place"; spatially determinate
+ཡུལ་མ་འདྲེས་པ|{GD:123} 'unmixed in place'; spatially determinate
 ཡུལ་མེད|{C}without a place
 ཡུལ་མི་མེད་པ|{C}lonely
 ཡུལ་མཐའ|{C}border-regions
