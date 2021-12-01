@@ -1,68 +1,68 @@
 tibetan:
   dictionary:
-  - ['37-dag_tshig_gsar_bsgrigs-Tib', 'དག་གསར།']
+  - ['37-dag_tshig_gsar_bsgrigs-Tib', 'དག་ཡིག་གསར་བསྒྲིགས།']
   - ['25-tshig-mdzod-chen-mo-Tib', 'ཚིག་མཛོད་ཆེན་མོ།']
-  - ['34-dung-dkar-tshig-mdzod-chen-mo-Tib', 'དུང་དཀར།']
+  - ['34-dung-dkar-tshig-mdzod-chen-mo-Tib', 'དུང་དཀར་ཚིག་མཛོད།']
   - ['48-TibTermProject', 'ཐ་སྙད་གསར་པ།']
 
   tenses:
-  - ['19-Hopkins-TibetanTenses2015', 'Hopkins']
+  - ['19-Hopkins-TibetanTenses2015', 'Hopkins Tenses2015']
   - ['26-Verbinator', 'Verbinator']
 
   divisions_bo:
-  - ['12-Hopkins-Divisions,Tib2015', 'Hopkins']
+  - ['12-Hopkins-Divisions,Tib2015', 'Hopkins Divisions2015']
 
   definitions_bo:
-  - ['18-Hopkins-TibetanDefinitions2015', 'Hopkins']
+  - ['18-Hopkins-TibetanDefinitions2015', 'Hopkins Tibetan Definitions 2015']
   - ['42-Sera-Textbook-Definitions', 'སེ་ར་མཚན་ཉིད།']
 
   examples_bo:
-  - ['14-Hopkins-Examples,Tib', 'Hopkins']
+  - ['14-Hopkins-Examples,Tib', 'Hopkins Examples']
 
   synonyms_bo:
-  - ['17-Hopkins-TibetanSynonyms1992', 'Hopkins']
-  - ['17-Hopkins-TibetanSynonyms2015', 'Hopkins']
-  - ['45-84000Synonyms', '84000Syn.']
+  - ['17-Hopkins-TibetanSynonyms1992', 'Hopkins Synonyms 1992']
+  - ['17-Hopkins-TibetanSynonyms2015', 'Hopkins Synonyms 2015']
+  - ['45-84000Synonyms', '84000 Synonyms']
 
 english:
   dictionary:
-  - ['38-Gaeng,Wetzel', 'Wetzel']
-  - ['23-GatewayToKnowledge', 'Gateway']
-  - ['01-Hopkins2015', 'Hopkins']
-  - ['05-Hopkins-Def2015', 'Hopkins']
+  - ['38-Gaeng,Wetzel', 'Gaeng, Wetzel']
+  - ['23-GatewayToKnowledge', 'Gateway To Knowledge']
+  - ['01-Hopkins2015', 'Hopkins 2015']
+  - ['05-Hopkins-Def2015', 'Hopkins Def. 2015']
   - ['03-Berzin', 'Berzin']
-  - ['04-Berzin-Def', 'Berzin']
-  - ['40-CommonTerms-Lin', 'Lin']
-  - ['10-RichardBarron', 'Barron']
-  - ['05-Hackett-Def2015', 'Hackett']
-  - ['08-IvesWaldo', 'Waldo']
-  - ['09-DanMartin', 'Martin']
-  - ['35-ThomasDoctor', 'Doctor']
-  - ["20-Hopkins-others'English2015", 'Hopkins']
-  - ['06-Hopkins-Comment', 'Hopkins']
-  - ['02-RangjungYeshe', 'RY']
+  - ['04-Berzin-Def', 'Berzin Def.']
+  - ['40-CommonTerms-Lin', 'Common Terms - Lin']
+  - ['10-RichardBarron', 'Richard Barron']
+  - ['05-Hackett-Def2015', 'Hackett Def. 2015']
+  - ['08-IvesWaldo', 'Ives Waldo']
+  - ['09-DanMartin', 'Dan Martin']
+  - ['35-ThomasDoctor', 'Thomas Doctor']
+  - ["20-Hopkins-others'English2015", 'Hopkins others 2015']
+  - ['06-Hopkins-Comment', 'Hopkins Comment']
+  - ['02-RangjungYeshe', 'Rangjung Yeshe']
   - ['33-TsepakRigdzin', 'ཚེ་དཔག་རིག་འཛིན།']
-  - ['47-Misc', 'WordsPerfectTeacher']
-  - ['07-JimValby', 'Valby']
-  - ['36-ComputerTerms', 'Computer']
-  - ['43-84000Dict', '84000']
-  - ['44-84000Definitions', '84000']
+  - ['47-Misc', 'Misc.']
+  - ['07-JimValby', 'Jim Valby']
+  - ['36-ComputerTerms', 'Computer Terms']
+  - ['43-84000Dict', '84000 Dict.']
+  - ['44-84000Definitions', '84000 Definitions']
 
   divisions_en:
-  - ['11-Hopkins-Divisions2015', 'Hopkins']
+  - ['11-Hopkins-Divisions2015', 'Hopkins Divisions 2015']
 
   examples_en:
-  - ['13-Hopkins-Examples', 'Hopkins']
+  - ['13-Hopkins-Examples', 'Hopkins Examples']
 
   synonyms_en:
-  - ['16-Hopkins-Synonyms1992', 'Hopkins']
+  - ['16-Hopkins-Synonyms1992', 'Hopkins Synonyms 1992']
 
 sanskrit:
   lexicon:
   - ['21-Mahavyutpatti-Skt', 'བྱེ་བྲག་རྟོགས་བྱེད་ཆེན་མོ']
-  - ['46-84000Skt', '84000']
-  - ['15-Hopkins-Skt1992', 'Hopkins']
-  - ['15-Hopkins-Skt2015', 'Hopkins']
-  - ['22-Yoghacharabhumi-glossary', 'བྱང་ས།']
-  - ['49-LokeshChandraSkt', 'L.Chandra']
+  - ['46-84000Skt', '84000 Sanskrit']
+  - ['15-Hopkins-Skt1992', 'Hopkins Sanskrit 1992']
+  - ['15-Hopkins-Skt2015', 'Hopkins Sanskrit 2015']
+  - ['22-Yoghacharabhumi-glossary', 'བྱང་སའི་ཐ་སྙད།']
+  - ['49-LokeshChandraSkt', 'Lokesh Chandra']
   - ['50-NegiSkt', 'Negi']
