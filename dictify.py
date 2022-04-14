@@ -94,3 +94,5 @@ if __name__ == '__main__':
         out = dictify_text(dump)
         out_f = Path('output') / f.name
         out_f.write_text(json.dumps(out, ensure_ascii=False, indent=4))
+
+__all__ = [dictify_text]
