@@ -8,13 +8,18 @@ import pyewts
 conv = pyewts.pyewts()
 
 
-def dictify_text(string, selection_yaml='data/dictionaries/dict_cats.yaml', is_split=False):
+def dictify_text(string, selection_yaml=None, is_split=False, mode='en_bo'):
     """
     takes segmented text and finds entries from dictionaries
     :param selection_yaml: add None or "" to prevent selection
     :param string: segmented text to be processed
     :return: list of tuples containing the word and a dict containing the definitions(selected or not) and an url
     """
+    if not selection_yaml:
+        selection_yaml = Path(__file__).parent / 'data/dictionaries/dict_cats.yaml'
+    else:
+        selection_yaml = Path(selection_yaml)
+
     words = []
     if not is_split:
         string = string.replace('\n', ' \n ')
@@ -28,7 +33,7 @@ def dictify_text(string, selection_yaml='data/dictionaries/dict_cats.yaml', is_s
         defs = dicts[lemma]
         # filter
         if selection_yaml:
-            defs = select_defs(defs, yaml_path=selection_yaml)
+            defs = select_defs(defs, yaml_path=selection_yaml, mode=mode)
         words[num][1]['defs'] = defs
         # url
         url = gen_link(lemma)
@@ -53,8 +58,7 @@ def load_dicts():
     return dicts
 
 
-def select_defs(defs, yaml_path):
-    yaml_path = Path(__file__).parent / yaml_path
+def select_defs(defs, yaml_path, mode):
     cats = yaml.safe_load(yaml_path.read_text())
     english, tibetan = cats['english']['dictionary'], cats['tibetan']['dictionary']
     tibetan += cats['tibetan']['tenses']
@@ -65,16 +69,18 @@ def select_defs(defs, yaml_path):
 
     selected = {}
     # selecting the first English definition from the list in dict_cats.yaml
-    for full, name in english:
-        if full in defs:
-            selected['en'] = (name, defs[full])
-            break
+    if 'en' in mode:
+        for full, name in english:
+            if full in defs:
+                selected['en'] = (name, defs[full])
+                break
 
     # selecting the first Tibetan definition from the list in dict_cats.yaml
-    for full, name in tibetan:
-        if full in defs:
-            selected['bo'] = (name, defs[full])
-            break
+    if 'bo' in mode:
+        for full, name in tibetan:
+            if full in defs:
+                selected['bo'] = (name, defs[full])
+                break
 
     # format selected
     if 'en' in selected and 'bo' in selected:
