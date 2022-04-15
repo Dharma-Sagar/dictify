@@ -8,18 +8,19 @@ import pyewts
 conv = pyewts.pyewts()
 
 
-def dictify_text(string, selection_yaml='data/dictionaries/dict_cats.yaml'):
+def dictify_text(string, selection_yaml='data/dictionaries/dict_cats.yaml', is_split=False):
     """
     takes segmented text and finds entries from dictionaries
     :param selection_yaml: add None or "" to prevent selection
     :param string: segmented text to be processed
     :return: list of tuples containing the word and a dict containing the definitions(selected or not) and an url
     """
-    string = string.replace('\n', ' \n ')
     words = []
-    for w in string.split(' '):
-        if w:
-            words.append((w, {}))
+    if not is_split:
+        string = string.replace('\n', ' \n ')
+        string = string.split(' ')
+    for w in string:
+        words.append((w, {}))
 
     dicts = load_dicts()
     for num, word in enumerate(words):
