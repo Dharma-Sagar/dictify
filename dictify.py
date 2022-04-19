@@ -84,7 +84,7 @@ def select_defs(defs, yaml_path, mode):
 
     # format selected
     if 'en' in selected and 'bo' in selected:
-        return {'en': [selected['en'][0],selected['en'][1]], 'bo': [selected['bo'][0], selected['bo'][1]]}
+        return {'en': [selected['en'][0], selected['en'][1]], 'bo': [selected['bo'][0], selected['bo'][1]]}
     elif 'en' in selected:
         return {'en': [selected['en'][0], selected['en'][1]]}
     elif 'bo' in selected:
@@ -97,7 +97,7 @@ def gen_link(word):
     link_pattern = 'https://dictionary.christian-steinert.de/#%7B%22activeTerm%22%3A%22{word}%22%2C%22' \
                    'lang%22%3A%22tib%22%2C%22inputLang%22%3A%22tib%22%2C%22currentListTerm%22%3A%22{word}%22%2C%22' \
                    'forceLeftSideVisible%22%3Atrue%2C%22offset%22%3A0%7D'
-    wylie = conv.toWylie(word)
+    wylie = conv.toWylie(word).replace(' ', '%20')
     return link_pattern.format(word=wylie)
 
 
