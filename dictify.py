@@ -1,16 +1,20 @@
 from collections import defaultdict
 from pathlib import Path
+import re
 
 import yaml
 import json
+
+from botok import Text
 import pyewts
 
 conv = pyewts.pyewts()
 
 
-def dictify_text(string, selection_yaml='data/dictionaries/dict_cats.yaml'):
+def dictify_text(string, selection_yaml='data/dictionaries/dict_cats.yaml', expandable=True):
     """
     takes segmented text and finds entries from dictionaries
+    :param expandable: will segment definitions into senses if True, not if False
     :param selection_yaml: add None or "" to prevent selection
     :param string: segmented text to be processed
     :return: list of tuples containing the word and a dict containing the definitions(selected or not) and an url
@@ -28,6 +32,16 @@ def dictify_text(string, selection_yaml='data/dictionaries/dict_cats.yaml'):
         # filter
         if selection_yaml:
             defs = select_defs(defs, yaml_path=selection_yaml)
+
+        # split in senses
+        if defs and 'en' in defs:
+            entry_en = defs['en'][1]
+            defs['en'][1] = split_in_senses(entry_en, lang='en')
+
+        if defs and 'bo' in defs:
+            entry_bo = defs['bo'][1]
+            defs['bo'][1] = split_in_senses(entry_bo, lang='bo')
+
         words[num][1]['defs'] = defs
         # url
         url = gen_link(lemma)
@@ -54,6 +68,73 @@ def load_dicts():
     return dicts
 
 
+def split_in_senses(entry, lang):
+    header_size = 10  # syllables
+    tsikchen_dagsar = r' ([༡༢༣༤༥༦༧༨༩༠]+\.)'
+    tsikchen_dagsar_start = r'(?: |^)([༡༢༣༤༥༦༧༨༩༠]+\.)'
+    tsikchen = r' ([༡༢༣༤༥༦༧༨༩༠]+༽) '
+    tsikchen_start = r'(?: |^)([༡༢༣༤༥༦༧༨༩༠]+༽) '
+    monlam = r' ([0-9]+\.) '
+    ry_start = r'^([0-9]+\)) '  # line must start with this pattern
+    ry = r'(?: |^)([0-9]+\)) '
+
+    senses = []
+    if lang == 'bo':
+        if re.findall(monlam, entry):
+            parts = [e for e in re.split(monlam, entry) if e]
+            parts = [f'{parts[0]} {parts[1]}'] + parts[2:]
+            parts = [f'{parts[n]} {parts[n + 1]}' for n in range(0, len(parts), 2)]
+            for p in parts:
+                t = Text(p).tokenize_chunks_plaintext.split(' ')
+                if len(t) > header_size:
+                    header, body = ''.join(t[:header_size]).replace('_', ' '), ''.join(t[header_size:]).replace('_', ' ')
+                    senses.append((header, body))
+                else:
+                    senses.append(p)
+        elif re.findall(tsikchen_dagsar, entry):
+            parts = [e for e in re.split(tsikchen_dagsar_start, entry) if e]
+            if not re.findall(r'^[༡༢༣༤༥༦༧༨༩༠]', parts[0]):
+                parts = [f'{parts[0]} {parts[1]}'] + parts[2:]
+            parts = [f'{parts[n]}{parts[n + 1]}' for n in range(0, len(parts), 2)]
+            for p in parts:
+                t = Text(p).tokenize_chunks_plaintext.split(' ')
+                if len(t) > header_size:
+                    header, body = ''.join(t[:header_size]).replace('_', ' '), ''.join(t[header_size:]).replace('_', ' ')
+                    senses.append((header, body))
+                else:
+                    senses.append(p)
+        elif re.findall(tsikchen, entry):
+            parts = [e for e in re.split(tsikchen_start, entry) if e]
+            if parts[0].startswith('༼'):
+                parts = [f'{parts[0]} {parts[1]}'] + parts[2:]
+            parts = [f'{parts[n]} {parts[n + 1]}' for n in range(0, len(parts), 2)]
+            for p in parts:
+                t = Text(p).tokenize_chunks_plaintext.split(' ')
+                if len(t) > header_size:
+                    header, body = ''.join(t[:header_size]).replace('_', ' '), ''.join(t[header_size:]).replace('_', ' ')
+                    senses.append((header, body))
+                else:
+                    senses.append(p)
+            print()
+        else:
+            return entry
+    elif lang == 'en' and re.findall(ry_start, entry):
+        parts = [e for e in re.split(ry, entry) if e]
+        parts = [f'{parts[n]} {parts[n+1]}' for n in range(0, len(parts), 2)]
+        for p in parts:
+            t = p.split(' ')
+            size = header_size - 4 if header_size - 4 > 0 else 0
+            if len(t) > size:
+                header, body = ' '.join(t[:size]).replace('_', ' '), ' '.join(t[size:]).replace('_', ' ')
+                senses.append((header, body))
+            else:
+                senses.append(p)
+    else:
+        return entry
+
+    return senses
+
+
 def select_defs(defs, yaml_path):
     cats = yaml.safe_load(Path(yaml_path).read_text())
     english, tibetan = cats['english']['dictionary'], cats['tibetan']['dictionary']
@@ -73,7 +154,7 @@ def select_defs(defs, yaml_path):
 
     # format selected
     if 'en' in selected and 'bo' in selected:
-        return {'en': [selected['en'][0],selected['en'][1]], 'bo': [selected['bo'][0], selected['bo'][1]]}
+        return {'en': [selected['en'][0], selected['en'][1]], 'bo': [selected['bo'][0], selected['bo'][1]]}
     elif 'en' in selected:
         return {'en': [selected['en'][0], selected['en'][1]]}
     elif 'bo' in selected:
@@ -86,14 +167,14 @@ def gen_link(word):
     link_pattern = 'https://dictionary.christian-steinert.de/#%7B%22activeTerm%22%3A%22{word}%22%2C%22' \
                    'lang%22%3A%22tib%22%2C%22inputLang%22%3A%22tib%22%2C%22currentListTerm%22%3A%22{word}%22%2C%22' \
                    'forceLeftSideVisible%22%3Atrue%2C%22offset%22%3A0%7D'
-    wylie = conv.toWylie(word)
+    wylie = conv.toWylie(word).replace(' ', '%20')
     return link_pattern.format(word=wylie)
 
 
 if __name__ == '__main__':
     for f in Path('input').glob('*.txt'):
         dump = f.read_text(encoding='utf-8')
-        out = dictify_text(dump)
+        out = dictify_text(dump, expandable=True)
         out_f = Path('output') / f.name
         out_f.write_text(json.dumps(out, ensure_ascii=False, indent=4))
 
