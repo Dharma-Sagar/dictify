@@ -8,24 +8,18 @@ import pyewts
 conv = pyewts.pyewts()
 
 
-def dictify_text(string, selection_yaml=None, is_split=False, mode='en_bo'):
+def dictify_text(string, selection_yaml='data/dictionaries/dict_cats.yaml'):
     """
     takes segmented text and finds entries from dictionaries
     :param selection_yaml: add None or "" to prevent selection
     :param string: segmented text to be processed
     :return: list of tuples containing the word and a dict containing the definitions(selected or not) and an url
     """
-    if not selection_yaml:
-        selection_yaml = Path(__file__).parent / 'data/dictionaries/dict_cats.yaml'
-    else:
-        selection_yaml = Path(selection_yaml)
-
+    string = string.replace('\n', ' ')
     words = []
-    if not is_split:
-        string = string.replace('\n', ' \n ')
-        string = string.split(' ')
-    for w in string:
-        words.append((w, {}))
+    for w in string.split(' '):
+        if w:
+            words.append((w, {}))
 
     dicts = load_dicts()
     for num, word in enumerate(words):
@@ -33,7 +27,7 @@ def dictify_text(string, selection_yaml=None, is_split=False, mode='en_bo'):
         defs = dicts[lemma]
         # filter
         if selection_yaml:
-            defs = select_defs(defs, yaml_path=selection_yaml, mode=mode)
+            defs = select_defs(defs, yaml_path=selection_yaml)
         words[num][1]['defs'] = defs
         # url
         url = gen_link(lemma)
@@ -44,8 +38,10 @@ def dictify_text(string, selection_yaml=None, is_split=False, mode='en_bo'):
 
 def load_dicts():
     dicts = defaultdict(dict)
-    dict_path = Path(__file__).parent / 'data/dictionaries/converted'
-    for f in sorted(dict_path.glob('*.txt')):
+    dict_path = Path('data/dictionaries/converted')
+    dict_other = Path('data/dictionaries/other')
+    dict_files = sorted(list(dict_path.glob('*.txt')) + list(dict_other.glob('*.txt')))
+    for f in dict_files:
         name = f.stem
         lines = f.read_text().split('\n')
         for line in lines:
@@ -58,33 +54,26 @@ def load_dicts():
     return dicts
 
 
-def select_defs(defs, yaml_path, mode):
-    cats = yaml.safe_load(yaml_path.read_text())
+def select_defs(defs, yaml_path):
+    cats = yaml.safe_load(Path(yaml_path).read_text())
     english, tibetan = cats['english']['dictionary'], cats['tibetan']['dictionary']
-    tibetan += cats['tibetan']['tenses']
-    tibetan += cats['tibetan']['definitions_bo']
-    tibetan += cats['tibetan']['divisions_bo']
-    tibetan += cats['tibetan']['synonyms_bo']
-    tibetan += cats['tibetan']['examples_bo']
 
     selected = {}
     # selecting the first English definition from the list in dict_cats.yaml
-    if 'en' in mode:
-        for full, name in english:
-            if full in defs:
-                selected['en'] = (name, defs[full])
-                break
+    for full, name in english:
+        if full in defs:
+            selected['en'] = (name, defs[full])
+            break
 
     # selecting the first Tibetan definition from the list in dict_cats.yaml
-    if 'bo' in mode:
-        for full, name in tibetan:
-            if full in defs:
-                selected['bo'] = (name, defs[full])
-                break
+    for full, name in tibetan:
+        if full in defs:
+            selected['bo'] = (name, defs[full])
+            break
 
     # format selected
     if 'en' in selected and 'bo' in selected:
-        return {'en': [selected['en'][0], selected['en'][1]], 'bo': [selected['bo'][0], selected['bo'][1]]}
+        return {'en': [selected['en'][0],selected['en'][1]], 'bo': [selected['bo'][0], selected['bo'][1]]}
     elif 'en' in selected:
         return {'en': [selected['en'][0], selected['en'][1]]}
     elif 'bo' in selected:
@@ -97,7 +86,7 @@ def gen_link(word):
     link_pattern = 'https://dictionary.christian-steinert.de/#%7B%22activeTerm%22%3A%22{word}%22%2C%22' \
                    'lang%22%3A%22tib%22%2C%22inputLang%22%3A%22tib%22%2C%22currentListTerm%22%3A%22{word}%22%2C%22' \
                    'forceLeftSideVisible%22%3Atrue%2C%22offset%22%3A0%7D'
-    wylie = conv.toWylie(word).replace(' ', '%20')
+    wylie = conv.toWylie(word)
     return link_pattern.format(word=wylie)
 
 

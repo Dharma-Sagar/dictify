@@ -1,5 +1,8 @@
 tibetan:
   dictionary:
+  - ['monlam_2020_1', 'སྨོན་ལམ།']
+  - ['monlam_2020_2', 'སྨོན་ལམ།']
+  - ['monlam_2020_3', 'སྨོན་ལམ།']
   - ['25-tshig-mdzod-chen-mo-Tib', 'ཚིག་མཛོད་ཆེན་མོ།']
   - ['37-dag_tshig_gsar_bsgrigs-Tib', 'དག་ཡིག་གསར་བསྒྲིགས།']
   - ['34-dung-dkar-tshig-mdzod-chen-mo-Tib', 'དུང་དཀར་ཚིག་མཛོད།']
