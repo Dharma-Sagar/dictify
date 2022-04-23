@@ -11,7 +11,7 @@ import pyewts
 conv = pyewts.pyewts()
 
 
-def dictify_text(string, selection_yaml='data/dictionaries/dict_cats.yaml', expandable=True):
+def dictify_text(string, is_split=False, selection_yaml='data/dictionaries/dict_cats.yaml', expandable=True):
     """
     takes segmented text and finds entries from dictionaries
     :param expandable: will segment definitions into senses if True, not if False
@@ -19,11 +19,16 @@ def dictify_text(string, selection_yaml='data/dictionaries/dict_cats.yaml', expa
     :param string: segmented text to be processed
     :return: list of tuples containing the word and a dict containing the definitions(selected or not) and an url
     """
-    string = string.replace('\n', ' ')
     words = []
-    for w in string.split(' '):
-        if w:
-            words.append((w, {}))
+    if is_split:
+        for w in string:
+            if w:
+                words.append((w, {}))
+    else:
+        string = string.replace('\n', ' ')
+        for w in string.split(' '):
+            if w:
+                words.append((w, {}))
 
     dicts = load_dicts()
     for num, word in enumerate(words):
@@ -34,13 +39,14 @@ def dictify_text(string, selection_yaml='data/dictionaries/dict_cats.yaml', expa
             defs = select_defs(defs, yaml_path=selection_yaml)
 
         # split in senses
-        if defs and 'en' in defs:
-            entry_en = defs['en'][1]
-            defs['en'][1] = split_in_senses(entry_en, lang='en')
+        if expandable:
+            if defs and 'en' in defs:
+                entry_en = defs['en'][1]
+                defs['en'][1] = split_in_senses(entry_en, lang='en')
 
-        if defs and 'bo' in defs:
-            entry_bo = defs['bo'][1]
-            defs['bo'][1] = split_in_senses(entry_bo, lang='bo')
+            if defs and 'bo' in defs:
+                entry_bo = defs['bo'][1]
+                defs['bo'][1] = split_in_senses(entry_bo, lang='bo')
 
         words[num][1]['defs'] = defs
         # url
