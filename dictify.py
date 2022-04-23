@@ -74,7 +74,7 @@ def split_in_senses(entry, lang):
     tsikchen_dagsar_start = r'(?: |^)([༡༢༣༤༥༦༧༨༩༠]+\.)'
     tsikchen = r' ([༡༢༣༤༥༦༧༨༩༠]+༽) '
     tsikchen_start = r'(?: |^)([༡༢༣༤༥༦༧༨༩༠]+༽) '
-    monlam = r' ([0-9]+\.) '
+    monlam = r' ((?:[^་]+་[^་]+ )?[0-9]+\.) '
     ry_start = r'^([0-9]+\)) '  # line must start with this pattern
     ry = r'(?: |^)([0-9]+\)) '
 
@@ -82,7 +82,6 @@ def split_in_senses(entry, lang):
     if lang == 'bo':
         if re.findall(monlam, entry):
             parts = [e for e in re.split(monlam, entry) if e]
-            parts = [f'{parts[0]} {parts[1]}'] + parts[2:]
             parts = [f'{parts[n]} {parts[n + 1]}' for n in range(0, len(parts), 2)]
             for p in parts:
                 t = Text(p).tokenize_chunks_plaintext.split(' ')
