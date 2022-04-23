@@ -58,8 +58,8 @@ def dictify_text(string, is_split=False, selection_yaml='data/dictionaries/dict_
 
 def load_dicts():
     dicts = defaultdict(dict)
-    dict_path = Path('data/dictionaries/converted')
-    dict_other = Path('data/dictionaries/other')
+    dict_path = Path(__file__).parent / 'data/dictionaries/converted'
+    dict_other = Path(__file__).parent / 'data/dictionaries/other'
     dict_files = sorted(list(dict_path.glob('*.txt')) + list(dict_other.glob('*.txt')))
     for f in dict_files:
         name = f.stem
