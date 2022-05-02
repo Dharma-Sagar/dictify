@@ -31,12 +31,6 @@ def dictify_text(string, is_split=False, selection_yaml='data/dictionaries/dict_
                 words.append((w, {}))
 
     dicts = load_dicts()
-    for lemma, defns in dicts.items():
-        for d, entry in defns.items():
-            if d.startswith('02'):
-                split_in_senses(entry, 'en')
-            elif d.startswith('25') or d.startswith('37') or d.startswith('monlam'):
-                split_in_senses(entry, 'bo')
 
     for num, word in enumerate(words):
         lemma = word[0].rstrip('་')
@@ -70,13 +64,15 @@ def load_dicts():
     dict_files = sorted(list(dict_path.glob('*.txt')) + list(dict_other.glob('*.txt')))
     for f in dict_files:
         name = f.stem
+        if name.startswith('monlam'):
+            name = name[:-2]  # remove file number suffix "_1", "_2" and "_3"
         lines = f.read_text().split('\n')
         for line in lines:
             if '|' not in line:
                 continue
 
             lemma, entry = line.split('|')
-            dicts[lemma][name] = entry
+            dicts[lemma][name] = f'{dicts[lemma][name]} {entry}' if name in dicts[lemma] else entry
 
     return dicts
 
