@@ -31,7 +31,6 @@ def dictify_text(string, is_split=False, selection_yaml='data/dictionaries/dict_
                 words.append((w, {}))
 
     dicts = load_dicts()
-
     for num, word in enumerate(words):
         lemma = word[0].rstrip('་')
         defs = dicts[lemma]
