@@ -218,10 +218,10 @@
 འདི་དག|[C]ayu (=ayam)
 འདི་ལ|[C]atas
 འདི་ལས|[C]anu; [C]itu
-འདི་ལྟར|tathA hi; [MV 2.14]tathA hi; [MV]yatas; [MV]yatas ... tatas; [MV 5.2]yad uta; [MV 1.4]yasmAt; [C]evaM pravRtta
+འདི་ལྟར|tathA hi; [MV 2. 14]tathA hi; [MV]yatas; [MV]yatas ... tatas; [MV 5. 2]yad uta; [MV 1. 4]yasmAt; [C]evaM pravRtta
 འདི་སྙེད|[MSA]iyat
 འདི་ལྟ་བུ|IdRza; [MSA]IdRza
-འདི་ལྟ་སྟེ|yad uta; [L]tadyathA; [MV 2.14]ayam; [MV 1]yad uta
+འདི་ལྟ་སྟེ|yad uta; [L]tadyathA; [MV 2. 14]ayam; [MV 1]yad uta
 འདི་ལྟ་སྟེ་དཔེར་ན|[L]tadyathA
 འདི་ལྟ་འདི་ལྟར་གྱུར་ཅིག|[MSA]evaM caivaM ca syAm
 འདི་དག་ཕན་ཚུན|[L]anyonya
@@ -231,7 +231,7 @@
 འདི་སྙེད་དུ་ཆེས་ལྕི་སྟེ|[C]tAvad-gurutara
 འདི་ལྟར་འདས་པ|[C]ity-uktaka
 འདིར|[MSA]iha
-འདོད|[C]kAmatA; [C]spRhA; [C]spRhate; [C,MSA]mata; (√kAGkS): [MSA]kAGkSanti; [C]AkAGkSamAna; [C]AkAGkSati; [C]abhilASin; [MSA; Xyl: 'dor; 'dar](abhi √nand): abhinandati; [MV]iccha; [MV]iSTa; [MV 1.4]iSyate; [C]icchA; [MV]ruci; [MV]abhipreta; [C]abhipraya; [MSA](A √zaMs): AzaMsante
+འདོད|[C]kAmatA; [C]spRhA; [C]spRhate; [C,MSA]mata; (√kAGkS): [MSA]kAGkSanti; [C]AkAGkSamAna; [C]AkAGkSati; [C]abhilASin; [MSA; Xyl: 'dor; 'dar](abhi √nand): abhinandati; [MV]iccha; [MV]iSTa; [MV 1. 4]iSyate; [C]icchA; [MV]ruci; [MV]abhipreta; [C]abhipraya; [MSA](A √zaMs): AzaMsante
 འདོད་ཆགས|rAga; [C,MV,MSA]rAga; tRSNA
 འདོད་ཆུང|[C]alpecchatA
 འདོད་དགུ|[MSA]kAma; [L]anukAma
@@ -1124,7 +1124,7 @@
 བཅུ་གཉིས|dvAdaza
 བཅུ་པ|[MV]dazama; [MV,MSA]dazamI
 བཅུ་པོ|[MV]dazan
-བཅུ་གཅིག་པ|[MV 5.28]ekAdazam
+བཅུ་གཅིག་པ|[MV 5. 28]ekAdazam
 བཅུ་གཉིས་པོ|[MV]dvAdaza-vidha
 བཅུད|rasa; [L]rasa
 བཅུད་ལེན|[L]rasAyana
@@ -1839,7 +1839,7 @@
 བསྡུ་བའི་དངོས་པོ|saMgraha-vastu; [C,MSA]saMgraha-vastu
 བསྡུས|(saM √kSip): [MSA]saMkSipya; [MV]abhisaMkSip-; [MV]abhisaMkSepa; [C]paripiNDayati; [C]pratisaMhRtavAn
 བསྡུས་ནས|[C]paripiNDyati
-བསྡུས་པ|saMkSipta. saMgRhIta. saMgraha; [MSA]samuccaya; [C]saMkSipta. saMgRhIta. saMgraha; [C]saMkSepa; [C,MSA,MV]saMkSipta. saMgRhIta. saMgraha; [C,MSA,MV 3.22def.]saMkSipta. saMgRhIta. saMgraha; [C]pratisaMhRte
+བསྡུས་པ|saMkSipta. saMgRhIta. saMgraha; [MSA]samuccaya; [C]saMkSipta. saMgRhIta. saMgraha; [C]saMkSepa; [C,MSA,MV]saMkSipta. saMgRhIta. saMgraha; [C,MSA,MV 3. 22def.]saMkSipta. saMgRhIta. saMgraha; [C]pratisaMhRte
 བསྡུས་དང་རྒྱས་པའི་སྒོ་ནས|[C]samAsa-vyAsataH
 བསེ་རུ|[LCh,C]khaDga
 བསེ་རུ་ལྟ་བུ|khaDgaviSANakalpa
@@ -1892,7 +1892,7 @@
 བསྒྱུར་བ|pariNAmana; [MSA]pariNAmana; [MSA]pariNAmikI; [MSA]vartaka; [MSA]vartin
 བཤད|[C]upadiSTa; [MSA]dezana (e.g.: dharmArtha- dezana); [C]dezayati; [C,MV]dezita; (vyA √khyA): [MSA]vyAkhyAta; [MSA]vyAkhyeya; [C]bhASate (=AbhASate); [C]ukta; [C]ucyate; [C]prokta; [C]udita; [C]smRta; [MV](vi √dhA): vidhIyate; [MSA]yang dag bshad = saMprakAzita
 བཤད་བྱ|[C]bhASyamAna; [MSA]dezya
-བཤད་པ|dezana. dezita; (√diz): [MSA]dezana. dezita; [MSA]dezanA; [C,MSA]dezana. dezita; [MV 5.23]upadiSTa; [MV,MSA]nirdeza; [C]vyAkhyAtA; [MV]vyAkhyA; [MSA]AkhyAtatA (e.g.: svAkhyAtatA); [MV]samudAhRta; [MSA]kathita; [MSA]vAda (e.g.: gAMbhIryaudArya-vAda); [MSA]vihita (e.g.: yukti-vihita); [MSA]saMbhASa; [L]bhASate; [C]Irita
+བཤད་པ|dezana. dezita; (√diz): [MSA]dezana. dezita; [MSA]dezanA; [C,MSA]dezana. dezita; [MV 5. 23]upadiSTa; [MV,MSA]nirdeza; [C]vyAkhyAtA; [MV]vyAkhyA; [MSA]AkhyAtatA (e.g.: svAkhyAtatA); [MV]samudAhRta; [MSA]kathita; [MSA]vAda (e.g.: gAMbhIryaudArya-vAda); [MSA]vihita (e.g.: yukti-vihita); [MSA]saMbhASa; [L]bhASate; [C]Irita
 བཤད་སྦྱར|[LCh]upanibandhana
 བཤད་དུ་ཅུང་ཟད་ཀྱང་མེད་དོ|[MSA]na kiMcid vyAkhyeyaM
 བཤད་པ་ལ་ཞུགས་པ|[MSA]dezanAyAM prayuktaH
@@ -1905,7 +1905,7 @@
 བཤད་པའི་སྐབས|[MSA]dezanAdhikAra
 བཤད་པའི་འབྲས་བུ་རྣམ་པར་དབྱེ་བ|[MSA]dezanA-phala-vibhAga
 བཤད་པའི་འབྲས་བུ་ནི་རྣམ་པ་བརྒྱད|[MSA]aSTa-vidhaM dezanAyAH phalaM
-བཤད་ཟིན་ཏོ|[MV 5.27ab]ukta
+བཤད་ཟིན་ཏོ|[MV 5. 27ab]ukta
 བཤགས|[MSA]so sor bshags pa = pratidezanA
 བཤགས་པ|dezanA
 བཤམས|[C]yojayati
@@ -3245,7 +3245,7 @@
 དབུང|[L]madhya
 དབུར་ལྡན|[C]mUrdhan
 དབུས|madhya; [LCh,L,MV,MSA]madhya
-དབུས་མཐའ|[DASI 559.2] madhyAnta-vibhAga
+དབུས་མཐའ|[DASI 559. 2] madhyAnta-vibhAga
 དབུས་དང་མཐའ་རྣམ་པར་འབྱེད་པ|[MV]madhyAnta-vibhAga
 དབུས་རྣམ་འབྱེད་པ|[MV]madhya-vibhAga
 དབུས་མཐའ་རྣམ་འབྱེད|madhyAnta-vibhAga
@@ -3279,7 +3279,7 @@
 དེ་བཞིན|tathA; [TN]tathA; [C]tatha. ... kyang: [C]kiM ca-api
 དེ་ལ|tatra; [C]tatra; [C]atas
 དེ་ལས|[C]tatu (=tadA)
-དེ་ལྟར|iti. evam; [LCh,MSA,MV]tathA; [C]eva; [MV]iti. evam; [C]evaM kRtvA; [MV 2.1]iti. evam
+དེ་ལྟར|iti. evam; [LCh,MSA,MV]tathA; [C]eva; [MV]iti. evam; [C]evaM kRtvA; [MV 2. 1]iti. evam
 དེ་ལྟས|... des: [C]tasmAhu
 དེ་ནས|[C]tasyAm; [C]uttari; [C]ata-uttari; [C]tatas
 དེ་ཉིད|[C,MSA]tattva; [MSA]satattva; tathatA
@@ -3293,7 +3293,7 @@
 དེ་ཉིད་བཟང་རྟོགས|[MSA]tattva-bodha
 དེ་ཉིད་ཟབ་མོ་མཐོང|[MSA]tattva-gambhIra-dRSTi
 དེ་དང་ལྷན་ཅིག|[C]saha
-དེ་དང་མི་མཐུན|[MV 3.17]tad-vilakSaNa
+དེ་དང་མི་མཐུན|[MV 3. 17]tad-vilakSaNa
 དེ་དང་ཡོན་ཏན་འདྲ་ཞིང|[C]tad-guNa
 དེ་ནི་གནས་ནས་གཡོ་བ|[C]sthAnataz calati
 དེ་ལྟ་བུ|evam; [L]evam; [MSA]AkRti
@@ -3378,9 +3378,9 @@
 དེ་ཙམ་གྱི་ཚོད་ཀྱིས་ནི|[C]tAvatA
 དེ་ཙམ་ཞིག་བྱེད་པར་འགྱུར་ཏེ|[C]tena tAvan mAtrakeNa
 དེ་བྱུང་འབྲེལ|tadutpatti-saMbandha; tadutpatti
-དེ་བ་ཤར་མ|devazarma[DASI 581.6]
+དེ་བ་ཤར་མ|devazarma[DASI 581. 6]
 དེ་གཅིག་པུ|[C]ekAkina
-དེ་དག་ཐམས་ཅད|[MV 3.17]tat sarvam
+དེ་དག་ཐམས་ཅད|[MV 3. 17]tat sarvam
 དེ་དག་མཚན་མར|[C]tan-nimitta
 དེ་ཡི་རྒྱུ|[C]tad-dhetoH
 དེ་ཡི་ངོ་བོ|[C]tad-bhAvena
@@ -4752,7 +4752,7 @@
 གསོལ་བ་གདབ་པ|[MSA]adhyeSaNA
 གསུམ|traya; [MSA,MV]traya; [MSA,MV]tri
 གསུམ་ཆར|[MV]traya
-གསུམ་པ|[MV 4.8v]tRtIyaka; [MV]tRtIyA
+གསུམ་པ|[MV 4. 8v]tRtIyaka; [MV]tRtIyA
 གསུམ་པོ་ཕན་ཚུན|[C]trika
 གསུང|svara; [LCh,MSA]vAc; [MSA]svara; [C]svara(tva); [MSA]ghoSa
 གསུང་བ|[MSA]vihita
@@ -5081,7 +5081,7 @@
 ཨི་ནདྲ་ནའི་ལ|[LCh]indranIla
 ཨིན་དྲ་ནི་ལ|indranIla
 ཇི་བཞིན|... med pa: [C]ayathA
-ཇི་ལྟར|[C]atha. ... 'di ltar: [MV 1.13c]kathaM ... yasmAt
+ཇི་ལྟར|[C]atha. ... 'di ltar: [MV 1. 13c]kathaM ... yasmAt
 ཇི་སྙེད|yAvat
 ཇི་སྲིད|yAvat; [C]yAvat
 ཇི་སྟེ|[C]atha (=yathA)
@@ -5122,7 +5122,7 @@
 ཇི་ལྟ་བུ|yathA; [MSA]yAdRzya; [MV]yathA; yAdRza
 ཇི་ལྟ་བུར་གྲུབ་པའི་ཤེས་རབ་ཀྱིས|[C]yathA-adhika (=yena madhya-mRdv-AdinA prAkareNa-adhikayA-adhimuktyA samprayuktA yA prajJA sA-api yathAdhikA)
 ཇི་ལྟ་ཇི་ལྟར|... de lta de ltar: [C]yathA yathA ... tathA tathA
-ཇི་ལྟ་ཞེ་ན|[MV 2.2bc]kathaM kRtvA
+ཇི་ལྟ་ཞེ་ན|[MV 2. 2bc]kathaM kRtvA
 ཇི་ལྟ་བ་བཞིན|[C]yathAvat; [C]yathAvattA
 ཇི་ལྟ་བ་བཞིན་དུ|yathAvat. yathA-bhUta. yathA; [L]yathAvat. yathA-bhUta. yathA; [MSA]yathAvat. yathA-bhUta. yathA
 ཇི་ལྟ་བ་བཞིན་དུ་ཡོད་པ་ཉིད|yathAvat(tA)
@@ -6539,7 +6539,7 @@
 མེའི་དཔེ|[MSA]agni-dRSTAnta
 མེའི་ཁམས|tejo-dhAtu; [C,MSA]tejo-dhAtu
 མེའི་ཕུང་པོ|agni-skandha; [C]agni-skandha
-མེད|[LCh,MV]asat; [C,MV]abhAva; [C]avidyamAna; [C]apanIta; [C]varjana; [C]vigata; [C]vina; [MSA]na; [MV]asattva; [MSA]nAsti; [MV 5.19]na vidyate; [MV 5.daza-vaj]na saMvidyante; [C]apratyAkhyAna; [MSA]'dod pa med = gata-spRha
+མེད|[LCh,MV]asat; [C,MV]abhAva; [C]avidyamAna; [C]apanIta; [C]varjana; [C]vigata; [C]vina; [MSA]na; [MV]asattva; [MSA]nAsti; [MV 5. 19]na vidyate; [MV 5. daza-vaj]na saMvidyante; [C]apratyAkhyAna; [MSA]'dod pa med = gata-spRha
 མེད་དགག|[LCh]prasajya-pratiSedha; niSedha [GD:371]
 མེད་མཐ|nAstyanta
 མེད་མིན|[MSA]na ... asan
@@ -6547,7 +6547,7 @@
 མེད་པ|apagata. vigata. vinA. virahita; [C,MSA,MV]abhAva; [C]avidyamAna; [MSA]avidyamAnatA; [C]asaMvidyamAnatA; [C]apagata. vigata. vinA. virahita; [MSA]apagata. vigata. vinA. virahita; (e.g.: apa-zabda-apagata. vigata. vinA. virahita); [C]vigatatva; [C]vina; [C]avidya; [MV]nAsti; [C]nAstitA; [C,MSA]asat; [MV]asattva; [MSA]apeta (e.g.: malApeta); [MSA]jaha (e.g.: punar-ukta-doSa-jaha); [MSA]rahita (e.g.: buddha-rahita); [MSA]apagata. vigata. vinA. virahita (e.g.: buddha-nAma-apagata. vigata. vinA. virahita)
 མེད་པར|[C]asatA; [MSA]gzo med par = vinAbhogam
 མེད་དགག་གི་གཞན་སེལ|prasajya-pratiSedhAnyApoha
-མེད་པའང་མིན|[MV 1.13c vc]nApi cAbhAvaH
+མེད་པའང་མིན|[MV 1. 13c vc]nApi cAbhAvaH
 མེད་པའི་དོན|[MSA]asad-artha
 མེད་པའི་མཐའ|abhAvAnta
 མེད་པའི་སྟོང་པ་ཉིད|[MSA]abhAva-zUnyatA
@@ -6558,7 +6558,7 @@
 མེད་པ་ལ་ཡོད་པར་འཛིན་པ|[MSA]asati sad-grAhaH
 མེད་པ་ལ་ཀུན་བརྟགས་པ|[C]saMkalpita
 མེད་པ་ལ་འཛིན་པ|[MV]asad-grAha
-མེད་པ་ཡང་མ་ཡིན|[MV 1.13c vc]nApi cAbhAvaH
+མེད་པ་ཡང་མ་ཡིན|[MV 1. 13c vc]nApi cAbhAvaH
 མེད་པ་ཡང་དག་པ་ཉིད|[C]asad-bhUtatA
 མེད་པ་ཉིད་ཡིན་པ|[C]asattva
 མེད་པ་ཉིད་དུ་མི་འདོད|[MV]abhAva eva neSyate
@@ -6646,7 +6646,7 @@
 མི་རྟག|[C,MSA,MV]anitya; [C]akUTastha
 མི་རྟོག|[C]avikalpaku; [C]avikalpamAna; [MSA]akalpa; [MSA]akalpanA; [MSA]nirvikalpa; [MSA]niSkalpanA
 མི་རྟོགས|[MSA]akalpana
-མི་རུང|[C,MV 113d; 5.22]na yujyate; [MSA]ayoga
+མི་རུང|[C,MV 113d; 5. 22]na yujyate; [MSA]ayoga
 མི་ཤེས|[C]avijJAna; [C]ajAnan; [C]ajAnanA
 མི་སྐྲག|[MV]atrAsa
 མི་སྐྱེ|[C]ajAta; [MV]anutpatti; [MV]notpatti
@@ -8184,7 +8184,7 @@
 ཕབ་པར་གྱུར་པ|Aveza
 ཕལ་ཆེར|bAhulyena; [C,MSA]prAyeNa; [C]bhUyastvena (=bAhulyena); [MSA]bAhulyena
 ཕལ་ཆེན་པ|mahAsAMghika
-ཕལ་ཆེན་སྡེ|[BJ 78.5] mahAsAMghika
+ཕལ་ཆེན་སྡེ|[BJ 78. 5] mahAsAMghika
 ཕལ་ཆེན་སྡེ་པ|mahAsaMghika
 ཕམ་པ|[MSA]parAjita
 ཕན|[LCh]hita; [C]upakAri-bhUta; [C]mokSa; [C]sukha
@@ -8804,7 +8804,7 @@
 རང་གི་བདག་ཉིད་དུ་མེད་པ|[MSA]svenAtmanA 'bhAvat
 རང་གི་འབྲས་བུ|sva-phala
 རང་གི་ཡོན་ཏན|[MSA]svaka ... guNa
-རང་གི་གནས་ངན་ལེན|[MV 2.6 v]dauSThulya
+རང་གི་གནས་ངན་ལེན|[MV 2. 6 v]dauSThulya
 རང་གི་ཉོན་མོངས་པ|[MSA]sva ... kleza
 རང་གི་ས་བོན|sva-bIja; [MSA]sva-bIja
 རང་གི་དོན་སྤྱོད|[MSA]AtmArthaM carati
@@ -10447,7 +10447,7 @@
 སྦྱར་བྱུང་གི་དྲི|sAmmyogika-gandha
 སྦྱར་བྱུང་གི་རྩ་བའི་ཁ་དོག|sAMyogika-mUla-varNa
 སྦྱར་བར་བགྱི|[L]yojanIya
-སྦྱར་བར་བྱ་བ|[MSA]prayojya; [MV]yojayitavya; [MV 3.16cd]yojya
+སྦྱར་བར་བྱ་བ|[MSA]prayojya; [MV]yojayitavya; [MV 3. 16cd]yojya
 སྦྱར་བར་སྨོན་ལམ་འདེབས་པ|[MSA]prayojayituM praNidadhAti
 སྦྱིན|[MV]dAna
 སྦྱིན་བདག|[C]dAtA
@@ -11053,7 +11053,7 @@
 ཤེར་མདོ|prajJA-pAramitA-sUtra
 ཤེར་ཕྱིན|prajJApAramitA
 ཤེར་ཕྱིན་གྱི་མདོ|prajJA-pAramitA-sUtra
-ཤེས|[LCh]jJa; [MV]jJAna; [C,MV]jJatA; [C]vijJAyate; [C]saMjJA; [C]prajAnAti; [MSA]boddhR; [MSA]vijJa; [MSA](vi √dhA): vidhIyate; [MV 3.4-5ab]gang shes nas = yaj-jJAnAt
+ཤེས|[LCh]jJa; [MV]jJAna; [C,MV]jJatA; [C]vijJAyate; [C]saMjJA; [C]prajAnAti; [MSA]boddhR; [MSA]vijJa; [MSA](vi √dhA): vidhIyate; [MV 3. 4-5ab]gang shes nas = yaj-jJAnAt
 ཤེས་བྱ|jJeya; [LCh,TN,MSA,MV]jJeya; [C]ucyate
 ཤེས་བྱེད|[C]vedaka
 ཤེས་བཞིན|saMprajanya; [LCh,MV,MSA]saMprajanya; [C]samprajanyam; [C]samprajJatA
@@ -12959,7 +12959,7 @@
 ཨུཏ་པ་ལ་ལྟར་གས་པ|utpala
 ཝ་རུ་ན|varuNa
 ཝ་ར་ནཱ་སི|vArANasI[LCh]
-ཝ་ར་ཎ་སི|vArANasI[DASI 572.1]
+ཝ་ར་ཎ་སི|vArANasI[DASI 572. 1]
 ཝ་ར་ན་སི|vArANasI
 ཝོ་ཏི|bodhi
 ཡ་མ་བརླ|[C]vazika
@@ -12989,7 +12989,7 @@
 ཡན་ལག་མི་སྡུག་པ|[C]vikRta-aGga
 ཡན་ལག་བཅས་པ|[C]sAGga
 ཡན་ལག་མ་ཚང་བ|vikala; [C]vikala-aGga
-ཡང|[L]yadyApi; [C]kiMcApi; [MV 1]ca; [MV 2.1d; MSA]punar
+ཡང|[L]yadyApi; [C]kiMcApi; [MV 1]ca; [MV 2. 1d; MSA]punar
 ཡང་བ|laghu; laghutva
 ཡང་དག|[LCh,C,MSA]samyak; tathya
 ཡང་དུ|[MSA]punaH punaH
@@ -13203,7 +13203,7 @@
 ཡངས|[C]pRthu; [C]mahad-gata; [MSA]udAra; [MSA]vipula; [MSA]bag yangs su byas pa = pratiprasrambhaNa
 ཡངས་པ|vaipulya; [MSA]vipulatA; [MSA]viSada; [MSA]vaipulya (e.g.: zamatha-jJAna-vaipulya); [L]vizala; [C]udAra
 ཡངས་ཤིང་རྒྱ་ཆེ་བར་འགྱུར་རོ|[C]pRthu-vaipulya-prApta
-ཡངས་པ་ཅན|vaizali[BJ 30.4]
+ཡངས་པ་ཅན|vaizali[BJ 30. 4]
 ཡངས་པ་རྒྱས་པ|vipula; vaipulya
 ཡར་མ་ཡར་བར་བྱའོ|[C]kelayitavya
 ཡར་གྱི་ངོ|[C]zukla-pakSa
@@ -13394,7 +13394,7 @@
 ཡོད་པའི་མཚན་ཉིད|[MV]sallakSaNa
 ཡོད་མེད་ཉིད|[MSA]sad-asat
 ཡོད་མེད་ཁྱད་པར་མེད་པ|[MSA]bhAvAbhAvAvizeSa
-ཡོད་མ་ཡིན|[MV 5.19v]na vidyate
+ཡོད་མ་ཡིན|[MV 5. 19v]na vidyate
 ཡོད་སྨྲ་བ|sarvAstivAdin
 ཡོད་དོ་ཞེས་བྱ་བ་ནི་རྟག་པའི་མཐའོ|[MV]astIti zAzvatAntaH
 ཡོད་པར་རྣམ་པར་རྟོག་པ|[MSA]bhAva-vikalpa
@@ -13404,7 +13404,7 @@
 ཡོད་པ་ཉིད|[MV,MSA]sattva; [L]sattA; [MSA]astitva; [MSA]nAbhAvatA
 ཡོད་པ་སྤངས་པ|[MV]sattvena varjitaH
 ཡོད་པ་ཀུན་ནས་སྤངས་ཏེ|[MSA]sat samantAd vihAya
-ཡོད་པ་མ་ཡིན|[MV]avidyamAnatA; [MV]na ... asti; [MV 1.13c]na bhAvaH; [MV]na vidyate
+ཡོད་པ་མ་ཡིན|[MV]avidyamAnatA; [MV]na ... asti; [MV 1. 13c]na bhAvaH; [MV]na vidyate
 ཡོད་པ་མ་ཡིན་པ་ལ་ཡོངས་སུ་བརྟགས་པ|[C]asat-parikalpanatA
 ཡོད་པ་མ་ཡིན་ཏེ་བྱུང་བ་མ་ཡིན|[C]asad-asaMbhUta
 ཡོད་པ་དང་མེད་པ|[MV]bhAvAbhAva; [MV]sadasattA
@@ -13893,13 +13893,13 @@
 ཞེན་པ་མེད|[C]alIno
 ཞེས|[C]iti; [L]tathA; [C]gaurava
 ཞེས་བྱ|[MSA]ity ucyate (e.g.: bodhisattva ity ucyate)
-ཞེས་བྱའོ|[MV 1.7]ucyate; [MV 3.22abc v]jJeyaM
+ཞེས་བྱའོ|[MV 1. 7]ucyate; [MV 3. 22abc v]jJeyaM
 ཞེས་པ|iti
 ཞེས་འབྱུང་བའི་ཕྱིར|[MSA]vacanAt
 ཞེས་མིང་དུ|[C]saMjJAta (=saMkhyAta)
-ཞེས་བྱ་བ|iti; [C,MSA,MV]Akhya [MSA](e.g.: pratibimbAkhya); [C]kAra; [MV 1.7]ucyate; [MV 3.22abc v]jJeyaM; [MSA]'di zhes bya ba = evaM nAmA
+ཞེས་བྱ་བ|iti; [C,MSA,MV]Akhya [MSA](e.g.: pratibimbAkhya); [C]kAra; [MV 1. 7]ucyate; [MV 3. 22abc v]jJeyaM; [MSA]'di zhes bya ba = evaM nAmA
 ཞེས་བྱ་ན|[C]saMjJaka
-ཞེས་བྱ་བའི་ཕྱིར|[MV 3.21]iti kRtvA
+ཞེས་བྱ་བའི་ཕྱིར|[MV 3. 21]iti kRtvA
 ཞི|[MV,C]zama; [MV]zAnti; [C]damana; [C]nirvRtu; [C]prazameti
 ཞི་འདོད|[C]zAntaiSin
 ཞི་བ|zAntatA. zAnta. zAnti; [L,MSA]zAntatA. zAnta. zAnti; [MSA]zAntatA. zAnta. zAnti; [MSA]zAntatA. zAnta. zAnti; [C]ziva; [MSA,MV]zama; [MSA,C]zamana

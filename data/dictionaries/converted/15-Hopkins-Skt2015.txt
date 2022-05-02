@@ -233,16 +233,16 @@
 འདི་ལས|[C]anu; [C]itu
 འདི་ལྟ་འདི་ལྟར་གྱུར་ཅིག|[MSA]evaṃ caivaṃ ca syām
 འདི་ལྟ་བུ|[MSA]īdṛśa
-འདི་ལྟ་སྟེ|[L]tadyathā; [MV 2.14]ayam; [MV 1]yad uta
+འདི་ལྟ་སྟེ|[L]tadyathā; [MV 2. 14]ayam; [MV 1]yad uta
 འདི་ལྟ་སྟེ་དཔེར་ན|[L]tadyathā
-འདི་ལྟར|[MV 2.14]tathā hi; [MV]yatas; [MV]yatas ... tatas; [MV 5.2]yad uta; [MV 1.4]yasmāt; [C]evaṃ pravṛtta
+འདི་ལྟར|[MV 2. 14]tathā hi; [MV]yatas; [MV]yatas ... tatas; [MV 5. 2]yad uta; [MV 1. 4]yasmāt; [C]evaṃ pravṛtta
 འདི་ལྟར་འདས་པ|[C]ity-uktaka
 འདི་ཕྱིར་ཕན་ཡོན་ཆེ་བའི་ཐེག་ཆེན་མཐོང་ལམ|mahānuśaṃso mahāyānadarśanamārgaḥ
 འདི་སྙམ་དུ་སེམས|[C]evaṃ bhavati
 འདི་སྙེད|[MSA]iyat
 འདི་སྙེད་དུ་ཆེས་ལྕི་སྟེ|[C]tāvad-gurutara
 འདིར|[MSA]iha
-འདོད|[C]kāmatā; [C]spṛhā; [C]spṛhate; [C,MSA]mata; (√kāṅkṣ): [MSA]kāṅkṣanti; [C]ākāṅkṣamāna; [C]ākāṅkṣati; [C]abhilāṣin; [MSA; Xyl: 'dor; 'dar](abhi √nand): abhinandati; [MV]iccha; [MV]iṣṭa; [MV 1.4]iṣyate; [C]icchā; [MV]ruci; [MV]abhipreta; [C]abhipraya
+འདོད|[C]kāmatā; [C]spṛhā; [C]spṛhate; [C,MSA]mata; (√kāṅkṣ): [MSA]kāṅkṣanti; [C]ākāṅkṣamāna; [C]ākāṅkṣati; [C]abhilāṣin; [MSA; Xyl: 'dor; 'dar](abhi √nand): abhinandati; [MV]iccha; [MV]iṣṭa; [MV 1. 4]iṣyate; [C]icchā; [MV]ruci; [MV]abhipreta; [C]abhipraya
 འདོད་བསྐྱེད་ན|[C]spṛhāṃ janeti
 འདོད་བྱ|[C] spṛhaṇīya
 འདོད་ཆགས|[C,MV,MSA]rāga; tṛṣṇā
@@ -539,7 +539,7 @@
 འགྲིབ་པ་མེད་པ|[MV]ahīna(tā)
 འགྲིབ་པར་བགྱིད་པ|[C]hārika
 འགྲིབ་པར་མ་བྱས་པ|[L]aparihāṇi
-འགྲོ|[LCh]gam;  yā; [L,MV]gati; [C,MV]gamana; [MV]ga; jagat; [C]gamiṣyanti; calate; upayāti; saṃkramaṇatā; saṃkrāmati; anbhikramaṇa; avakrānti; carati; caran; (√vraj): [MSA]yātrā; vrajati; vrajate; dehin
+འགྲོ|[LCh]gam; yā; [L,MV]gati; [C,MV]gamana; [MV]ga; jagat; [C]gamiṣyanti; calate; upayāti; saṃkramaṇatā; saṃkrāmati; anbhikramaṇa; avakrānti; carati; caran; (√vraj): [MSA]yātrā; vrajati; vrajate; dehin
 འགྲོ་བ|[L,MV,MSA,C]gati; gantṛ; [L,MV,MSA,C]gamana; [C]gacchati; [MSA]upaga; [MSA]ga (e.g.: pāra-ga); [MSA]gāmitā; [MSA]gāmin; [C,MSA,MV]jagat; [C]jagatī; [C]saṃkrāmati; [C]prakrāmati; [C]abhikramaṇa; [C]avakrānti; [C]vrajate; [MSA]yāti; [MSA]yāna
 འགྲོ་བ་དྲུག|ṣaḍ-gati
 འགྲོ་བ་ཀུན|[MSA]sarva-jagat
@@ -590,7 +590,7 @@
 འགྱོད་པའི་སྒྲིབ་པ|[MSA]kaukṛtyāvaraṇa
 འགྱོད་པར་བྱེད|[MSA]kaukṛtyāyate
 འགྱོགས་པ|jāva
-འགྱུར|[LCh]as; [MV]syāt; [LCh]bhū; [MV V.daśa-vaj]bhavati; [L]pariṇāma; [MSA](ni√gam): nigacchati; [MSA]yāti vikṛtiṃ;  [MV,MSA]vikāra; [MSA]vrajati; [C,MV]prāpnoti; [C]arcchati; [C]āhu; [C]upaiti; [L]abhyupaiti; [L]āpadyate; [C]gata; [C]saṃvartate; [C]bheṣyanti
+འགྱུར|[LCh]as; [MV]syāt; [LCh]bhū; [MV V.daśa-vaj]bhavati; [L]pariṇāma; [MSA](ni√gam): nigacchati; [MSA]yāti vikṛtiṃ; [MV,MSA]vikāra; [MSA]vrajati; [C,MV]prāpnoti; [C]arcchati; [C]āhu; [C]upaiti; [L]abhyupaiti; [L]āpadyate; [C]gata; [C]saṃvartate; [C]bheṣyanti
 འགྱུར་བ|[L]pariṇāma; [L]abhyupaiti; [C,MSA,MV]vikāra; [MSA]vikāritā; [C]sambhava; [MSA]cañcalā; [MSA]vrajati (e.g.: buddhatvam āśu vrajati); rgyags par mi 'gyur ba = [MSA]madānanugamana; mir 'gyur ba = [MSA]manuṣa-bhūta; vikriyā
 འགྱུར་བ་འོས་པ་མ་ཡིན|[MSA]na bhavitum arhati (√bhū)
 འགྱུར་བ་མ་མཆིས་པ|[L]avaivartika; [L]akāraka; [L]avikāra; [L]anabhisaṃskṛta
@@ -799,7 +799,7 @@
 འཁྲུག་པའི་སེམས་འགའ་ཙམ་ཡང་སྐྱེད་པར་མི་བྱེད་དེ|[C]cittotpādam api na kṣobhayati
 འཁྲུག་པར་འགྱུར་ཞིང|[C]kṣubhyati
 འཁྲུག་པར་བྱ་བ|[C]vikopayati
-འཁྲུག་པར་བྱེད|[C]kutsayati;[C] pratikopayati;  [C]vikopayati
+འཁྲུག་པར་བྱེད|[C]kutsayati;[C] pratikopayati; [C]vikopayati
 འཁྲུགས|[MSA]kupita; [MSA]vikārya
 འཁྲུགས་པ|[C]kṣubhita; [C]upāyāsa; [MSA]kopa; [MV]kopyatva; [MSA]kṣobhya; [MSA]vikopana; [MSA]vibhrama
 འཁྲུགས་པར་འགྱུར་བ|[C]kṣobhaṃ gacchati
@@ -1149,7 +1149,7 @@
 བཅུ|[LCh,MSA,MV]daśa; [MV]daśan
 བཅུ་བཞི|[MSA]carur-daśa
 བཅུ་གཅིག|[MSA]ekādaśa
-བཅུ་གཅིག་པ|[MV 5.28]ekādaśam
+བཅུ་གཅིག་པ|[MV 5. 28]ekādaśam
 བཅུ་གཉིས|dvādaśa
 བཅུ་གཉིས་པོ|[MV]dvādaśa-vidha
 བཅུ་པ|[MV]daśama; [MV,MSA]daśamī
@@ -1288,7 +1288,7 @@
 བདེ་བ་ཉམས་སུ་མྱོང་བ|[MSA]sukhānubhava
 བདེ་བ་ཉེ་བར་སྒྲུབ་པའི་བསམ་པ|[MSA]sukhopasaṃhārāśaya
 བདེ་བ་ཕུན་སུམ་ཚོགས་པ|[MSA]sukha-saṃpatti
-བདེ་བ་རྒྱུན་མི་འཆད|[Śāntideva 10.3cd] sukha ... bhavatvavirataṃ
+བདེ་བ་རྒྱུན་མི་འཆད|[Śāntideva 10. 3cd] sukha ... bhavatvavirataṃ
 བདེ་བ་རྣམ་པ་གསུམ|[MSA]trividhaṃ sukha(ṃ)
 བདེ་བ་སྐྱེད་པར་བྱེད་པ|[MSA]sukhopapatti
 བདེ་བ་སྐྱེས་པ|[MSA]saukhyotpāda
@@ -1309,7 +1309,7 @@
 བདེ་བར་ལོག་པར་འཛིན་པ|[MSA]sukhāsad-grāha
 བདེ་བླག་ཏུ|[C]sukhena
 བདེ་ཅན|sukhāvatī
-བདེ་ཅན་བདེ་བ|[Śāntideva 10.4] sukhāvatīsukhāme
+བདེ་ཅན་བདེ་བ|[Śāntideva 10. 4] sukhāvatīsukhāme
 བདེ་ཆུང|parīttaśuba
 བདེ་དང་མི་ལྡན|[MSA]sukhena vimuktāḥ
 བདེ་དང་སྡུག་བསྔལ་ཆེན་པོ་ཞི་བ་ཐོབ་བྱ|[MSA]ghana-sukha-duḥkha-śamopalabdhi
@@ -1893,7 +1893,7 @@
 བསྡུས|(saṃ √kṣip): [MSA]saṃkṣipya; [MV]abhisaṃkṣip-; [MV]abhisaṃkṣepa; [C]paripiṇḍayati; [C]pratisaṃhṛtavān
 བསྡུས་དང་རྒྱས་པའི་སྒོ་ནས|[C]samāsa-vyāsataḥ
 བསྡུས་ནས|[C]paripiṇḍyati
-བསྡུས་པ|[MSA]samuccaya; [C]saṃkṣipta; [C]saṃkṣepa; [C,MSA,MV]saṃgraha; [C,MSA,MV 3.22def.]saṃgṛhīta; [C]pratisaṃhṛte
+བསྡུས་པ|[MSA]samuccaya; [C]saṃkṣipta; [C]saṃkṣepa; [C,MSA,MV]saṃgraha; [C,MSA,MV 3. 22def.]saṃgṛhīta; [C]pratisaṃhṛte
 བསེ་རུ|[LCh,C]khaḍga
 བསེ་རུ་ལྟ་བུ་རང་སངས་རྒྱས|khaḍgaviṣāṇakalpa-pratyekabuddha
 བསེ་ཡབ|[Das] cicaṃ; [CG] ciñcā
@@ -1906,7 +1906,7 @@
 བསྒོམ་པ་ཐབས་ལ་བརྟེན་པ|[MSA]upāya-saṃniśritā bhāvanā
 བསྒོམ་པའི་ལམ|[L,MV]bhāvanā-mārga; [C]bhāvanā-patha
 བསྒོམ་པར་བྱ་བ་མ་ཡིན་པ|[C]abhāvya
-བསྒོམ་པར་རྣམ་པ་འཇིག་པ|[C]vibhāvanā  (=niṣṭhā-mārgaḥ kṣaya-anutpāda-jñānam)
+བསྒོམ་པར་རྣམ་པ་འཇིག་པ|[C]vibhāvanā (=niṣṭhā-mārgaḥ kṣaya-anutpāda-jñānam)
 བསྒོམ་པས་སྤང་བར་བྱ་བ|[MV]bhāvanā-heya
 བསྒོམས|[C]vibhāvayanto
 བསྒོམས་པ|[MSA,MV]bhāvanā; [MV]( √bhū): bhāvayati; [L]bhāva
@@ -1939,7 +1939,7 @@
 བསྒྲུབ་པར་བྱ་བ|[MSA] pratipattavya; pratipatti; sādhya
 བསྒྲུབ་པར་བྱའོ|[C]āharati
 བསྒྲུབས|[MSA]sampadita
-བསྒྲུབས་བྱས་ཤིང|[C]samudānayati  (=anuprāpnoti = samudānayanatā)
+བསྒྲུབས་བྱས་ཤིང|[C]samudānayati (=anuprāpnoti = samudānayanatā)
 བསྒྲུབས་ནས|[C]samāsādhya
 བསྒྲུབས་པ|[C]upahāra; [C,MSA]sādhita; [MSA]saṃpādanā (e.g.: adhiprajñā-saṃpādanā; yang dag par bsgrubs pa = [MSA]samudānīta)
 བསྒྱུར|[MSA]pariṇati
@@ -1948,7 +1948,7 @@
 བཤད་བྱ|[C]bhāṣyamāna; [MSA]deśya
 བཤད་དགོས་པ|[MV]vaktavya
 བཤད་དུ་ཅུང་ཟད་ཀྱང་མེད་དོ|[MSA]na kiṃcid vyākhyeyaṃ
-བཤད་པ|(√diś): [MSA]deśana; [MSA]deśanā; [C,MSA]deśita; [MV 5.23]upadiṣṭa; [MV,MSA]nirdeśa; [C]vyākhyātā; [MV]vyākhyā; [MSA]ākhyātatā (e.g.: svākhyātatā); [MV]samudāhṛta; [MSA]kathita; [MSA]vāda (e.g.: gāṃbhīryaudārya-vāda); [MSA]vihita (e.g.: yukti-vihita);
+བཤད་པ|(√diś): [MSA]deśana; [MSA]deśanā; [C,MSA]deśita; [MV 5. 23]upadiṣṭa; [MV,MSA]nirdeśa; [C]vyākhyātā; [MV]vyākhyā; [MSA]ākhyātatā (e.g.: svākhyātatā); [MV]samudāhṛta; [MSA]kathita; [MSA]vāda (e.g.: gāṃbhīryaudārya-vāda); [MSA]vihita (e.g.: yukti-vihita);
 བཤད་པ་དག་ནི་ཀུན་ཏུ་འབྱུང|[MSA]deśanāyāḥ samudbhavaḥ
 བཤད་པ་ལ་ཞུགས་པ|[MSA]deśanāyāṃ prayuktaḥ
 བཤད་པའི་འབྲས་བུ་ནི་རྣམ་པ་བརྒྱད|[MSA]aṣṭa-vidhaṃ deśanāyāḥ phalaṃ
@@ -1959,7 +1959,7 @@
 བཤད་པར་གྱུར་པ|[MSA]nirdeśa-bhūta
 བཤད་པར་ཟད|[C]udita
 བཤད་སྦྱར|[LCh]upanibandhana
-བཤད་ཟིན་ཏོ|[MV 5.27ab]ukta
+བཤད་ཟིན་ཏོ|[MV 5. 27ab]ukta
 བཤགས|[MSA]so sor bshags pa = pratideśanā
 བཤགས་པ|deśanā
 བཤམས|[C]yojayati
@@ -3329,7 +3329,7 @@
 དབུར་ལྡན|[C]mūrdhan
 དབུས|[LCh,L,MV,MSA]madhya
 དབུས་དང་མཐའ་རྣམ་པར་འབྱེད་པ|[MV]madhyānta-vibhāga
-དབུས་མཐའ|[DASI 559.2] madhyānta-vibhāga
+དབུས་མཐའ|[DASI 559. 2] madhyānta-vibhāga
 དབུས་མཐའ་རྣམ་འབྱེད|madhyānta-vibhāga
 དབུས་རྣམ་འབྱེད་པ|[MV]madhya-vibhāga
 དབྱང་ཅན་མ|sarasvatī
@@ -3361,7 +3361,7 @@
 དབྱུག་པ|[C]daṇḍa
 དབྱུང་བ|[L]niḥsaraṇa
 དེ|[C]tat; [MSA]tad eti; [C]tad ete
-དེ་བ་ཤར་མ|devaśarma[DASI 581.6]
+དེ་བ་ཤར་མ|devaśarma[DASI 581. 6]
 དེ་བྱུང་འབྲེལ|tadutpatti-saṃbandha; tadutpatti
 དེ་བཞིན|[TN]tathā; [C]tatha
 དེ་བཞིན་འཛིན་པ|[GST] dhāraṇā
@@ -3405,9 +3405,9 @@
 དེ་བཞིན་ཉིད་ཐ་དད་པའི་རང་བཞིན་མ་ཡིན་པ|[MSA]tathatāyā abhinnatvāt
 དེ་བཞིན་ཡོད|[MSA]tathā bhāvāt; [MSA]tathā bhāva
 དེ་དག་མཚན་མར|[C]tan-nimitta
-དེ་དག་ཐམས་ཅད|[MV 3.17]tat sarvam
+དེ་དག་ཐམས་ཅད|[MV 3. 17]tat sarvam
 དེ་དང་ལྷན་ཅིག|[C]saha
-དེ་དང་མི་མཐུན|[MV 3.17]tad-vilakṣaṇa
+དེ་དང་མི་མཐུན|[MV 3. 17]tad-vilakṣaṇa
 དེ་དང་ཡོན་ཏན་འདྲ་ཞིང|[C]tad-guṇa
 དེ་གཅིག་པུ|[C]ekākina
 དེ་ཁོ་ན|[MSA,MV]tattva
@@ -3439,7 +3439,7 @@
 དེ་ལྟ་བུའི་རང་བཞིན་དུ|[C]tathā-rūpa
 དེ་ལྟ་བུར་ནི|evam eva
 དེ་ལྟ་མ་ཡིན་ན|[MSA]itarathā
-དེ་ལྟར|[LCh,MSA,MV]tathā; [C]eva; [MV]evam; [C]evaṃ kṛtvā; [MV 2.1]iti
+དེ་ལྟར|[LCh,MSA,MV]tathā; [C]eva; [MV]evam; [C]evaṃ kṛtvā; [MV 2. 1]iti
 དེ་ལྟར་བུ|[L]evam
 དེ་ལྟར་མེད|[MV]tathā nāsti
 དེ་ལྟར་མཉམ་པ་ཉིད་དུ་མཐོང་བ་ནི|[C]tādṛśa (=tathārūpa)
@@ -3495,7 +3495,7 @@
 དེས|tena; [C]na (=tena)
 དེས་པ|[C]śūrata; [C]sūrata
 དགའ|[C]prīti; priya; rati; [MSA]rata; [C]nanda; [C]paritoṣayati; [C]sukha; [MSA](√mud): modate; [MSA]muda; [MSA]moda; [C]spṛhā
-དགའ་བ|[MSA,C]priya; preman; [MV,MSA,C]prīti (=lokottara- dharma-paryeṣṭiḥ = saumanasyam); [C]rata; udbilya; āmoda;  udagra; tuṣṭa; (=sneha); [L]nandi; nandana; priyatā; supriya (e.g.: bahujana- supriya); muditā; ānanda; rati; ārāma; āmodana (e.g.: anamodana); m
+དགའ་བ|[MSA,C]priya; preman; [MV,MSA,C]prīti (=lokottara- dharma-paryeṣṭiḥ = saumanasyam); [C]rata; udbilya; āmoda; udagra; tuṣṭa; (=sneha); [L]nandi; nandana; priyatā; supriya (e.g.: bahujana- supriya); muditā; ānanda; rati; ārāma; āmodana (e.g.: anamodana); m
 དགའ་བ་འཐོབ་པ|[L]prīti; [L]prīti-lābha
 དགའ་བ་བསྐྱེད་པ|prīty-utpāda
 དགའ་བ་བྱེད་པ|[C]rati-kara; [MSA]muditāyata
@@ -4874,7 +4874,7 @@
 གསོལ་བ་གདབ་པ|[MSA]adhyeṣaṇā
 གསུམ|[MSA,MV]traya; [MSA,MV]tri
 གསུམ་ཆར|[MV]traya
-གསུམ་པ|[MV 4.8v]tṛtīyaka; [MV]tṛtīyā
+གསུམ་པ|[MV 4. 8v]tṛtīyaka; [MV]tṛtīyā
 གསུམ་པོ་ཕན་ཚུན|[C]trika
 གསུང|[LCh,MSA]vāc; [MSA]svara; [C]svara(tva); [MSA]ghoṣa
 གསུང་བ|[MSA]vihita
@@ -5239,9 +5239,9 @@
 ཇི་ལྟ་བུ|[MSA]yādṛśya; [MV]yathā; yādṛśa
 ཇི་ལྟ་བུར་གྲུབ་པའི་ཤེས་རབ་ཀྱིས|[C]yathā-adhika (=yena madhya-mṛdv-ādinā prākareṇa-adhikayā-adhimuktyā samprayuktā yā prajñā sā-api yathādhikā)
 ཇི་ལྟ་ཇི་ལྟར་་་་་དེ་ལྟ་དེ་ལྟར|[C]yathā yathā ... tathā tathā
-ཇི་ལྟ་ཞེ་ན|[MV 2.2bc]kathaṃ kṛtvā
+ཇི་ལྟ་ཞེ་ན|[MV 2. 2bc]kathaṃ kṛtvā
 ཇི་ལྟར|[C]atha
-ཇི་ལྟར་་་་་འདི་ལྟར|[MV 1.13c]kathaṃ ... yasmāt
+ཇི་ལྟར་་་་་འདི་ལྟར|[MV 1. 13c]kathaṃ ... yasmāt
 ཇི་ལྟར་འདོད་བཞིན|[C]yatheccham; [MSA]yatheṣṭa
 ཇི་ལྟར་འདོད་བཞིན་བསྟན|[MSA]yathā-kāma-nidarśana
 ཇི་ལྟར་འདོད་པ་བཞིན|[MSA]yatheṣṭa
@@ -5377,7 +5377,7 @@
 ཁོང་དུ་བཟུང་ནས་འདུག་ན|[C]anuśayabaddho viharati
 ཁོང་དུ་ཆུད|[C]samanubuddha
 ཁོང་དུ་ཆུད་ཅིང|[C]avagāhate
-ཁོང་དུ་ཆུད་པ|adhigam; [MV]adhigama; [C]adhigata; [N]avagacchati; avabudh;  [MV]avabodha; [C]avabodhanatā; [C]avaboddhu; [C]anubuddha; [C]avabudhyate; [MSA]prativedha; [C]pratvidhyati; [C]pratividhyate; [C]nirvedhika (=nirbhedika (?)); [N]avasāya; [C]anupraveśa
+ཁོང་དུ་ཆུད་པ|adhigam; [MV]adhigama; [C]adhigata; [N]avagacchati; avabudh; [MV]avabodha; [C]avabodhanatā; [C]avaboddhu; [C]anubuddha; [C]avabudhyate; [MSA]prativedha; [C]pratvidhyati; [C]pratividhyate; [C]nirvedhika (=nirbhedika (?)); [N]avasāya; [C]anupraveśa
 ཁོང་དུ་ཆུད་པ་མ་ཡིན|[C]ananubuddha
 ཁོང་དུ་ཆུད་པར་འདོད་པ|[C] avaboddhu-kāmā
 ཁོང་དུ་ཆུད་པར་འགྱུར|[C]avatarati
@@ -5860,7 +5860,7 @@
 ལྡོག་པར་འགྱུར་རོ|[C]virāgayati; [C]parivellayati
 ལྡོངས་པ|[C]andha
 ལྡོངས་པར་གྱུར་པ|[C]andhīkṛta
-ལེ་ལོ|[LCh,C,MV]kausīdya; [C](=kuśīda);  [LCh,C,MSA,MV]kauśīdya;  [L]kusīda; [MSA]alasa; [MSA]ālasya
+ལེ་ལོ|[LCh,C,MV]kausīdya; [C](=kuśīda); [LCh,C,MSA,MV]kauśīdya; [L]kusīda; [MSA]alasa; [MSA]ālasya
 ལེ་ལོ་ཅན|[C]kusīda; [C]kusīda-rūpo; [MSA]kuśīda
 ལེ་ལོ་དག|[SPS] āsita
 ལེ་ལོ་མེད་པ|[C]akusīda
@@ -6686,7 +6686,7 @@
 མེའི་དཔེ|[MSA]agni-dṛṣṭānta
 མེའི་ཁམས|[C,MSA]tejo-dhātu
 མེའི་ཕུང་པོ|[C]agni-skandha
-མེད|[LCh,MV]asat; [C,MV]abhāva; [C]avidyamāna; [C]apanīta; [C]varjana; [C]vigata; [C]vina; [MSA]na; [MV]asattva; [MSA]nāsti; [MV 5.19]na vidyate; [MV 5.daśa-vaj]na saṃvidyante; [C]apratyākhyāna; [MSA]'dod pa med = gata-spṛha
+མེད|[LCh,MV]asat; [C,MV]abhāva; [C]avidyamāna; [C]apanīta; [C]varjana; [C]vigata; [C]vina; [MSA]na; [MV]asattva; [MSA]nāsti; [MV 5. 19]na vidyate; [MV 5. daśa-vaj]na saṃvidyante; [C]apratyākhyāna; [MSA]'dod pa med = gata-spṛha
 མེད་བཞིན་དུ|[C]sadṛśa; [MSA]prakhya (e.g.: kūrma-prakhya)
 མེད་དགག|[LCh]prasajya-pratiṣedha; niṣedha [GD:371]
 མེད་དགག་གི་གཞན་སེལ|prasajya-pratiṣedhānyāpoha
@@ -6705,8 +6705,8 @@
 མེད་པ་པ|[N]nāstika
 མེད་པ་སྤངས་པ|[MV]asattvena varjitaḥ
 མེད་པ་ཡང་དག་པ་ཉིད|[C]asad-bhūtatā
-མེད་པ་ཡང་མ་ཡིན|[MV 1.13c vc]nāpi cābhāvaḥ
-མེད་པའང་མིན|[MV 1.13c vc]nāpi cābhāvaḥ
+མེད་པ་ཡང་མ་ཡིན|[MV 1. 13c vc]nāpi cābhāvaḥ
+མེད་པའང་མིན|[MV 1. 13c vc]nāpi cābhāvaḥ
 མེད་པའི་དོན|[MSA]asad-artha
 མེད་པའི་མཐའ|abhāvānta
 མེད་པའི་སྟོང་པ་ཉིད|[MSA]abhāva-śūnyatā
@@ -6984,7 +6984,7 @@
 མི་རྟོག་ཡེ་ཤེས་སྟོབས|[MSA]akalpanā-jñāna-bala
 མི་རྟོགས|[MSA]akalpana
 མི་རྩུབ་པ|[MSA]akarkaśā
-མི་རུང|[C,MV 113d; 5.22]na yujyate; [MSA]ayoga
+མི་རུང|[C,MV 113d; 5. 22]na yujyate; [MSA]ayoga
 མི་རུང་བ|[MV]ayoga; [N]na yujyate
 མི་སྦྱོར་བ|[C]viprayoga; [C]viyoga
 མི་སྡུག་པ|[LCh]aśubha; [C]akāntatva
@@ -7627,7 +7627,7 @@
 མཚན་ཕུན་སུམ་ཚོགས་པ|[C]lakṣaṇa-sampad
 མཚན་སྨོས་པ་ཙམ|[MSA]nāma-dheya-grahaṇa-mātra
 མཚང་འབྲུ|[C]bhaṇḍana (=vāk-citta-kṛtaṃ vairūpyaṃ)
-མཚང་འབྲུ་བའི་བསམ་པ|[Śāntideva 5.49] utprāsātiśayaṃ
+མཚང་འབྲུ་བའི་བསམ་པ|[Śāntideva 5. 49] utprāsātiśayaṃ
 མཚང་བྲུ|[C]bhaṇḍana (=vāk-citta-kṛtaṃ vairūpyaṃ)
 མཚར་དུ་བརྩིས|[C]vismīyate
 མཚེ|[L]taḍāga
@@ -8223,7 +8223,7 @@
 ཉོན་མོངས་མེད་པར་འཁོར|[MSA]asaṃkliṣṭa-saṃsṛti
 ཉོན་མོངས་མེད་ཡན་ལག|[MV]niḥkleśāṅga
 ཉོན་མོངས་མཚན་ཉིད་རྣམ་དགུ|[MV]navadhā kleśa-lakṣaṇaṃ
-ཉོན་མོངས་པ|[MSA,MV]kleśa; [C]āyāsa; [C]raṇa;  [MSA]kleśa-śakti
+ཉོན་མོངས་པ|[MSA,MV]kleśa; [C]āyāsa; [C]raṇa; [MSA]kleśa-śakti
 ཉོན་མོངས་པ་འདུལ་བ|[MSA]kleśa-vinayana
 ཉོན་མོངས་པ་འདུལ་བ་ལ་རབ་ཏུ་བརྩོན་པ|[MSA]kleśa-vinaya-saṃyukta
 ཉོན་མོངས་པ་བསྐྱེད་པ|[MSA]utpādita-kleśa
@@ -8364,7 +8364,7 @@
 ཕ་རོལ་ཏུ་སོང་བས་ན|[C]pāraṅgata
 ཕབ་པར་གྱུར་པ|āveśa
 ཕལ་ཆེན་པ|mahāsāṃghika
-ཕལ་ཆེན་སྡེ|[BJ 78.5] mahāsāṃghika
+ཕལ་ཆེན་སྡེ|[BJ 78. 5] mahāsāṃghika
 ཕལ་ཆེན་སྡེ་པ|mahāsaṃghika
 ཕལ་ཆེར|[C,MSA]prāyeṇa; [C]bhūyastvena (=bāhulyena); [MSA]bāhulyena
 ཕམ་པ|[MSA]parājita
@@ -9007,7 +9007,7 @@
 རང་གི་དོན་རྗེས་སུ་ཐོབ་པ|[C,MSA]anuprāpta-svakārtha
 རང་གི་དོན་སྦྱར་བ་ལ་རྗེས་སུ་བརྩོན་པར་བྱ|[C]svārthayogam anuyukta
 རང་གི་དོན་སྤྱོད|[MSA]ātmārthaṃ carati
-རང་གི་གནས་ངན་ལེན|[MV 2.6 v]dauṣṭhulya
+རང་གི་གནས་ངན་ལེན|[MV 2. 6 v]dauṣṭhulya
 རང་གི་གསལ་བ|sva-vyakti
 རང་གི་གསལ་བ་ལ་རྗེས་སུ་འགྲོ་བའི་ཆོས|sva-vyaktyanvaya-dharma
 རང་གི་ཁམས|[MSA]sva-dhātu
@@ -9109,7 +9109,7 @@
 རྡོ་འཇོག|[Das] Takṣaśilā
 རྡོ་བ|[C]pāṣāṇa
 རྡོ་བ་མེད་པ|[C]apagata-pāṣāṇa
-རྡོ་བསྲེགས|[Śāntideva 10.8] upala
+རྡོ་བསྲེགས|[Śāntideva 10. 8] upala
 རྡོ་རྗེ|[MSA,C]vajra
 རྡོ་རྗེ་བསྙེམས་མ|[Das] Vajragarvvī; Vajradarpī
 རྡོ་རྗེ་བཟླས་པ|vajrajāpa
@@ -9306,7 +9306,7 @@
 རྒྱས་པར་བཀང|[C]sphurati; [C]sphārati
 རྒྱས་པར་དགང་བར|[C]sphurati; [C]sphārati
 རྒྱས་ཤིང་འཕེལ་བ|[L]vṛddhiṃ virūḍhim
-རྒྱུ|[LCh,L,MSA,MV]hetu;  [C,MV]hetutva; [LCh,MSA,MV,C]kāraṇa; [C,MSA,MV]upaniṣad; [C](=hetu-bhāva); [MSA]anvaya; [MSA,MV]nimitta; [MSA]nimittatva; [C]nidāna; [C]etan-nidānā; [C]kiṃ nidānam; [C]tato nidānam; [C]tan-nidānam; [C]pracāra; [C]pravartate (=pravarta)
+རྒྱུ|[LCh,L,MSA,MV]hetu; [C,MV]hetutva; [LCh,MSA,MV,C]kāraṇa; [C,MSA,MV]upaniṣad; [C](=hetu-bhāva); [MSA]anvaya; [MSA,MV]nimitta; [MSA]nimittatva; [C]nidāna; [C]etan-nidānā; [C]kiṃ nidānam; [C]tato nidānam; [C]tan-nidānam; [C]pracāra; [C]pravartate (=pravarta)
 རྒྱུ་བ|[LCh]car; pracāra; [MSA]cāra; [C]pravartate (=pravartayati); cāraṇa
 རྒྱུ་དང་འབྲས་བུ|[MSA]hetu-phala
 རྒྱུ་དང་འགལ་བའི་འབྲས་བུ|*hetu-viruddha-kārya
@@ -10493,7 +10493,7 @@
 རུང་བྱ|[MSA]yogya
 རུང་མ་ཡིན|na yujyate
 རུས|asthi; [C]gotra; [C]jāti; [MSA]keng rus = saṃkalikā
-རུས་བུ|[Śāntideva 10.10] asthi; [C]gotra; [C]jāti; [MSA]keng rus = saṃkalikā
+རུས་བུ|[Śāntideva 10. 10] asthi; [C]gotra; [C]jāti; [MSA]keng rus = saṃkalikā
 རུས་ནས་སྨོས་པ|[C]gotra-grahaṇam
 རུས་པ|[C]asthi; gotra
 རུས་སྦལ|[C]kūrma
@@ -10705,7 +10705,7 @@
 སྦྱངས་སྡོམ|[C]dhuta-vṛtta
 སྦྱར་བ|[MSA]anuga; [MSA]anusāra (e.g.: akṣa-gata-anusāra); [MSA]bandha (e.g.: śloka-bandha)
 སྦྱར་བར་བགྱི|[L]yojanīya
-སྦྱར་བར་བྱ་བ|[MSA]prayojya; [MV]yojayitavya; [MV 3.16cd]yojya
+སྦྱར་བར་བྱ་བ|[MSA]prayojya; [MV]yojayitavya; [MV 3. 16cd]yojya
 སྦྱར་བར་སྨོན་ལམ་འདེབས་པ|[MSA]prayojayituṃ praṇidadhāti
 སྦྱར་བྱུང|sāṃyogika
 སྦྱར་བྱུང་གི་དྲི|sāmmyogika-gandha
@@ -10884,7 +10884,7 @@
 སྡུག་བསྔལ་སེལ་པ|[C]duḥkha-saṃjñāna
 སྡུག་བསྔལ་སྐྱེ་བ|[MSA]duḥkhotpādana
 སྡུག་བསྔལ་ཟད་པར་འདོད་པ|[MSA]duḥkha-kṣayākāṅkṣaṇa
-སྡུག་གུ|[Das] kānta; [Śāntideva 10.6] dyuti
+སྡུག་གུ|[Das] kānta; [Śāntideva 10. 6] dyuti
 སྡུག་མི་བསྔལ་བ|[MSA]na duḥkhyate
 སྡུག་པ|[LCh]priya; [C,MSA]śubha [C](=praśasta); [C]śubhatā; [MSA]iṣṭa
 སྡུག་པ་དང་མི་སྡུག་པ|priyāpriya
@@ -11332,13 +11332,13 @@
 ཤེད་ལས་སྐྱེས་པ|[C,N]manuja
 ཤེལ|[C]sphaṭika; [L]svaccha
 ཤེལ་དང་བཻ་དཱུ་ར་ཡ|[MSA]sphaṭika-vaidurya
-ཤེལ་གྱི་ས་གཞི|[Śāntideva 10.7] sphāṭika-kuṭṭimaṃ
+ཤེལ་གྱི་ས་གཞི|[Śāntideva 10. 7] sphāṭika-kuṭṭimaṃ
 ཤེལ་ཤིན་ཏུ་གསལ་བ|[L]svaccha-sphaṭika
 ཤེར|prajñā
 ཤེར་མདོ|prajñā-pāramitā-sūtra
 ཤེར་ཕྱིན|prajñāpāramitā
 ཤེར་ཕྱིན་གྱི་མདོ|prajñā-pāramitā-sūtra
-ཤེས|[LCh]jña; [MV]jñāna; [C,MV]jñatā; [C]vijñāyate; [C]saṃjñā; [C]prajānāti; [MSA]boddhṛ; [MSA]vijña; [MSA](vi √dhā): vidhīyate; [MV 3.4-5ab]gang shes nas = yaj-jñānāt
+ཤེས|[LCh]jña; [MV]jñāna; [C,MV]jñatā; [C]vijñāyate; [C]saṃjñā; [C]prajānāti; [MSA]boddhṛ; [MSA]vijña; [MSA](vi √dhā): vidhīyate; [MV 3. 4-5ab]gang shes nas = yaj-jñānāt
 ཤེས་བྱ|[LCh,TN,MSA,MV]jñeya; [C]ucyate
 ཤེས་བྱ་བ|jñeya; iti
 ཤེས་བྱ་ཅིག་ཆར་སྣང་བར་བྱེད་པ|[MSA]jagaj-jñeya-prabhāsana; [MSA]sakṛj-jagaj-jñeya-prabhāsana
@@ -11746,7 +11746,7 @@
 སྐྱེད་མོས་ཚལ|[C]udyāna
 སྐྱེད་མོས་ཚལ་གྱི་ས|[MSA]udyāna-bhūmi
 སྐྱེད་པ|[MV]ropaṇa; [MSA]ādhāna; [MSA]upapatti; [L]prasavati; [C]utpadyate; [C]janayitrī (=ādāv utpādanād)
-སྐྱེད་པར་བྱེད|[MSA]avaropaṇa;  [MSA]( √jan): janayanti
+སྐྱེད་པར་བྱེད|[MSA]avaropaṇa; [MSA]( √jan): janayanti
 སྐྱེད་པར་མཛད་པ|[C]janayitrī (=ādāv utpādanād)
 སྐྱེལ|[C]anugamana; [C]anuyāna
 སྐྱེན་པ|[C]śīghra(m)
@@ -12243,7 +12243,7 @@
 སྤང་ཀོང་ཕྱག་བརྒྱ་པ|*sākṣipūrṇamudraka
 སྤང་པ|prahāṇa
 སྤང་ཕྱིར་བརྩོན་འགྲུས|[MV]apāyāya-vīrya
-སྤངས|[C]varjita; [MSA](vi √hā): vihāya; [MSA]hīna (e.g.:  vipakṣa-hīna); [C]vivarjayati
+སྤངས|[C]varjita; [MSA](vi √hā): vihāya; [MSA]hīna (e.g.: vipakṣa-hīna); [C]vivarjayati
 སྤངས་བྱ|[MSA]hāyin
 སྤངས་ནས|[C]nirgamitvā; [C]khipitva; kṣipitva; (√vṛj): [C]varjayati; [MSA]varjayitvā; [C]varjana
 སྤངས་ནས་རབ་ཏུ་འབྱུང་བ|[MSA]vihāya pravrajati (pra √vraj)
@@ -13314,7 +13314,7 @@
 ཨུཏཔ་ལ་ཅན|[Negi] utpalakaḥ
 ཝ་ར་ན་སི|vārāṇasī
 ཝ་ར་ནཱ་སི|vārāṇasī[LCh]
-ཝ་ར་ཎ་སི|vārāṇasī[DASI 572.1]
+ཝ་ར་ཎ་སི|vārāṇasī[DASI 572. 1]
 ཝཱ་ར་ཎཱ་སི|vārāṇasī[LCh]
 ཝ་རུ་ན|varuṇa
 ཝོ་ཏི|bodhi
@@ -13346,7 +13346,7 @@
 ཡན་ལག་མ་ཚང་བ|[C]vikala-aṅga
 ཡན་ལག་མི་སྡུག་པ|[C]vikṛta-aṅga
 ཡན་ལག་ཉམས་པ|[C]hīna-aṅga
-ཡང|[L]yadyāpi; [C]kiṃcāpi; [MV 1]ca; [MV 2.1d; MSA]punar
+ཡང|[L]yadyāpi; [C]kiṃcāpi; [MV 1]ca; [MV 2. 1d; MSA]punar
 ཡང་བ|laghu; laghutva
 ཡང་བ་ཉིད|[C]laghutva
 ཡང་དག|[LCh,C,MSA]samyak; tathya
@@ -13565,7 +13565,7 @@
 ཡང་ཡང|[MSA]ābhīkṣṇya
 ཡངས|[C]pṛthu; [C]mahad-gata; [MSA]udāra; [MSA]vipula; [MSA]bag yangs su byas pa = pratiprasrambhaṇa
 ཡངས་པ|[MSA]vipulatā; [MSA]viṣada; [MSA]vaipulya (e.g.: śamatha-jñāna-vaipulya); [L]viśala; [C]udāra
-ཡངས་པ་ཅན|vaiśali[BJ 30.4]
+ཡངས་པ་ཅན|vaiśali[BJ 30. 4]
 ཡངས་པ་རྒྱས་པ|vipula; vaipulya
 ཡངས་ཤིང་རྒྱ་ཆེ་བར་འགྱུར་རོ|[C]pṛthu-vaipulya-prāpta
 ཡར་གྱི་ངོ|[C]śukla-pakṣa
@@ -13761,7 +13761,7 @@
 ཡོད་དང་མེད་པ|[MSA,MV]bhāvābhāva; [MV]sadasat(tva)
 ཡོད་དང་མེད་པ་ཉིད|[MSA]astitva-nāstitva
 ཡོད་དོ་ཞེས་བྱ་བ་ནི་རྟག་པའི་མཐའོ|[MV]astīti śāśvatāntaḥ
-ཡོད་མ་ཡིན|[MV 5.19v]na vidyate
+ཡོད་མ་ཡིན|[MV 5. 19v]na vidyate
 ཡོད་མེད|[MV]sad-asattā
 ཡོད་མེད་ཁྱད་པར་མེད་པ|[MSA]bhāvābhāvāviśeṣa
 ཡོད་མེད་ཉིད|[MSA]sad-asat
@@ -13773,7 +13773,7 @@
 ཡོད་པ་དང་མེད་པ་ཉིད|[MSA]astitva-nāstitva
 ཡོད་པ་དང་མེད་པའི་དེ་ཁོ་ན|[MV]sadasat-tattva
 ཡོད་པ་ཀུན་ནས་སྤངས་ཏེ|[MSA]sat samantād vihāya
-ཡོད་པ་མ་ཡིན|[MV]avidyamānatā; [MV]na ... asti; [MV 1.13c]na bhāvaḥ; [MV]na vidyate
+ཡོད་པ་མ་ཡིན|[MV]avidyamānatā; [MV]na ... asti; [MV 1. 13c]na bhāvaḥ; [MV]na vidyate
 ཡོད་པ་མ་ཡིན་པ་ལ་ཡོངས་སུ་བརྟགས་པ|[C]asat-parikalpanatā
 ཡོད་པ་མ་ཡིན་ཏེ་བྱུང་བ་མ་ཡིན|[C]asad-asaṃbhūta
 ཡོད་པ་མེད|[C]asaṅga-bhūta
@@ -14273,10 +14273,10 @@
 ཞེས|[C]iti; [L]tathā; [C]gaurava
 ཞེས་འབྱུང་བའི་ཕྱིར|[MSA]vacanāt
 ཞེས་བྱ|[MSA]ity ucyate (e.g.: bodhisattva ity ucyate)
-ཞེས་བྱ་བ|iti; [C,MSA,MV]ākhya [MSA](e.g.: pratibimbākhya); [C]kāra; [MV 1.7]ucyate; [MV 3.22abc v]jñeyaṃ; [MSA]'di zhes bya ba = evaṃ nāmā
-ཞེས་བྱ་བའི་ཕྱིར|[MV 3.21]iti kṛtvā
+ཞེས་བྱ་བ|iti; [C,MSA,MV]ākhya [MSA](e.g.: pratibimbākhya); [C]kāra; [MV 1. 7]ucyate; [MV 3. 22abc v]jñeyaṃ; [MSA]'di zhes bya ba = evaṃ nāmā
+ཞེས་བྱ་བའི་ཕྱིར|[MV 3. 21]iti kṛtvā
 ཞེས་བྱ་ན|[C]saṃjñaka
-ཞེས་བྱའོ|[MV 1.7]ucyate; [MV 3.22abc v]jñeyaṃ
+ཞེས་བྱའོ|[MV 1. 7]ucyate; [MV 3. 22abc v]jñeyaṃ
 ཞེས་གྲགས|[M-W; Tattvasamgraha](iti-ha) aitihya
 ཞེས་མིང་དུ|[C]saṃjñāta (=saṃkhyāta)
 ཞེས་པ|iti
@@ -14477,7 +14477,7 @@
 ཀུན་ནས་དཀྲིས་པ|paryavasthāna
 ཀུན་ནས་ཉོན་མོངས་ཅན|[MSA]saṃkliṣṭa
 ཀུན་ནས་ཉོན་མོངས་པ་ཅན|[C,MV]saṃkliṣṭa; [MV]saṃkliṣṭa(tva)
-ཀུན་ནས་ཉོན་མོངས་པ|[L,MSA,MV]saṃkleśa; [N]saṃkleśika;  [MSA]sāṃkleśikā-dharmāḥ; [C]saṃkileśa
+ཀུན་ནས་ཉོན་མོངས་པ|[L,MSA,MV]saṃkleśa; [N]saṃkleśika; [MSA]sāṃkleśikā-dharmāḥ; [C]saṃkileśa
 ཀུན་ནས་ཉོན་མོངས|[MV]saṃkliśyate; [MV]saṃkliṣṭa
 ཀུན་ནས་སློང་བ|[C]samutthāna
 ཀུན་ཉོན་མོངས|[L]saṃkleśa
@@ -14624,7 +14624,7 @@
 ཀུན་དཀྲིས|paryavasthāna
 ཀུན་ནས་ཉོན་མོངས་པ་ཅན|[MSA]saṃkliṣṭa
 ཀུན་ནས་ཉོན་མོངས་ཅན|[C,MV]saṃkliṣṭa; [MV]saṃkliṣṭa(tva)
-ཀུན་ནས་ཉོན་མོངས|[L,MSA,MV]saṃkleśa; [N]saṃkleśika;  [MSA]sāṃkleśikā-dharmāḥ; [C]saṃkileśa
+ཀུན་ནས་ཉོན་མོངས|[L,MSA,MV]saṃkleśa; [N]saṃkleśika; [MSA]sāṃkleśikā-dharmāḥ; [C]saṃkileśa
 ཀུན་ནས་ཉོན་མོངས་པ|[MV]saṃkliśyate; [MV]saṃkliṣṭa
 ཀུན་སློང|[C]samutthāna
 ཀུན་ནས་ཉོན་མོངས་པ|[L]saṃkleśa
