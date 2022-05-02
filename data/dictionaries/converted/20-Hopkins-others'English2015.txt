@@ -160,7 +160,7 @@
 འདོར་བ་མེད་པ|{C}non-repudiation
 འདོར་བ་མེད་པ་སྟོང་པ་ཉིད|{C}emptiness of non-repudiation
 འདོར་བར་འགྱུར|{C}throws back; abandons; part from; spurns
-འདོར་བར་བགྱིད་པ|{C}which rejects;  which ceases toiling
+འདོར་བར་བགྱིད་པ|{C}which rejects; which ceases toiling
 འདོར་བར་བྱེད|{C}cut oneself off from
 འདྲ|{C}comparable; equal; similar to; as if it were just
 འདྲ་བ་གཞན་བྱུང|{C}tapering; {GD:527} the arising of similar other moments
@@ -266,7 +266,7 @@
 འགྲམ|{C}riverbank; shore
 འགྲམ་པ|{C}jaws
 འགྲས་པ|{C}one who has offended; offend
-འགྲིབ|{C}is diminished;  fails of; avoids; desists; diminish; decrease; lose; fail to win; failure; diminution; decrease; waning; loss
+འགྲིབ|{C}is diminished; fails of; avoids; desists; diminish; decrease; lose; fail to win; failure; diminution; decrease; waning; loss
 འགྲིབ་མེད|{C}do not diminish
 འགྲིབ་པ|{C}removal; take away; diminution; loss; never fails; is decreased; is diminished; fail
 འགྲིབ་པ་མེད|{C}cannot diminish
@@ -365,7 +365,7 @@
 འཇུག་པའི་རྟེན་ལ|{C}support; source
 འཇུག་པའི་ཚེ|{GD:528} practical activities
 འཇུག་པར་བྱ|{C}should plunge into
-འཇུག་ཡུལ|{GD:247}  object of application
+འཇུག་ཡུལ|{GD:247} object of application
 འཁོད་པར་འཕགས|{C}distinguished
 འཁོར|{C}repeated rebirths; wander about in birth-and-death; wander about; assembly; wheel
 འཁོར་འགྱུར་བ|{C}wander about (in birth-and-death)
@@ -734,7 +734,7 @@
 བླུན་མོངས་མུན་པ་བཞིན|{C}quite blind
 བླུན་རྨོངས་མུན་པ་བཞིན|{C}quite blinded
 བོ་དོང་ཕྱོགས་ལས་རྣམ་རྒྱལ|{GD:viii,840} Bo-dong Chok-lay-nam-gyel
-བོད་ཀྱི་མཁས་པ་སྣག་ཕི་དག་གི་གྲུབ་མཐའ་ཤན་འབྱེད་མཐའ་དཔྱོད་དང་བཅས་པའི་འབེལ་བའི་གཏམ|Nga-wang-chö-drak's (ngag dbang chos grags) Decision in the Tenets of earlier and later Tibetan Learned Ones. Thimphu [Bhutan]: Kunzang Tobgey, 1984.
+བོད་ཀྱི་མཁས་པ་སྣག་ཕི་དག་གི་གྲུབ་མཐའ་ཤན་འབྱེད་མཐའ་དཔྱོད་དང་བཅས་པའི་འབེལ་བའི་གཏམ|Nga-wang-chö-drak's (ngag dbang chos grags) Decision in the Tenets of earlier and later Tibetan Learned Ones. Thimphu [Bhutan]: Kunzang Tobgey, 1984. 
 བོང་བ|{C}clod (of earth); grit
 བོར|{C}having left
 བོར་བ|forsake, put down (a burden); renunciation; renounce; renouncing; giving away
@@ -1040,7 +1040,7 @@
 བསྲུང་བ་མེད་པ|{C}in which one has nothing to hide
 བསྟན|{C}proclaims; reveals; shows; makes known; explained; mentioned; declared; expounded; pointed out; advice; instruction; exposition; definite statement; definition; lighten up; is lit up; pointed out; announced; proclaimed
 བསྟན་བཅོས་ལ་གྲགས་པ|{GD:158} reknown to [philosophical] treatises
-བསྟན་བཅོས་མངོན་རྟོགས་རྒྱན་འགྲེལ་པ་དང་བཅས་པའི་རྒྱ་ཆེར་བཤད་པ་ལེགས་བཤད་གསེར་གྱི་ཕྲེང་བ|{GD:841} Dzong-ka-ba's (tsong kha pa) Extensive Explanation of the Treatise of the Ornament Together with its Commentaries, a Golden Garland  of Good Sayings. Bylakuppe, India: Sera Monastery. Block.
+བསྟན་བཅོས་མངོན་རྟོགས་རྒྱན་འགྲེལ་པ་དང་བཅས་པའི་རྒྱ་ཆེར་བཤད་པ་ལེགས་བཤད་གསེར་གྱི་ཕྲེང་བ|{GD:841} Dzong-ka-ba's (tsong kha pa) Extensive Explanation of the Treatise of the Ornament Together with its Commentaries, a Golden Garland of Good Sayings. Bylakuppe, India: Sera Monastery. Block.
 བསྟན་བཅོས་ཚད་མ་རྣམ་ངེས་ཀྱི་ཏི་ཀ་ཆེན་དགོངས་པ་རབ་གསལ|{GD:843} Gyel-tsap's (rgyal tshab) A Great Explanation of [Dharmakīrti's] Treatise, the Ascertainment of Valid Cognition. Part I (Collected Works, VII) Delhi:Guru Deva.
 བསྟན་བྱེད|{C}intimacy; familiarity
 བསྟན་དར་ལྷ་རམ་པ|{GD:840} Den-dar-hla-ram-ba (1759-1840), a Ge-luk-pa writer on epistemology
@@ -1274,7 +1274,7 @@
 ཆགས་པ་གཅོད་བྱེད|{C}one who cuts off attachment
 ཆགས་པ་མེད|{C}misconstrue as; adhere to; handle
 ཆགས་པ་མེད|{C}unstained
-ཆགས་པ་མེད་པ|{C}without a stain; stainless;  untainted; without attachment; unshackled
+ཆགས་པ་མེད་པ|{C}without a stain; stainless; untainted; without attachment; unshackled
 ཆགས་པ་མེད་པ་ཉིད|{C}non-attachment
 ཆགས་པ་མི་མངའ་བ|{C}without attachment; unshackled
 ཆགས་པ་ཐམས་ཅད་དང་བྲལ་བ|{C}free from all attachment
@@ -1342,7 +1342,7 @@
 ཆོས་གོས་ཡོངས་སུ་ལོངས་སྤྱོད་པ|{C}his robe
 ཆོས་གྲགས་རྒྱ་མཚོ|{GD:777} Chö-drak-gya-tso, the VIIth Karmapa (1454-1506)
 ཆོས་ཀྱི|{C}rightful; legitimate
-ཆོས་ཀྱི་འཁོར་ལོ་བསྐོར་བའི་རྣམ་བཞག|{GD:847} Sakya Chok-den's (sakya mchog ldan) Presentation of the Turning of the Wheel. (Collected Works XVI) Thimphu [Bhutan]: Kunzang Topgey, 1971.
+ཆོས་ཀྱི་འཁོར་ལོ་བསྐོར་བའི་རྣམ་བཞག|{GD:847} Sakya Chok-den's (sakya mchog ldan) Presentation of the Turning of the Wheel. (Collected Works XVI) Thimphu [Bhutan]: Kunzang Topgey, 1971. 
 ཆོས་ཀྱི་བར་ཆད་དུ་གྱུར་པ|{C}some obstacle hinders access to Dharma
 ཆོས་ཀྱི་དབྱིངས|{C}dharma-element
 ཆོས་ཀྱི་དབྱིངས་སུ་འགྱུར་བ|{C}becomes the true nature of Dharma
@@ -1481,7 +1481,7 @@
 དལ་བ|{C}moment; instant; rebirth at an auspicious moment
 དལ་བ་ཆུད་གསོན་པ་དག་མཐོང་ནས|{C}he sees that they have again lost the fortunate rebirth
 དམ་བཅས|{C}pledge
-དམ་པ|{C}highest; best; supreme; unsurpassed; utmost; finest; very fine; excellent; highly; exceedingly; completely; foremost; most; farthest; most excellent; top; beginning; boon; choicest; supreme; a person of authority  core; substance; of substantial excell
+དམ་པ|{C}highest; best; supreme; unsurpassed; utmost; finest; very fine; excellent; highly; exceedingly; completely; foremost; most; farthest; most excellent; top; beginning; boon; choicest; supreme; a person of authority core; substance; of substantial excell
 དམ་པ་མ་ཡིན་པའི་ཆོས་ཡོངས་སུ་འཛིན་པ|{C}takes hold of what is not true Dharma
 དམ་པ་ཡིན་པ|{C}supreme
 དམ་པའི་ཆོས་འཇིག་པའི་དུས་ཀྱི་ཚེ|{C}the period when true Dharma disappears
@@ -1546,7 +1546,7 @@
 དབུ|{C}body; figure
 དབུ་བ་རྡོས་པ|{C}mass of foam
 དབུ་བརྡོས་པ|{C}mass of foam
-དབུ་མ་ལ་འཇུག་པའི་རྒྱ་ཆེར་བཤད་པ་དགོངས་པ་རབ་གསལ|{GD:841} Dzong-ka-ba's (tsong kha pa) Clarification of the Thought, an Extensive Treatise on [Candrakīrti's] Introduction to the Madhyamika. Varanasi: Ge-luk-pa Press, 1973.
+དབུ་མ་ལ་འཇུག་པའི་རྒྱ་ཆེར་བཤད་པ་དགོངས་པ་རབ་གསལ|{GD:841} Dzong-ka-ba's (tsong kha pa) Clarification of the Thought, an Extensive Treatise on [Candrakīrti's] Introduction to the Madhyamika. Varanasi: Ge-luk-pa Press, 1973. 
 དབུའི་གཙུག|{C}head; on his head; summits
 དབུའི་གཙུག་ཏུ|{C}in the head; head; on his head; summits
 དབུགས|{C}principle of life
@@ -1687,10 +1687,10 @@
 དགོན་པ་པ|{C}forest-dweller; belonging to the forest
 དགོན་པའི་ལམ|{C}wilderness
 དགོངས་པ|{C}intent(ion); desire; purpose; attempt (to hurt); veiled; indirect; with hidden meaning; grace(?)
-དགོངས་པ་མཛད་དེ|{C}his mind is impressed by; consider; bring out; bear in mind; bring to mind;  behave towards(?); thinks to himself
-དགོངས་པར|{C}his mind is impressed by; consider; bring out; bear in mind; bring to mind;  behave towards(?); thinks to himself
-དགོངས་པར་འགྱུར|{C}his mind is impressed by; consider; bring out; bear in mind; bring to mind;  behave towards(?); thinks to himself
-དགོངས་པར་མཛད|{C}his mind is impressed by; consider; bring out; bear in mind; bring to mind;  behave towards(?); thinks to himself
+དགོངས་པ་མཛད་དེ|{C}his mind is impressed by; consider; bring out; bear in mind; bring to mind; behave towards(?); thinks to himself
+དགོངས་པར|{C}his mind is impressed by; consider; bring out; bear in mind; bring to mind; behave towards(?); thinks to himself
+དགོངས་པར་འགྱུར|{C}his mind is impressed by; consider; bring out; bear in mind; bring to mind; behave towards(?); thinks to himself
+དགོངས་པར་མཛད|{C}his mind is impressed by; consider; bring out; bear in mind; bring to mind; behave towards(?); thinks to himself
 དགོངས་ཏེ|{C}hidden intent; with hidden meaning
 དགོས|{C}work; business; function; task
 དགོས་པ|{C}duty; necessary
@@ -2058,7 +2058,7 @@
 གནམ་བཞིན|{C}space; sky
 གནམ་དུ|{C}upwards
 གནང|{C}sanction; ordained
-གནས|{C}abide in the world; home; at home; supported; settled; established; becomes; stands; takes place; occurs; comes about; realm; stately house;  world (e.g.: sva-bhavana; his respective world); residence; male organ; place of rest; room; track; an entity
+གནས|{C}abide in the world; home; at home; supported; settled; established; becomes; stands; takes place; occurs; comes about; realm; stately house; world (e.g.: sva-bhavana; his respective world); residence; male organ; place of rest; room; track; an entity
 གནས་བྲལ|{C}absence of a discontinuous existent
 གནས་བྱེད|{C}dwell; resides
 གནས་དང་གནས་མ་ཡིན་པ་བསྟན་པ་ཤེས་པར་བྱ་བ|{C}exposition of what can be and what cannot be
@@ -2226,7 +2226,7 @@
 གཏམས་གྱུར|{C}filled
 གཏན་ལ་དབབ་པར་བསྟན་པའི་སྡེ|{C}Exposition; instruction; advice
 གཏན་ལ་ཕབ་པར་བསྟན་པའི་སྡེ|{C}Exposition(s); instruction; advice
-གཏན་ཚིགས་ཐིག་པ|{GD:841} Dharmakīrti's Science of Reasoning. P:5715, Ce, 364.a.7-400.a.7
+གཏན་ཚིགས་ཐིག་པ|{GD:841} Dharmakīrti's Science of Reasoning. P:5715, Ce, 364. a.7-400.a.7
 གཏང|{C}cast away; rejects; emits; cast off; cast out; come up; let go; abandon; (would) discard; let loose
 གཏང་བ|relax
 གཏང་སྟེ|{C}having let go; having renounced
@@ -2466,7 +2466,7 @@
 ཁྱིམ་སྟོང་དུ|{C}empty shed
 ཁྱིམ་ཐབ་མེད་པ|{C}without a husband
 ཁྱོད་སྤོབས་པར་གྱིས་ཤིག|{C}may you make clear; flashes into my mind; inspire; it is clear; it becomes clear; lighten up (the mind); intelligibly; make clear; appears
-ཁྱུ་མཆོག|{C}lordly bull;  majestic man
+ཁྱུ་མཆོག|{C}lordly bull; majestic man
 ཁྱུ་མཆོག་ཏུ་འགྱུར་བ|{C}manliness
 ཀླ་ཀློ་སྐྱེ་བོ|{C}barbarous populations
 ཀླག་པ་བྱ་བ|{C}is recited
@@ -2613,7 +2613,7 @@
 ལྡོག་པ་ངོས་འཛིན|{GD:254} differential
 ལྡོག་པར་འགྱུར་རབ་ཏུ་བསྐོར་བར་འགྱུར་རོ|{C}turns back; recedes; is made to desits
 ལྡོག་པར་འགྱུར་རོ|{C}displease; has lost; become estranged; turns back on; pleases permanently; swap away from
-ལྡོམ་གསུམ་རབ་བྱེད|{GD:847} Sa-gya Paṇḍita's (sa skya paṇḍita) Differentiation of the Three Vows. Complete Works of the Sa-skya Masters. Tokyo: Toyo Bunko. 1969.
+ལྡོམ་གསུམ་རབ་བྱེད|{GD:847} Sa-gya Paṇḍita's (sa skya paṇḍita) Differentiation of the Three Vows. Complete Works of the Sa-skya Masters. Tokyo: Toyo Bunko. 1969. 
 ལྡོངས་པ|{C}blind
 ལྡོངས་པར་གྱུར་པ|{C}blind
 ལེ་ལོ|{C}indolence; sloth; slothful; lazy
@@ -2737,7 +2737,7 @@
 ལྟ་བ་རྣམ་པར་སྤྱོད་པ|{C}wandering about in false views
 ལྟ་བའི་དྲ་བས་ཁེབས་པ|{C}one who is enveloped in the net of false views
 ལྟ་བའི་རྣམ་པ|{C}various false views
-ལྟ་བའི་ཤན་བྱེད་ཐེག་མཆོག་གནད་གྱི་ཟླ་ཟེར|{GD:842} Go-ram-ba's (go rams pa bsod nams sen ge) Distinguishing the View, the Moonlight of the Essential points of the Best Vehicle. Varanasi: Sakya Press, 1988.
+ལྟ་བའི་ཤན་བྱེད་ཐེག་མཆོག་གནད་གྱི་ཟླ་ཟེར|{GD:842} Go-ram-ba's (go rams pa bsod nams sen ge) Distinguishing the View, the Moonlight of the Essential points of the Best Vehicle. Varanasi: Sakya Press, 1988. 
 ལྟ་བར་བྱེད|{C}one who sees
 ལྟ་བར་གྱུར་པ|{C}bound up with false views; what pertains to false views
 ལྟ་བར་གྱུར་པ་དྲུག་ཅུ་རྩ་གཉིས་པོ་དག|{C}the sixty-two views
@@ -2766,7 +2766,7 @@
 ལུགས་འབྱུང|{GD:767} forward systems [of explanation, which consist in demonstrating the existence of causes]
 ལུགས་དང་ལྡན་པ|{C}prudent
 ལུགས་དང་མི་མཐུན་པ|{C}in disagreement; in reverse order
-ལུགས་ལྡོག|{GD:767} backward systems [of explanation, which consist in  demonstrating the validity of the argument]
+ལུགས་ལྡོག|{GD:767} backward systems [of explanation, which consist in demonstrating the validity of the argument]
 ལུགས་མི་མཐུན་ལ|{C}in disagreement; in reverse order
 ལུགས་མཐོང|{C}in agreement (with reality)
 ལུགས་རྒྱ་ལྡན|{GD:657} (lit.) a hundred systems; interpretable many ways
@@ -2900,7 +2900,7 @@
 མཆོད་པའི་ཆོ་ག|{C}ritual for worship
 མཆོད་པར་བགྱིས་པར་འགྱུར|{C}worshipped
 མཆོད་རྟེན་དུ་གྱུར་པར་བྱས་པ|{C}a true shrine
-མཆོག|{C}foremost; very fine; beginning; highest; boon; choicest; foremost;  high; highest; unsurpassed; utmost; finest; very fine; others; (the) other; another; foreign; beyond; further;  utmost; outshines them all; highly; exceedingly; completely; foremost; m
+མཆོག|{C}foremost; very fine; beginning; highest; boon; choicest; foremost; high; highest; unsurpassed; utmost; finest; very fine; others; (the) other; another; foreign; beyond; further; utmost; outshines them all; highly; exceedingly; completely; foremost; m
 མཆོག་འཛིན་བྱེད|{C}misconstrue as; adhere to; handle
 མཆོག་འཕགས་བདེ་བ་བྱེད|{C}the work of the holy which leads to the fullness of bliss
 མཆོག་དང་ལྡན་པ|{C}planted(?)
@@ -3529,7 +3529,7 @@
 ནང་ནུབ་ནང་ནུབ་ཅིང་རིམ་གྲོ་བྱ་བའི་དོན་དུ་འདོང་བར་བྱེད|{C}is at all times ready to serve him
 ནང་སྟོང་ཉིད|{C}emptiness of inward elements
 ནང་སྟོང་པ་ཉིད|{C}emptiness of inward elements; emptiness of the subject
-ནས་བཟུང་སྟེ|{C}begin(ing) from; beginning with; take hold on; about; concerning; relevant to; starting from; having turned his mind to; stimulated by; initially founded on; if I take into consideration; following on; on account of;  with reference to; motivated by; w
+ནས་བཟུང་སྟེ|{C}begin(ing) from; beginning with; take hold on; about; concerning; relevant to; starting from; having turned his mind to; stimulated by; initially founded on; if I take into consideration; following on; on account of; with reference to; motivated by; w
 ནེམ་ནུ|{C}doubt
 ནེམ་ནུར|{C}perplexity; doubt; uncertainty; consternation; hesitates; desires; doubts; (state of) hesitation; perplexed
 ནེམ་ནུར་བགྱིད|{C}hesitates; desires; doubts
@@ -3796,7 +3796,7 @@
 ཕ་རོལ་ཏུ་སོང་བས་ན|{C}gone beyond
 ཕལ་ཆེར|as a rule; in abundance
 ཕན|{C}a true benefactor; make subservient to; be used to benefit others; liberation; freedom; ease; pleasure; happiness; happily
-ཕན་འདོགས་པ|bestowal; service; benefit;  · {C}a true benefactor; make subservient to; be used to benefit others
+ཕན་འདོགས་པ|bestowal; service; benefit; · {C}a true benefactor; make subservient to; be used to benefit others
 ཕན་འདོགས་པར་འགྱུར་བ་ཡིན་ནོ|{C}a true benefactor; make subservient to; be used to benefit others
 ཕན་འདོགས་ཤིང|{C}help; favor
 ཕན་བྱེད|{C}one who brings/_bestows benefits
@@ -4551,7 +4551,7 @@
 རྣམ་པར་སྔོས་པ|{C}a blueish (or discolored) corpse; dark blue
 རྣམ་པར་སྤང་བར་བྱ|{C}avoid; get rid of; reject
 རྣམ་པར་སྤངས|{C}rejection; avoid; having relinquished; without; avoided; get rid of; reject
-རྣམ་པར་སྤངས་པ|{C}having relinquished; without; avoided;  reject; abandoned; left behind
+རྣམ་པར་སྤངས་པ|{C}having relinquished; without; avoided; reject; abandoned; left behind
 རྣམ་པར་སྤོང་བ|{C}turning away from
 རྣམ་པར་སྤོང་བར་འགྱུར་རོ|{C}replies; get rid of; answer
 རྣམ་པར་སྤྲོས་ཏེ་གོ་བ་མ་ཡིན་པ|{C}cannot understand unless all details are explained
@@ -4643,7 +4643,7 @@
 རྟོག་པར་བགྱིད|{C}regard; observe; compare; imagine
 རྟོག་པར་གཞོག་པ|{C}meditation
 རྟོག་པས་བརྟགས་པའི་ཆོས|{GD:108} imputed phenomena
-རྟོག་པས་བཏགས་ཙམ|merely imputed by thought{BJ 55.1}; {GD:89} nominal
+རྟོག་པས་བཏགས་ཙམ|merely imputed by thought{BJ 55. 1}; {GD:89} nominal
 རྟོག་པས་རྣམ་པར་བསྒྲུབས་པ|{C}fabricated (by thought-construction)
 རྟོགས|{C}recognizes; wakes up to; find; entrance; discovers
 རྟོགས་དཀར|{C}hard to know
@@ -4699,7 +4699,7 @@
 རྟུལ་པོ|{C}soft; low; supple; mild
 རྟུལ་པོར|{C}soft; mild
 རུང|{C}applies oneself; it is tenable (to say); logical to equate; be engaged in; to practice
-རུང་བ|certainly; fixed (on); definitely  fixed/_established; destined for; certainty; {GD:88} fitness
+རུང་བ|certainly; fixed (on); definitely fixed/_established; destined for; certainty; {GD:88} fitness
 རུས|{C}lineage; birth; species; kind; different varieties
 རུས་ནས་སྨོས་པ|{C}taking on a clan; assumption of a clan
 རུས་སྨོས་པ|{C}taking on a clan; assumption of a clan
@@ -5220,7 +5220,7 @@
 སློང་བ|{C}arisen (from); manifestation; arising; one who asks for something
 སློང་མོ་པ|{C}beggar
 སླུ་བར|{C}pass over
-སླུ་བར་འགྱུར་བ|{C}go back on (e.g.:  praṇidhānam: anuttara-bodhi-viṣaye pravṛtta-praṇidhāṇam); break one's word/_promise
+སླུ་བར་འགྱུར་བ|{C}go back on (e.g.: praṇidhānam: anuttara-bodhi-viṣaye pravṛtta-praṇidhāṇam); break one's word/_promise
 སླུ་བར་བྱེད་པ|{C}pass over
 སྨད་པ|{C}loathing; in disgust
 སྨན|{C}herb; remedy; medical treatment
@@ -5403,7 +5403,7 @@
 སྤོབས་པ་མི་ཚོད་པ|{C}with his inspired speech never interrupted
 སྤོབས་པ་སྐྱེ་བ|{C}understand; you have been inspired by
 སྤོང|{C}reviles; reject; rejects; quits; forsaking; loss
-སྤོང་འགྱུར|{C}hurl; throw; discard; shoot; reject; cast away;  move in to
+སྤོང་འགྱུར|{C}hurl; throw; discard; shoot; reject; cast away; move in to
 སྤོང་བ|{C}rejection; turning away from; removal; absence; cast off; elimination; rejects
 སྤོང་བའི་མཚན་མ|{C}sign of refusal
 སྤོང་བར་འགྱུར|{C}refuses
@@ -5492,7 +5492,7 @@
 སྲིད་པ་ཇི་སྲིད་པར|{C}until the end of becoming
 སྲིད་པ་ཉེ་བར་ལེན་པ|{C}producing a (new) becoming
 སྲིད་པའི་འཁྲི་ཤིང|{C}creeper; creeping plant
-སྲིད་པར་འགྲུབ་པ|{C}rebirth  in becoming
+སྲིད་པར་འགྲུབ་པ|{C}rebirth in becoming
 སྲིད་པར་ཀུན་ཏུ་སྦྱོར་བ་ཡོངས་སུ་ཟད་པ|{C}with the fetters that bound them to becoming extinguished
 སྲིད་པར་སྦྱོར་བ་ཡོངས་སུ་ཟད་པ|{C}with the fetters that bound them to becoming extinguished
 སྲིད་པར་སོང་བ|{C}what may cause fear
@@ -5524,7 +5524,7 @@
 སྟིང་བར་བྱེད|{C}comically compliment; mock; tease; sneer; deride
 སྟོབས|strong
 སྟོབས་བཅུས|{C}he who has ten powers
-སྟོབས་བསྐྱེད་པ|{C}impregnation with the power; the operation  and force of his own power; exerting his own power; assumption of the power
+སྟོབས་བསྐྱེད་པ|{C}impregnation with the power; the operation and force of his own power; exerting his own power; assumption of the power
 སྟོབས་ཆུང་བ|{C}weak; weakling; of little stamina; no strength
 སྟོབས་ཀྱིས|{C}through the force of
 སྟོབས་ལྡན|{C}powerful; mighty; strong
@@ -5539,7 +5539,7 @@
 སྟོན་བྱེད་པ|{C}preaches
 སྟོན་པ|{C}sight; exhibit; visible; act of seeing; vision; exhibition; have a clear knowledge of; indication; show (up); hold up to; instruct; exhibits; make visible; to illuminate; reveal; explain; indicates; show forth; one who shows (up); demonstrates; guide;
 སྟོན་པ་ཉིད|{C}have a clear knowledge of; sight; exhibit
-སྟོན་པ་ཚད་མའི་སཡྐེས་བུར་སྒྲུབ་པའི་གཏམ་བདེ་ཆེན་ཁང་བཟང་ཛེགས་པའི་རིན་ཆེན་ཐེམ་སྐས|{GD:840} Den-dar-hla-ram-pa's (bstan dar lha ram pa) The Account that establishes that the Teacher is a Person of Authority; The Jewelled Staircase Ascending to the Palace of Great Happiness. (Collected Works) Delhi: Guru Deva, 1971.
+སྟོན་པ་ཚད་མའི་སཡྐེས་བུར་སྒྲུབ་པའི་གཏམ་བདེ་ཆེན་ཁང་བཟང་ཛེགས་པའི་རིན་ཆེན་ཐེམ་སྐས|{GD:840} Den-dar-hla-ram-pa's (bstan dar lha ram pa) The Account that establishes that the Teacher is a Person of Authority; The Jewelled Staircase Ascending to the Palace of Great Happiness. (Collected Works) Delhi: Guru Deva, 1971. 
 སྟོན་པའི་འདུ་ཤེས་སུ་བྱེད་པ|{C}regard as the Teacher; the notion that he is in the presence of the Teacher
 སྟོན་པར་བྱེད|{C}demonstrates; seers; defines; exhibits; reveals; defines; one who reveals; is pointed out; is recognized; is expounded; is explained; explain
 སྟོན་པར་མཛད་པ|{C}ability to show
@@ -5565,7 +5565,7 @@
 སུན་འབྱིན་པར་བྱེད|{C}corrupt
 ཐ་བ|{C}harsh; rigidity; obstinate
 ཐ་བ་མེད་ཅིང|{C}amenable
-ཐ་དད|{C}distinct; multiplicity; differentiation; manifoldness; distinction; dissention;  breaking up; break; divided; division; various; manifold; variety; diverse
+ཐ་དད|{C}distinct; multiplicity; differentiation; manifoldness; distinction; dissention; breaking up; break; divided; division; various; manifold; variety; diverse
 ཐ་དད་ཆོས|{C}differentiated dharmas
 ཐ་དད་དོན་མིན|{C}not manifold
 ཐ་དད་དུ་བགྱི་བ|{C}distinction; difference; differentiation
@@ -5579,7 +5579,7 @@
 ཐ་དད་པར|{C}different; without a difference; non-separateness
 ཐ་མ|{C}the end; end; terminus; come to an end; finally; soft
 ཐ་མ་མེད་པ|{C}without beginning and end
-ཐ་མར|{C}future;  last; ending with; final
+ཐ་མར|{C}future; last; ending with; final
 ཐ་མི་དད|{C}unbroken; not differentiated
 ཐ་མི་དད་པ|{C}unbroken; not differentiated
 ཐ་ན|{C}even; absolute(ly); even though; first; but only
@@ -5657,7 +5657,7 @@
 ཐོབ་གྱུར|{C}attained (to); reached
 ཐོབ་མ་ཐག་ཏུ|{C}as soon as it has been acquired
 ཐོབ་ནས|{C}having found/_gained; having obtained
-ཐོབ་པ|{C}has acquired; got back again; will receive; acquires; find; receives; gains;  regains; acquisition; acquire; acquiring; to win; will win; gets; attain; get; gain; heard; learning; listening; {GD:674} obtain
+ཐོབ་པ|{C}has acquired; got back again; will receive; acquires; find; receives; gains; regains; acquisition; acquire; acquiring; to win; will win; gets; attain; get; gain; heard; learning; listening; {GD:674} obtain
 ཐོབ་པ་མེད་པ|{C}indifference to any kind of personal attainment
 ཐོབ་པ་ཡི|{C}for the attainment
 ཐོབ་པར་འགྱུར|{C}becomes; gets; acquires; gains; attains; arrive at; reach; would reach; finds; finds; keeps present in his mind; comes face to face with
@@ -5741,8 +5741,8 @@
 ཚད་མ་རྣམ་འགྲེལ་གྱི་བསྡུས་གཞུང་ཞེས་བྱའི་སྒོ་འབྱེད་རྒོལ་ངན་གླང་པོ་འཇོམས་པ་གདོང་ངའི་གད་རྒྱངས་རྒྱུ་རིག་ལྡེ་མིག|{GD:844} Jam-y#ang-chok-hla-ö-s#er's ('jam dbyangs phyogs lha od zer) The Key to Knowledge, Cause of the Roar of the Five-Faced Lion that Destroys the Elephant of Faulty Adversaries, [and] Opens the Door to the Knowledge of the Collected Texts of the Comm
 ཚད་མ་རྣམ་འགྲེལ་གྱི་ཚིག་ལེའུར་བྱས་པའི་རྣམ་བཤད་ཐར་ལམ་ཕྱིན་ཅི་མ་ལོག་པར་གསལ་བར་བྱེད་པ|{GD:843} Gyel-tsap's (rgyal tshab dar ma rin chen) Complete Explanation of the Stanzas of the Commentary on Prime Cognition, the Faultless Revealer of the Path to Liberation [Varanasi: Ge-luk-ba Press. 1975]
 ཚད་མ་རྣམ་འགྲེལ་ལེགས་པར་བཤད་པ|{GD:842} Ge-dun-drup's (dge 'dun grub, 1st Dalai Lama) Good Sayings on [Dharmakīrti's] Commentary on Valid Cognition [Collected Works vol. 5 (Gangtok: Dodrup Lama, 1978-1981)]
-ཚད་མ་སྡེ་བདུན་གྱི་རྒྱན་ཡིད་ཀྱི་མུན་སེལ|{GD:844} Kay-drup's (mkhas grub rje) Ornament of the Seven Treatises Clearing Mental Obscurity. Collected Works X. Lha-sa: Zhol blocks, 1897. New Delhi: Guru Deva, 1982.
-ཚད་མའི་བསྟན་བཅོས་ཆེན་པོ་རིགས་པའི་རྒྱན|{GD:842} Ge-dun-drup's (dge 'dun grub, 1st Dalai Lama) Ornament of Reasoning, a Great Treatise on Valid Cognition. Mundgod, India: Loling Press, 1985.
+ཚད་མ་སྡེ་བདུན་གྱི་རྒྱན་ཡིད་ཀྱི་མུན་སེལ|{GD:844} Kay-drup's (mkhas grub rje) Ornament of the Seven Treatises Clearing Mental Obscurity. Collected Works X. Lha-sa: Zhol blocks, 1897. New Delhi: Guru Deva, 1982. 
+ཚད་མའི་བསྟན་བཅོས་ཆེན་པོ་རིགས་པའི་རྒྱན|{GD:842} Ge-dun-drup's (dge 'dun grub, 1st Dalai Lama) Ornament of Reasoning, a Great Treatise on Valid Cognition. Mundgod, India: Loling Press, 1985. 
 ཚད་མའི་ཆོད་པའི་འབྲས་བུ|{GD:702} the interrupted results of valid cognition
 ཚད་མའི་ལམ་ཁྲིད|{GD:843} Gyel-tsap's (rgyal tshab dar ma rin chen) Teaching on the Path of Valid Cognition. Collected Works V. Delhi: Guru Deva.
 ཚད་མའི་མ་ཆོད་པའི་འབྲས་བུ|{GD:702} the non-interrupted (immediate) results of valid cognition
@@ -6252,7 +6252,7 @@
 ཡོངས་སུ་སྤང་བར་བྱ་བ|{C}to be shunned; should be shunned/_avoided
 ཡོངས་སུ་སྤངས|{C}forsaken; rid of
 ཡོངས་སུ་སྤོད|{C}consumes
-ཡོངས་སུ་སྤྱད|{C}enjoys the use of; relishes; enjoys; uses; consumes; derives enjoyment  from
+ཡོངས་སུ་སྤྱད|{C}enjoys the use of; relishes; enjoys; uses; consumes; derives enjoyment from
 ཡོངས་སུ་སྤྱོད|{C}consumes
 ཡོངས་སུ་སྟོན|{C}revelation
 ཡོངས་སུ་སྟོན་པ|{C}reveals

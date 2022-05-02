@@ -177,7 +177,7 @@
 འགྱོད་པ|regret\nSanskrit: kaukṛtyam\nPali: kukuccam
 གཉིད|sleepiness\nSanskrit: middham\nPali: middham
 རྟོག་པ|thinking\nSanskrit: vitarkaḥ\nPali: vitakko
-དཔྱོད་པ|Analysing.  Restlessness due to regret, sleepiness, moving towards thoughts, intensely thinking about something.\nSanskrit: vicāraḥ\nPali: vicāro
+དཔྱོད་པ|Analysing. Restlessness due to regret, sleepiness, moving towards thoughts, intensely thinking about something.\nSanskrit: vicāraḥ\nPali: vicāro
 འཇིགས་པ་ལྔ|five kinds of fear\nSanskrit: paсca bhayāni\nPali: paсca bhayāni
 འཚོ་བའི་འཇིགས་པ|fear about earning one's living\nSanskrit: ājīvikā-bhayam\nPali: ājīvikā-bhayam
 མྱ་ངན་གྱི་འཇིགས་པ|fear of sorrow\nSanskrit: śoka-bhayam\nPali: soka-bhayam
@@ -318,7 +318,7 @@
 ཁམས་གསུམ|three realms\nSanskrit: trayo dhātavaḥ\nPali: tayo dhātavo
 འདོད་ཁམས། གཟུགས་ཁམས། གཟུགས་མེད་ཁམས|sense realm, from ream, formless realm\nSanskrit: kāma-dhātuḥ, rūpa-dhātuḥ, arūpa-dhātuḥ\nPali: kāma-dhātu, rūpa-dhātu, arūpa-dhātu
 ཁམས་བཞི|realms of the four elements, of the four elementary powers\nSanskrit: catvāro dhātavaḥ\nPali: cattāro dhātavo
-ས། ཆུ། མི། རླུང|Earth, water, glowing/_fire, wind\nSanskrit: pṛthivī , āp (f pl), tejas  vāyu\nPali: paṭhavī, āpo, tejo , vāyo
+ས། ཆུ། མི། རླུང|Earth, water, glowing/_fire, wind\nSanskrit: pṛthivī , āp (f pl), tejas vāyu\nPali: paṭhavī, āpo, tejo , vāyo
 ཁམས་དྲུག་༎ ནམ་མཁའ། རྣམ་ཤེས|realms of the six elements, of six elementary powers.\nSanskrit: ṣaḍ dhātavaḥ; ākāśaḥ; vijсānam;\nPali: cha dhātavo = (plus) ākāso, viссānam
 དེ་ཉིད|thatness.\nSanskrit: tattvam\nPali: tattam
 དེ་བཞིན་ཉིད|suchness\nSanskrit: tathatā\nPali: tathatā , tathattam

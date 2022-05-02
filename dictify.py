@@ -11,7 +11,7 @@ import pyewts
 conv = pyewts.pyewts()
 
 
-def dictify_text(string, is_split=False, selection_yaml='data/dictionaries/dict_cats.yaml', expandable=True):
+def dictify_text(string, is_split=False, selection_yaml='data/dictionaries/dict_cats.yaml', expandable=True, mode='en_bo'):
     """
     takes segmented text and finds entries from dictionaries
     :param expandable: will segment definitions into senses if True, not if False
@@ -31,12 +31,19 @@ def dictify_text(string, is_split=False, selection_yaml='data/dictionaries/dict_
                 words.append((w, {}))
 
     dicts = load_dicts()
+    for lemma, defns in dicts.items():
+        for d, entry in defns.items():
+            if d.startswith('02'):
+                split_in_senses(entry, 'en')
+            elif d.startswith('25') or d.startswith('37') or d.startswith('monlam'):
+                split_in_senses(entry, 'bo')
+
     for num, word in enumerate(words):
         lemma = word[0].rstrip('་')
         defs = dicts[lemma]
         # filter
         if selection_yaml:
-            defs = select_defs(defs, yaml_path=selection_yaml)
+            defs = select_defs(defs, yaml_path=selection_yaml, mode=mode)
 
         # split in senses
         if expandable:
@@ -88,7 +95,11 @@ def split_in_senses(entry, lang):
     if lang == 'bo':
         if re.findall(monlam, entry):
             parts = [e for e in re.split(monlam, entry) if e]
-            parts = [f'{parts[n]} {parts[n + 1]}' for n in range(0, len(parts), 2)]
+            try:
+                parts = [f'{parts[n]} {parts[n + 1]}' for n in range(0, len(parts), 2)]
+            except IndexError as e:
+                print(entry[:100])
+                raise SyntaxError(e)
             for p in parts:
                 t = Text(p).tokenize_chunks_plaintext.split(' ')
                 if len(t) > header_size:
@@ -100,7 +111,11 @@ def split_in_senses(entry, lang):
             parts = [e for e in re.split(tsikchen_dagsar_start, entry) if e]
             if not re.findall(r'^[༡༢༣༤༥༦༧༨༩༠]', parts[0]):
                 parts = [f'{parts[0]} {parts[1]}'] + parts[2:]
-            parts = [f'{parts[n]}{parts[n + 1]}' for n in range(0, len(parts), 2)]
+            try:
+                parts = [f'{parts[n]}{parts[n + 1]}' for n in range(0, len(parts), 2)]
+            except IndexError as e:
+                print(entry[:100])
+                raise SyntaxError(e)
             for p in parts:
                 t = Text(p).tokenize_chunks_plaintext.split(' ')
                 if len(t) > header_size:
@@ -112,7 +127,11 @@ def split_in_senses(entry, lang):
             parts = [e for e in re.split(tsikchen_start, entry) if e]
             if parts[0].startswith('༼'):
                 parts = [f'{parts[0]} {parts[1]}'] + parts[2:]
-            parts = [f'{parts[n]} {parts[n + 1]}' for n in range(0, len(parts), 2)]
+            try:
+                parts = [f'{parts[n]} {parts[n + 1]}' for n in range(0, len(parts), 2)]
+            except IndexError as e:
+                print(entry[:100])
+                raise SyntaxError(e)
             for p in parts:
                 t = Text(p).tokenize_chunks_plaintext.split(' ')
                 if len(t) > header_size:
@@ -120,7 +139,6 @@ def split_in_senses(entry, lang):
                     senses.append((header, body))
                 else:
                     senses.append(p)
-            print()
         else:
             return entry
     elif lang == 'en' and re.findall(ry_start, entry):
@@ -140,22 +158,24 @@ def split_in_senses(entry, lang):
     return senses
 
 
-def select_defs(defs, yaml_path):
+def select_defs(defs, yaml_path, mode):
     cats = yaml.safe_load(Path(yaml_path).read_text())
     english, tibetan = cats['english']['dictionary'], cats['tibetan']['dictionary']
 
     selected = {}
     # selecting the first English definition from the list in dict_cats.yaml
-    for full, name in english:
-        if full in defs:
-            selected['en'] = (name, defs[full])
-            break
+    if 'en' in mode:
+        for full, name in english:
+            if full in defs:
+                selected['en'] = (name, defs[full])
+                break
 
     # selecting the first Tibetan definition from the list in dict_cats.yaml
-    for full, name in tibetan:
-        if full in defs:
-            selected['bo'] = (name, defs[full])
-            break
+    if 'bo' in mode:
+        for full, name in tibetan:
+            if full in defs:
+                selected['bo'] = (name, defs[full])
+                break
 
     # format selected
     if 'en' in selected and 'bo' in selected:
