@@ -11,7 +11,7 @@ import pyewts
 conv = pyewts.pyewts()
 
 
-def dictify_text(string, is_split=False, selection_yaml='data/dictionaries/dict_cats.yaml', expandable=True, mode='en_bo'):
+def dictify_text(string, is_split=False, selection_yaml='data/dictionaries/dict_cats.yaml', expandable=True, mode='en'):
     """
     takes segmented text and finds entries from dictionaries
     :param expandable: will segment definitions into senses if True, not if False
@@ -61,17 +61,18 @@ def load_dicts():
     dict_path = Path(__file__).parent / 'data/dictionaries/converted'
     dict_other = Path(__file__).parent / 'data/dictionaries/other'
     dict_files = sorted(list(dict_path.glob('*.txt')) + list(dict_other.glob('*.txt')))
-    for f in dict_files:
-        name = f.stem
-        if name.startswith('monlam'):
-            name = name[:-2]  # remove file number suffix "_1", "_2" and "_3"
-        lines = f.read_text().split('\n')
-        for line in lines:
-            if '|' not in line:
-                continue
+    #for f in dict_files:
+    f=dict_files[1]
+    name = f.stem
+    if name.startswith('monlam'):
+        name = name[:-2]  # remove file number suffix "_1", "_2" and "_3"
+    lines = f.read_text().split('\n')
+    for line in lines:
+        if '|' not in line:
+            continue
 
-            lemma, entry = line.split('|')
-            dicts[lemma][name] = f'{dicts[lemma][name]} {entry}' if name in dicts[lemma] else entry
+        lemma, entry = line.split('|')
+        dicts[lemma][name] = f'{dicts[lemma][name]} {entry}' if name in dicts[lemma] else entry
 
     return dicts
 
