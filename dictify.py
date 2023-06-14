@@ -177,7 +177,7 @@ def select_defs(defs, yaml_path, mode):
     if 'en' in selected and 'bo' in selected:
         return {'en': [selected['en'][0], selected['en'][1]], 'bo': [selected['bo'][0], selected['bo'][1]]}
     elif 'en' in selected:
-        return {'en': [selected['en'][0], selected['en'][1]]}
+        return {selected['en'][1]}
     elif 'bo' in selected:
         return {'bo': [selected['bo'][0], selected['bo'][1]]}
     else:
@@ -197,6 +197,6 @@ if __name__ == '__main__':
         dump = f.read_text(encoding='utf-8')
         out = dictify_text(dump, expandable=True)
         out_f = Path('output') / f.name
-        out_f.write_text(json.dumps(out, ensure_ascii=False, indent=4))
+        #out_f.write_text(json.dumps(out, ensure_ascii=False, indent=4))
 
 __all__ = [dictify_text]
