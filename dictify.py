@@ -197,6 +197,7 @@ if __name__ == '__main__':
         dump = f.read_text(encoding='utf-8')
         out = dictify_text(dump, expandable=True)
         out_f = Path('output') / f.name
+        # we are not going to use json
         #out_f.write_text(json.dumps(out, ensure_ascii=False, indent=4))
 
 __all__ = [dictify_text]
