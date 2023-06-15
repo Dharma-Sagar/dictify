@@ -8,6 +8,8 @@ import json
 from botok import Text
 import pyewts
 
+from googletrans import Translator
+
 conv = pyewts.pyewts()
 
 
@@ -155,6 +157,8 @@ def split_in_senses(entry, lang):
     return senses
 
 
+
+
 def select_defs(defs, yaml_path, mode):
     cats = yaml.safe_load(Path(yaml_path).read_text())
     english, tibetan = cats['english']['dictionary'], cats['tibetan']['dictionary']
@@ -198,6 +202,13 @@ def set_default(obj):
         return list(obj)
     raise TypeError
 
+def translate_text(text, target_language):
+    if text != 'None':
+        translator = Translator()
+        translation = translator.translate(text, dest=target_language)
+        return translation.text
+
+
 def write_tuple_to_file(file_path, my_tuple):
     try:
         with open(file_path, 'w') as file:
@@ -211,6 +222,7 @@ def write_tuple_to_file(file_path, my_tuple):
                 file.write('# '+str(item[0] ) + '\n')
                 clean = str(item[1]).replace("[", "").replace("{", "").replace("}", "").replace(":","").replace("''","")
                 file.write('msgid '+clean + '\n')
+                file.write(translate_text(clean,"es")+'\n')
                 file.write('\n')
     except IOError:
         print("Error: Unable to write to the file.")
