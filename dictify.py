@@ -11,6 +11,7 @@ import pyewts
 conv = pyewts.pyewts()
 
 
+
 def dictify_text(string, is_split=False, selection_yaml='data/dictionaries/dict_cats.yaml', expandable=True, mode='en'):
     """
     takes segmented text and finds entries from dictionaries
@@ -48,10 +49,10 @@ def dictify_text(string, is_split=False, selection_yaml='data/dictionaries/dict_
                 entry_bo = defs['bo'][1]
                 defs['bo'][1] = split_in_senses(entry_bo, lang='bo')
 
-        words[num][1]['defs'] = defs
+        words[num][1][''] = defs
         # url
         url = gen_link(lemma)
-        words[num][1]['url'] = url
+        #words[num][1]['url'] = url
 
     return words
 
@@ -192,12 +193,42 @@ def gen_link(word):
     return link_pattern.format(word=wylie)
 
 
+def set_default(obj):
+    if isinstance(obj, set):
+        return list(obj)
+    raise TypeError
+
+def write_tuple_to_file(file_path, my_tuple):
+    try:
+        with open(file_path, 'w') as file:
+            file.write("#\n")
+            file.write("msgid \"\"\n")
+            file.write("msgstr \"\"\n")
+            file.write("\"MIME-Version: 1.0\\n\"\n")
+            file.write("\"Content-Type: text/plain; charset=utf-8\\n\"\n")
+            file.write("\"Content-Transfer-Encoding: 8bit\\n\"\n"+'\n' )
+            for item in my_tuple:
+                file.write('# '+str(item[0] ) + '\n')
+                clean = str(item[1]).replace("[", "").replace("{", "").replace("}", "").replace(":","").replace("''","")
+                file.write('msgid '+clean + '\n')
+                file.write('\n')
+    except IOError:
+        print("Error: Unable to write to the file.")
+
 if __name__ == '__main__':
     for f in Path('input').glob('*.txt'):
         dump = f.read_text(encoding='utf-8')
         out = dictify_text(dump, expandable=True)
+
+
         out_f = Path('output') / f.name
-        # we are not going to use json
+
+        write_tuple_to_file(out_f,out)
+        print(out[1])
         #out_f.write_text(json.dumps(out, ensure_ascii=False, indent=4))
+
+
+
+        #out_f.write_text(json.dumps(out, ensure_ascii=False,default=set_default,indent=2,separators=(',', ':')))
 
 __all__ = [dictify_text]
