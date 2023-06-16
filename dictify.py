@@ -9,6 +9,7 @@ from botok import Text
 import pyewts
 
 from googletrans import Translator
+import time
 
 conv = pyewts.pyewts()
 
@@ -203,10 +204,18 @@ def set_default(obj):
     raise TypeError
 
 def translate_text(text, target_language):
-    if text != 'None':
-        translator = Translator()
-        translation = translator.translate(text, dest=target_language)
-        return translation.text
+    if text is not None:
+        retry =0
+        while (retry <= 3):
+            translator = Translator()
+            try:
+                translation = translator.translate(text, dest=target_language)
+                return translation.text
+            except Exception:
+                time.sleep(1)
+                retry +=1
+
+    return "None"
 
 
 def write_tuple_to_file(file_path, my_tuple):
@@ -221,8 +230,10 @@ def write_tuple_to_file(file_path, my_tuple):
             for item in my_tuple:
                 file.write('# '+str(item[0] ) + '\n')
                 clean = str(item[1]).replace("[", "").replace("{", "").replace("}", "").replace(":","").replace("''","")
+
                 file.write('msgid '+clean + '\n')
-                file.write(translate_text(clean,"es")+'\n')
+                file.write('msgstr '+translate_text(clean,"es")+'\n')
+                file.write('msgstr ' + translate_text(clean, "pt") + '\n')
                 file.write('\n')
     except IOError:
         print("Error: Unable to write to the file.")
