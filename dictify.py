@@ -204,16 +204,20 @@ def set_default(obj):
     raise TypeError
 
 def translate_text(text, target_language):
-    if text is not None:
+
+    if text != "None":
         retry =0
         while (retry <= 3):
             translator = Translator()
             try:
                 translation = translator.translate(text, dest=target_language)
                 return translation.text
-            except Exception:
-                time.sleep(1)
+            except Exception as e:
+                print(f"Exception occurred: {type(e).__name__}")
+                print(text)
+                #time.sleep(1)
                 retry +=1
+
 
     return "None"
 
@@ -247,7 +251,7 @@ if __name__ == '__main__':
         out_f = Path('output') / f.name
 
         write_tuple_to_file(out_f,out)
-        print(out[1])
+        #print(out[1])
         #out_f.write_text(json.dumps(out, ensure_ascii=False, indent=4))
 
 
