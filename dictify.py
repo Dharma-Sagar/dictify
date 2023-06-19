@@ -205,7 +205,7 @@ def set_default(obj):
 
 def translate_text(text, target_language):
 
-    if text != "None":
+    if text is not None:
         retry =0
         while (retry <= 3):
             translator = Translator()
