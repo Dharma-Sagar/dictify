@@ -4,6 +4,7 @@ import re
 
 import yaml
 import json
+import os
 
 from botok import Text
 import pyewts
@@ -222,7 +223,7 @@ def translate_text(text, target_language):
     return "None"
 
 
-def write_tuple_to_file(file_path, my_tuple):
+def write_tuple_to_file(file_path, my_tuple,language):
     try:
         with open(file_path, 'w') as file:
             file.write("#\n")
@@ -236,8 +237,7 @@ def write_tuple_to_file(file_path, my_tuple):
                 clean = str(item[1]).replace("[", "").replace("{", "").replace("}", "").replace(":","").replace("''","")
 
                 file.write('msgid '+clean + '\n')
-                file.write('msgstr '+translate_text(clean,"es")+'\n')
-                file.write('msgstr ' + translate_text(clean, "pt") + '\n')
+                file.write('msgstr '+translate_text(clean,language)+'\n')
                 file.write('\n')
     except IOError:
         print("Error: Unable to write to the file.")
@@ -247,10 +247,12 @@ if __name__ == '__main__':
         dump = f.read_text(encoding='utf-8')
         out = dictify_text(dump, expandable=True)
 
+        file_name, extension = os.path.splitext(f.name)
+        out_f_es = Path('output') / os.path.normpath(file_name+"es.po")
+        out_f_pt = Path('output') / os.path.normpath(file_name+"pt.po")
 
-        out_f = Path('output') / f.name
-
-        write_tuple_to_file(out_f,out)
+        write_tuple_to_file(out_f_es,out,"es")
+        write_tuple_to_file(out_f_pt, out,"pt")
         #print(out[1])
         #out_f.write_text(json.dumps(out, ensure_ascii=False, indent=4))
 
