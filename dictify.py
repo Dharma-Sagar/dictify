@@ -223,6 +223,12 @@ def translate_text(text, target_language):
     return "None"
 
 
+def preprocess_str(text):
+    clean = text.replace("{'': {", '').replace("}}","")
+    #clean = text.replace("[", "").replace("{", "").replace("}", "").replace(":","").replace("''","")
+    replaced = re.sub(r'(?<!^)"(?!$)', r'\\"', clean)
+    return replaced
+
 def write_tuple_to_file(file_path, my_tuple,language):
     try:
         with open(file_path, 'w') as file:
@@ -234,7 +240,7 @@ def write_tuple_to_file(file_path, my_tuple,language):
             file.write("\"Content-Transfer-Encoding: 8bit\\n\"\n"+'\n' )
             for item in my_tuple:
                 file.write('# '+str(item[0] ) + '\n')
-                clean = str(item[1]).replace("[", "").replace("{", "").replace("}", "").replace(":","").replace("''","")
+                clean = preprocess_str(str(item[1]))
 
                 file.write('msgid '+clean + '\n')
                 file.write('msgstr '+translate_text(clean,language)+'\n')
