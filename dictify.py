@@ -224,10 +224,11 @@ def translate_text(text, target_language):
 
 
 def preprocess_str(text):
-    clean = text.replace("{'': {", '').replace("}}","")
+    clean = text.replace("{'': {", '').replace("}}","").replace("{'':","'").replace("None}","None'")
     #clean = text.replace("[", "").replace("{", "").replace("}", "").replace(":","").replace("''","")
-    replaced = re.sub(r'(?<!^)"(?!$)', r'\\"', clean)
-    return replaced
+    clean = re.sub(r'(?<!^)"(?!$)', r'\\"', clean)
+    clean = re.sub(r"(?<!^)'(?!$)", r"\\'", clean)
+    return clean
 
 def write_tuple_to_file(file_path, my_tuple,language):
     try:
