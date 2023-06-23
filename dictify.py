@@ -1,4 +1,5 @@
 from collections import defaultdict
+from collections import Counter
 from pathlib import Path
 import re
 
@@ -25,6 +26,7 @@ def dictify_text(string, is_split=False, selection_yaml='data/dictionaries/dict_
     :return: list of tuples containing the word and a dict containing the definitions(selected or not) and an url
     """
     words = []
+    unique_words = []
     if is_split:
         for w in string:
             if w:
@@ -33,7 +35,13 @@ def dictify_text(string, is_split=False, selection_yaml='data/dictionaries/dict_
         string = string.replace('\n', ' ')
         for w in string.split(' '):
             if w:
-                words.append((w, {}))
+                while w[-1]=="་":
+                    w= w[:-1]
+                if w in unique_words:
+                    print(w + " is duplicated",flush=True)
+                else :
+                    words.append((w, {}))
+                    unique_words.append(w)
 
     dicts = load_dicts()
     for num, word in enumerate(words):
@@ -239,15 +247,19 @@ def write_tuple_to_file(file_path, my_tuple,language):
             file.write("\"MIME-Version: 1.0\\n\"\n")
             file.write("\"Content-Type: text/plain; charset=utf-8\\n\"\n")
             file.write("\"Content-Transfer-Encoding: 8bit\\n\"\n"+'\n' )
+
             for item in my_tuple:
                 file.write('# '+str(item[0] ) + '\n')
-                clean = preprocess_str(str(item[1]))
-
-                file.write('msgid '+clean + '\n')
-                file.write('msgstr '+translate_text(clean,language)+'\n')
+                english = preprocess_str(str(item[1]))
+                if english != "' None'":
+                    file.write('msgid '+english + '\n')
+                    translate = translate_text(english,language)
+                    file.write('msgstr '+preprocess_str(translate)+'\n')
                 file.write('\n')
+
     except IOError:
         print("Error: Unable to write to the file.")
+
 
 if __name__ == '__main__':
     for f in Path('input').glob('*.txt'):
