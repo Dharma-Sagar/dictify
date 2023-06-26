@@ -272,17 +272,12 @@ if __name__ == '__main__':
         dump = f.read_text(encoding='utf-8')
         out = dictify_text(dump, expandable=True)
 
-        file_name, extension = os.path.splitext(f.name)
-        out_f_es = Path('output') / os.path.normpath(file_name+"es.po")
-        out_f_pt = Path('output') / os.path.normpath(file_name+"pt.po")
+        with open(Path('input')/ os.path.normpath('definitions.txt'),'w') as file :
+            for item in out:
+                file.write('# ' + str(item[0]) + '\n')
+                clean = preprocess_str(str(item[1]))
+                file.write(clean + '\n')
+                file.write("\n")
 
-        write_tuple_to_file(out_f_es,out,"es")
-        write_tuple_to_file(out_f_pt, out,"pt")
-        #print(out[1])
-        #out_f.write_text(json.dumps(out, ensure_ascii=False, indent=4))
-
-
-
-        #out_f.write_text(json.dumps(out, ensure_ascii=False,default=set_default,indent=2,separators=(',', ':')))
 
 __all__ = [dictify_text]
