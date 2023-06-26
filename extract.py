@@ -212,59 +212,16 @@ def set_default(obj):
         return list(obj)
     raise TypeError
 
-def translate_text(text, target_language):
 
-    if text is not None:
-        retry =0
-        while (retry <= 3):
-            translator = Translator()
-            try:
-                translation = translator.translate(text, dest=target_language)
-                return translation.text
-            except Exception as e:
-                print(f"Exception occurred: {type(e).__name__}")
-                print(text)
-                #time.sleep(1)
-                retry +=1
-
-
-    return "None"
 
 
 def preprocess_str(text):
     clean = text.replace("{'': {", '').replace("}}","").replace("{'':","'").replace("None}","None'")
-    #clean = text.replace("[", "").replace("{", "").replace("}", "").replace(":","").replace("''","")
     clean = re.sub(r'(?<!^)"(?!$)', r'\\"', clean)
     clean = re.sub(r"(?<!^)'(?!$)", r"\\'", clean)
     return clean
 
-def write_tuple_to_file(file_path, my_tuple,language):
-    try:
-        with open(file_path, 'w') as file:
-            file.write("#\n")
-            file.write("msgid \"\"\n")
-            file.write("msgstr \"\"\n")
-            file.write("\"MIME-Version: 1.0\\n\"\n")
-            file.write("\"Content-Type: text/plain; charset=utf-8\\n\"\n")
-            file.write("\"Content-Transfer-Encoding: 8bit\\n\"\n"+'\n' )
 
-            nonecount=1
-            for item in my_tuple:
-                file.write('# '+str(item[0] ) + '\n')
-                english = preprocess_str(str(item[1]))
-                if english != "' None'":
-                    file.write('msgid '+english + '\n')
-                    translate = translate_text(english,language)
-                    file.write('msgstr '+preprocess_str(translate)+'\n')
-                else:
-                    file.write('msgid '+english + '\n')
-                    file.write('msgstr None ' + str(nonecount) + '\n')
-                    #nonecount +=1
-
-                file.write('\n')
-
-    except IOError:
-        print("Error: Unable to write to the file.")
 
 
 if __name__ == '__main__':
