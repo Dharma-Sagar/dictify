@@ -35,7 +35,7 @@ def dictify_text(string, is_split=False, selection_yaml='data/dictionaries/dict_
         string = string.replace('\n', ' ')
         for w in string.split(' '):
             if w:
-                while w[-1]=="་":
+                while w[-1]=="་": # need to add the tsek non breaking tsek and tsad
                     w= w[:-1]
                 if w in unique_words:
                     print(w + " is duplicated",flush=True)
@@ -248,6 +248,7 @@ def write_tuple_to_file(file_path, my_tuple,language):
             file.write("\"Content-Type: text/plain; charset=utf-8\\n\"\n")
             file.write("\"Content-Transfer-Encoding: 8bit\\n\"\n"+'\n' )
 
+            nonecount=1
             for item in my_tuple:
                 file.write('# '+str(item[0] ) + '\n')
                 english = preprocess_str(str(item[1]))
@@ -255,6 +256,11 @@ def write_tuple_to_file(file_path, my_tuple,language):
                     file.write('msgid '+english + '\n')
                     translate = translate_text(english,language)
                     file.write('msgstr '+preprocess_str(translate)+'\n')
+                else:
+                    file.write('msgid '+english + '\n')
+                    file.write('msgstr None ' + str(nonecount) + '\n')
+                    #nonecount +=1
+
                 file.write('\n')
 
     except IOError:
