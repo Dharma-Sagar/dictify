@@ -13,12 +13,12 @@ def postprocess_str(text):
     clean = re.sub(r"(?<!^)'(?!$)", r"\\'", clean)
     return clean
 
-def translate_text(text, target_language):
+def translate_text(text, translator, target_language):
 
     if text is not None:
         retry =0
         while (retry <= 3):
-            translator = Translator()
+
             try:
                 translation = translator.translate(text, dest=target_language)
                 return translation.text
@@ -40,6 +40,7 @@ def translate_file(input_file_path, output_file_path,language):
             output_file.write("\"Content-Type: text/plain; charset=utf-8\\n\"\n")
             output_file.write("\"Content-Transfer-Encoding: 8bit\\n\"\n"+'\n' )
 
+            translator = Translator()
             nonecount=1
             for line in input_file:
                 line = line.strip()  # Remove leading/trailing whitespace
@@ -47,14 +48,14 @@ def translate_file(input_file_path, output_file_path,language):
                 if line.startswith("#"):
                     output_file.write(line + '\n')
                 elif ' None' in line:
-                    output_file.write('msgid ' + line + '\n')
-                    output_file.write('msgstr None ' + str(nonecount) + '\n')
+                    output_file.write('msgid None' + nonecount*"a" + '\n')
+                    output_file.write('msgstr No definition in Ranjung Yeshe' + '\n')
                     nonecount += 1
                 elif line.strip() == "":
                     output_file.write('\n')
                 else:
                     output_file.write('msgid ' + line + '\n')
-                    translate = translate_text(line, language)
+                    translate = translate_text(line,translator, language)
                     output_file.write('msgstr ' + postprocess_str(translate) + '\n')
 
 
