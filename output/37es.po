@@ -19,7 +19,7 @@ msgstr 'desprecio;x ང་ རྒྱལ་ དང་ ཁྱད་ གསོད�
 
 # ཁྱབ
 msgid '1) vi. to spread, become widespread /_popular, spread over [all beings], spread everywhere, encompass, pervade, fill, cover, be filled, be present throughout, be pervasive, be popular. 2) it follows that, it must be, it necessarily follows. 3) to conclude [used in logic]. 4) entail, embrace [by reason]. 5) ཡིན་པ,་ཡོད་པ + --) indicates that a statement necessarily follows from a preceding conditional clause. 6) pervasion. 7) universal, invariable [concomitance between the middle term and the major term of the syllogism]. 8) to permeate'
-msgstr '1) vi.Para extenderse, se generalice /_popular, se extiende sobre [todos los seres], se extienden por todas partes, abarcan, impregnan, llenan, cubren, cubren, se llenan en todo momento, sean generalizados, sea popular.2) Se deduce que, debe ser, necesariamente sigue.3) Para concluir [utilizado en la lógica].4) implica, abrazar [por razón].5) ཡིན་ པ, ་ ཡོད་ པ + -) indica que una declaración necesariamente se deriva de una cláusula condicional anterior.6) Derregión.7) Universal, invariable [concomitancia entre el término medio y el término principal del silogismo].8) Perminar '
+msgstr '1) vi.Para extenderse, estar generalizado /_popular, extenderse sobre [todos los seres], extenderse por todas partes, abarcar, penetrar, llenar, cubrir, llenarse, estar presentes en todo momento, ser generalizado, ser popular.2) Se deduce que, debe ser, necesariamente sigue.3) Para concluir [utilizado en la lógica].4) implica, abrazar [por razón].5) ཡིན་ པ, ་ ཡོད་ པ + -) indica que una declaración necesariamente se deriva de una cláusula condicional anterior.6) Derregión.7) Universal, invariable [concomitancia entre el término medio y el término principal del silogismo].8) Perminar '
 
 # ཁྱིམ
 msgid 'dwelling place household; 1) the zodiac, a sign of the zodiac. 2) household. house, residence, home. 3) family'
@@ -59,7 +59,7 @@ msgstr "Chod, cortar, cortar /_off, Cleave. P, Cleave. PAbajo por el indio Siddh
 
 # གཉེན
 msgid '1) companion, friend, relative, kinsman; relatives. 2) གཉེན་པོ relatives ཤའཀྱ་འདི་རྣམས་ངའི་གཉེན་ཡིན་པ the Sakyans are my people, my relatives'
-msgstr '1) compañero, amigo, pariente, pariente;parientes.2) གཉེན་ པོ པོ parientes ཤའཀྱ་ འདི་ རྣམས་ ངའི་ གཉེན་ ཡིན་ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ Los sakyans son mi gente, mis familiares '
+msgstr '1) compañero, amigo, pariente, pariente;parientes.2) གཉེན་ པོ parientes ཤའཀྱ་ འདི་ རྣམས་ ངའི་ གཉེན་ ཡིན་ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ པ Los sakyan son
 
 # གཉེན་པོ
 msgid '[Skt] pratipaksha: remedy, antidote; antidotal technique/_corrective measure, cure; opponent, counteragent, antithesis, factors discordant to'
@@ -70,6 +70,8 @@ msgid 'manager wrinkle'
 msgstr 'Manager Wrinkle'
 
 # གཏན་ལ་འབེབས
+msgid ' None'
+msgstr None 1
 
 # གཏི་མུག
 msgid 'Delusion, moha moha, ignorance; stupidity, delusion, close-mindedness, foggy-headedness, sleepy mindedness, gloom, mental darkness, [one of the three poisons མ་རིག་པ deeply /_intensely dull; དུག་གསུམ Stupidity/_lack of discernment'
@@ -88,6 +90,8 @@ msgid 'dad gtong - devoted and generous let go, pass by; 1) to start, set in mot
 msgstr 'Papá Gtong - devoto y generoso, deje ir, pasa;1) Para comenzar, poner en movimiento, remar, fila, enviar, emitir, transmitir, despachar.2) Dejar ir, descartar, soltar, enviar 3) [sustantivo +] verbaliza el significado nominal 4) hacer '
 
 # གད་མོ
+msgid ' None'
+msgstr None 2
 
 # གདོད
 msgid 'adj. comp. of གདོད་མ'
@@ -170,6 +174,8 @@ msgid '(enlightened) speech so it is said (indicated direct quotation from scrip
 msgstr '(iluminado) discurso, por lo que se dice (cita directa indicada de las Escrituras);(En el debate utilizado para indicar la opinión correcta de la opinión o probada) Voz;(iluminado) discurso;discurso.buda-voz.Suena la voz, la comunicación, la sinfonía, el sustantivo.Escritos [de los antepasados de Siddha], (h) para el habla, verbo.Digamos, hable, pronunciado, pronunciado [Todas sus palabras son] ལེགས་པར་ གསུང་ བ bien nutridas;dominio;1) sustantivo.Escritos [de los antepasados de Siddha], (h) para el habla.2) verbo.Digamos, habla, pronunciado, pronunciado [todas tus palabras son].Suena la voz, la comunicación, la sinfonía, el discurso de Buda.ལེགས་པར་ གསུང་ བ bien nutido '
 
 # གསུམ
+msgid ' None'
+msgstr None 3
 
 # གསོལ
 msgid '1) to wear [a crown, etc.]. 2) to consume. 3) asked. du-gsol - I pray (that/_,).; imp. of གསོལ་བ'
@@ -188,6 +194,8 @@ msgid "1) humility, reverence, devotion [in religious contexts], respect [in sec
 msgstr "1) Humilidad, reverencia, devoción [en contextos religiosos], respeto [en contextos seculares]. 2) Venerar, dedicar a. 3) \ \'i \\'; devoción [en contextos religiosos], respeto [en contextos seculares]; (sentir) respeto (para/_toward); གུས་ པ, ་ གུས་ པ, ་ གུས་ པ intr. V cortésmente "
 
 # གོ་འཕང
+msgid ' None'
+msgstr None 4
 
 # གོམས
 msgid '1) to be habituated, trained, made familiar with, adept, practiced, mastered, skilled, accustomed. 2) to be used to, spoiled, get adapted to, be acclimatized to. 3) familiarization, habit, skill, acquaintance, habituation, stability; skilled/_practiced in the art of/_accustomed to/_habitual; skill; accustomed to'
@@ -219,7 +227,7 @@ msgstr '1) dotado, imbuido de;tener, ser proporcionado, poseer, ser presente, es
 
 # ཅི
 msgid '1) what, which. 2) how, why. 3) as much as, as good as, as many as, whatever the adj. 4) whatever. 5) no. 35 in numbering as best I could, trying their best why དགའ་བོ་མྱུར་བར་འགྲོ་བ་ཅི Nanda, why go so quickly?'
-msgstr '1) Qué, cuál.2) Cómo, por qué.3) tanto como, tan bien como, tantos como, sea cual sea el adj.4) Lo que sea.5) no.35 En numeración lo mejor que pude, haciendo todo lo posible por qué དགའ་ བོ་ མྱུར་ བར་ འགྲོ་བ་ ཅི ཅི ཅི nanda, ¿por qué ir tan rápido?
+msgstr '1) Qué, cuál.2) Cómo, por qué.3) tanto como, tan bien como, tantos como, sea cual sea el adj.4) Lo que sea.5) no.35 en numerar lo mejor que pude, haciendo todo lo posible por qué དགའ་ བོ་ མྱུར་ བར་ འགྲོ་བ་ ཅི ཅི ཅི nanda, ¿por qué ir tan rápido?
 
 # ཅི་ཞིག
 msgid 'any, at some point; what, whatever. Syn གང་འདྲ་ཞིག, གང་ཞིག. mi ci zhig/_rgyu mtshan ci zhig/_dgos pa ci zhig yod/_don snying ci zhig yin/_las ka ci zhig bya/'
@@ -259,7 +267,7 @@ msgstr "1) Fuerte, grande, grande, grande, superior, supremo, inmenso, masivo, t
 
 # ཆོས
 msgid '1) Dharma, reality 2) dharmas, phenomena 3) Dharma, the teaching of the Buddha; 1) dharma, phenomenon, thing, existent, [a truly real predicate, event, entity, element or ultimate constituent of existence]. 2) Dharma, [the Precious Dharma with eight qualities]. Religion. 3) the Dharma, the Teachings, the Doctrine. 4) quality, attribute, property, characteristic, ability. 5) a teaching, doctrine, text, scripture, sacred text. 6) right, virtue, duty, moral law, tenet, precept. 7) truth, order, law. 8) practice, dharma -, religious. 9) mental object, dharma. 10) religion, religious system, way of belief. 11) topic, point, principle. 12) meaning, value, sense, meaning, worth; content. 13) ex. +འཆོས་པ, +དོན་ཆོས་གོ་བར་བྱེད་པའི་གཞི, +ཕྱག་རྒྱ་བཞི, to preach, give religious teaching, +འཆའ, to hear, listen to religious teaching, +འཆོས, to practice religion, live a religious life, +ཞུ, to receive religious instruction, t seek, ask for religious teaching. imp. of བྱེད, and ཉན, 14) mind objects, 5 of 16 aspects of the 4 holy truths. one of the སྨྲ, four mudras; phenomenon; factor/_element; property/_quality/_attribute; spiritual teaching/_Buddhadharma/_dharma; ཤོད imp. of འཆད; events; can that which has [certain] qualities or attributes, subject [in logic context]. phenomenon, phenomena, Dharma, teachings བསྒྲུབ་བྱའི་ཆོས conclusion [to be proven in logic] phenomena, (snang ba). Anything that can be experienced, thought of, or known phenomenon; factor/_element; property/_quality/_attribute/_aspect; spiritual teaching/_Buddhadharma/_dharma/_teaching of the Buddha; idea (mental phenomenon/_event); (spiritual) situation/_circumstances; isc. principle/_tenet predicate of a subject དོན་ཆོས [in logic]; property [as in བློ་ཆོས mental property and ཆོས་ཅན real property] [ggd]'
-msgstr '1) dharma, realidad 2) dharmas, fenómenos 3) dharma, la enseñanza del Buda;1) Dharma, fenómeno, cosa, existente, [un predicado verdaderamente real, evento, entidad, elemento o constituyente final de la existencia].2) Dharma, [el Precious Dharma con ocho cualidades].Religión.3) El dharma, las enseñanzas, la doctrina.4) Calidad, atributo, propiedad, característica, habilidad.5) Una enseñanza, doctrina, texto, escritura, texto sagrado.6) Derecho, virtud, deber, ley moral, principio, precepto.7) Verdad, orden, ley.8) Práctica, Dharma -, religioso.9) Objeto mental, dharma.10) Religión, sistema religioso, forma de creencia.11) Tema, punto, principio.12) significado, valor, sentido, significado, valor;contenido.13) Ej.+འཆོས་ པ, +དོན་ ཆོས་ གོ་ བར་ བར་ བྱེད་ པའི་ གཞི, +ཕྱག་ རྒྱ་ བཞི བཞི, predicar, dar enseñanza religiosa, +འཆའ, escuchar, escuchar la enseñanza religiosa, +འཆོས, practicarreligión, vivir una vida religiosa, +ཞུ, para recibir instrucción religiosa, buscar, pedir enseñanza religiosa.diablillo.de བྱེད, y ཉན, 14) objetos mentales, 5 de 16 aspectos de las 4 verdades santas.uno de los སྨྲ, cuatro mudras;fenómeno;factor/_Element;propiedad/_Quality/_attribute;enseñanza espiritual/_buddhadharma/_dharma;ཤོད Imp.de འཆད;eventos;puede lo que tiene [ciertas] cualidades o atributos, sujeto [en contexto lógico].Fenómeno, fenómenos, dharma, enseñanzas བསྒྲུབ་ བྱའི་ བྱའི་ ཆོས ཆོས ཆོས conclusión [para ser probado en la lógica] fenómenos, (snang ba).Cualquier cosa que pueda ser experimentado, pensado o fenómeno conocido;factor/_Element;propiedad/_Quality/_attribute/_Aspect;Enseñanza espiritual/_buddhadharma/_dharma/_Teaching of the Buddha;idea (fenómeno mental/_event);(espiritual) situación/_circumstancias;ISC.Principio/_Tenet predicado de un sujeto དོན་ ཆོས [en lógica];propiedad [como en བློ་ ཆོས ཆོས propiedad mental y ཆོས་ ཅན ཅན propiedad inmobiliaria] [GGD] '
+msgstr '1) dharma, realidad 2) dharmas, fenómenos 3) dharma, la enseñanza del Buda;1) Dharma, fenómeno, cosa, existente, [un predicado verdaderamente real, evento, entidad, elemento o constituyente final de la existencia].2) Dharma, [el Precious Dharma con ocho cualidades].Religión.3) El dharma, las enseñanzas, la doctrina.4) Calidad, atributo, propiedad, característica, habilidad.5) Una enseñanza, doctrina, texto, escritura, texto sagrado.6) Derecho, virtud, deber, ley moral, principio, precepto.7) Verdad, orden, ley.8) Práctica, Dharma -, religioso.9) Objeto mental, dharma.10) Religión, sistema religioso, forma de creencia.11) Tema, punto, principio.12) significado, valor, sentido, significado, valor;contenido.13) Ej.+འཆོས་ པ, +དོན་ ཆོས་ གོ་ བར་ བྱེད་ བྱེད་ གཞི གཞི, +ཕྱག་ རྒྱ་ བཞི, para predicar, dar enseñanza religiosa, +འཆའ, escuchar, escuchar la enseñanza religiosa, +འཆོས, practicarreligión, vivir una vida religiosa, +ཞུ, para recibir instrucción religiosa, buscar, pedir enseñanza religiosa.diablillo.de བྱེད, y ཉན, 14) objetos mentales, 5 de 16 aspectos de las 4 verdades santas.uno de los སྨྲ, cuatro mudras;fenómeno;factor/_Element;propiedad/_Quality/_attribute;enseñanza espiritual/_buddhadharma/_dharma;ཤོད Imp.de འཆད;eventos;puede lo que tiene [ciertas] cualidades o atributos, sujeto [en contexto lógico].Fenómeno, fenómenos, dharma, enseñanzas བསྒྲུབ་ བྱའི་ བྱའི་ ཆོས ཆོས ཆོས conclusión [para ser probado en la lógica] fenómenos, (snang ba).Cualquier cosa que pueda ser experimentado, pensado o fenómeno conocido;factor/_Element;propiedad/_Quality/_attribute/_Aspect;Enseñanza espiritual/_buddhadharma/_dharma/_Teaching of the Buddha;idea (fenómeno mental/_event);(espiritual) situación/_circumstancias;ISC.Principio/_Tenet predicado de un sujeto དོན་ ཆོས [en lógica];propiedad [como en བློ་ ཆོས ཆོས propiedad mental y ཆོས་ ཅན ཅན propiedad inmobiliaria] [GGD] '
 
 # ཆོས་པ
 msgid 'practitioner, Dharma person, person who is very religious practitioners'
@@ -279,7 +287,7 @@ msgstr '1) Como, como, como, cómo, de qué manera, como qué.2) Sin embargo, en
 
 # ཉན
 msgid 'གཞན་གྱིས་རིག་ན་མི་ཉན no good would come of it if people found out obey; study; study; able to; 1) Abbr. of ཉན་ཐོས. 2) Abbr. of ཉན་པ sgrub mi nyan bsam pa - to decide to desist from doing x དེ་ལྟར་ཉན་ནས་ཀྱང after you have listened properly to a teaching in this way'
-msgstr 'གཞན་ གྱིས་ རིག་ ན་ མི་ ཉན ཉན ཉན ཉན ཉན ཉན ཉན ཉན ཉན ཉན ཉན ཉན ཉན ཉན ཉན ཉན ཉན ཉན ཉན ཉན ཉན ཉན ཉན ཉན ཉན ཉན ཉན ཉན ཉན མི་ མི་ མི་ མི་ མི་ མི་ རིག་ རིག་ རིག་ རིག་ རིག་ རིག་ རིག་ གྱིས་estudiar;estudiar;capaz de;1) Abbr.de ཉན་ ཐོས.2) ABBR.de ཉན་ པ པ sgrub mi nyan bsam pa - decidir desistir de hacer x དེ་ ལྟར་ ཉན་ ནས་ ཀྱང ཀྱང ཀྱང ཀྱང ཀྱང ཀྱང ཀྱང ཀྱང ཀྱང ནས་ ནས་ ནས་ ནས་ ཀྱང ཀྱང ནས་ ནས་ ནས་ ཀྱང ནས་ ཀྱང ཀྱང ཀྱང ནས་ ཀྱང ནས་ ནས་ ནས་ ནས་ ནས་ ནས་ ནས་ ནས་
+msgstr 'གཞན་ གྱིས་ རིག་ ན་ མི་ ཉན ཉན ཉན ཉན ཉན ཉན ཉན ཉན ཉན ཉན ཉན ཉན ཉན ཉན ཉན ཉན ཉན ཉན ཉན ཉན ཉན ཉན ཉན ཉན ཉན ཉན ཉན ཉན ཉན མི་ མི་ མི་ མི་ མི་ མི་ རིག་ རིག་ རིག་ རིག་ རིག་ རིག་ རིག་ གྱིས་estudiar;estudiar;capaz de;1) Abbr.de ཉན་ ཐོས.2) ABBR.de ཉན་ པ པ sgrub mi nyan bsam pa - decidir desistir de hacer x དེ་ ལྟར་ ཉན་ ནས་ ཀྱང ཀྱང ཀྱང ཀྱང ཀྱང ཀྱང ཀྱང ཀྱང ཀྱང ཀྱང ནས་ ནས་ ནས་ ནས་ ནས་ ནས་ ནས་ ནས་ ནས་ ནས་ ནས་ ཀྱང ནས་ ནས་ ནས་ ནས་ ནས་ ནས་ ནས་ ནས་
 
 # ཉན་རང
 msgid 'shravakas and pratyeka-buddhas, abbr. of རང་སངས་རྒྱས, ཉན་ཐོས'
@@ -291,7 +299,7 @@ msgstr "1) Experiencia [meditativa /_temporánea], meditación-moods [signo expe
 
 # ཉམས་ལེན
 msgid "ཉམས་སུ་ལེན་པ to apply/_implement/_(put into) practice; to incorporate into (one\'s) experience; practice/_practical application practice, practice; 1) [spiritual] practice, practice [as opposed to theory], application. 2) to experience; practice; to practice"
-msgstr "ཉམས་ སུ་ ལེན་ པ པ para aplicar/_implement/_ (poner en) práctica; incorporar (una \ \'s) experiencia; práctica/_ práctica de aplicación práctica, práctica; 1) [espiritual] Práctica [en oposicióna la teoría], aplicación. 2) para experimentar; practicar; practicar "
+msgstr "ཉམས་ སུ་ ལེན་ པ པ para aplicar/_implement/_ (poner en) práctica; incorporar (una \ \'s) experiencia; práctica/_ práctica de aplicación práctica, práctica; 1) [espiritual] Práctica [en oposicióna la teoría], aplicación. 2) experimentar; practicar; practicar "
 
 # ཉིད
 msgid '1) -ness, [used to form abstract nouns. 2) it, itself, the very, the same, namely, just, exactly. 3) self, itself, oneself, himself, herself, yourself. 4) nature. 5) as soon as; ness; (the thing) itself/_selfsame; in fact; himself, itself; you; himself, herself, itself, myself; very, same'
@@ -370,6 +378,8 @@ msgid "enemy, foe, adversary, opponent, hostiles. 2) warfare mi thub pa\'i dgra 
 msgstr "Enemigo, enemigo, adversario, oponente, hostiles. 2) Warfare Mi Thub Pa \ \'I Dgra - Enemigos poderosos /_unbeatables"
 
 # དགྲ་བོ
+msgid ' None'
+msgstr None 5
 
 # དགེ་བ
 msgid 'virtue; good, happiness, welfare, happy, propitious, positive, merit, deeds, virtuous, wholesome, goodness. ལས་དགེ་བ virtuous deeds virtuous; syn ལེགས་སྤྱད་དང་གཙང་བྱེད good deeds or purifying actions'
@@ -417,7 +427,7 @@ msgstr '1) Centro, medio, medio, en medio de, núcleo, central.2) Tíbet central
 
 # དབེན་པ
 msgid 'remote, an unpeopled area, isolated, free from, secluded place, solitary, lonely, solitude, loneliness, seclusion, remote, void, like an unpopulated mountain or valley, devoid, without, empty དབེན་པ,་དབེན་པ,་དབེན་པ; ཆོས་མཉམ་པ་ཉིད་བཅུ intr. v.; solitude; solitary; far/_distant/_removed from'
-msgstr 'Remoto, un área sin gusto, aislada, libre de lugar aislado, solitario, solitario, soledad, soledad, aislamiento, remoto, vacío, como una montaña o valle despoblado, sin, sin, vacío དབེན་ པ པ ་ དབེན་ པ པ པ པ པ པ པ པ དབེན་ དབེན་ པ པ དབེན་ པ དབེན་ པ པ པ་ དབེན་ པ པ;ཆོས་ མཉམ་ པ་ ཉིད་ བཅུ བཅུ intr.v.;soledad;solitario;lejos/_distant/_remoed de '
+msgstr 'Remoto, un área sin gusto, aislada, libre de lugar aislado, solitario, solitario, soledad, soledad, aislamiento, remoto, vacío, como una montaña o valle despoblado, sin, sin, vacío དབེན་ པ པ ་ དབེན་ པ པ པ པ པ པ པ དབེན་ དབེན་ པ པ པ པ པ པ པ པ པ་ དབེན་ པ པ;ཆོས་ མཉམ་ པ་ ཉིད་ བཅུ བཅུ intr.v.;soledad;solitario;lejos/_distant/_remoed de '
 
 # དམ་ཆོས
 msgid 'sacred teachings Saddharma, true, holy, sacred Dharma, teaching, doctrine True Dharma, sad-dharma. The Law of the Buddhas'
@@ -549,7 +559,7 @@ msgstr 'Idéntico, mutuo mutuo mutuo, a ambos lados;mutual;de ida y vuelta;corre
 
 # ཕྱག་འཚལ
 msgid '1) homage, obeisance, salutation, 2) to pay homage, pay obeisance, prostrate, bow down, salute. 3) dance of homage (in dance) bowed low to expression of reverence, prostration, bow, showing reverence, salutation, greeting, salute expression of reverence, to show reverence homage; [detailed expl., Light of Wisdom, Vol. 2, page 122] to you we bow!'
-msgstr '1) Homenaje, reverencia, saludo, 2) para rendir homenaje, pagar reverencia, postrado, inclinarse, saludo.3) Danza de homenaje (en baile) se inclinó bajo a la expresión de reverencia, postración, arco, mostrando reverencia, saludo, saludo, expresión de salud de la reverencia, para mostrar homenaje de reverencia;[Expl. Detallado, Light of Wisdom, vol.2, página 122] ¡A ti nos inclinamos!
+msgstr '1) Homenaje, reverencia, saludo, 2) para rendir homenaje, pagar reverencia, postrado, inclinarse, saludo.3) Danza de homenaje (en baile) se inclinó bajo a la expresión de reverencia, postración, arco, mostrando reverencia, saludo, saludo, expresión saludo de reverencia, para mostrar homenaje de reverencia;[Expl. Detallado, Light of Wisdom, vol.2, página 122] ¡A ti nos inclinamos!
 
 # ཕྱི་རོལ
 msgid 'outward; outside, external, in the external world, the outer world, beyond, without, exterior; outside'
@@ -596,6 +606,8 @@ msgid 'prison, imprisonment'
 msgstr 'prisión, encarcelamiento'
 
 # བཞི
+msgid ' None'
+msgstr None 6
 
 # བཞིན
 msgid 'according to; face; in accordance with; line, as, like, similar to, face, likeness, image, verb +o. While -ing, while it is. face, countenance; verb + bzhin - progressive tense as, while གསུངས་བཞིན - as the Buddha taught}'
@@ -627,7 +639,7 @@ msgstr "1) despertar; iluminación, bodhi, \ \'purificado y perfeccionado \\', \
 
 # བྱང་ཆུབ་ཀྱི་སེམས
 msgid 'awakening mind; bodhichitta, mind of enlightenment, will to enlightenment, thought of enlightenment, bodhimind, awakened heart, mind of enlightenment, enlightened mind, attitude, mind, thought of enlightenment, enlightening spirit, sexual energies in a tantric context, altruistic aspiration to enlightenment. Bodhichitta, enlightened mind, the Thought of Enlightenment, [bodhichitta], enlightening attitude/_bodhichitta, mind of enlightenment bodhichitta - awakened mind, bodhichitta, bodhimind, awakened heart, mind, en lightened mind, attitude, mind, thought of enlightenment'
-msgstr 'Despertar la mente;Bodhichitta, mente de la iluminación, voluntad a la iluminación, pensamiento de iluminación, bodhimind, corazón despierto, mente de la iluminación, mente iluminada, actitud, mente, pensamiento de iluminación, espíritu iluminador, energías sexuales en un contexto tántrico, altruista aspiración a la iluminación.Bodhichitta, mente iluminada, el pensamiento de la iluminación, [bodhichitta], actitud iluminadora/_bodhichitta, mente de la iluminación bodhichitta - mente despierta, bodhichitta, bodhimind, corazón despierto, mente, mente ligera, actitud, mente, pensamiento de iluminación \''
+msgstr 'Despertar la mente;Bodhichitta, mente de la iluminación, voluntad a la iluminación, pensamiento de iluminación, bodhimind, corazón despierto, mente de la iluminación, mente iluminada, actitud, mente, pensamiento de iluminación, espíritu iluminador, energías sexuales en un contexto tántrico, altruista aspiración a la iluminación.Bodhichitta, mente iluminada, el pensamiento de la iluminación, [bodhichitta], actitud iluminadora/_bodhichitta, mente de la iluminación bodhichitta - mente despierta, bodhichitta, bodhimind, corazón despierto, mente, en la mente ligera, actitud, mente, pensamiento de iluminación \''
 
 # བྱང་ཆུབ་སེམས་དཔའ
 msgid "bodhisattva [awakening being]; bodhisattva. bodhisattvas. a being on the path of enlightenment, bodhisattva. \'heroic being of enlightenment\' bodhisattva. Someone who has developed bodhichitta, the aspiration to attain enlightenment in order to benefit all sentient beings. A practitioner of the Mahayana path; especially a noble bodhisattva who has attained the first level"
@@ -742,6 +754,8 @@ msgid '1) ft. of སེམས་པ to ponder, consider, plan, reflect, think. 2
 msgstr '1) ft. De སེམས་ པ para reflexionar, considerar, planificar, reflexionar, pensar.2) pensamiento, ideación, opinión, concepto, concentración, pensamiento, contemplación, recuerdo, reflexión, 3) un plan, preocupación, intención, deseos, deseos, 4) motivación, actitud 5) sentir, 6) espíritu.7) Mentalidades.Syn ཀུན་ སློང Forma de tiempo y secundario futuro de སེམས་ པ;contemplación;pensamiento/_Thinking/_Reflection;imaginación;deseo/_Goal;actitud;pensar/_contemplate/_imagine/_reflect on;aspiraciones/_thoughts;Reflexión [como en escuchar, reflexionar y meditar].actitud, contemplando PF.de སེམས་ པ reflexionando;x ངོ་བོ་ དལ་ བ་ བསམ་ པ reflexionando sobre la naturaleza de la libertad '
 
 # བསལ
+msgid ' None'
+msgstr None 7
 
 # བུ
 msgid 'son'
@@ -757,7 +771,7 @@ msgstr 'Inmediatamente, tan pronto como, justo después;Justo ahora, al instante
 
 # མ་ལུས
 msgid "lit. \'nothing left behind\', without exception, all, everything. Syn ཐམས་ཅད many, without exception, nobody left behind, all, everyone, whole, entire"
-msgstr "Lit. \ \'Nothing Left Behind \\', sin excepción, todo, todo. Syn ཐམས་ ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད eléctrica eléctrica eléctrica mundiales\".
+msgstr "Lit. \ \'Nothing Left Behind \\', sin excepción, todo, todo. Syn ཐམས་ ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད ཅད eléctrica eléctrica eléctrica mundiales"
 
 # མཁས་པ
 msgid "competent discerning; mi mkhas - who lack discernment, who are unable to discern erudite knowledgeable; erudition Pandita. A learned master, scholar, professor in Buddhist philosophy. means \'learned one.\' to be proficient in wisely, cleverly, skillfully; wise, learned; མཁས་པོ intr. v.; to know well; skillful, scholar, proficient, efficient, masterly, wise, capable, clever, experienced, expert, trained, practiced, skilled, erudite, the learned, skillful [as in skillful in means] competent, refined, accomplished, well-versed. 2) an expert, learned /_skilled person, specialist, expert, scholar. scholar, wise, sagacious, learned one, pandita, specialist. 3) scholarship, learning, learnedness. See also མཁས་པ,་མཁས་པ,་མཁས་པ; Pandita; learned/_wise/_scholarly; (learned) scholar; skilled (in/_at); learned/_a scholar"
@@ -844,6 +858,8 @@ msgid "attributes, features, characteristics defining characteristics symptom, q
 msgstr "Atributos, características, características que definen el síntoma de características, calidad, \ \'marca \\' o \ \'firmar \\' (en contextos más filosóficos); marcas, signos, síntomas/_ forma, peculiaridades; marca, marca distintiva, [nimitta]; (((((((((((((((((((((((((ordinario) definición de característica; indicación; 1) calidad. 2) signo, marcas, atributos identificables, característica, designación, símbolo 3) simbólico, simbólicamente. 4) Omen. 5) Síntoma. 6) adorno. 7) Marca de existencia, característicasde sustancialidad, signos de ser propios [syn. ?? མཚན 8) Realidad conceptual "
 
 # མཚན་མོ
+msgid ' None'
+msgstr None 8
 
 # མཚུངས་པ
 msgid 'analogous to similar, like, equal; parallel/_analogous; congruent'
@@ -954,6 +970,8 @@ msgid "dpa\' mi zhum pa - do not lose courage ཞུམ་པ,་ཞུམ་པ
 msgstr "dpa \ \'mi zhum pa - no pierdas coraje ཞུམ་ པ པ པ ་ པ པ, ་ ཞུམ་ པ པ པ v. perder el corazón, desanimarse, deprimirse, desalentar, vacilar"
 
 # ཞེ་འགྲས
+msgid ' None'
+msgstr None 9
 
 # ཞེ་སྡང
 msgid 'hatred, anger, aggression, aversion. hatred; aversion hatred, anger, aggression, aversion [R] hatred, one of the three poison དུག་ག་སུམ'
@@ -984,6 +1002,8 @@ msgid 'mist, dew, drop; dew'
 msgstr 'Mist, rocío, caída;Rocío'
 
 # འཁྲུག
+msgid ' None'
+msgstr None 10
 
 # འཁྲུང
 msgid 'grow up; cone into being, be born, grow up'
@@ -1043,7 +1063,7 @@ msgstr "Se salió con la suya con ཆོམ་ རྐུན་ རྣམས་ �
 
 # འགལ
 msgid 'mix up; x གོང་འོག་ནོར་ནས་བཟུང་ན་བསྟན་པའི་བབས་དང་འགལ if you remember it out of order, you will mix up the proper sequence of the teaching vi. to be contrary, to violate, to contradict, controversy, oppose, transgression, gone against, violate. ལས་འགལ་བ [our actions runs) contrary to the Dharma. བཀའ་དང་འགལ violate the command. ཆོས་འགལ to violate, commit'
-msgstr 'mezclar;X གོང་ འོག་ ནོར་ ནས་ བཟུང་ ན་ བསྟན་ པའི་ པའི་ དང་ འགལ འགལ འགལ Si lo recuerdas fuera de servicio, mezclarás la secuencia adecuada de la enseñanza VI.ser contrario, violar, contradecir, controversia, oponerse, transgresión, ir en contra, violar.ལས་ འགལ་ བ བ [nuestras acciones se ejecutan) contrariamente al dharma.བཀའ་ དང་ འགལ Viole el comando.ཆོས་ ཆོས་ འགལ འགལ འགལ འགལ འགལ para violar, cometer '
+msgstr 'mezclar;x གོང་ འོག་ ནོར་ ནས་ བཟུང་ ན་ བསྟན་ པའི་ པའི་ དང་ འགལ འགལ འགལ Si lo recuerdas fuera de servicio, mezclarás la secuencia adecuada de la enseñanza VI.ser contrario, violar, contradecir, controversia, oponerse, transgresión, ir en contra, violar.ལས་ འགལ་ བ བ [nuestras acciones se ejecutan) contrariamente al dharma.བཀའ་ དང་ འགལ Viole el comando.ཆོས་ ཆོས་ འགལ འགལ འགལ འགལ འགལ para violar, cometer '
 
 # འཆིང
 msgid 'p. ཆིངས, imp. བཅིངས, to tie, bind, fetter, bond, tie, fetter, bondage'
@@ -1119,7 +1139,7 @@ msgstr "Deseo /_want /_Wish to [\ \'dod byed o byed \\' dod] pasión \ \'lo acep
 
 # འདོད་ཆགས
 msgid 'attachment, desire; desire-attachment; passion, lust; Def. by Jamgön Kongtrül: ཁམས་གསུམ་གྱི་གནས་ལུས་ལོངས་སྤྱོད་ལ་ཞེན་པ Attachment, as one of the six root disturbances passion, desire, attachment, lust [one of the six root kleshas R]'
-msgstr 'apego, deseo;adjunto de deseo;pasión, lujuria;Def.por Jamgön Kongtrül: ཁམས་ གསུམ་ གྱི་ གནས་ ལུས་ ལོངས་ སྤྱོད་ སྤྱོད་ ལ་ ཞེན་ པ པ པ པ པ པ པ པ པ, como una de las seis perturbaciones de raíz pasión, deseo, apego, lujuria [una de las seis raíces kleshas r] \''
+msgstr 'apego, deseo;adjunto de deseo;pasión, lujuria;Def.por Jamgön Kongtrül: ཁམས་ གསུམ་ གྱི་ གནས་ ལུས་ ལོངས་ སྤྱོད་ སྤྱོད་ ལ་ པ པ པ པ པ པ པ པ པ པ, como una de las seis perturbaciones de raíz pasión, deseo, apego, lujuria [una de las seis raíces kleshas r] \''
 
 # འདོད་པ
 msgid "ambition chad nas \'phro mi \'dod pa - grow weary and feel disinclined to continue craving འདོད་པའི་ཁམས; 1) to wish/_desire; hanker after; lust for, 2) desire; longing, crave, desire, like, desire to do, lust, passion, zeal; attachment, attraction to sense pleasures, be willing, wish, hanker for, aspire to, have in mind, want, hope for, wish; lust; ex. ཁས་ལེན to hope for signs of attainment 3) Syn གྲུབ་རྟགས་+, to suppose, claim, admit, consider, assert, regard as, believe, maintain, proclaim, accept, hold/_maintain (i.e. philosophically); 4) acceptance, admission, belief, claim, consideration, posit, proclamation of one\'s view, 5) Syn འདོད་པ,་འདོད་པ,་འདོད་པ self-centered བཙུན་མོ་དེ་འདོད་པས་ངོ་ཚ་དང་བག་ཡོད་བྲལ་ཏེ the queen was thoughtless and self-centered suppositions, a positing of ... to hold, maintain"
@@ -1162,6 +1182,8 @@ msgid 'source, origin; mine'
 msgstr 'fuente, origen;mío'
 
 # འབར
+msgid ' None'
+msgstr None 11
 
 # འབྲང
 msgid 'chase, pursue; follow rgyas bum-gzugs - full-breast vase-shape'
@@ -1184,8 +1206,12 @@ msgid "link, related, relation, connection, relationship, contact, association, 
 msgstr "Enlace, relacionado, relación, conexión, relación, contacto, asociación, para conectarse con /_To, encontrar, unirse, vinculado, relacionado con, conectarse a /_con, relevante \ \'pertinente /_erta, en relación con, relación, enlace, encuentro, estar unido, vinculado a, relacionado con, conectarse a /_con, relevante \ \'pertinente /_creant a, en relación con "
 
 # འབུར་འཇོམས
+msgid ' None'
+msgstr None 12
 
 # འབེབས
+msgid ' None'
+msgstr None 13
 
 # འབོར
 msgid 'to lose, discard, fling away; leave'
@@ -1209,7 +1235,7 @@ msgstr 'surgir, venir, ganar, llegar, para ser suficiente, ཡོང se converti
 
 # འོན་ཀྱང
 msgid "at any rate, in any case, but, yet, however, nevertheless; but, yet, notwithstanding. furthermore; well; \'You might say (or think) so, but.\' or \'I disagree.\' however nevertheless Nevertheless,"
-msgstr "En cualquier caso, en cualquier caso, pero, sin embargo, sin embargo, sin embargo; pero, sin embargo, a pesar de que no.Sin embargo, sin embargo \","
+msgstr "En cualquier caso, en cualquier caso, pero, sin embargo, sin embargo, sin embargo; pero, sin embargo, a pesar. Además. Bueno; bien; \ \'podrías decir (o pensar) Entonces, pero. \\' o \ \'No estoy de acuerdo. \\'Sin embargo, sin embargo \","
 
 # ཡང
 msgid 'again [as the first word in a sentence]. but, yet, again, even, once more, and, also, further, then. although, thereupon, still, too, although, both, even, [not even]; upper moreover Once again, over and over, continually (in front of verbs) Soon, however, then'
@@ -1217,7 +1243,7 @@ msgstr 'Nuevamente [como la primera palabra en una oración].Pero, sin embargo, 
 
 # ཡང་དག
 msgid 'Vishuddha; 1) perfectly, in the right way, excellently. 2) real, actual, correct, true, perfect, right, proper, the very, really, verily, in reality, indeed, absolutely, truly, truth, completely, thoroughly, free, very, full, close, well Vishuddha. The heruka of the vajra family or the tantric teachings connected to that wrathful deity. One of the Eight Sadhana Teachings of the Nyingma School. The wrathful deity of vajra mind'
-msgstr 'Vishuddha;1) Perfectamente, de la manera correcta, excelentemente.2) Real, real, correcto, verdadero, perfecto, correcto, apropiado, muy, muy, en realidad, en realidad, de hecho, absolutamente, verdaderamente, verdad, completamente, completamente, libre, muy, completo, cercano, bien Vishuddha.El Heruka de la familia Vajra o las enseñanzas tántricas se conectaron con esa deidad irritante.Una de las ocho enseñanzas de Sadhana de la escuela Nyingma.La deidad irritable de la mente vajra '
+msgstr 'Vishuddha;1) Perfectamente, de la manera correcta, excelentemente.2) Real, real, correcto, verdadero, perfecto, correcto, apropiado, muy, muy, en realidad, en realidad, de hecho, absolutamente, verdaderamente, verdad, completamente, completamente, libre, muy, completo, cercano, bien Vishuddha.El Heruka de la familia Vajra o las enseñanzas tántricas se conectaron con esa deidad irritable.Una de las ocho enseñanzas de Sadhana de la escuela Nyingma.La deidad irritable de la mente vajra '
 
 # ཡར་ངོ
 msgid 'དཀར་ཕྱོགས the waxing moon, the first 15 days of the month, including full moon. Syn ཡར་གྱི་ངོ'
@@ -1256,6 +1282,8 @@ msgid "circumstance, opportunity condition(s) that determine/_account/_are respo
 msgstr "Circunstancia, condición (s) de oportunidad que determinan/_account/_ son responsables de ... + Dang \ \'phrad tshhe - tan pronto como llegan los malos tiempos (secundarios) Condición/factor de acondicionamiento; circunstancia; ISC. Propiedad Skt. Pratyaya; 1) condición, circunstancia, [una cooperación /_cributing] causa. 2) adversidad, calamidad, desgracia, accidente, accidente, malas circunstancias /_luck, dificultades. Syn སྔར་ མ་ པའི་ ལུས་ གཞན་ དང་ གཞན གཞན གཞན གཞན གཞན གཞན གཞན གཞན གཞན གཞན གཞན གཞན གཞན གཞན གཞན གཞན གཞན གཞན གཞན གཞན གཞན གཞན གཞན་ ཐོབ་པ་ དང་ ཐོབ་ ཟིན་ པའི་ ལུས་ གཞན་ དང་ གཞན་ དུ་ འདའ་ བའི་ བྱེད་ རྒྱུ་ ཡིན་ པའི་ ཕྱིར་ རྐྱེན་ གྱི་ མཚན་ཉིད་ ཅན 3) porque. 4) Objeto. Ver ཡུལ་ རྐྱེན རྐྱེན རྐྱེན རྐྱེན རྐྱེན རྐྱེན རྐྱེན རྐྱེན རྐྱེན རྐྱེན རྐྱེན རྐྱེན རྐྱེན རྐྱེན རྐྱེན རྐྱེན རྐྱེན རྐྱེན རྐྱེན རྐྱེན རྐྱེན རྐྱེན རྐྱེན རྐྱེན རྐྱེན རྐྱེན རྐྱེན རྐྱེན རྐྱེན རྐྱེན རྐྱེན རྐྱེན རྐྱེན རྐྱེན རྐྱེན རྐྱེན རྐྱེན རྐྱེན རྐྱེན རྐྱེན རྐྱེན རྐྱེན རྐྱེན རྐྱེན རྐྱེན རྐྱེན རྐྱེན རྐྱེན རྐྱེན རྐྱེན རྐྱེན).Debido a, evento, caso, obstáculo, obstáculo, una circunstancia feliz y favorable, fomento, factor, causa contributiva, influencia circunstancial. Condición (secundaria)/factor de acondicionamiento; condiciones secundarias (causa raíz que acompaña); causa secundaria, condicionamiento; circunstancial/_created por causas;Entre los 16 aspectos de las cuatro verdades: def.por Jamgön Kongtrül: རྐྱེན་ ངན "
 
 # རག་ལས
+msgid ' None'
+msgstr None 14
 
 # རྒྱལ་བ
 msgid "Conqueror. jina, Buddha. Buddha dgra las rgyal ba - to vanquish one\'s enemy Jina, \'Conqueror\'. Victorious One. Same as a buddha; one who has conquered over the four maras Victorious One. Same Buddha Shakyamuni Victorious ones, jina. Same as buddhas victor, victor over the four maras; victorious one; to win/_be victorious; Jina, the Victorious One, (Syn. Buddha); conqueror; 1) [jina], victorious one, victor, conqueror, all the victorious ones [in general], conqueror. an epithet for the buddhas who are - conquerors of samsara. victor over the four maras. 2) the Dalai Lama (h). 3) Jaya, [the 28\'th year of རྒྱལ་བ,་རྒྱལ་བ,་རྒྱལ་བ Male Wood Horse]. Syn ཤིང་ཕོ་རྟ 4) Gyalwa, Jina. རབ་བྱུང intr. v"
@@ -1402,6 +1430,8 @@ msgid 'procedure, application, handling; ritualistic procedures rubrics; applica
 msgstr 'Procedimiento, aplicación, manejo;Procedimientos ritualistas rúbricas;aplicación, lo que uno hace [en realidad].participar. Tomar en la mano, tradición.Syn ཕྱག་ བཞེས;práctica;participar, tomar en la mano, tradición.Syn ཕྱག་ བཞེས Aplicación, lo que uno hace [en realidad] \''
 
 # ལྔ
+msgid ' None'
+msgstr None 15
 
 # ལྟ
 msgid 'regard, consider; looking upon, to see, look at, view, seek, observe, gaze, pay attention, watch, regard, believe, should be viewed as'
@@ -1449,7 +1479,7 @@ msgstr "Meditación de información [kot = rdzogs chen equivalente de lhag mthon
 
 # ལུས
 msgid "ordinary body. body, structure, life, lost myself, \'body\'. lost, left behind, left, physical body (ordinary) body; (physical) embodiment; health; Deha"
-msgstr "Cuerpo ordinario. cuerpo, estructura, vida, me perdí, \ \'cuerpo \\'. perdido, izquierda, izquierda, cuerpo físico (ordinario) cuerpo;
+msgstr "Cuerpo ordinario. Cuerpo, estructura, vida, me perdí, \ \'cuerpo \\'. Perdido, izquierda, izquierda, cuerpo físico (ordinario) Cuerpo; (físico) encarnación; salud; deha"
 
 # ལེགས་པ
 msgid 'excellence, goodness. good, well, fine; perfectly, wholesome, antonym to ཉེས་པ goodness ཞེ་སྡང་གིས་ལེགས་པ་འཇོམས hatred vanquished his goodness'
@@ -1505,7 +1535,7 @@ msgstr '1) Refugio, protección, salvador, protector, refugio, defensa.2) p.de S
 
 # སྐྱབས་འགྲོ
 msgid "abbr. of སྐྱབས་སུ་འགྲོ་བ. 1) to take refuge, go for refuge to. 2) refuge. 3) h. practice Refuge. Taking Refuge. Placing one\'s confidence in the Precious Ones, the Three Jewels"
-msgstr "Abbr. De སྐྱབས་ སུ་ འགྲོ་ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ uct.Joyas"
+msgstr "Abbr. de སྐྱབས་ སུ་ འགྲོ་ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ uct.Joyas"
 
 # སྐྱུང
 msgid 'བསྐྱུངས་པ,་བསྐྱུང་བ,་སྐྱུངས. - 1) to throw /_cast away, fling, discard. 2) to reduce, diminish, make smaller /_lower. 3) give up, abandon'
@@ -1649,7 +1679,7 @@ msgstr 'Renunciar, renunciar, abandonar, descartar, superar, [los dos extremos] 
 
 # སྦྱིན་པ
 msgid 'donation gave them back practise of generosity རང་ནོར་ཡོངས་གཏོང་བ trans. v.; ft. of ཆོས་སྤྱོད་བཅུ; 1) to give, bestow. 2) generosity, giving, liberality, charitable, 3) distribution of gifts, charity, donation, alms, one of the ཕར་ཕྱིན་དྲུག six paramitas. giving, one of the སྦྱིན་པ 10 religious practices; Def. by Jamgön Kongtrül: སྦྱིན་པ,་བྱིན་པ,་སྦྱིན་པ,་སྦྱིན to impart'
-msgstr 'La donación les dio una práctica de generosidad རང་ ནོར་ ཡོངས་ གཏོང་ བ trans.v.;ft. de ཆོས་ སྤྱོད་ བཅུ;1) Dar, otorgar.2) Generosidad, donación, liberalidad, caritativa, 3) Distribución de obsequios, caridad, donación, limosnas, una de las ཕར་ ཕྱིན་ དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག ip.dando, una de las སྦྱིན་ པ 10 prácticas religiosas;Def.por Jamgön Kongtrül: སྦྱིན་ པ, ་ བྱིན་ པ, ་ སྦྱིན་ པ, ་ སྦྱིན སྦྱིན སྦྱིན སྦྱིན སྦྱིན སྦྱིན སྦྱིན སྦྱིན སྦྱིན སྦྱིན སྦྱིན སྦྱིན སྦྱིན ་ ་ ་ ་ ་ ་ ་ ་ ་ ་ ་ ་ ་ ་ ་ ་ ་ ་ ་ ་ སྦྱིན
+msgstr 'La donación les dio una práctica de generosidad རང་ ནོར་ ཡོངས་ གཏོང་ བ trans.v.;ft. de ཆོས་ སྤྱོད་ བཅུ;1) Dar, otorgar.2) Generosidad, donación, liberalidad, caritativa, 3) Distribución de obsequios, caridad, donación, limosna, una de las ཕར་ ཕྱིན་ དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག དྲུག ip.dando, una de las སྦྱིན་ པ 10 prácticas religiosas;Def.por Jamgön Kongtrül: སྦྱིན་ པ, ་ བྱིན་ པ, ་ སྦྱིན་ པ, ་ སྦྱིན སྦྱིན སྦྱིན སྦྱིན སྦྱིན སྦྱིན སྦྱིན སྦྱིན སྦྱིན སྦྱིན སྦྱིན སྦྱིན སྦྱིན ་ ་ ་ ་ ་ ་ ་ ་ ་ ་ ་ ་ ་ ་ ་ ་ ་ ་ ་ ་ སྦྱིན
 
 # སྦྱིན་བདག
 msgid 'alms-giver, patron, benefactor, sponsor donor, benefactor, sponsor, Skt danapati sponsor, donator, benefactor, patron, རྒྱལ་པོ ~king'
@@ -1704,6 +1734,8 @@ msgid 'after consequently later; again, later'
 msgstr 'Después de consecuencia más tarde;de nuevo más tarde'
 
 # སླུ
+msgid ' None'
+msgstr None 16
 
 # སློབ
 msgid '1) to study. 2) to teach, instruct. 3) to follow; Padmasambhava; to teach, advise trained; ex སློབ་འཇུག inspiring others to train /_be trained'
@@ -1718,6 +1750,8 @@ msgid 'someone'
 msgstr 'alguien'
 
 # སུམ་ཅུ་སོ་བདུན
+msgid ' None'
+msgstr None 17
 
 # སེམས
 msgid "cognitive act Longchenpa\'s def: ཁམས་གསུམ་པའི་གློ་བུར་བའི་དྲི་མ་ཚོགས་བརྒྱད་སེམས་བྱུང་དང་བཅས་པའོ Mind mind, \'cognitive act\', grasping mind, frame of mind, mind or soul, thought, main mind, cognitive act[s] Syn ཕུང་ཁམས་སྐྱེ་མཆེད་ཐམས་ཅད་ཀྱི་བག་ཆགས་སམ་ས་བོན་བསགས་པ་དང་སྣ་ཚོགས་ལ་དམིགས་པ་དང་དོན་ལ་སེམས་པས་ན་སེམས་སུ་བཞག་པ་གང་ཡིན་པ་དེ་ནི་ཀུན་གཞིའི་རྣམ་ཤེས་ཁོ་ན experiencing, potential for experience, general forms of experience, grasping, conceptual mind, attitude, intent; (ordinary) mind; attention; cognition, cognitive act, mind or soul, grasping mind, frame of mind, thought, main mind. Syn རྣམ་ཤེས་ཚོགས་དྲུག experiencing, potential for experience, general forms of experience, conceptual mind, attitude, intent. mind, thoughts, thought process, [chitta]; Def. by Jamgön Kongtrül: རྣམ་ཤེས་ཚོགས་དྲུག"
@@ -1736,4 +1770,6 @@ msgid 'and all the rest and other objects and so forth; etcetera, and the like, 
 msgstr 'Y todo el resto y otros objetos, etc.etcetera, y similar, o cualquier otra forma, y así sucesivamente, y otros, y el resto, y en otros lugares '
 
 # ཨ་ཐང་ཆད
+msgid ' None'
+msgstr None 18
 
