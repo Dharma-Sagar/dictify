@@ -30,6 +30,34 @@ def translate_text(text, translator, target_language):
 
 
     return "None"
+
+def source_file(definition_file_path,po_file_path):
+
+    with open(definition_file_path, "r") as input_file, open(po_file_path, "w") as output_file:
+        output_file.write("#\n")
+        output_file.write("msgid \"\"\n")
+        output_file.write("msgstr \"\"\n")
+        output_file.write("\"MIME-Version: 1.0\\n\"\n")
+        output_file.write("\"Content-Type: text/plain; charset=utf-8\\n\"\n")
+        output_file.write("\"Content-Transfer-Encoding: 8bit\\n\"\n" + '\n')
+
+        nonecount =1
+        for line in input_file:
+            line = line.strip()  # Remove leading/trailing whitespace
+
+            if line.startswith("#"):
+                output_file.write(line + '\n')
+            elif ' None' in line:
+                output_file.write('msgid None' + nonecount * "a" + '\n')
+                output_file.write('msgstr "" ' + '\n')
+                nonecount += 1
+            elif line.strip() == "":
+                output_file.write('\n')
+            else:
+                output_file.write('msgid ' + line + '\n')
+                output_file.write('msgstr "" ' + '\n')
+
+
 def translate_file(input_file_path, output_file_path,language):
 
         with open(input_file_path, "r") as input_file, open(output_file_path, "w") as output_file:
@@ -64,6 +92,8 @@ if __name__ == '__main__':
 
     #out_f_es = Path('output') / os.path.normpath("37es.po")
     #out_f_pt = Path('output') / os.path.normpath("37pt.po")
+
+    source_file("input/definitions.txt","output/37en.po")
 
     translate_file("input/definitions.txt","output/37es.po","es")
     translate_file("input/definitions.txt", "output/37pt.po","pt")
