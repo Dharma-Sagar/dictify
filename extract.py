@@ -35,7 +35,7 @@ def dictify_text(string, is_split=False, selection_yaml='data/dictionaries/dict_
         string = string.replace('\n', ' ')
         for w in string.split(' '):
             if w:
-                while w[-1]=="་": # need to add the tsek non breaking tsek and tsad
+                while w[-1]=="་" or w[-1]=="\u0F0B" or w[-1]=="\u0F0C" or w[-1]=="\u0F0D": # need to add the tsek non breaking tsek and tsad
                     w= w[:-1]
                 if w in unique_words:
                     print(w + " is duplicated",flush=True)
@@ -225,7 +225,7 @@ def preprocess_str(text):
 
 
 if __name__ == '__main__':
-    for f in Path('input').glob('*.txt'):
+    for f in Path('input').glob('37.txt'):
         dump = f.read_text(encoding='utf-8')
         out = dictify_text(dump, expandable=True)
 
