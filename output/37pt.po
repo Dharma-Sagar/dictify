@@ -70,8 +70,8 @@ msgid 'manager wrinkle'
 msgstr 'Gerente Wrinkle'
 
 # གཏན་ལ་འབེབས
-msgid ' None'
-msgstr None 1
+msgid Nonea
+msgstr No definition in Ranjung Yeshe
 
 # གཏི་མུག
 msgid 'Delusion, moha moha, ignorance; stupidity, delusion, close-mindedness, foggy-headedness, sleepy mindedness, gloom, mental darkness, [one of the three poisons མ་རིག་པ deeply /_intensely dull; དུག་གསུམ Stupidity/_lack of discernment'
@@ -90,8 +90,8 @@ msgid 'dad gtong - devoted and generous let go, pass by; 1) to start, set in mot
 msgstr 'Papai Gtong - Devotado e generoso Let Go, Passe por aqui;1) Para iniciar, desencadear, remar, linha, enviar, emitir, transmitir, despachar.2) Para deixar ir, dispensa, solte, envie 3) [substantivo +] verbaliza o significado nominal 4) para fazer '
 
 # གད་མོ
-msgid ' None'
-msgstr None 2
+msgid Noneaa
+msgstr No definition in Ranjung Yeshe
 
 # གདོད
 msgid 'adj. comp. of གདོད་མ'
@@ -174,8 +174,8 @@ msgid '(enlightened) speech so it is said (indicated direct quotation from scrip
 msgstr 'Discurso (iluminado), portanto, é dito (indicada citação direta das Escrituras);(em debate usado para indicar a opinião correta sendo defendida ou comprovada) Voz;discurso (iluminado);discurso.Buda-fala.Sond a voz, comunicação, sinfonia, substantivo.Escritos [dos antepassados de Siddha], (h) para a fala, verbo.Digamos, fale, absoluto, proferido [todas as suas palavras são] ལེགས་པར་ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ བ €comando;1) substantivo.Escritos [dos antepassados de Siddha], (h) para a fala.2) Verbo.Diga, fale, absoluto, proferido [todas as suas palavras].Somente a voz, comunicação, sinfonia, discurso de Buda.ལེགས་པར་ གསུང་ བ བ བ བ བ བ བ བ བ བ བ བ བ
 
 # གསུམ
-msgid ' None'
-msgstr None 3
+msgid Noneaaa
+msgstr No definition in Ranjung Yeshe
 
 # གསོལ
 msgid '1) to wear [a crown, etc.]. 2) to consume. 3) asked. du-gsol - I pray (that/_,).; imp. of གསོལ་བ'
@@ -194,8 +194,8 @@ msgid "1) humility, reverence, devotion [in religious contexts], respect [in sec
 msgstr "1) humildade, reverência, devoção [em contextos religiosos], respeito [em contextos seculares]. 2) para venerar, dedicar a. 3) \ \'i \\'; devoção [em contextos religiosos], respeito [em contextos seculares]; (sentir) respeito (para/_toward); གུས་ པ, ་ གུས་ པ, ་ གུས་ པ Intr. v educadamente "
 
 # གོ་འཕང
-msgid ' None'
-msgstr None 4
+msgid Noneaaaa
+msgstr No definition in Ranjung Yeshe
 
 # གོམས
 msgid '1) to be habituated, trained, made familiar with, adept, practiced, mastered, skilled, accustomed. 2) to be used to, spoiled, get adapted to, be acclimatized to. 3) familiarization, habit, skill, acquaintance, habituation, stability; skilled/_practiced in the art of/_accustomed to/_habitual; skill; accustomed to'
@@ -378,8 +378,8 @@ msgid "enemy, foe, adversary, opponent, hostiles. 2) warfare mi thub pa\'i dgra 
 msgstr "Inimigo, inimigo, adversário, oponente, hostis. 2) Warfare mi thub pa \ \'i dgra - inimigos poderosos /_unbeatable"
 
 # དགྲ་བོ
-msgid ' None'
-msgstr None 5
+msgid Noneaaaaa
+msgstr No definition in Ranjung Yeshe
 
 # དགེ་བ
 msgid 'virtue; good, happiness, welfare, happy, propitious, positive, merit, deeds, virtuous, wholesome, goodness. ལས་དགེ་བ virtuous deeds virtuous; syn ལེགས་སྤྱད་དང་གཙང་བྱེད good deeds or purifying actions'
@@ -606,8 +606,8 @@ msgid 'prison, imprisonment'
 msgstr 'Prisão, prisão'
 
 # བཞི
-msgid ' None'
-msgstr None 6
+msgid Noneaaaaaa
+msgstr No definition in Ranjung Yeshe
 
 # བཞིན
 msgid 'according to; face; in accordance with; line, as, like, similar to, face, likeness, image, verb +o. While -ing, while it is. face, countenance; verb + bzhin - progressive tense as, while གསུངས་བཞིན - as the Buddha taught}'
@@ -754,8 +754,8 @@ msgid '1) ft. of སེམས་པ to ponder, consider, plan, reflect, think. 2
 msgstr 1) ft. De སེམས་ པ Para refletir, considerar, planejar, refletir, pensar.2) Pensamento, ideação, opinião, conceito, concentração, pensamento, contemplação, lembrança, reflexão, 3) um plano, preocupação, intenção, desejos, desejos, 4) motivação, atitude 5) sentir, 6) espírito.7) mentalidades.Syn ཀུན་ སློང Tense futuro e forma secundária de སེམས་ པ;contemplação;pensamento/_tinging/_Reflection;imaginação;desejo/_goal;atitude;para pensar/_contemplate/_imagine/_reflect in;aspirações/_thoughts;reflexão [como em escutar, refletir e meditar].atitude, contemplando PF.de སེམས་ པ refletindo;x ངོ་བོ་ དལ་ བ་ བསམ་ པ refletindo sobre a natureza da liberdade '
 
 # བསལ
-msgid ' None'
-msgstr None 7
+msgid Noneaaaaaaa
+msgstr No definition in Ranjung Yeshe
 
 # བུ
 msgid 'son'
@@ -858,8 +858,8 @@ msgid "attributes, features, characteristics defining characteristics symptom, q
 msgstr "Atributos, características, características de definição de características sintomas, qualidade, \ \'mark \\' ou \ \'signo \\' (em contextos mais filosóficos); marcas, sinais, sintomas/_Shapes, peculiaridades; marca, marca distintiva, [nimitta]; ((nimitta];Característica de definição de definição; indicação; 1) Qualidade. 2) Sinal, marcas, atributos identificáveis, característica, designação, símbolo 3) simbólico, simbolicamente. 4) Omen. 5) Sintoma. 6) Atorno. 7) Marca da existência, características das característicasde substancialidade, sinais de próprio ser [sin. ?? མཚན 8) Realidade conceitual \""
 
 # མཚན་མོ
-msgid ' None'
-msgstr None 8
+msgid Noneaaaaaaaa
+msgstr No definition in Ranjung Yeshe
 
 # མཚུངས་པ
 msgid 'analogous to similar, like, equal; parallel/_analogous; congruent'
@@ -970,8 +970,8 @@ msgid "dpa\' mi zhum pa - do not lose courage ཞུམ་པ,་ཞུམ་པ
 msgstr "Dpa \ \'Mi Zhum Pa - não perca a coragem ཞུམ་ པ, ་ ཞུམ་ པ, ་ ཞུམ་ པ Intr. v. Para perder o coração, desanimar, deprimido, desânimo, hesitar"
 
 # ཞེ་འགྲས
-msgid ' None'
-msgstr None 9
+msgid Noneaaaaaaaaa
+msgstr No definition in Ranjung Yeshe
 
 # ཞེ་སྡང
 msgid 'hatred, anger, aggression, aversion. hatred; aversion hatred, anger, aggression, aversion [R] hatred, one of the three poison དུག་ག་སུམ'
@@ -1002,8 +1002,8 @@ msgid 'mist, dew, drop; dew'
 msgstr 'névoa, orvalho, gota;orvalho'
 
 # འཁྲུག
-msgid ' None'
-msgstr None 10
+msgid Noneaaaaaaaaaa
+msgstr No definition in Ranjung Yeshe
 
 # འཁྲུང
 msgid 'grow up; cone into being, be born, grow up'
@@ -1182,8 +1182,8 @@ msgid 'source, origin; mine'
 msgstr 'fonte, origem;meu'
 
 # འབར
-msgid ' None'
-msgstr None 11
+msgid Noneaaaaaaaaaaa
+msgstr No definition in Ranjung Yeshe
 
 # འབྲང
 msgid 'chase, pursue; follow rgyas bum-gzugs - full-breast vase-shape'
@@ -1206,12 +1206,12 @@ msgid "link, related, relation, connection, relationship, contact, association, 
 msgstr "Link, relacionado, relação, conexão, relacionamento, contato, associação, a estar conectado a /_to, encontro, se unir a, vinculado a, relacionado a, conectar -se a /_with, relevante \ \'pertinente /_Pertaining to, em conexão com com.
 
 # འབུར་འཇོམས
-msgid ' None'
-msgstr None 12
+msgid Noneaaaaaaaaaaaa
+msgstr No definition in Ranjung Yeshe
 
 # འབེབས
-msgid ' None'
-msgstr None 13
+msgid Noneaaaaaaaaaaaaa
+msgstr No definition in Ranjung Yeshe
 
 # འབོར
 msgid 'to lose, discard, fling away; leave'
@@ -1282,8 +1282,8 @@ msgid "circumstance, opportunity condition(s) that determine/_account/_are respo
 msgstr "Circunstância, condição (s) de oportunidade (s) que determine/_Account/_E é responsável por ... + Dang \ \'phrad tshe - assim que os maus momentos vêm (secundário) condição/_ _Conditioning Fator; circunstância; iSc. Propriedade skt. pratyaya; 1) condição, circunstância, [um cooperativo /_Contribution] Causa. 2) Adversidade, calamidade, infortúnio, acidente, acidente, ruínas circunstâncias /_luck, dificuldades. Syn སྔར་ ཐོབ་ ཐོབ་ ལུས་ ལུས་ གཞན་ གཞན གཞན གཞན གཞན གཞན གཞན གཞན་ ཐོབ་པ་ དང་ ཟིན་ པའི་ ལུས་ ལུས་ དང་ གཞན་ དུ་ འདའ་ བའི་ བྱེད་ རྒྱུ་ ཡིན་ པའི་ ཕྱིར་ རྐྱེན་ གྱི་ མཚན་ཉིད་ ཅན. 3) porque. 4) Objeto. Ver ཡུལ་ རྐྱེན. 5) Situação, oportunidade. 6) favorável, circunstância, ajuda. 7) Ocorrência, incidente, evento 8) Efeito, resultado.por causa de, evento, caso, obstáculo, obstáculo, uma circunstância feliz e favorável, promoção, fator, causa contribuinte, influência circunstancial. (Secundário) Condição/_ _ fator de condicionamento; condições secundárias (causa raiz que acompanha); causa secundária, condicionamento; circunstancial;/_creto por causas;Entre os 16 aspectos das quatro verdades: def.por Jamgön Kongtrül: རྐྱེན་ ངན "
 
 # རག་ལས
-msgid ' None'
-msgstr None 14
+msgid Noneaaaaaaaaaaaaaa
+msgstr No definition in Ranjung Yeshe
 
 # རྒྱལ་བ
 msgid "Conqueror. jina, Buddha. Buddha dgra las rgyal ba - to vanquish one\'s enemy Jina, \'Conqueror\'. Victorious One. Same as a buddha; one who has conquered over the four maras Victorious One. Same Buddha Shakyamuni Victorious ones, jina. Same as buddhas victor, victor over the four maras; victorious one; to win/_be victorious; Jina, the Victorious One, (Syn. Buddha); conqueror; 1) [jina], victorious one, victor, conqueror, all the victorious ones [in general], conqueror. an epithet for the buddhas who are - conquerors of samsara. victor over the four maras. 2) the Dalai Lama (h). 3) Jaya, [the 28\'th year of རྒྱལ་བ,་རྒྱལ་བ,་རྒྱལ་བ Male Wood Horse]. Syn ཤིང་ཕོ་རྟ 4) Gyalwa, Jina. རབ་བྱུང intr. v"
@@ -1430,8 +1430,8 @@ msgid 'procedure, application, handling; ritualistic procedures rubrics; applica
 msgstr 'Procedimento, aplicação, manuseio;Procedimentos ritualísticos rubricas;Aplicação, o que se faz [na verdade].Para se envolver. Para pegar na mão, tradição.Syn ཕྱག་ བཞེས;prática;Para se envolver, para tomar em mãos, tradição.Syn ཕྱག་ བཞེས Aplicação, o que se faz [na verdade] '
 
 # ལྔ
-msgid ' None'
-msgstr None 15
+msgid Noneaaaaaaaaaaaaaaa
+msgstr No definition in Ranjung Yeshe
 
 # ལྟ
 msgid 'regard, consider; looking upon, to see, look at, view, seek, observe, gaze, pay attention, watch, regard, believe, should be viewed as'
@@ -1734,8 +1734,8 @@ msgid 'after consequently later; again, later'
 msgstr Depois de consequentemente mais tarde;de novo mais tarde'
 
 # སླུ
-msgid ' None'
-msgstr None 16
+msgid Noneaaaaaaaaaaaaaaaa
+msgstr No definition in Ranjung Yeshe
 
 # སློབ
 msgid '1) to study. 2) to teach, instruct. 3) to follow; Padmasambhava; to teach, advise trained; ex སློབ་འཇུག inspiring others to train /_be trained'
@@ -1750,8 +1750,8 @@ msgid 'someone'
 msgstr 'alguém'
 
 # སུམ་ཅུ་སོ་བདུན
-msgid ' None'
-msgstr None 17
+msgid Noneaaaaaaaaaaaaaaaaa
+msgstr No definition in Ranjung Yeshe
 
 # སེམས
 msgid "cognitive act Longchenpa\'s def: ཁམས་གསུམ་པའི་གློ་བུར་བའི་དྲི་མ་ཚོགས་བརྒྱད་སེམས་བྱུང་དང་བཅས་པའོ Mind mind, \'cognitive act\', grasping mind, frame of mind, mind or soul, thought, main mind, cognitive act[s] Syn ཕུང་ཁམས་སྐྱེ་མཆེད་ཐམས་ཅད་ཀྱི་བག་ཆགས་སམ་ས་བོན་བསགས་པ་དང་སྣ་ཚོགས་ལ་དམིགས་པ་དང་དོན་ལ་སེམས་པས་ན་སེམས་སུ་བཞག་པ་གང་ཡིན་པ་དེ་ནི་ཀུན་གཞིའི་རྣམ་ཤེས་ཁོ་ན experiencing, potential for experience, general forms of experience, grasping, conceptual mind, attitude, intent; (ordinary) mind; attention; cognition, cognitive act, mind or soul, grasping mind, frame of mind, thought, main mind. Syn རྣམ་ཤེས་ཚོགས་དྲུག experiencing, potential for experience, general forms of experience, conceptual mind, attitude, intent. mind, thoughts, thought process, [chitta]; Def. by Jamgön Kongtrül: རྣམ་ཤེས་ཚོགས་དྲུག"
@@ -1770,6 +1770,6 @@ msgid 'and all the rest and other objects and so forth; etcetera, and the like, 
 msgstr 'E todo o resto e outros objetos e assim por diante;etcetera, e similares, ou de qualquer outra maneira, e assim por diante, e outros, e o resto, e em outros lugares '
 
 # ཨ་ཐང་ཆད
-msgid ' None'
-msgstr None 18
+msgid Noneaaaaaaaaaaaaaaaaaa
+msgstr No definition in Ranjung Yeshe
 
