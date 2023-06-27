@@ -1,0 +1,1775 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# ཀུན
+msgid '1) all, entire, every, everyone, everything, everywhere, ever-omni, each, whole, round about, wholly, thoroughly. 2) abbr. of ཀུན་ཏུ'
+msgstr "" 
+
+# ཀུན་རྫོབ
+msgid 'samvrita 1) relative, conventional, superficial, apparent, concealing, conditional, mundane, worldly convention, all-veiled, obscured; relative level, convention. 2) [short for ཀུན་རྫོབ་བདེན་པ] conventional truth, relative reality'
+msgstr "" 
+
+# ཁྱད་གསོད
+msgid 'contempt; x ང་རྒྱལ་དང་ཁྱད་གསོད་སྤང be free of pride and contempt ཁྱད་དུ་གསད་པ- to contradict, do the contrary/_to despise/_to ignore, scorn, disdain, disregard, belittle; unappreciative, disparaging, derogatory; -གཞན་ཁྱད་གསོད་བྱེད་པ, གཏོང 1) to ignore, to disregard, disrespect. 2) to belittle, to look down upon, to treat with contempt /_disrespect, disdain, scorned, insult. 3) བྱེད undermining others. See ཁྱད་དུ་བསད་པ'
+msgstr "" 
+
+# ཁྱབ
+msgid '1) vi. to spread, become widespread /_popular, spread over [all beings], spread everywhere, encompass, pervade, fill, cover, be filled, be present throughout, be pervasive, be popular. 2) it follows that, it must be, it necessarily follows. 3) to conclude [used in logic]. 4) entail, embrace [by reason]. 5) ཡིན་པ,་ཡོད་པ + --) indicates that a statement necessarily follows from a preceding conditional clause. 6) pervasion. 7) universal, invariable [concomitance between the middle term and the major term of the syllogism]. 8) to permeate'
+msgstr "" 
+
+# ཁྱིམ
+msgid 'dwelling place household; 1) the zodiac, a sign of the zodiac. 2) household. house, residence, home. 3) family'
+msgstr "" 
+
+# ཁྱེར
+msgid 'imp. of འཁྱེར་བ; carry off/_to take; 1) imp. of འཁྱེར་བ. 2) houses and walls. 3) roof. 4) carry, to bring. 5) handful'
+msgstr "" 
+
+# ཁེངས་པ
+msgid 'arrogance; ཁེངས་པར་འགྱུར་བ to become arrogant pf. of ཁེང་བ; 1) to be inflated, bloated, puffed up, become arrogant, boast of. 2) full, filled up; to fill up, become filled with. 3) arrogance; pride, selfishness, haughtiness, conceit. 4) to become solid, solidify to fill up/_become filled with'
+msgstr "" 
+
+# གང
+msgid "a; མར་རྒྱ་མ་གང a pound of butter བཀང་བ to fill (up) /_ci yang ma grub pa - not (found) to have ever existed/_had existence/_been anything/_any \'thing\' whatsoever/_at all (interrogative particle) who/_what/_which?; any . . . ; s/_he who . . . [+verb] - whatever . . . ; regardless of what . . . whatever what, which, who, where; what, whatever; 1) the one, someone. 2) that which. 3) what. 4) vi. to be filled up, to be full. 5) one, full, complete. 6) [+ adj. comp.] as. as possible. 7) full, covered. 6. on, upon. 8) who? which? however, what, how, etc.; full; whoever"
+msgstr "" 
+
+# གང་ཞིག
+msgid "1) the one, those, that, whoever, the one who, which, certain, specific, given; whatever; who(so)ever. 2) \'how will...?\' [interrogative]"
+msgstr "" 
+
+# གང་ཟག
+msgid 'pudgala 1) person, individual, man. 2) spiritual teacher /_master. 3) accomplished Hinayana practitioner; individual ego or self; Def: ཟག Full (the mind is filled with passions); གང Fall down (because of passions beings fall down into samsara); person, (ordinary) individual; man, a person, individual, personality'
+msgstr "" 
+
+# གཅིག
+msgid "གཅིག་པོ one/_single one, oneness [ggd] one, single, unique, single state, singularity, \'eka\' Skt.; 1) singular, one, one and the same. 2) something. 3) unity, partless, unitary. གཅིག་ཀྱང་མེད not even a single one; one/_single the sole; single"
+msgstr "" 
+
+# གཅེས་པ
+msgid 'essential essentials གཅེས་པ,་གཅེས་པ,་གཅེས་པ trans. v.; dear, beloved; 1) dear, beloved, treasured, cherished, precious, beloved. 2) loving. 2) important, essential (to be) essential/_important/_crucial/_valuable'
+msgstr "" 
+
+# གཅོད
+msgid "Chod, Cutting, to cut through /_off, cleave. p. གཅད fut. བཅད to cut, break, chop off, cut off, destroy, fell, split, chop, hew down; Chod, Cutting, to cut through /_off, cleave. p. གཅད f. བཅད to cut, break, chop off, cut off, destroy, fell, split, chop, hew down; Chod Chö. Literally \'cutting.\' A system of practices based on Prajnaparamita and set down by the Indian siddha Phadampa Sangye and the Tibetan female teacher Machig Labdrön for the purpose of cutting through the four Maras and ego-clinging. One of the Eight Practice Lineages of Buddhism in Tibet"
+msgstr "" 
+
+# གཉེན
+msgid '1) companion, friend, relative, kinsman; relatives. 2) གཉེན་པོ relatives ཤའཀྱ་འདི་རྣམས་ངའི་གཉེན་ཡིན་པ the Sakyans are my people, my relatives'
+msgstr "" 
+
+# གཉེན་པོ
+msgid '[Skt] pratipaksha: remedy, antidote; antidotal technique/_corrective measure, cure; opponent, counteragent, antithesis, factors discordant to'
+msgstr "" 
+
+# གཉེར
+msgid 'manager wrinkle'
+msgstr "" 
+
+# གཏན་ལ་འབེབས
+msgid Nonea
+msgstr "" 
+
+# གཏི་མུག
+msgid 'Delusion, moha moha, ignorance; stupidity, delusion, close-mindedness, foggy-headedness, sleepy mindedness, gloom, mental darkness, [one of the three poisons མ་རིག་པ deeply /_intensely dull; དུག་གསུམ Stupidity/_lack of discernment'
+msgstr "" 
+
+# གཏིང
+msgid 'depth; 1) bottom, depths, deepness, underneath. 2) to lay out, spread out. 3) treasure'
+msgstr "" 
+
+# གཏེར
+msgid "Ter. see terma treasure, rediscovered treasure, \'terma\', mine, ore, mineral deposits; treasure; \'terma\'; mine, ore, mineral deposit wealth"
+msgstr "" 
+
+# གཏོང
+msgid 'dad gtong - devoted and generous let go, pass by; 1) to start, set in motion, to paddle, row, to send out, issue, transmit, dispatch. 2) to let go, dismiss, set loose, send 3) [noun +] verbalizes nominal meaning 4) to make'
+msgstr "" 
+
+# གད་མོ
+msgid Noneaa
+msgstr "" 
+
+# གདོད
+msgid 'adj. comp. of གདོད་མ'
+msgstr "" 
+
+# གདོན
+msgid 'dön. A negative force; a type of evil spirit evil spirits evil spirits; nad gdon - disease and evil spirits malevolent influence; demon, demonic /_negative force, harmful /_evil spirit /_influence, madness. འདོན; demon/_certainty; a demon'
+msgstr "" 
+
+# གནས
+msgid "1) place; 2) location, site, land; 3) holy /_sacred place/_ground, place of pilgrimage/_power; 4) part of a clothing rack; 5) basis, object [of a joke]; 6) lama, master གནས་ཀྱི་སློབ་མ; 7) number; 8) star gnas: chu tshod nas cha shas bar gyi gnas rnams, Dbyu gu\'i gnas; 9) exist[ence], be [present, subsist[ence; 10) abide; 11) stay, remain, endure, duration; 12) [come to] rest; 13) dwell, reside, live; 14) abode, domain, realm; 15) situation, [abiding] state; 16) subject, topic, chapter, section, point; 17) be still, stillness, tranquility; 18) stability, stable abiding (19 state of being (20 lifetime (21 establishing oneself (22 adherence (23 standpoint (24 subside (25 be placed (26 living on * (27 cost [R] 1) place, realm, site, abiding, domain, land, location, abode, environment, locale; 2) to exist, to be, live, stay, establish oneself, come to rest, rest, reside, live on, remain, be, exist, be present, abide, subsist, endure, rest on, stay, subside, be placed, dwell, be still, come to rest, be founded. 3) sacred ground, holy place, place of pilgrimage, power place, sacred /_holy place /_ground, holy site. 4) stillness, place of rest, stability, stable abiding, tranquility. 5) point, topic, subject, section, object, chapter, point, ground, basis, standpoint, act. 6) ground, state of being, existence, subsistence, abiding, situation, lifetime, state, state (of rebirth). གནས,་ཡུལ,་ཤེས་རྒྱུ,་གཞི are all synonyms and mean basis dwellings live; x བཙུན་མོ་སྟོང་ཕྲག་དྲུག་ཅུ་དང་བཅས་གནས་སོ lived with sixty thousand wives"
+msgstr "" 
+
+# གནས་ལུགས
+msgid 'basic state fact, reality fundamental nature Natural State, natural condition; fundamental nature (of reality); abiding nature [of reality]. the nature of the buddha body of reality. circumstances, condition, situation, fundamental nature, mode of being, natural condition /_state, mode of being, natural situation, natural state, things as they are, news, ontological status, the actual condition of existing, situation, principle, truth, the natural state, mode of subsistence, the basic condition; nature. See also Syn སེམས་ཀྱི་+. Ex. ཡིན་ལུགས,་གནས་ཚུལ the nature of mind'
+msgstr "" 
+
+# གནས་སྐབས
+msgid 'context, situation, condition, circumstance; at the time, degree, for the time being, occasion, time, phases, at present, temporal, secondary, temporary, incidental, state, provisional occasion phases situation; circumstances; isc. ordinaary pattern temporary/_short term; situation/_state/_circumstances; (in) the meantime'
+msgstr "" 
+
+# གནོད
+msgid '1) harm, injury, damage. 2) Syn གནོད་སྐྱེལ; harmful'
+msgstr "" 
+
+# ཡང་ན
+msgid 'alternatively either, or, or else; alternatively; moreover/_(once) again; either. or; alternately; either, or/_and'
+msgstr "" 
+
+# གཞན
+msgid 'in addition other other, the other, another; other; incidental; people someone'
+msgstr "" 
+
+# གཞན་དག
+msgid 'an alternate another; anything else other; others'
+msgstr "" 
+
+# གཞན་ཕན
+msgid 'Altruism benefiting others benevolence'
+msgstr "" 
+
+# གཟིགས
+msgid 'consider; 1) [(h).]. to see, fathom, gaze, look, watch, regard, understand, observe, perceive, witness, behold. 2) [(h).]. to buy. 3) to study. 4) to care for. 5) witnessing, fathom, care for, look upon'
+msgstr "" 
+
+# གཟུགས
+msgid "form material substances matter [ggd] recollection, recollecting power, retention, substance, appearance, \'form\'. sight objects, metaphor [in poetics]. image, figure, body, [visible /_physical] form, form skandha, form-body, rupakaya. one of the མིག་གི་ཡུལ the five aggregates /_skandhas. object for the organ of sight ཕུང་པོ་ལྔ statue. [dharani]. long sacred verbal formula. (visual) form; material form, solid forms"
+msgstr "" 
+
+# གཟུགས་མེད
+msgid 'formless. Syn གཟུགས་མེད་ཁམས་ཀྱི་ལྷ immaterial'
+msgstr "" 
+
+# གཡེལ
+msgid 'carelessness, idle'
+msgstr "" 
+
+# གཡོ
+msgid 'animate hypocrisy, as one of the twenty sub-disturbances; གཡོས 1) to flow /_drift /_move about, wandering. 2) dishonesty, cunning, deceitfulness, deception, dissimulation, craft, cheat, hypocrisy. 3) tremble, shake, shiver, wave, waver, unsteady, moving, agitated quake. 4) blown [by the wind] རང་གི་ཉེས་པ་མཐོང་ཐོས་སུ་གྱུར་པ་གཞན་ལ་སྒྱུར་བ; Wavering; deceit, dishonesty wavering. craft, cunning, deceit, dishonesty, dissimulation'
+msgstr "" 
+
+# གྲགས
+msgid 'rumor, report/_to hear of; to resound; 1) illustrious, renowned. 2) fame, renown, honor, grace, acknowledgment. 3) vi. to be known as, ཡོངས་གྲགས་པ widely famed'
+msgstr "" 
+
+# གྲུ
+msgid 'ship; sail boat; 1) boat, ferry, ship, sea-going vessel. 2) angle, corner'
+msgstr "" 
+
+# གྲོགས་པོ
+msgid '[male] friend, companion'
+msgstr "" 
+
+# གླེང
+msgid 'conversation, talk, discussion. དོན་མེད་གླེང་མོ discussion, གསུང་གླེང meaningless chatter'
+msgstr "" 
+
+# གསུང
+msgid '(enlightened) speech so it is said (indicated direct quotation from scripture); (in debate used to indicate correct opinion being defended or proven) voice; (enlightened) speech; speech. buddha-speech. sound the voice, communication, symphony, noun. writings [of the siddha forefathers], (h) for speech, verb. say, speak, utter, uttered [all your words are] ལེགས་པར་གསུང་བ well-uttered; command; 1) noun. writings [of the siddha forefathers], (h) for speech. 2) verb. say, speak, utter, uttered [all your words are]. sound the voice, communication, symphony, buddha speech. ལེགས་པར་གསུང་བ well-uttered'
+msgstr "" 
+
+# གསུམ
+msgid Noneaaa
+msgstr "" 
+
+# གསོལ
+msgid '1) to wear [a crown, etc.]. 2) to consume. 3) asked. du-gsol - I pray (that/_,).; imp. of གསོལ་བ'
+msgstr "" 
+
+# གི
+msgid '1) genitive particle. Syn ང but used after final ག and ཀྱི, the present life [with no regard to what happens in the future. 2) verbal particle indicating non-past'
+msgstr "" 
+
+# གིས
+msgid '(verb) + gis - though/_while. Syn ང [used after final ག and ཀྱིས. 2) ! [imperative]'
+msgstr "" 
+
+# གུས་པ
+msgid "1) humility, reverence, devotion [in religious contexts], respect [in secular contexts]. 2) to venerate, dedicate to. 3) \'I\'; devotion [in religious contexts], respect [in secular contexts]; (to feel) respect (for/_toward); གུས་པ,་གུས་པ,་གུས་པ intr. v politely"
+msgstr "" 
+
+# གོ་འཕང
+msgid Noneaaaa
+msgstr "" 
+
+# གོམས
+msgid '1) to be habituated, trained, made familiar with, adept, practiced, mastered, skilled, accustomed. 2) to be used to, spoiled, get adapted to, be acclimatized to. 3) familiarization, habit, skill, acquaintance, habituation, stability; skilled/_practiced in the art of/_accustomed to/_habitual; skill; accustomed to'
+msgstr "" 
+
+# ང་རྒྱལ
+msgid "1) pride, egocentric pride, arrogance, conceit, egocentricity, egotism, one of འཇིག་ཚོགས་ལ་ལྟ་བ་ལ་བརྟེན་ནས་ཁེངས་པའི་རྣམ་པ་ཅན་གྱི་སེམས་གཟེངས་མཐོ་བ. 2) the I-principle, literally \'I-king,\'. pride; assurance; Def. by Jamgön Kongtrül: རང་དང་ཡོན་ཏན་མཚུངས་པ་ལ་མཚུངས་སོ་སྙམ་དུ་སེམས་ཁེངས་པ /_རྩ་ཉོན་དྲུག"
+msgstr "" 
+
+# ངང
+msgid "1) continuity, continuum, continuous state, ongoing state, dimension, condition, state, nature, the very nature. 2) sphere, space, vastness, realm, spacious, expanse. Syn ངང་གིས, ངང་རྒྱུད. 3) nominal adverbializer: \'in the manner of\', \'in the state of\'. 4) ངང་ཚུལ. 5) goose, swan. Syn སྟོང་པའི་ངང་ལས. 6) within, while; situation. Syn དེའི་ངང་དུ, ངང་དུ, ངང་ལ Å ངང་ནས, within that; Å ངང་པ from within emptiness. 7) temperament Syn རང་གི་ངང དབྱིངས, disposition, nature, character; idiocrasy. 8) Abbr. of ཀློང . . . (gi) ngang (la) skyong/_bskyang ba - to maintain (the) continuity (of . . . ) ངང་ཚུལ sphere/_context; fundamental nature/_state of affairs/_process; situation; isc. ramification; isc. the fact that . . . scope (for rig pa\'i ngang, \'scope of awareness\'); (true) state/_context; fundamental nature/_state; isc. continuity; isc. embrace; isc. natural state; isc. while . . . ; is(vf)c. quality"
+msgstr "" 
+
+# ངན་པ
+msgid 'base, vile evil, miserable, mean, bad, unwholesome, ugly, awful, poor, humble, low, terrible, ignoble negative'
+msgstr "" 
+
+# ངན་སོང
+msgid "evil rebirths, lower rebirths Lower realms. The three abodes of hell beings, hungry ghosts and animals lower state of existence lower (state of) rebirth; evil destiny; lower existences; \'lower realms\', evil destiny, evil existences /_lower states, bad states of being. Creatures of the three lower realms; evil destinies of rebirth, \'durgati\' Skt"
+msgstr "" 
+
+# ངེས་ཤེས
+msgid 'a judgment, ascertaining consciousness [ggd] ascertaining consciousness certainty/_certain knowledge; conviction, ascertaining consciousness, determinate awareness, certain knowledge, certainty, confidence, conviction, ascertainment, dignity, confidence; conviction, faith; assurance, factuality, conclusiveness, reliability, undeniability, truth, actuality, unimpeachability, indisputability, ascertaining consciousness unquestionability, unequivocal, unconditioned. ཐག་ཆོད་པའི་ངེས་ཤེས decisive conviction'
+msgstr "" 
+
+# ཅན
+msgid '1) endowed, imbued with; to have, be provided with, possess, be possessed of, be present. 2) possessor. 3) involving ..'
+msgstr "" 
+
+# ཅི
+msgid '1) what, which. 2) how, why. 3) as much as, as good as, as many as, whatever the adj. 4) whatever. 5) no. 35 in numbering as best I could, trying their best why དགའ་བོ་མྱུར་བར་འགྲོ་བ་ཅི Nanda, why go so quickly?'
+msgstr "" 
+
+# ཅི་ཞིག
+msgid 'any, at some point; what, whatever. Syn གང་འདྲ་ཞིག, གང་ཞིག. mi ci zhig/_rgyu mtshan ci zhig/_dgos pa ci zhig yod/_don snying ci zhig yin/_las ka ci zhig bya/'
+msgstr "" 
+
+# ཅི་འདྲ
+msgid 'Syn གང་འདྲ'
+msgstr "" 
+
+# ཅིང
+msgid 'when, after, as, and, bound. Syn ཞིང [used after final g, d, and b]'
+msgstr "" 
+
+# ཅུང་ཟད
+msgid 'a tiny bit; 1) brief, a bit, a small amount, a little, a few, slightly, trifle. 2) rather, somewhat; brief; a little; some small measure of in brief + neg - not quite [ggd]'
+msgstr "" 
+
+# ཆགས་པ
+msgid 'ཞི་ཞིང་ཆགས་པ intr. v.; 1) to be attached, desire; attachment; passion, lust, desire, craving for; the desirous one [who is experiencing desire]. 2) creation, arising, evolution; (phase of) formation; to be begotten, produced, to form/_evolve; formed, produced/_arise, come forth. 3) dignified ཆགས་པ,་ཆགས་པ,་ཆགས་པ peaceful and dignified; 4) pollution མ་ཆགས་པའི་སྔོན་རོལ་དུ before our kalpa arose to be attracted to, love; draws it to, seduced, lured to become, turn into'
+msgstr "" 
+
+# ཆུ
+msgid "1) water. 2) river, spring, fountain etc 1) water ..Khron chu,...Rgyug chu,...Rngul chu,...Sna chu,...Chu gtor ba,...Chu len pa,...Chu bshang ba,...ཆུ་བཤོས་པ Chu\'i gzegs ma,...Chu\'i zer,...(2 river...Skyid chu,...\'Bri chu,...Rma chu,...Chu mi rgyas thabs med char gyis ded,...Chu pha ri tshur ri [= sgo kun \'gro dang, ngan sel, nyal \'gro, btung bya, thur \'gro, dag byed, \'bru phan] three urine [Chu rtags]; 4) Dkyus sam srid,...Chu zheng,... water, river, spring, fountain, rain"
+msgstr "" 
+
+# ཆུང
+msgid 'adj. comp. of ཆུང་ཆུང, small, weak'
+msgstr "" 
+
+# ཆུང་ངུ
+msgid 'a youth. Syn ཆུང་ཆུང, small, little, the lower'
+msgstr "" 
+
+# ཆེན་པོ
+msgid "1) strong, great, large, big, superior, supreme, immense, massive, tremendous, noble, intense, wide, vast, numerous. 2) \'the Great One\'; great principle; highest (level)"
+msgstr "" 
+
+# ཆོས
+msgid '1) Dharma, reality 2) dharmas, phenomena 3) Dharma, the teaching of the Buddha; 1) dharma, phenomenon, thing, existent, [a truly real predicate, event, entity, element or ultimate constituent of existence]. 2) Dharma, [the Precious Dharma with eight qualities]. Religion. 3) the Dharma, the Teachings, the Doctrine. 4) quality, attribute, property, characteristic, ability. 5) a teaching, doctrine, text, scripture, sacred text. 6) right, virtue, duty, moral law, tenet, precept. 7) truth, order, law. 8) practice, dharma -, religious. 9) mental object, dharma. 10) religion, religious system, way of belief. 11) topic, point, principle. 12) meaning, value, sense, meaning, worth; content. 13) ex. +འཆོས་པ, +དོན་ཆོས་གོ་བར་བྱེད་པའི་གཞི, +ཕྱག་རྒྱ་བཞི, to preach, give religious teaching, +འཆའ, to hear, listen to religious teaching, +འཆོས, to practice religion, live a religious life, +ཞུ, to receive religious instruction, t seek, ask for religious teaching. imp. of བྱེད, and ཉན, 14) mind objects, 5 of 16 aspects of the 4 holy truths. one of the སྨྲ, four mudras; phenomenon; factor/_element; property/_quality/_attribute; spiritual teaching/_Buddhadharma/_dharma; ཤོད imp. of འཆད; events; can that which has [certain] qualities or attributes, subject [in logic context]. phenomenon, phenomena, Dharma, teachings བསྒྲུབ་བྱའི་ཆོས conclusion [to be proven in logic] phenomena, (snang ba). Anything that can be experienced, thought of, or known phenomenon; factor/_element; property/_quality/_attribute/_aspect; spiritual teaching/_Buddhadharma/_dharma/_teaching of the Buddha; idea (mental phenomenon/_event); (spiritual) situation/_circumstances; isc. principle/_tenet predicate of a subject དོན་ཆོས [in logic]; property [as in བློ་ཆོས mental property and ཆོས་ཅན real property] [ggd]'
+msgstr "" 
+
+# ཆོས་པ
+msgid 'practitioner, Dharma person, person who is very religious practitioners'
+msgstr "" 
+
+# ཇི་བཞིན་དུ
+msgid 'exactly, as, just like, actual; in the way, manner'
+msgstr "" 
+
+# ཇི་ཙམ
+msgid "1) how much, how many, however much/_many, as many; + [verb] kyang - no matter how much. 2) often used in an interrogative sense. གནས་ལུགས་ཇི་ཙམ་ཁོང་དུ་ཆུད་ན་དེ་ཙམ་དུ་ཡིད་ཆེས་ཆེ་བ་ཡོང Å དུས་ཡུན་ཇི་ཙམ་དུ་སློབ་སྦྱོང་བྱ་པ་ཡིན How long did you study? Å ག་ཚོད་དམ། ཚད་གང་ཙམ, \'To the extent that [one] understands the nature of things (gnas lugs), to that extent [his or her] confidence/_faith will grow (che ba yong). Å lam thag ji tsam thung yang ma phyin na \'byor mi srid, However short the path, if you do not traverse it, you will not arrive [at your destination]. Å spus dag gzhir bzhag thog las ka\'i myur tshad ji tsam mgyogs pa de tsam du legs, Having put quality first/_Having made quality fundamental, however fast you work is fine. Å ji tsam ji tsam du yul rnams ches shes che ba de tsam de tsam du \'dod chags kyang ches shes che bar \'gyur. however རང་ལ་མོས་གུས་མེད་ན་བླ་མ་ཇི་ཙམ་བཟང་ཡང if you lack devotion, however perfect the teacher may be"
+msgstr "" 
+
+# ཇི་ལྟར
+msgid '1) as, like, just as, how, in what way, like what. 2) however, in any case, anyway. Syn ཇི་འདྲ exactly, as, just like, actual. Syn ཇི་བཞིན how; regardless of how however; regardless of how . . . ཇི་ལྟར་.་.་དེ་ལྟར regardless of how . . . as they seem/_at the same time [play by ear] whatever བླ་མས་ཇི་ལྟར་བསྟན་པའི་ཆོས་ཐམས་ཅད whatever teachings the lama gives'
+msgstr "" 
+
+# ཉན
+msgid 'གཞན་གྱིས་རིག་ན་མི་ཉན no good would come of it if people found out obey; study; study; able to; 1) Abbr. of ཉན་ཐོས. 2) Abbr. of ཉན་པ sgrub mi nyan bsam pa - to decide to desist from doing x དེ་ལྟར་ཉན་ནས་ཀྱང after you have listened properly to a teaching in this way'
+msgstr "" 
+
+# ཉན་རང
+msgid 'shravakas and pratyeka-buddhas, abbr. of རང་སངས་རྒྱས, ཉན་ཐོས'
+msgstr "" 
+
+# ཉམས
+msgid "1) [meditative /_temporary] experience, meditation-moods [experiential sign of the development of practice]. 2) vision. 3) Abbr. of ཉམས་པ 4) imposing air /_presence /_dignity, haughty, arrogant. 5) elegance, charm, handsome, elegant. 6) thought, mind, spirit. 7) impairment, impairment, sentiment [in dramatic arts]. thought, experiential sign of the development of practice, experiences, withered; experience, meditation experience; violate, damage, deteriorate, weaken [in context of vows and commitments] debased ephemeral meditative experience; fleeting experience experience must endure nga\'i nyams la bltas na + tshod red - I feel that ཉམས་ཀྱི་སྣང་བ visions of (ephemeral) (meditative) experience Temporary experiences"
+msgstr "" 
+
+# ཉམས་ལེན
+msgid "ཉམས་སུ་ལེན་པ to apply/_implement/_(put into) practice; to incorporate into (one\'s) experience; practice/_practical application practice, practice; 1) [spiritual] practice, practice [as opposed to theory], application. 2) to experience; practice; to practice"
+msgstr "" 
+
+# ཉིད
+msgid '1) -ness, [used to form abstract nouns. 2) it, itself, the very, the same, namely, just, exactly. 3) self, itself, oneself, himself, herself, yourself. 4) nature. 5) as soon as; ness; (the thing) itself/_selfsame; in fact; himself, itself; you; himself, herself, itself, myself; very, same'
+msgstr "" 
+
+# ཉིན
+msgid 'daytime; day'
+msgstr "" 
+
+# ཉེས་པ
+msgid 'detriment ཉེས་པ་མ་བཟོད་པ unable to bear the consequences of mistakes ཉེས་པ,་ཉེས་པ,་ཉེས་པ intr. v.; 1) wrong doing [short meal chant], evils blames, evil, bad, blemish, offensive, fault, objection, violate samayas. wrong or noxious; fault; a fault to beat, hit; Syn བརྡུངས'
+msgstr "" 
+
+# ཉོན་མོངས
+msgid "klesha 1) disturbed, weary/_troubled/_miserable; turbulent. 2) disturbing emotions, negative emotion. passions, affliction, emotionality, delusion, affect, bad thought, conflicting emotions, fettering passions; [something that is difficult which muddies the stream of awareness], hardship; Def: sems kyi rgyu\'am byed pa ma zhi ba Skt. kleshas. Emotions, conflicting/_negative/_obscuring"
+msgstr "" 
+
+# ཐབས
+msgid "1) method, way, skillful means, [liberative] technique, expedient method, skillful expedient device. 2) together, བྱ་ཐབས་རྙེད together with. 3) abrupt, abruptly ནག་ཐབས་ཐིབས 4) way, མེད་ཐབས་མེད་པ no way without, indispensable. 5) [about color] བཙན་ཐབས 6) opportunity, དང་ཐབས་གཅིག to find an opportunity for action. 7) [upaya], expediency, ingenuity. means, skillfulness; way; Means, Skillful Means, method, Upaya 1) method, way, skillful means, [liberative] technique, expedient method, skillful expedient device/_method(s); 2) together, upaya [sgyu thabs, btsan thabs . tshul dang, cho ga\'am lugs sam, srol,...\'Tso thabs,...Sgrub thabs,...Las ka byed thabs,...Gzhan du \'gro thabs med,...Rtsis kyi snon \'phri sgyur bgod de thabs bzhi,...Stag bzhon nas gzhol thabs med pa,...Mi\'i rgyu nor thabs kyis len pa,...Mgron thabs su spyan drangs] Methods"
+msgstr "" 
+
+# ཐམས་ཅད
+msgid 'everyone the entire whole, all, everything, everybody; everyone'
+msgstr "" 
+
+# ཐར་པ
+msgid '1) liberation, nirvana, free from the lower realms /_samsara, release, freedom, emancipation, deliverance. 2) to be free [so that] I free myself [from the lower realms], རྣམ་པར་ཐར་པ, ཚོད་མ [vimoksha /_moksha]. 3) to escape Liberation. Emancipation from samsaric existence རང་ཉིད་གཅིག་པུ་ཐར་པ setting yourself free'
+msgstr "" 
+
+# ཐུབ་པ
+msgid "1) (Tha mi dad pa) able to deal w/_withstand,, be a match for [Ngan dgu thub pa.Nyon mongs thub pa.Ras rkyang thub pa.Chu thub pa.Me thub pa.Dug gis mi thub pa]; 2) Muni, sage, [cap]able/_wise 1, buddha [sgo gsum mi dge ba dang nyon mongs pa las yang dag par bsdams pa]; 3) conquerer, Victors, get the better of; 4) 7 [Rnam gzigs dang, gtsug tor can, thams cad skyob, \'khor ba \'jig gser thub, \'od srung, sh\'akya thub pa ste thub pa la bdun yod pas grangs bdun mtson]; 3) be able to [Dgra bo \'joms thub pa.Grogs po la btsan gnod byung tse rang nyid ltad mo lta ba ltar logs su sdod mi thub] [Tse] the Buddha the Capable One ཕོད་པ intr. v.; to withstand; Muni, Sage, able [from the Buddha\'s name]. wise man, Muni [Syn buddha]. lit. one who is capable, a synonym for the buddhas. Syn སངས་རྒྱས the Victors. to withstand. Syn ཐུབ་པ,་ཐུབ་པ,་ཐུབ་པ to get the better of, to be able to cope with, to be a match for. the capable one; able to control, subdue; able to be able, to withstand. Syn ཕོད་པ"
+msgstr "" 
+
+# ཐུལ
+msgid 'tame, convert/_an animal skin garment; Subdue! [imp], tamed, egg, spontaneous, tame; imp. of འདུལ་བ'
+msgstr "" 
+
+# ཐེག་པ
+msgid "1) (Tha mi dad pa) [having lifted] tolerate, bear, go [Skyid theg sdug theg; Nad pas nad theg kyang, aem chis nad mi theg ...Mis mi theg pa gtam dang, chus mi theg pa rdo. Lag pas mi theg so yis mi chod]; 2) riding beast, vehicle, carriage, [Rta\'i theg pa la zhon pa.Theg pa stong phrag bshams nas stobs shugs ston pa]; 3) path and means to, \'that which leads/_carries\' [Skt] yana, spiritual pursuit, approach to/_vehicle of the teaching, [tse] 1) vehicle; way, yana; spiritual approach; spiritual pursuit, approach to the teaching, Def. by Jamgön Kongtrül: མི་འདོད་རྐྱེན་ངན་ཐེག་པ. 2) མི་ཐེག་པའི་ཁལ་མ་འགེལ intr. v.; to bear, carry, transit, be able to endure, lift. 3) vehicle, carriage, riding-beast, that which leads /_carries, support, carry, lift; ex. ཐེག་པ,་ཐེག་པ,་ཐེག་པ don\'t overburden [animals]; ex. ཐེག་པ་ཞེས་པ་ཁུར་དང་ལྡན་པའི་གླང་པོ་ཆེ་སོགས་ལ་གྲགས་པ་ཡང་ཁུར་ཁྱེར་ནས་བགྲོད་པར་བྱ་བའི་དོན་གྱིས་ཡིན་ལ། དེ་བཞིན་དུ་རང་དང་གཞན་དོན་གྱི་ཁུར་ཁྱེར་ནས་གོ་འཕང་མཆོག་ཏུ་བགྲོད་པར་བྱེད་པས་ཐེག་པ་ཞེས་པར་བཞག་ཅིང། དེའང་འདིས་བགྲོད་པ་རྒྱུ་ལམ་དང་འདིར་བགྲོད་པ་འབྲས་བུའི་ཐེག་པ་ཞེས་དང། རང་གཞན་གཉིས་ཀའི་དོན་སོགས་ཁུར་ཆེན་པོ་དང་ལྡན་པས་ཐེག་ཆེན་དང། རང་དོན་འབ་ཞིག་པའི་ཁུར་ཆུང་ངུ་དང་ལྡན་པས་ཐེག་དམན་དུ་བཞག་པ be able to endure adverse circumstances mi theg pa - cannot bear [to be scolded] མི་ཐེག་པ་མེད་པ nothing that we cannot bear spiritual way to bear Vehicle. The practice of a set of teachings which \'carries\' one to the level of fruition. In Buddhism there are mainly three vehicles: Hinayana, Mahayana and Vajrayana yana. \'That which carries,\' \'vehicle.\' A set of teachings which enable one to journey towards rebirth in the higher realms, liberation from samsara or complete buddhahood"
+msgstr "" 
+
+# ཐོག་མ
+msgid "At first, beginning, primordial, original, initially, at first, what is uppermost, the upper end, the uppermost place, origin; first/_beginning; fundamental; at first, initially [\'go gsar du \'dzugs skabs dang, snga shos kyi skabs mtshams.Dang thog ...Rten \'brel gyi thog ma bkra shis yin.Gtam gleng ba\'i thog mar \'dzum mdangs ston [= \'go ma dang, snga ba, sngon ma, dang po, rtsom byed] beginning, primordial, origin, initially, at 1st, what is uppermost, the upper end, the uppermost place, 1st occurence of"
+msgstr "" 
+
+# ཐོབ
+msgid '1) imp. of ཐོབ་པ . 2) see འདེབས་པ'
+msgstr "" 
+
+# ཐོས
+msgid '1) to study, learn, learning. 2) to hear, listen. 3) philosophical studies. 4) tribal name for a Tibetan ancestral clan. 5) listening, [as in ..., reflection, and meditation] - learning [as in མང་དུ་ཐོས་པ; learning, education'
+msgstr "" 
+
+# དཀའ
+msgid 'Syn དཀའ་བ; 1) difficult. 2) hard'
+msgstr "" 
+
+# དཀོན་མཆོག
+msgid "1) jewel, rare and excellent [rare if 1 does not collect merit &, naturally w/_o defiling dharmas &, since naturally don sgrub pas powerful &, as cause of virtuous thoughts of sentient beings and ornament of the world &, more excellent than the world &, with changeless nature and qualities]; 2) Dkon mchog dpang btsugs; 3) God)/_1) jewel, rare and excellent [R]; 2) Dkon mchog dpang btsugs; 3) God [Christian writings] Precious Ones. Same as the Three Jewels. For further details of their qualities, see Buddha Nature by Thrangu Rinpoche, Rangjung Yeshe Publications, 1988 Skrt. ratna. Lit. \'rare and sublime/_supreme.\' 1) Syn. དཀོན་མཆོག་གསུམ: jewel, precious stone, gem, precious, superior, supreme, rarest, superior rarity, greatest rarity, most precious object. 2) Syn. རིན་ཆེན: the [Three] Jewels, the [Three] Precious Ones, Buddha, Dharma, Sangha:"
+msgstr "" 
+
+# དག
+msgid 'pure, perfect, correct, clean, noble, holy, sac red, cleansed, purified; edited, revised, corrected; purity; [pure] symbolism; blank nothingness (??); 1) pluralizing particle. 2) vi. to be clean, free from dirt, 3) vi. to be correct, right. pure, perfect, correct, clean, noble, holy, sacred, cleansed, purified, edited, revised, corrected, purity, [pure] symbolism, symbolism'
+msgstr "" 
+
+# དག་པ
+msgid '1) [R]; 2) w/_o adulteration and not obscured by faults accurate, clean, pure, genuine, authentic, purified, cleanness, purity, purify, wash, belong to [kho la dag pa: belongs to him], genuine, authentic a pure virgin genuine pf. of འདག་པ; 1) correct, true, accurate; 2) clean, pure, purified; immaculate; 3) cleanness, purity, immaculacy; purified aspect 4) genuine, authentic, 5) freed; liberated upright, respectable, decent'
+msgstr "" 
+
+# དགྱེས
+msgid 'pleased, happy; vi. to be pleased, glad, happy, joyful (h), gladness'
+msgstr "" 
+
+# དགྲ
+msgid "enemy, foe, adversary, opponent, hostiles. 2) warfare mi thub pa\'i dgra - powerful /_unbeatable enemies"
+msgstr "" 
+
+# དགྲ་བོ
+msgid Noneaaaaa
+msgstr "" 
+
+# དགེ་བ
+msgid 'virtue; good, happiness, welfare, happy, propitious, positive, merit, deeds, virtuous, wholesome, goodness. ལས་དགེ་བ virtuous deeds virtuous; syn ལེགས་སྤྱད་དང་གཙང་བྱེད good deeds or purifying actions'
+msgstr "" 
+
+# དགོས
+msgid 'it is essential it is imperative to verb + dgos - should (do verb); 1) vi. to need, to require. 2) vi. to have to, to need to, to must, should, ought to. 3) need, requirement, necessity, wants, purpose, aim, reason, appropriate'
+msgstr "" 
+
+# དང
+msgid "1) five [Sum cu par, gsum pa la ni gnyis pa sbyar, de ni sdud dang \'byed pa &, rgyu mtshan tshe skabs gdams ngag 5] ; 1) Sdud pa la \'jug pa,...Skra dang kha spu,...Gcig dang gnyis,...2) \'Byed pa la \'jug pa,...; 1) Gzhi gcig nas du ma \'byed pa,...Dbang po lnga ni mig dang rna ba dang sna dang lce dang lus so,...2. \'Byed sdud rgyu mtshan tshe skabs gdams ngag gang yang ma yin par bya tshig sogs dang sbyar ba,...Khong dang lhan cig tu sleb pa,...Khyod dang mnyam du \'gro,...Khrims dang \'gal ba,...Khrims tshul bzhin khur na dang, gal srid ma khur na nyes pa yong,...Gong dang mtshungs pa,...Mi dang \'dra ba,...Grogs po dang \'grogs pa,...Dgra dang \'thab pa,...Chu dang gcig me dang gnyis, rlung dang gsum,...Lugs dang mthun pa,...Chu dang thag nye ba,...Nyen kha dang \'phrad pa,...Gnyen dang bral ba,...Pha ma dang \'grogs pa,...Yi ge dang sbrags nas btang ba,...3) Rgyu mtshan la \'jug pa,...Sman zos pa dang nad drag pa,...\'Grel bshad zhib gsal byas pa dang don gnad rtogs pa; 4) Tshe skabs la \'jug pa,...Nyi ma shar ba dang phyin pa,...Kho slebs pa dang \'go btsugs pa,...2. Gdams ngag la \'jug pa,...Ltos dang,...Legs par slobs dang,... conj and, moreover (This particle has five uses connecting: སྐྱེས་ནས་འདའ་བ་དང,་གོང་དུ་འཕོ་བ་རྣམས་སོ distinguishing གདམས་ངག causal ཚེ་སྐབས། time and place རྒྱུ་མཚན། and advice or ! འབྱེད་པ། - meadow read in a singing or drawling manner] &, [together] w, as soon as, immediately after x polite imperative. སྡུད་པ།  + # - acts to total up a list just mentioned; and. This particle has five uses. connecting གདམས་ངག distinguishing ཚེ་སྐབས causal རྒྱུ་མཚན time and place འབྱེད་པ and advice or imperative སྡུད་པ meadow, to read in a singing or drawling manner, moreover, with, together with, as soon as, immediately after, polite imperative; + number - an enumeration (1, 2, 3. )"
+msgstr "" 
+
+# དང་པོ
+msgid '(chapter) one the first'
+msgstr "" 
+
+# དངོས་པོ
+msgid "1) matter, material, things, [objective] entity, real things, substance, property, goods, articles, given thing, functioning thing, fact, thing, phenomenon, existent, thing, any perceivable entity serving as a base for cognition, base of imputation, an actual existent, a substantial entity, functional thing, \'a real thing,\' subject, category, \'that which corresponds to the meaning of a word,\' activity, \'that which is able to perform a function.\' being, essence, [conditioned] entity. Syn དགོངས་པ, ཤིང་ཕོ་ཁྱི existence, entity, nature. impermanent thing, entity, matter, material, substance, substantiality, subject, category. (real) entity/_thing; property; substance; thing [in philosophical context]; matter, material; thing, [concrete functional], functional thing, impermanent thing, entities, actuality, effective thing, entity, topic, concreteness, existence, real things, \'things\', being, essence, substance, thing [in philosophical context], entity, a concrete thing; - substance; concrete[ness], existent; thing. 2) article [in a household], property, materials, things, objects, goods, articles, material wealth; article; things/_material goods. 3) bhava the 8th. of རབ་བྱུང Wealth; Bhava, [astrological name for the 8\'th year, Male Wood Dog]. Syn ངོ་བོ. 4) ཡོད་པ meaning 1) [real] things; 2) wealth; 3) implements [R; 2) projects, goals and actions; 3) ability to perform a function; 4) wood dog year དགོངས་པ Bhava, (the 8th year; 2) actual, original, itself)/_matter, material, thing, (objective) entity, substance, property, goods, articles, given thing, any perceivable entity serving as a base for cognition, base of imputation, [an actual] existent, substantial entity, functional thing, that which corresponds to the meaning of a word, fact, phenomena, existent, activity, that which is able to perform a function, being, essence, article (in a household), (conditioned) entity, ངོ་བོ, ཡོད་པ, existence, entity, nature, ཤིང་ཕོ་ཁྱི, meaning, concreteness, existence, reality, solidity, substance, impermanent thing, substantiality, property, objects, goods, articles, subject, category, actuality, effective thing, entity, topic, existent] chos nyid=de kho na nyid kyi dngos po=don dam pa\'i dngos po\'am ngo bo substantial entity, substantial existence thing, \'causally effective phenomena\' [ggd] x དངོས་པོ་དོ་ཤལ་འདི་ལ་བལྟ་བ looked at the necklace"
+msgstr "" 
+
+# དཔག
+msgid 'measure; measure, infer'
+msgstr "" 
+
+# དཔལ་འབྱོར
+msgid 'economics; grandeur/_wealth & glory; wealth wealthy, glory and riches, prosperity, wealth, prosperous, magnificent, prosperity, magnificent grandeur ང་རྒྱལ་གྱིས་དཔལ་འབྱོར་འཇོམས pride conquered his grandeur wealthy དཔལ་འབྱོར་འདི་ལྟ་བུ་དང་ལྡན་པ་སྔོན་བསོད་ནམས་ཅི་བསགས་པའི་མཐུ་ཡིན་ཞུས་པ asked about the previous merit that had empowered him to become so wealthy'
+msgstr "" 
+
+# དཔུང
+msgid '1) army, force, troops; 2) support, backing, prop, reinforcements, reserves [Rgyab dpung bzang po]; 3) shoulder; 4) host, great number, crowd; 5) sleeve, upper arm courage troops troops, legions; 1) army, force troops. 2) host, great number, crowd. 3) abbr. of དཔུང་པ 4) the upper arm; army, troops'
+msgstr "" 
+
+# དབང
+msgid "1) empowerment, [initiation]. 2) power, force, might, control, potency, influence. 3) senses, faculty, sense -, - organ, mental faculty. 4) ability, magnetizing, faculty, capacity. 5) ruler, lord, king. 6) be subject to, governed by, under the control of. ཕྲིན་ལས་རྣམ་བཞི, གཞན་དབང. one of the རང་དབང the four activities. 7) rite of subjugation or dominion. sovereignty, subjugation. (after a person\'s name) mighty; empowerment [as in. scriptural transmission, and directions]; initiation, empowerment, \'abhisheka\' Skt. empowerment [as in. scriptural transmission, and directions]; empowerment empowerment; [detailed expl., Light of Wisdom, Vol. 2, page 32 onwards] Empowerment. The conferring of power or authorization to practice the Vajrayana teachings, the indispensable entrance door to tantric practice"
+msgstr "" 
+
+# དབྱར་ཁ
+msgid 'summer, summertime'
+msgstr "" 
+
+# དབུས
+msgid '1) center, middle, midst, amidst, core, central. 2) Central Tibet, a district in Tibet; Ü One of the two central provinces of Tibet, the other being Tsang in the center, central'
+msgstr "" 
+
+# དབེན་པ
+msgid 'remote, an unpeopled area, isolated, free from, secluded place, solitary, lonely, solitude, loneliness, seclusion, remote, void, like an unpopulated mountain or valley, devoid, without, empty དབེན་པ,་དབེན་པ,་དབེན་པ; ཆོས་མཉམ་པ་ཉིད་བཅུ intr. v.; solitude; solitary; far/_distant/_removed from'
+msgstr "" 
+
+# དམ་ཆོས
+msgid 'sacred teachings Saddharma, true, holy, sacred Dharma, teaching, doctrine True Dharma, sad-dharma. The Law of the Buddhas'
+msgstr "" 
+
+# དམ་པ
+msgid '1) good, the best, most superior, excellent; 2) the late, the deceased [h] [Pha dam pa,...Slob dpon dam pa,...Rgyal po dam pa]; 3) comp [Dam po] narrow, tight[ness]; 4) holy, sacred, perfect, consecrated, sublime (6) bound by an oath, vow, (7) noble, eminent (8) true, genuine 1) the best, most superior, excellent, holy, sacred. most holy, perfect, holy. true, holy, sacred, sublime, best, superior, excellent. Syn དམ་པོ noble, eminent. true, holy, pure; sacred (i.e. things)/_holy (i.e. people); 1b) the holy ones, sublime masters 2) the late, the deceased 3) adj. comp. of འཕགས་པ 4) a good, 5) bound by an oath, vow, consecrated, tightness; unfettered Dampa; Syn ཕ་དམ་པ་རིན་པོ་ཆེ Phadampa Sangye genuine, true, sacred, authentic'
+msgstr "" 
+
+# དམ་བཅའ་བ
+msgid 'to promise, assure, take a pledge'
+msgstr "" 
+
+# དམག
+msgid 'army, host, war, troops'
+msgstr "" 
+
+# དམན་པ
+msgid 'inferior, lesser, low, base, little, lowly; humble; དམན་པ,་དམན་པ,་དམན་པ intr. v khas dman pa - weak speech limited lowly, humble, common, ordinary, mean, vulgar, base, plebeian, baseborn, ignoble'
+msgstr "" 
+
+# དྭངས
+msgid '1) adj. comp. of དྭང་མ. 2) vi. to clear up, away; luster, brightness; clear, pure; sparkling, clear, pure, bright, transparent, refined, brilliant, limpid; transparent'
+msgstr "" 
+
+# དྲན་པ
+msgid "1) (Tha dad pa), be mindful, remember, recollect [R]; 2) [R], previously experienced/_acquainted things having been apprehended, not forgetting them [R] memory, alertness, presence of mind, mindfulness, recollection, sm ti, consciousness, thinking, think, pay attention [R] remember w longing, meditate [R] [not so much recalling the past as spontaneous habits like ducking when someone is trying to hit you] colloquial =] \'heart\' [R] འཕགས་ལམ་གྱི་ཡན་ལག་བརྒྱད trans. v.; to think; pay attention, be mindful; recall, be mindful, think about, miss; remember with longing, meditate, become aware of, contemplate 1) mindfulness, memory, alertness, presence of mind, recollection. /_recollectedness; alertness; presence of mind; memory, thinking; mindfulness, awareness, presence of mind, attentiveness, attention, memory, recall, remembrance, recollection, consciousness, one\'s full senses. 2) consciousness, thinking, recollection or memory, Skt. smriti, 3) one of the five object determining mental states, Def. by Jamgön Kongtrül: འདྲིས་པའི་དངོས་པོ་མི་བརྗེད་པ. 4) one of the དྲན་པ,་དྲན་པ,་དྲན་པ,་དྲན the eightfold noble path keep in mind memory [ggd] to bear in mind"
+msgstr "" 
+
+# དལ་འབྱོར
+msgid "a free, well-favored human birth Freedoms and favorable conditions freedoms and favors, favorable conditions, \'wealth and leisure\' freedoms and riches Freedoms and riches leisure and endowments Opportune, fortunate rebirth. The human existence with all necessary conditions for Dharma practice - free of the eight leisureless states, and with ten factors of good fortune"
+msgstr "" 
+
+# དུག
+msgid 'poison, poisonous, venomous'
+msgstr "" 
+
+# དུས
+msgid 'kyi dus su - while time; temporal relationship; isc. context (verb)-dus - when. at the point that. once.; 1) time, period of time, season, age, period, occasion, timely. 2) [vb.+--] at the time of, while, when. temporal sequence. day, date; age, aeon; time, moment; time, season, age, period, occasion; timely; time; temporal relationship; when. Syn རྒྱུ་དང་འབྲས་བུ་བྱུང་ནས་འགགས་པ་འདས་པ་དང,་མ་བྱུང་བ་ནི་མ་འོངས་པ་དང,་བྱུང་བ་མ་འགག་པ་ནི་ད་ལྟར་བའོ,. 3) Time, as one of the ten non-concurrent formations. Def. by Jamgön Kongtrül: ཚེ . . . (verb +) dus - when . . . ; even as . . . ; isc. at the point that . . . ; once . . . ; isc. chance of . . .'
+msgstr "" 
+
+# དེ
+msgid "1) that [R]; 2) [after final DA [R], སྟེR] where, namely, to wit, videlicet [R] 1) that [R]; 2) = ste after final DA [R] སྟེ -}-[after \'d\') (gerundive connective particle) having, after having [adverbial) -ing, -ly (defining function) (precedes specification] where, namely, to wit, videlicet 1) that [R]; 2) = ste after final DA [R], སྟེ, [R] where, namely, to wit, videlicet [sbyar yul gang yang rung ba\'i ming dngos su tshig zin du yod med ji ltar rung, de\'i ma mthar sbyor ba\'i thag ring ngos \'dzin byed kyi tshig phrad cig yin te, sum cu par, tha snyad dbang du gsum yin te, dngos po\'i dbang du bzhi ru \'gyur, dus kyi dbang du gnyis yin no, zhes gsungs pa ltar ro,...1)...1, Rnam grangs gzhan zhig la sbyor rgyu yod pa\'i tha snyad ston pa,...Gzhung lam de mi\'i \'gro sa\'ang yin pa dang, rta drel gyi \'gro sa\'ang yin pa, \'khor lo\'i rigs kyi \'gro sa\'ang yin,...2, Ming mtha\' da yig gi rjes su \'jug pa\'i lhag bcas kyi sgra\'i tha snyad ston pa\'i phrad cig da...Shing bcad de \'bud,...3, \'Das pa\'i tha snyad ston pa,...Gong du bshad pa de,...2)...1, Bden pa\'i dngos po la \'jug pa,...Khyed kyis gsungs pa de de bzhin no,...2, Gsang ba\'i dngos po la \'jug pa,...De \'dra ma shod,...De su red,...? De gsod dgos,...Khyod kyis de rnams gzhan la ma ston zhig ...3,Bdag gi ba\'i dngos po la \'jug pa,...Nga\'i pha yul de,...Bdag gi las don byed stangs de tsho,...4, Pha rol po\'i dngos po la \'jug pa,...Khyod kyi gyon pa de dag ...Kho\'i spyod pa de gras,...3)...1, Dus \'das pa la \'jug pa,...Na ning gi lo de,...2, Dus ma \'ongs pa la \'jug pa,...Sang phod kyi lo de] 1) that [Thag ring ngos \'dzin gyi phrad rang dbang can zhig ...Dus de\'i bar,...Dus de\'i ring,...Rgyu mtshan de la brten nas,...De dang \'dra ba,...De la ci yod]; 2) = ste after final DA [Ming mtha\' da yig gi rjes su sbyar rgyu\'i lhag bcas kyi sgra\'i rkyen zhig ...Da] that, (as ལྷག་བཅས abbrev] སྟེ can be used as a དེ་ཡང and thus mean ལྷག་བཅས 1) that. 2) Syn དེ after \'d\'"
+msgstr "" 
+
+# དེ་ཉིད
+msgid '1) thatness, [reality]; 2) itself, oneself; that day, that itself, 3) identity, sameness [opp to gzhan nyid]; essence; quality, truly real, very essence; 3) A term of grammar. Identity. One of the sub-divisions of the second case. 4) principle, field དེ་ཁོ་ན་ཉིད suchness (itself); isc. very nature immanent reality; Syn དེ་ཁོ་ན་ཉིད Thatness. The nature of phenomena and mind the true nature this'
+msgstr "" 
+
+# དེ་ཕྱིར
+msgid 'on that account; for that reason'
+msgstr "" 
+
+# དེ་ལྟར
+msgid 'according to that, in accordance with that, like that, that being so; in this/_that way In such a way, In these ways in this way Syn དེ་ལྟ་བུ This'
+msgstr "" 
+
+# དོན
+msgid '1) work, action, project; 2) benefit [Spyi don,...Sger don,...Rang don,...Gzhan don]; 2) meaning; 3) reality; 4) grasped external object; 5) particle for 70s #s [Bdun cu] don lnga = 75] (6) Nang khrol zhig) 1) work, action, project; 2) benefit, welfare [R]; 2) meaning, sense, significance; 3) reality, truth, actuality; 4) purpose, reason, objective, result; 5) [grasped external/_sense object, perceptible thing (6) particle for 70s #s [R] (7) Nang khrol zhig (8) knowledge, knowing, fact (9) identity, topic, subject, aspect, category, classification (10) output, value [accomplishment, worth, inner [organs], actions, objective, four applications of mindfulness, nature of wisdom devoid of words, part plus (in numbers] (11) message (12) ultimate, absolute (13) go/_come out, emit, give off, send out, flow, ཐོན . . . don - ultimate point/_significance of . . . major heading, topic, point object; reality; meaning, significance; that which is; the fact; - point real; purpose/_essentially/_real, true/_a vital organ; points, topics/_meaning/_nature/_true; value. 2) object, thing, sense object, perceptible thing. 3) fact, identity. 4) true, real, ultimate, absolute, truth, actuality, reality. 5) topic, subject, aspect, category, classification. 6) purpose, benefit, reason, objective. 7) result, output, value, accomplishment, worth. 8) inner organs. 9) to go, come out, emit, give off, send out, flow, ཐོན etc]; (actual/_true) meaning/_import/_purpose; topic/_(ultimate) point; welfare/_benefit; object (of experience). -don - ultimate point of. 2) object, thing, sense object, perceptible thing. 3) fact, identity. 4) true, real, ultimate, absolute, truth, actuality, reality. 5) topic, subject, aspect, category, classification. 6) purpose, benefit, reason, objective. 7) result, output, value, accomplishment, worth. 8) inner organs. 9) to go/_come out, emit, give off, send out, flow, ཐོན etc]; affairs; 2 object, thing, sense object; perceptible thing; 3 fact, identity; 4 true, real, ultimate, absolute; truth, actuality, reality; 5 topic, subject, aspect; category, classification 6 purpose, benefit, reason, objective; 7 result, output, value, accomplishment, worth; 8 inner organs, 9 to go, come out, emit, give off, send out, flow, ཐོན etc]; help/_benefit/_purpose/_chapter/_sign/_aim, goal/_nature; 1) meaning, sense, significance, knowledge, knowing. 2) object, thing, sense object, perceptible thing. 3) fact, identity. 4) true, real, ultimate, absolute, truth, actuality, reality. 5) topic, subject, aspect, category, classification. 6) purpose, benefit, reason, objective. 7) result, output, value, accomplishment, worth. 8) inner organs. 9) to go, come out, emit, give off, send out, flow, ཐོན etc]. accomplishment, absolute, ultimate, objective, benefit, purpose, inner, meaning four applications of mindfulness, nature of wisdom devoid of words, reality, significance, meaning, benefit, truth, message, welfare; 1 meaning, sense, significance, knowledge, knowing; meaning, object, nature; meaning, real meaning, benefit, purpose, goal, [artha]; meaning, sense, significance, knowledge, knowing; object [of senses] (ultimate) meaning/_sense; (actual/_true/_ultimate) significance/_implication/_purpose; what is meaningful (about . . . ); ultimacy; topic/_(ultimate) point; welfare/_benefit; (meaningful) object (of experience); value; isc. (to have/_be) ultimate(ly) existence/_ent'
+msgstr "" 
+
+# དོན་དམ
+msgid "1) ultimate, absolute, \'true meaning\'; ultimate [truth], absolute truth, ultimate reality; དོན་དམ་བདེན་པ. 2) the exact state of the case, the real /_true /_ultimate meaning"
+msgstr "" 
+
+# དོར
+msgid "1) \'Dor ba!; 2) a pair [of plow animals] [Cha sbrel,...Rmon dor gcig ...Glang dor gcig ...Spang mthing tshon gyi dor gnyis yin,...Ya gnyis dor du bsdebs pa] past: འདོར rejected, discarded, abandoned, renounceed, p. of འདོར་བ; imp. of འདོར discard!; 2) a pair"
+msgstr "" 
+
+# ན
+msgid "1) when, once. 2) to fall ill, get /_be sick, illness, sickness, disease, 3) has /_have, 4) in, on, 5) if, although. 6) meadow, 7) year, stage of life, age; 8) ན་ཁ meadow, pasture land, lawn, greensward, tuft. 9) n of province Gar NA once to fall ill, get/_be sick, has/_have illness, sickness, disease, meadow, year, stage of life, age, in, on, if. [bod yig gsal byed bcu gnyis pa \'di\'i nga ro \'don tsul la skye gnas so sna dang bcas pa dang, byed pa lce rtze, nang gi rtzol ba so lce phrad pa dang, phyi\'i rtzol ba srog chung sgra ldan]...1. 1) Ming gzhi\'i shin tu mo\'i yi ge zhig...2) Rjes \'jug gi ma ning yi ge zhig... 2. ...1) Mi\'i lo grangs kyi tsod,...Lo na mthon po,...Phru gu nar ma son pa,...2) Lo lnga lon pa\'i rta drel gyi lo,...3) Chu rlan che ba\'m chu \'khyil mang po yod pa\'i spang ljongs,...Rkyang kha dkar rmig bzhi na la zug... 3. Tsig phrad na yig...Na.if [including subjenctive and contrary to fact]...1) Dmigs kyis dbye ba,...Dngos su na,...Mdor bsdus na,...Yin grang na,...2) Rgyu mtsan ston pa,...Me yod na du ba \'byung,...Sa bon btab na \'bras bu skye,...3) Rgyu mtsan don gyis ston pa,...Nad med na sman pa ci\'i phyir bsten,...Chang ma btungs na ra bzi don med,...Chu med na nya ga la yong,...4) Tsig \'gal bar ston pa,...Kho rang mkhas pa yin par grags na\'ng bzang ngan gyi dbye ba \'byed mi shes pa\'i rmongs pa zhig red \'dug...5) \'Os par dka\' ba,...Khyi la\'ang \'jigs na seng ge la bshad mi dgos,...Mi rgan pas \'khur mi thub na phru gus lta ci smos,...Nad pa de phar tsur \'gro thub na yar lang thub pa smos ci \'tsal,...6) Phyi tsig nges par byed pa,...Dud \'gro rnams shin tu rmongs na mi\'ng de ltar \'dug...\'Brog pas zhing \'debs mi shes na so nam pas zhing kha \'debs mi shes pa\'ng \'dug...7) Smon pa,...Ngal rtzol mi dmangs tsang ma bcings \'grol thob na ci ma rung,...8) The tsom ston pa,...Sa bon ni btab zin na \'di las myu gu \'byung ngam mi \'byung,...Sman btang yod na nad ae sos mi na\'ang - although [contrary to fact] sos,...Gdan \'dren zhus zin na kho yong ngam mi yong,...4. La don zhig...La... [definite] resolution??? ནས་རྩ་རྒྱུད་དང,་བཤད་རྒྱུད,་ཕྱི་མ་རྒྱུད་ཀྱི་ཆུ་མདོ་ཡན་གྱི་འགྲེལ་པ་མེས་པོའི་ཞལ་ལུང་ཞེས་པ་མཛད,་གཞན་ཡང་རྗེ་མཉམ་ཉིད་རྡོ་རྗེའི་རྣམ་ཐར་དང,་རྒྱུད་བཞི་བཀའ་བསྟན་གྱི་འགལ་སྤོངས་ལ་ཕྱི་ལྟར་ན་སངས་རྒྱས་ཀྱི་བཀའ,་ནང་ལྟར་ན་པནདི་ཏའི་བསྟན་བཅོས,་གསང་བ་ལྟར་ན་བོད་ཀྱི་བསྟན་བཅོས་སུ་བཞེད་པ་སོགས་གསོ་དཔྱད་སྐོར་ལ་གསུང་རྩོམ་ཤིན་ཏུ་མང་ཞིང,་སྙན་ངག་མེ་ལོང་མའི་མེ་ལོང་ཞེས་པ་སོགས་རིག་གནས་གཞན་སྐོར་ལའང་སྣ་ཚོགས་མཆིས,་གྱུ་ཐོག་ཕྱག་བྲིས་མའི་རྒྱུད་བཞི་གསེར་མཆན་སོགས་གནའ་རབས་ཀྱི་ཚད་ལྡན་ཡིག་ཆ་རྣམས་ལ་ཁུངས་བཅོལ་ཏེ་རྒྱུད་བཞི་ལ་ཞུས་དག་མཛད་ཅིང་ནང་སོ་ཡར་རྒྱབ་པ་སྦྱིན་བདག་ཏུ་བསྐུལ་ནས་པར་དུ་བརྐོས་པའི་གྲ་ཐང་པར་མ་ཞེས་རྒྱུད་བཞིའི་པར་སྔ་ཤོས་སུ་གྱུར་པ་དེའི་བདག་རྐྱེན་མཛད་པ་སོགས་སྐུ་ཚེ་ཧྲིལ་པོར་གསོ་བའི་བསྟན་དོན་ཁོ་ན་མཛད,་དགུང་ལོ་བདུན་ཅུ་ལྷག་ཙམ་བཞུགས་པར་གྲགས(3) sky [syn: kun khyab, kun \'gebs, kun \'gro, kun gsal, khyab \'jug gnas, go \'byed, dgung, rgyu skar lam, chu sgrog chu mthongs, rtag sdod, mtha\' bral, mtha\' med, gnam, sprin lam, bar snang, bar med, bya lam, mi \'gyur, mi \'da\', mi gyo, me zhal, lus med, lha rtsen, lha yi rdzing ring, lha lam} [1 of the eight noncompounds), the ether, (the principle of expansion and enlargement in the manner of the vast and extensive sky which accomodates everything without acceptance and rejection is the discipline which is warm, and hospitable to fraternal yogins and the conduct which does not lapse from the vehicle of sa s ra and nirv a but remains within this view and conduct of great identity [gdmk], dharmakaya person, highest yogin, imperial, real thing [vctr] [tserig] see Das and Tsihiog mdzod for details"
+msgstr "" 
+
+# ན་མོ
+msgid 'I pay homage; Skt homage, salutation, praise, glory to ..., adoration. 2) female patient. 3) serious illness'
+msgstr "" 
+
+# ན་ཡང
+msgid 'although; even if/_although/_but; even though, even if'
+msgstr "" 
+
+# ནག་པོ
+msgid '1) black, 2) dark, gloomy. 3) unwholesome, negative, evil, perverted, tarnished. 4) Saturn. 5) Vishnu'
+msgstr "" 
+
+# ནད
+msgid 'disease, illness, ailments, distemper, malady, sickness, epidemic diseases, ex. མི་ཕྱུགས of humans and animals, humor'
+msgstr "" 
+
+# ནམ
+msgid "1) question particle for words ending in \'n\'. 2) when, whenever. night, at day-break, midnight; (coll) time/_when; when, now; now"
+msgstr "" 
+
+# ནས
+msgid "1) barley; 2) a measure; 2); 1) from [what something arises showing word [R]; 3) after, having; 4) by 1) barley [R]; 2) a measure [R]; 2) ; 1) from [what something arises showing word [R]; 3) after, having; 4) by)/_[bod gzhung nas gzhunmg de ngos len ma byas] 1) verb + nas - a gerund (ing); 2) barley; \'grain\', 3) a measure equaling one-eight of a ཆ་ཆེན barley. from, from amidst. the measure of one \'barley grain,\' [the size of seven \'shig\' and a seventh of a \'sor tshig\']. 4) from\', occasionally, it is used to mark the logical subject of a clause and then is frequently rendered as \'by.\'. nas - (from) within སྔོན་མོ་ནས fresh barley ཞག་བདུན་ནས - in seven days time"
+msgstr "" 
+
+# ནི
+msgid "as for as for [indicates subject]. as to, is as follows, \'.\', as for"
+msgstr "" 
+
+# ནུས
+msgid 'to be capable, dare to, capable. vi. to dare to; imp. of ནུ་བ'
+msgstr "" 
+
+# ནོར
+msgid 'wealth; 1) ནོར་བུ vi. to err, be wrong, be mistaken, make a mistake. 2) mistake, error, fault, 3) wealth, possessions, jewel, property, riches, goods, richness. Syn ནོར་བ 4) cattle, yaks'
+msgstr "" 
+
+# ཕ་ཡུལ
+msgid 'homeland homeland; ex ཕ་ཡུལ་རྒྱབ་ཏུ་སྤོངས་ཤིག leave your homeland behind! homeland, native land /_place, hometown native land'
+msgstr "" 
+
+# ཕ་རོལ་ཏུ་ཕྱིན་པ
+msgid "paramita, \'gone across\', \'gone to the other shore\', perfection, transcendental /_transcendent /_transcending [action /_virtue]. transcendent perfection Paramita. Literally, \'paramita\' means \'reaching the other shore.\' Particularly, it means transcending concepts of subject, object and action paramita. Literally, \'paramita\' means \'reaching the other shore.\' Particularly, it means transcending concepts of subject, object and action. The Paramita vehicle (phar phyin gyi theg pa) is the Mahayana system of the gradual path through the five paths and ten bhumis according to the Prajnaparamita scriptures. See also \'six paramitas.\'"
+msgstr "" 
+
+# ཕན
+msgid 'benefit, help; benefit, welfare, well-being, v. to help, assist, benefit, get better, improve, hanging ornaments'
+msgstr "" 
+
+# ཕན་པ
+msgid 'assistance to (bring) benefit; 1) to be useful, hurtful, to benefit, help. 2) to get better, improve. 3) benefit, good, advantage, improvement, help; ཕན་པ,་ཕན་པ,་ཕན་པ intr. v will be of any avail to you'
+msgstr "" 
+
+# ཕན་ཚུན
+msgid 'identical, mutual mutual mutual, on either side; mutual; back and forth; interrelation; correlation, mutually established, identical, reciprocally, back and forth, reciprocal, each of the; ex. འདུས་ནས when they meet each other'
+msgstr "" 
+
+# ཕྱག་འཚལ
+msgid '1) homage, obeisance, salutation, 2) to pay homage, pay obeisance, prostrate, bow down, salute. 3) dance of homage (in dance) bowed low to expression of reverence, prostration, bow, showing reverence, salutation, greeting, salute expression of reverence, to show reverence homage; [detailed expl., Light of Wisdom, Vol. 2, page 122] to you we bow!'
+msgstr "" 
+
+# ཕྱི་རོལ
+msgid 'outward; outside, external, in the external world, the outer world, beyond, without, exterior; outside'
+msgstr "" 
+
+# ཕྱིར
+msgid 'because. in order to/_for.; hence; because, for the sake of, in order to, back, towards the back, behind, for the ske of, with regard to consequently . . . gi phyir - because . . .; in order to/_for . . . in order to since'
+msgstr "" 
+
+# ཕྱོགས
+msgid '1) direction, place, region, cardinal point, to direct, turn to, directing. turning to. aspect, respect, side. 2) factor, part. 3) opinion, side, position, tenet, thesis, alternative, subject [of a syllogism], aspect, respect. 4) v. to direct, turn to. 5) party, faction, opposition [in debate etc]. 6) class, category, position, type. direction; spatial relationship; (sectarian) prejudice, bias, faction; biased extreme; side; circle of friends; sphere/_brink; ལྷོའི་ཕྱོགས to the south of; inclined to; aspect, side; part, factors; the area around a thesis, position [ggd] direction; spatial relationship; extreme; (sectarian) prejudice/_bias/_faction; side; isc. perspective . . . gi phyogs - perspective/_aspect of . . . ; tendency to(ward) . . . ; that which pertains to . . . ཕྱོགས་ཆོས premise/_proposition (in logic) side, position, factor'
+msgstr "" 
+
+# ཕོངས
+msgid 'destitute; poverty, miseries, impoverish, to feel poor, bereft, [afflicted]; lacking'
+msgstr "" 
+
+# བཀུར་སྟི
+msgid '1) veneration. 2) service. 3) homage. 4) respect. 5) esteem. 6) honor; respect; pay homage to, respect, homage'
+msgstr "" 
+
+# བཀོད
+msgid '1) order. 2) sequence. 3) placed. 4) manifestations. 5) wondrous. display. see རྩལ་གྱི་བཀོད་པ. 6) palace. 7) placement; composed, written down; printed, written; manifestation'
+msgstr "" 
+
+# བདག
+msgid '1) atman, I, me, self, oneself, ego, myself. 2) vi. to belong to, own, 3) essence, self- entity, identity, བདག་པོ; 4) ruler, king, source; soul; master; great being, sovereign. Syn བདག་ཉིད བདག་པོ lord/_master; owner; agent identity (with inherent existence); soul'
+msgstr "" 
+
+# བདུན
+msgid '1) seven. 2) week'
+msgstr "" 
+
+# བདེ་བ
+msgid 'Bliss comfortable sukha 1) pleasure, bliss, happiness, well-being, peace, delight, comfort, pleasurable sensation, felicity. 2) easy to ..., easy, convenient; easily; 3) at peace, ease, healthy, comfortable happy, pleasant, well, enjoy peace, composed'
+msgstr "" 
+
+# བདེན་པ
+msgid 'authenticity to be true, true, truth; righteous; authentic, valid, genuine'
+msgstr "" 
+
+# བཙོན་ར
+msgid 'prison, imprisonment'
+msgstr "" 
+
+# བཞི
+msgid Noneaaaaaa
+msgstr "" 
+
+# བཞིན
+msgid 'according to; face; in accordance with; line, as, like, similar to, face, likeness, image, verb +o. While -ing, while it is. face, countenance; verb + bzhin - progressive tense as, while གསུངས་བཞིན - as the Buddha taught}'
+msgstr "" 
+
+# བཟློག
+msgid '1) to reverse. 2) to ward off, cast back, away, turn away, drive out. 3) to refute. 4) exorcize, the contrary, the reverse exorcism'
+msgstr "" 
+
+# བཟུང
+msgid 'captured mjal nas bzung - ever since I met taken, seized; seize, capture; fixating; pf. ཟིན་པ 1) to lay hold of, capture, seize, hold to. 2) reached out. 3) accept, consider, accepted, to take to be. 4) cling to. 5) regard. 6) maintain; held'
+msgstr "" 
+
+# བཟོད
+msgid 'adequate, consent to, to bear, stand, endure, suffer'
+msgstr "" 
+
+# བཟོད་པ
+msgid "bram ze de\'i sdug bsngal ma bzod par - could not bear the brahmin\'s suffering མི་བཟོད, བཟོད་པར་བཞེས་འཚལ intr. v.; forgiveness, patience, forbearance, acceptance, to suffer, bear, endure, tolerance, receptiveness. one of the ཕར་ཕྱིན་དྲུག the six paramitas. forbearance/_patience; to forbear/_be patient/_exercise forbearance; (phase of) patient acceptance; 1) forbearance. 2) tolerance, patience. 3) to bear, endure. 3) forgiveness, ex. བཟོད་པ,་བཟོད་པ,་བཟོད་པ Please forgive! 4) acceptance; receptiveness. Ex ཁྲོ་བ་སྤངས་པ can\'t bear it ma bzod - could not bear the practice of patience, to bear to accept མ་བཟོད་པ unable to accept to bear, able to stand /_tolerate to endure"
+msgstr "" 
+
+# བྱ་བ
+msgid '1) ft. of འཇུག་པ; deed, action, work, engagement. lit. what is to be done, the free duty of bodhisattvas who have attained to nondiscursive knowledge. work, deed, job, task, matter, affair, thing to be done, doings, activities. 2) called, known as, entitled. 3) verb. Syn བྱེད་པ; a movement; called; actions; verb +: he who should be (the object - beaten); to use (a term) for (something); (something) to be done; project at hand'
+msgstr "" 
+
+# བྱང་ཆུབ
+msgid "1) awakening; enlightenment, bodhi, \'purified and perfected\', \'perfected purity\', \'free and perfect\', the awakened state, refined and consummate. 2) see བྱང་ཆུབ་པ Awakening, bodhi Bodhi. Enlightenment, awakening, state of realization. See also \'enlightenment.\'"
+msgstr "" 
+
+# བྱང་ཆུབ་ཀྱི་སེམས
+msgid 'awakening mind; bodhichitta, mind of enlightenment, will to enlightenment, thought of enlightenment, bodhimind, awakened heart, mind of enlightenment, enlightened mind, attitude, mind, thought of enlightenment, enlightening spirit, sexual energies in a tantric context, altruistic aspiration to enlightenment. Bodhichitta, enlightened mind, the Thought of Enlightenment, [bodhichitta], enlightening attitude/_bodhichitta, mind of enlightenment bodhichitta - awakened mind, bodhichitta, bodhimind, awakened heart, mind, en lightened mind, attitude, mind, thought of enlightenment'
+msgstr "" 
+
+# བྱང་ཆུབ་སེམས་དཔའ
+msgid "bodhisattva [awakening being]; bodhisattva. bodhisattvas. a being on the path of enlightenment, bodhisattva. \'heroic being of enlightenment\' bodhisattva. Someone who has developed bodhichitta, the aspiration to attain enlightenment in order to benefit all sentient beings. A practitioner of the Mahayana path; especially a noble bodhisattva who has attained the first level"
+msgstr "" 
+
+# བྱམས་པ
+msgid "1) Maitreya, the Loving One. 2) love, loving-kindness, benevolent love; friendliness, compassion, བྱམས་པ,་བྱམས་པ,་བྱམས་པ. maitri, mercy, benevolence, friendly, loving. 3) བྱམས intr. v.; to be kind [towards], be loving, be affectionate Loving kindness. The attitude of wishing that other beings may be happy Maitreya. \'The Loving One.\' The bodhisattva regent of Buddha Shakyamuni, presently residing in the Tushita heaven until becoming the fifth buddha of this aeon; author of five treatises preserved by Asanga tenderness"
+msgstr "" 
+
+# བྱེད
+msgid 'coming to, commentator, effecting, effectuating, hindrance, stoppage, interference, to do, make, create, move, act, work, handle, perform, function'
+msgstr "" 
+
+# བརྗེ
+msgid 'f. of རྗེ to exchange, change for, shift, barter'
+msgstr "" 
+
+# བརྗེད་པ
+msgid 'བརྗེད་པ,་བརྗེད་པ,་བརྗེད་པ intr. v. to forget; slip his mind, overlook མ་བརྗེད་པར་བྱས without ever forgetting it; forgetting nothing'
+msgstr "" 
+
+# བརྗོད
+msgid 'is expounded, is prescribed. p. of རྗོད to say, utter, express, proclaim, describe, present, mention, repeat, speak, tell, sound, talking, speech'
+msgstr "" 
+
+# བརྙས
+msgid "pha ma rgas khar ma brnyas - Don\'t mistreat your elderly parents to despise, downgrade, belittle, depreciate, offend, bully, insult, contempt"
+msgstr "" 
+
+# བརྟག
+msgid '1) [fut. of rtog]. 2) to examine, study, research, to survey'
+msgstr "" 
+
+# བརྟེན
+msgid "insured; 1) p. of rten. 2) due to, because of, on account of. 3) brten pa - the \'based\', \'supported\', to lean, rely, depend on, pass, establish, enjoy, satisfy, by means of, based, relying, dependent on, because, through, flanked by, clasping, trustworthy, solidity"
+msgstr "" 
+
+# བརྩེ་བ
+msgid 'benevolent, affection, compassion, love, merciful, care for love; to love (v); loving kindness; to love/_feel affection; to love, love, kindness, to count up, mercy, affection, playing with; རྩེ་བ intr. v.; ft. of བརྩེ་བ,་བརྩེ་བ,་བརྩེ་བ'
+msgstr "" 
+
+# བརྩོན
+msgid 'effort, exertion, perseverance, diligence, to exert, rouse oneself, abuse oneself, practice, devote oneself to, persevere in, be diligent, energetic, study hard, make effort, vigor, vigorous pursuit, strive for; busy endeavor energetic, practice, rouse, diligence'
+msgstr "" 
+
+# བརྩོན་པ
+msgid 'འདུ་བྱེད་བརྒྱད trans. v.; to strive; to exert oneself; endeavor, striving, endeavor, effort, to strive to, to exert oneself, exertion [one of བརྩོན་པ,་བརྩོན་པ,་བརྩོན་པ,་བརྩོན. to persevere, toil'
+msgstr "" 
+
+# བརྩོན་འགྲུས
+msgid "Diligence Endeavor exertion/_diligence/_perseverance; diligence, exertion, zeal, effort, vigor, \'enthusiastic perseverance,\' [def. to joyfully engage oneself in what is virtuous, dge ba\'i gnas la sems mngon par spro bas \'jug pa]. ཕ་དྲུག. diligence, one of the དགེ་བའི་སེམས་བྱུང་བཅུ་གཅིག the six paramitas. dge ba yongs \'dzin pa the practice of diligence"
+msgstr "" 
+
+# བྲུས
+msgid 'gouge; ཀོང་བུ་བྲུས gouged holes to dig; imp. of འབྲུ་བ; imp. of འབྲུད་པ'
+msgstr "" 
+
+# བླ་མ
+msgid "lama; guru, spiritual teacher; Guru, master; supreme spiritual teacher of weight or substance. teacher, priest, highest one, spiritual master, preceptor master. In the Lamrim Yeshe Nyingpo, Padmasambhava says: \'The vajra master, the root of the path, is someone who has the pure conduct of samaya and vows. He is fully adorned with learning, has discerned it through reflection, and through meditation he possesses the qualities and signs of experience and realization. With his compassionate action he accepts disciples.\' In short, someone with the correct view and genuine compassion the teacher"
+msgstr "" 
+
+# བླང
+msgid 'accept/_receive; ft. of ལེན'
+msgstr "" 
+
+# བློ
+msgid '1) mind, understanding, intellect, [when same as བློ་གྲོས intelligence, cognition. 2) the reasoning, rational mind function. 3) conceptual mind, mental states, four types of cognition. 4) concept, idea. 5) conceptualization, [subtle thought activity]. 6) cognition, cognitive act. 7) wisdom, intelligence, བློ་གྲོས. 8) plan, concern, scheme, inclination, ambition, desire. 9) awareness [of an object]. 10) ordinary, concerning the concern, plan. idea; ordinary rational consciousness/_mind; mind, thought, attitude mental state, a mental episode [ggd] རྩལ་དང་བློ་གཉིས strength and intelligence'
+msgstr "" 
+
+# བློ་གྲོས
+msgid 'intelligence, intellect; [Skt. mati]; discriminating intellect, wit, reason. Syn ཤེས་རབ. wisdom wisely'
+msgstr "" 
+
+# བཤད
+msgid 'to discuss, to speak, talk, shy, to chat, discuss, to tell, inform, to show, express, indicate, mean, to report, to relate, setting forth, remembered, spoken of, laid down, subcommentary; to explain told; ex བདག་ལ་བཤད་ཚེ when he told me'
+msgstr "" 
+
+# བཤེས
+msgid 'relation, friend'
+msgstr "" 
+
+# བཤེས་གཉེན
+msgid 'spiritual guide, Abbr. of དགེ་བའི་བཤེས་གཉེན, spiritual teacher teacher teacher or friend [Dharma term]'
+msgstr "" 
+
+# བསྔོ
+msgid 'fut. of སྔོ to dedicate, transfer, distribute, share, turn over to'
+msgstr "" 
+
+# བསྟན
+msgid 'demonstration; instruction; abbr. of བསྟན་པ taught'
+msgstr "" 
+
+# བསྟན་བཅོས
+msgid "a commentary; philosophical treatise, treatise, Shastra (Skt); logic, treatise, shastra, [\'to protect and cure\'], commentary, text, [consists of འགྲེལ་བཤད, འགྲེལ་པ, གཞུང shastra; treatise. A type of Buddhist text; generally a commentary or a philosophical treatise Treatises, shastra. Scriptures composed by accomplished or learned masters"
+msgstr "" 
+
+# བསྟེན
+msgid 'cultivation, honoring, to attend, serve, follow, study with, take, get, associate with, rely upon, on, enjoy, resort to, adhere to, keep, to follow [a teacher]. maintain, to live in [solitude, etc.]'
+msgstr "" 
+
+# བསམ
+msgid 'consider; imagine thought, thinking, aspiration, intention. 2) to think; ponder, reflect, contemplate, visualize, plan, intend, consider, feel, realize; imagine, visualize'
+msgstr "" 
+
+# བསམ་གཏན
+msgid "[dhyana] concentration Dhyana, concentration. Def. Jamgön Kongtrül: སྙོམས་པར་འཇུག་པ; meditative stability; meditative - concentration, meditation, \'stable attention\'. one of the ཕར་ཕྱིན་དྲུག the six paramitas. serenity, stable awareness, dhyana, meditation, concentration level, absorption རྩེ་གཅིག་ཉོན་མོངས་མེད Syn samadhi, trance, state of complete abstraction. concentration, meditation, level of concentration, dhyana dhyana, concentration. The state of concentrated mind and also the name for god realms produced through such mental concentration. See also under \'four dhyana states.\' stable/_meditative concentration the practice of concentration"
+msgstr "" 
+
+# བསམ་པ
+msgid '1) ft. of སེམས་པ to ponder, consider, plan, reflect, think. 2) thought, ideation, opinion, concept, concentration, thinking, contemplation, recollection, reflection, 3) a plan, concern, intention, wish, wishes, 4) motivation, attitude 5) to feel, 6) spirit. 7) mentalities. Syn ཀུན་སློང future tense and secondary form of སེམས་པ; contemplation; thought/_thinking/_reflection; imagination; wish/_goal; attitude; to think/_contemplate/_imagine/_reflect upon; aspirations/_thoughts; reflection [as in listening, reflecting, and meditating]. attitude, Contemplating pf. of སེམས་པ reflecting; x ངོ་བོ་དལ་བ་བསམ་པ reflecting on the nature of freedom'
+msgstr "" 
+
+# བསལ
+msgid Noneaaaaaaa
+msgstr "" 
+
+# བུ
+msgid 'son'
+msgstr "" 
+
+# མ
+msgid '1) not, no, non-, un-, im-, -less. 2) mother. 3) female goddess'
+msgstr "" 
+
+# མ་ཐག
+msgid 'immediately, as soon as, just after; just now, instantly; verb + ma thag - just about to, at the point of (doing the verb)'
+msgstr "" 
+
+# མ་ལུས
+msgid "lit. \'nothing left behind\', without exception, all, everything. Syn ཐམས་ཅད many, without exception, nobody left behind, all, everyone, whole, entire"
+msgstr "" 
+
+# མཁས་པ
+msgid "competent discerning; mi mkhas - who lack discernment, who are unable to discern erudite knowledgeable; erudition Pandita. A learned master, scholar, professor in Buddhist philosophy. means \'learned one.\' to be proficient in wisely, cleverly, skillfully; wise, learned; མཁས་པོ intr. v.; to know well; skillful, scholar, proficient, efficient, masterly, wise, capable, clever, experienced, expert, trained, practiced, skilled, erudite, the learned, skillful [as in skillful in means] competent, refined, accomplished, well-versed. 2) an expert, learned /_skilled person, specialist, expert, scholar. scholar, wise, sagacious, learned one, pandita, specialist. 3) scholarship, learning, learnedness. See also མཁས་པ,་མཁས་པ,་མཁས་པ; Pandita; learned/_wise/_scholarly; (learned) scholar; skilled (in/_at); learned/_a scholar"
+msgstr "" 
+
+# མགྲོན་ཁང
+msgid "a wayfarer\'s inn guest house, hotel; lodgings"
+msgstr "" 
+
+# མགྲོན་པོ
+msgid 'a guest; guest, visitor'
+msgstr "" 
+
+# མགོ
+msgid '1) head. 2) top, summit. 3) one of the 28 Nakshatras gods of the constellations རྒྱུ་སྐར་ཉི་ཤུ་རྩ་བརྒྱད 4) at first'
+msgstr "" 
+
+# མགོ་བོ
+msgid 'head heads'
+msgstr "" 
+
+# མགོན་པོ
+msgid '1) lord, protector, refuge, Lord, Protector, defender, savior, 2) patron, principal, master, 3) protector, guardian [of the Dharma] protective deity sovereign'
+msgstr "" 
+
+# མང་པོ
+msgid 'a large number of all sorts of, multitude, many, much, a lot, very, manifold, numerous, continually; many, amble, plenty, abundant'
+msgstr "" 
+
+# མཆིས
+msgid 'there are; 1) to be, go, there is /_are. 2) existential verb used the same as yod pa red. 3) p. of mchi; (h). yod pa) to have/_is, exists; come'
+msgstr "" 
+
+# མཆོག
+msgid '1) supreme, superior, most excellent, eminent, sublime; outstanding, foremost, excellent, most sublime, precious, finest, best, superior, highest, the best; exceptional. 2) honorific [used after proper names and titles] better ལས་མཆོག better than'
+msgstr "" 
+
+# མཆོད་པར་བརྗོད་པ
+msgid 'to show reverence; homage or offering verses'
+msgstr "" 
+
+# མཇུག
+msgid 'after, end, last, conclusion, tail, the rest of, to end, hind part, finish, terminate; (end) the rest of; tail conclusion'
+msgstr "" 
+
+# མཉམ
+msgid 'even, equal, alike, level, same, match'
+msgstr "" 
+
+# མཉམ་པ
+msgid '1) like, alike, equal, same. 2) even, moderate, level. Syn ཕྱམ་མེ equality; equal(ity) to be alike'
+msgstr "" 
+
+# མཐའ
+msgid '1) [anta] end, limit, fringe, limitation, boundary, limiting concept, ultimate, final, extreme, finality. 2) side, brink, flank. མཐའ་སྒྲུབ་པ extremes. 3) end, ending, edge, margin, brink, brim, final conclusion སྤྲོས་པའི་མཐའ creation, point, shore; extreme, limiting position [in philosophical contexts, limitation; foreign; limit, limitation, extreme, end, [anta]; limit/_extreme; sides; edge, fringe; extreme; brink; boundary; border country; basis edge, border'
+msgstr "" 
+
+# མཐའ་ཡས
+msgid '1) unlimited, illimitable, infinite, endless, boundless, limitless, unending. 2) abbr. of མཐའ་བྲལ Syn སྣང་བ་མཐའ་ཡས,་འབྱམས་ཀླས; infinity'
+msgstr "" 
+
+# མཐོང
+msgid 'insight; 1) [lit] to see, notice, perceive, realize, witness, to have insight. see [intuitively]. 2) sight, vision, the seen, perceived, experienced. 3) great view.4. to be attached, hang onto, experience, have insight into, witness, notice, sight, vision, in sight, the seen, perceived'
+msgstr "" 
+
+# མདོ
+msgid 'scripture, discourse Sutra, a discourse of the Buddha, 1) sutras. 2) a valley; lower part of a valley 3) cross-road, junction, confluence, juncture, crossing 4) in summary, briefly. 5) discourse, sermon, 6) scripture [in Anu yoga], 7) Syn Mahayana, མདོ་སྔགས 8) prudence, credibility Sutra, (mdo sde). 1) A discourse by or inspired by the Buddha. 2) A scripture of the Sutra pitaka within the Tripitaka. 3) All exoteric teachings of Buddhism belonging to Hinayana and Mahayana, the causal teachings that regard the path as the cause of enlightenment, as opposed to the esoteric, tantric teachings. 4) Scripture, (lung). a scripture belonging to the category of Anu Yoga or Ati Yoga'
+msgstr "" 
+
+# མདོར་ན
+msgid '1) Syn མདོར་བསྡུས་ན. 2) even, in short; in brief; in short In brief; syn མདོར་བསྡུ་ན in brief, . . . /_(to put it) concisely, . . . in conclusion to summarize'
+msgstr "" 
+
+# མན་ངག
+msgid "Oral instructions, (gdams ngag). As opposed to the scholastic tradition, the oral instructions of the Practice Lineage are concise and pithy so they can always be kept in mind; they are practical and to the point so they are effective means to deal directly with the practices of purifying one\'s obscurations and gathering the two accumulations upadesha, secret oral instruction, quintessential instructions; instructions; direct transmission (instruction); [oral] instruction, instructions, precepts, [secret] instruction. personal advice [on practice]. direction, information, esoteric instruction, precepts, quintessential instructions, pith instruction, crucial instructions, key instruction"
+msgstr "" 
+
+# མཚང
+msgid 'faults, defects /_deception; secret faults; faults, sins; defects, essence; hidden flaw; hidden faults, secret sins; hidden foundation/_underlying implicit harm'
+msgstr "" 
+
+# མཚན་མ
+msgid "attributes, features, characteristics defining characteristics symptom, quality, \'mark\' or \'sign\' (in more philosophical contexts); marks, signs, symptoms/_shapes, peculiarities; mark, distinguishing mark, [nimitta]; (ordinary) defining characteristic; indication; 1) quality. 2) sign, marks, identifiable attributes, characteristic, designation, symbol 3) symbolic, symbolically. 4) omen. 5) symptom. 6) adornment. 7) mark of existence, characteristics of substantiality, signs of own-being [Syn. ?? མཚན 8) conceptual reality"
+msgstr "" 
+
+# མཚན་མོ
+msgid Noneaaaaaaaa
+msgstr "" 
+
+# མཚུངས་པ
+msgid 'analogous to similar, like, equal; parallel/_analogous; congruent'
+msgstr "" 
+
+# མཚུངས
+msgid '1) equal, comparable, parallel, uniformity, the equivalent. 2) deserve, be worthy of. 3) to be like, resemble, be equal to'
+msgstr "" 
+
+# མཚོ
+msgid 'lake, ocean'
+msgstr "" 
+
+# མཚོན
+msgid "nad mtshon mu ge\'i bskal pa - age of illness, warfare, and famine warfare warfare; imp. of མཚོན་པ; illustrated, quoted, referred to; blade, starting; imp. of མཚན་པ; weapon; 1) weapon. 2) to reflect, to indicate, describe, show, display, demonstrate, to point out, to express, mean. 3) pointed or cutting instrument; weaponry"
+msgstr "" 
+
+# མཛད
+msgid 'make, compose [a text], perform, do, make, practice, perform, [favorable actions], practice, མཛད་བཟང the holy dharma, action, deed, work, action, སྐུ་གསུང་ཐུངས་ཀྱི་མཛད་པ your vast deeds. དོན་ཆེན་གྱི་མཛད་པ his deeds of body, speech, and mind; works, དམ་ཆོས your good works'
+msgstr "" 
+
+# མཛའ་བཤེས
+msgid "companions friends, relatives གཉེན་དང་མཛའ་བཤེས relatives or lovers gnyen mdza\' bshes - relatives and loved ones own kin"
+msgstr "" 
+
+# མཛེས་པ
+msgid 'adorned fair, beautiful, lovely; excellent, elegant, splendor, elegance, adorned, handsome. See also རྣམ་པ་བཞིན་མཛེས graceful handsome to bedeck'
+msgstr "" 
+
+# མི
+msgid "1) (birth as a) person, human[ity], people [R]; 3) [present/_future] not; 4) no choice but to -- [mi vb rang vb; mi vb ka bka\' med; mi vb mthuis mi vb thabs med] human being human being; [birth as a] human, man, human being, people. [manushya, Def. by Jamgön Kongtrül: འགྲོ་བ་དྲུག people, humanity. one of the ཤེད་བུའམ་ཡིད་རྟོག་དཔྱོད་ཀྱི་འཇུག་ཤས་ཆེ་བ the six types of existence; ordinary mortals; person human beings. Mipham ལུས་འཕགས་དང,་འཛམ་བུའི་གླིང,་བ་ལང་སྤྱོད,་སྒྲ་མི་སྙན་ཏེ་གླིང་བཞི,་དེ་དག་ལ་གླིང་གཡོག་གཉིས་རེ་སྟེ,་ལུས་དང་ལུས་འཕགས་སོགས་བརྒྱད་དོ The human beings occupy the four continents of Majestic Body, Jambu Continent, Bountiful Cow, and Unpleasant Sound. Each of these [continents are flanked by] two companion subcontinents, such as Body and Majestic Body, thus making eight in all (verb) + mi (verb) (med par) . . . - . . . (this is) (not) a question/_there is no question of (verb)"
+msgstr "" 
+
+# མི་མཐུན་པ
+msgid 'antithesis, factors discordant to diverse inconsistent, incongruous, clashing, conflicting inharmonious, discordant, unpleasant, incognigent'
+msgstr "" 
+
+# མིན
+msgid "is not, to be not, neither being nor non-being; verb + min = don\'t do the verb"
+msgstr "" 
+
+# མུན་པ
+msgid 'darkened, obscured darkness; obscurity, gloom, ( Skt. tamas); darkness, tamas, [one of the ཡོན་ཏན་གསུམ of the Samkhya philosophy]. empty space, obscuring, inertia, One of ཡོན་ཏན་གསུམ murkiness, tamas མུན་སྣམ (the) darkness (of ignorance); obscurity (Skt. tamas); (the state of) unknowing'
+msgstr "" 
+
+# མེ
+msgid ', 1) ; 1) fire, flame, ember [R]; 2) anaka, (the 50th year, male fire dragon; 3) three fire, flame, ember, Anaka, [the 50th year, Male Fire Dragon]'
+msgstr "" 
+
+# མེད
+msgid 'dispel, negates the verb will not, non-being. not having, nonexistent, without, -less, non-, un-, etc. beyond, devoid of, transcending, to lack, be short of, the absence of'
+msgstr "" 
+
+# ཙམ
+msgid "1) approximately, about, around, at least, the size of, for so long, as large/_minute as, - ish, like, tshad \'dzin pa [R]; 2) only [& excluding others], mere, just [a little], just barely [mang tsam: a little more phyed tsam: about half; slebs tsam: just barely arrived; nyo thub tsam barely able to buy: bshad tsam: just saying that] cf ji tsam, de tsam about, almost; just, only, merely, approximately, about, around, at least, the size of, for so long, as large /_minute as, just a little, a mere; as much as; size, as big as/_simply amounts to nothing but .. zla ba gcig tsam - for a month or so"
+msgstr "" 
+
+# ཚབས
+msgid "severe, intense, strong, intensity, very great, very much; [note: it\'s an intensive, usually joined with ཆེ]"
+msgstr "" 
+
+# ཚིག
+msgid 'burn; literal; word, talk, expression, sentence, line, saying, grammar, speech, phrase, term, name, utterance'
+msgstr "" 
+
+# ཚིག་རྩུབ
+msgid 'harsh talk harsh words, unpleasant speech. [def. གཞན་གྱི་སྙིང་ལ་མི་འཐད་པའི་ཚིག་ངན་པ་སྨྲ་བ'
+msgstr "" 
+
+# ཚུལ
+msgid '1) principle, manner, way, fashion, method. mode, aspect, species, kinds. 2) way of acting, conduct, behavior. form, capacity, custom, tradition, habit, system, approach, rule, established way, conventional style /_behavior 3) noon. 4) viewpoint; method, manner, mode; way, manner/_nature; way, method, the how-to; way, manner, mode, as, method way/_manner/_mode/_process (of); how . . .'
+msgstr "" 
+
+# ཚུལ་ཁྲིམས
+msgid 'discipline; morality; moral discipline, moral precepts, [shila]; ethical conduct, ethics, rule, order, monastic discipline /_mode of conduct, [Skt. shila]. one of the ཚུལ་མིན་གྱི་བྱ་བ་ལས་སྲུང་བའི་ཁྲིམས the six paramitas. def. ཕར་ཕྱིན་དྲུག morality and responsibility practice of discipline'
+msgstr "" 
+
+# ཚེ
+msgid "1) time, moment, when, at the point of. 2) life, -time, - span. 3) long life, power over life. 4) since, because. similar to སྐབས and དུས life; de\'i tshe - then; + verb - = when. kyi-tshe - at the time/_on the occasion of. in the context of; life/_longevity; lifetime, life, long life, longevity during this time just then .་.་.་ཀྱི་ཚེ once one has . . . ; at the time/_on the occasion of . . . ; in the context of . . . life (expectancy)/_longevity; lifetime Syn ཇུག་པའི་ཚེ fx འཆད་ཚེ from the point of view of critical examination; ངོ from the practical point of view [ggd]"
+msgstr "" 
+
+# ཚོགས
+msgid "accumulation. Provisions for the path. See \'two accumulations.\' [bsangs sbyang] byin gyis brlab pa la thugs gtad par zhu - \'Please direct your mind on the consecration, purification and blessing of the feast\' communal ritual performance Feast or gathering; means to bring many things together (mang po \'dzom bde ba) mass, accumulation, host, horde, collection, feast [R], ganachakra totality. 1) accumulation /_community [sangha] /_collection /_gathering, [feast] gathering, assembly, group. 2) to gather, assemble, collect. 3) multitude, hosts, crowds, mass. 4) a collection of merit, totality, accumulation. 5) swarm [of bees.] 6) equipment. 7) prerequisites, conditions. alt. imp. of འཚག་པ; collective offering; hosts"
+msgstr "" 
+
+# ཞི་གནས
+msgid "calm abiding/_shamatha Calm-state meditation Shamatha; \'calm abiding\' or \'remaining in quiescence\' after thought activity has subsided; or, the meditative practice of calming the mind in order to rest free from the disturbance of thought shamatha, calming the mind, being at peace, the state of peaceful calm, attaining peaceful calm; calm abiding/_shamatha; tranquility; tranquility meditation; shamatha, peaceful abiding, stillness, shamatha, calm abiding, resting in calmness, serenity [quiescence]. tranquility. dwelling in peace shamatha [R]"
+msgstr "" 
+
+# ཞི་བ
+msgid "1) goddess Uma; 2) Tara; 3) (Tha mi dad pa,, subside; 4) earth female cock year [R]; 5) karma of pacifying; 6) liberation/_nirvana; 7) wrathful zlog zla waning moon; 8) quiescence * quietude, pensive, peace, civil[ian] pacification, be peaceful, [nirvanic] calm, quiet( 1.peace, peaceful, pacification, [shanti], 2) Ultimate Peace, Nirvana; ཕྲིན་ལས་ལྔ intr. v.; tranquility; serene; quietude, peace, pacification, to be peaceful, pacifying, [nirvanic] calm, quiet, quiescence. one of the ཞི་བ,་ཞི་བ,་ཞི་བ the five activities. among the 16 aspects of the four truths: ma zhi bar byed pa \'du byed sdug bsngal nyer len gyi phung po rnams dang bral ba\'i mtshan nyid can} calm, tranquil; peace/_calmness/_tranquility/_quietude; peaceful (one of nine moods of dance) (met) 1) goddess Uma; 2) Tara; 3) (Tha mi dad pa),, subside [R]; 4) (met) earth female cock year [R]; 5) karma of pacifying [R] (6) liberation/_nirvana (7) wrathful zlog zla waning moon (8) quiescence [R] quietude, pensive, peace, pacification, be peaceful, [nirvanic] calm, quiet)/_[R] Peace, shanti. Nirvana to allay, pacify, calm, allay, quell; stillness"
+msgstr "" 
+
+# ཞིག
+msgid "1) a, 1 [NGA NA MA \' RA LA and mtha\' med bcas kyi rjes su sbyor rgyu\'i phrad gzhan dbang can zhig [EG mi zhig /_/gang zhig /_/sman thun zhig /_/bya ba zhig /_/yul zhig; 2) !) 1) a, an, 1, some [R]; 2) !); 3) fell apart, destroye[d] past: འཇིག; 4) clinging to) just about, approximately, roughly some ཆུ་ཞིག་འཐུང་པ drank some water some, destroy, destroyed, [particle]. pt. of འཇིག fell apart, destroy, the clinging to. an, a; destroyed; (particle); destroy! collapse!; destroy"
+msgstr "" 
+
+# ཞིང
+msgid '1) region, country, province; 2) object of ...; 2) [buddha] field; 3) source of; 4) place something is; 5) universe (6) and [R] and, bacause [R] field field; realm, buddhafield, [particle]. universe, Virgin land; a corpse; abode ཞིང་ཁམས pure realm/_field of experience'
+msgstr "" 
+
+# ཞུགས
+msgid 'to join, attend, take part in [a meeting etc.], enter; receive/_participate in; accept; intr. imp. of འཇུག་པ'
+msgstr "" 
+
+# ཞུམ་པ
+msgid "dpa\' mi zhum pa - do not lose courage ཞུམ་པ,་ཞུམ་པ,་ཞུམ་པ intr. v. to loose heart, be discouraged, depressed, discouragement, hesitant"
+msgstr "" 
+
+# ཞེ་འགྲས
+msgid Noneaaaaaaaaa
+msgstr "" 
+
+# ཞེ་སྡང
+msgid 'hatred, anger, aggression, aversion. hatred; aversion hatred, anger, aggression, aversion [R] hatred, one of the three poison དུག་ག་སུམ'
+msgstr "" 
+
+# ཞེན་ཆགས
+msgid 'attachment, attached feeling, emotion, sentiment, desire and attachment preferential attachment'
+msgstr "" 
+
+# ཞེན་པ
+msgid 'craving; to desire, conviction to conceive, conceiving [ggd] ཞེན་པ,་ཞེན་པ,་ཞེན་པ intr. v.; craving, attachment; to become attached; to cling to; to fixate/_seize (upon); to cling, to hold or cling tenaciously, to desire, insistence, conviction, clinging'
+msgstr "" 
+
+# ཞེས
+msgid "indicates commentary is coming up, ཅེས means \'as it was said\' and ཞེས་གསུངས་སོ means \'thus it was said\'. so called. thus [occurs after final g, d, b) and ཞེས་པ་ལྟར after all other, end of quotation; ces/_shes-bya-ba - termed/_referred to as. to refer to/_denote quote-unquote refers ལ་ཟེར so called, so it says, which is to say, thus [R] this (referring back to a citation /_quote)"
+msgstr "" 
+
+# ཟད
+msgid 'nor rnams zad - the jewels were gone waste; 1) verb. to exhaust, waste, finish, terminate, wasting, to wear out. 2) adj. extinct, finished, exhausted, terminated. 3) noun. extinction, exhaustion, termination. 4) only, nothing but, just. du-zad - to come/_boil down to. to be nothing more than.; spent; only, nothing but, merely'
+msgstr "" 
+
+# ཟླ་བ
+msgid 'moon [somah] Monday, month. Chandra [buddha]. months moon [somah] Monday, month Chandra [buddha] [R]'
+msgstr "" 
+
+# ཟིལ་པ
+msgid 'mist, dew, drop; dew'
+msgstr "" 
+
+# འཁྲུག
+msgid Noneaaaaaaaaaa
+msgstr "" 
+
+# འཁྲུང
+msgid 'grow up; cone into being, be born, grow up'
+msgstr "" 
+
+# འཁྲུལ
+msgid '1) deception, mistake, confusion, illusion, delusion. 2) frenzy, madness, mistake, illusion, error. Syn འཁྲུལ་བ, འཁྲུལ་པ'
+msgstr "" 
+
+# འཁྲུལ་བ
+msgid 'འཁྲུལ་པ intr. v.; 1) 2) to confuse, mistake, error. 3) be bewildered, deluded, deceived, which One? be confused, mistaken about, erroneous. 4) vi. to have an illusion, false impression, hallucinate. 5) to be deranged. 6) to be dislocated, distorted. See also འཁྲུལ་བ,་འཁྲུལ་བ,་འཁྲུལ་བ confusion, bewilderment, mistakenness, delusion'
+msgstr "" 
+
+# འཁྲུལ་སྣང
+msgid "1) confused experience, projection, deluded perception, appearances, mistaken phenomena, appearances, erroneous perception, delusion. Syn འཁྲུལ་པའི་སྣང་བ. 2) illusion, hallucination. confused appearances; appearances/_apparent phenomena based upon/_arising from (states of) confusion; confused appearance; delusory appearances confused experiences hallucinations འཁྲུལ་སྣང་བསམ་གྱིས་མི་ཁྱབ་པ myriad hallucinations hallucinations; x འཁོར་བའི་འཁྲུལ་སྣང་ཐམས་ཅད་ཀྱི་རྩ་བ the root of all samsara\'s hallucinations"
+msgstr "" 
+
+# འཁོར
+msgid "བླ་མའི་འཁོར your teacher\'s entourage retinue, circle; companions; 1) retinue, followers, entourage, court, attendants, servants, disciples [family and friends], waiter. 2) circle, sphere, disk, wheel, mandala, turning, revolution, circuit, སྐོར་བ in the outer circle [around the main figure]. 3) the retinue or group of lesser figures placed around the main figure, accompanying, attendant [feature, attribute etc.]. 4) surroundings, vicinity, nearby area. See also འཁོར་བ, ཕྱི་འཁོར 5) magnetizes revolves"
+msgstr "" 
+
+# འཁོར་བ
+msgid "cyclic life Samsara. \'Cyclic existence,\' \'vicious circle\' or \'round\' of birth and death and rebirth within the six realms of existence, characterized by suffering, impermanence, and ignorance. The state of ordinary sentient beings fettered by ignorance and dualistic perception, karma and disturbing emotions. Ordinary reality, an endless cycle of frustration and suffering generated as the result of karma to be caught in cyclic existence to rotate, spin; Samsara, cyclical existence, [samsara]; བསྡུ intr. v.; 1) to turn round, to turn about, to go round, 2) Samsara, samsaric world. cyclic existence/_samsara. life-cycle, revolution, the cyclical existence of sentient beings who suffer through the round of rebirth. phenomenal, transmigratory existence, round of existence, vicious circle. v. to circle, turn, spin, rotate, cycle, revolve, take one\'s turn, go around, to wander, walk around, circumambulate, ramble, move around. 3) to be surrounded, encircled. 4) to return. 5) travel through, transmigrate. 6) presence. 7) to be present, hang around, be attracted, drawn to, magnetized. 8) to surround, encircle. Syn སྐོར་བ 9) to attract, magnetize, draw to, in, gather. Syn འཁོར་བ,་འཁོར་བ,་འཁོར་བ 10) to think of, come to one\'s mind. 11) to elapse, complete a cycle [of time] 12) to spin [of the head], be dizzy 13) world to turn around"
+msgstr "" 
+
+# འགའ་ཞིག
+msgid 'anyone; a few, some some བདག་གི་སྐྱོན་འགའ་ཞིག་གཟིགས་པ have glimpsed some fault in you'
+msgstr "" 
+
+# འགྱུར
+msgid 'will be, become; see འགྱུར་བ,་གྱུར་པ; increase'
+msgstr "" 
+
+# འགྲན་སེམས
+msgid 'became jealous competitive[ness]. rivalry mind of contention'
+msgstr "" 
+
+# འགྲིབ
+msgid 'འགྲིབ་པ. p. grib'
+msgstr "" 
+
+# འགྲུབ
+msgid 'see གྲུབ་པ; pf. འགྲུབ་པ'
+msgstr "" 
+
+# འགྲོ
+msgid 'pf ཕྱིན་པ,་སོང་བ 1) to move, walk, go, proceed, transmigrate, migrate. 2) beings, transmigrators. 3) go, become, serve, pursue, act'
+msgstr "" 
+
+# འགྲོ་བ
+msgid ". . . du \'gro ba - to come to . . . འགྲོ་བ,་ཕྱིན་པ,་འགྲོ་བ,་སོང intr. v. 1) n. living, sentient beings, creatures, \'migrator\', transmigrator, loka, world [of living beings]. 2) v. to go, follow, migrate, will become, to go, beings. 3) to travel, walk, come to. go (about); go off to; go/_come into/_off to, enter. 4) destiny, migration, gati; going constantly/_repeatedly/_far Migrators, Migrating beings, jagat, or (\'gro rnams). Sentient beings, wandering continually from one samsaric existence to another to go (about); being(s); isc. to be wandering being, wanderer worth; དངུལ་སྲང་བཞི་བཅུར་འགྲོ་བའི་གཟིམས་གུར a tent worth forty silver \'sang\'"
+msgstr "" 
+
+# འགྲོགས
+msgid "had their way with ཆོམ་རྐུན་རྣམས་ཀྱིས་སོ་སུམ་བའ་ཞག་གཅིག་འགྲོགས the robbers had their way with Sosumba for a day spend time with, be with ཡུན་རིང་པོ་ཅི་ཙམ་དུ་འགྲོགས་ཀྱང however much time you have to spend with to associate with, be with, be in the company of, have a relationship with, have a close relationship. དང་འགྲོགས་ཡུན་རིང་བ long habituation ཡུན་རིང་འགྲོགས་ན་སངས་རྒྱས་སྐྱོན་ཡང་མཐོང to \'find fault even in the Buddha if they were to live with him long enough\'"
+msgstr "" 
+
+# འགལ
+msgid 'mix up; x གོང་འོག་ནོར་ནས་བཟུང་ན་བསྟན་པའི་བབས་དང་འགལ if you remember it out of order, you will mix up the proper sequence of the teaching vi. to be contrary, to violate, to contradict, controversy, oppose, transgression, gone against, violate. ལས་འགལ་བ [our actions runs) contrary to the Dharma. བཀའ་དང་འགལ violate the command. ཆོས་འགལ to violate, commit'
+msgstr "" 
+
+# འཆིང
+msgid 'p. ཆིངས, imp. བཅིངས, to tie, bind, fetter, bond, tie, fetter, bondage'
+msgstr "" 
+
+# འཇའ་ཚོན
+msgid 'rainbow-colored, rainbow, rainbow colors. Syn འཇའ'
+msgstr "" 
+
+# འཇིག
+msgid 'བཤིག་པ to destroy/_do away with བཞིག་པ to be destroyed/_disintegrate; phase of destruction p. ཤིགས f. གཞིག imp. བཤིགས 1) to break, destroy, exterminate, to extinguish, to demolish be destroyed. 2) vi. to come to ruin, to fall to pieces, decay, perish, disintegrate, collapse'
+msgstr "" 
+
+# འཇིག་རྟེན
+msgid '1) the external, physical world, the world, the external world, world system, worldly, mundane, ordinary, society. 2) mortal, subject to destruction, death, the receptacle for destruction, liable to fall apart; Loka; the world; world, world system, worldly; (ordinary) world(-system)/_universe mundane'
+msgstr "" 
+
+# འཇུག
+msgid "infuse, insert; actual usage of a term, collection engage. p. རྣམ་ཤེས་ཡུལ་ལ་འཇུག 1) to go into, enter, participate. 2) follow [the path, doctrine], to get oneself involved, engaged in, occupied with, steady pursuance. 3) put, fill in, stuff, to put into, to go into, put in, insert. 4) to let, allow, permit. 5) to make, force. 6) to put under, bring under [power, control] stuff, bring into, practice, enjoin, permit, to make, cause, enable, establish, initiate, in, perceive, occupied with, pervade, permeate, express [through the three kayas etc], proceed, function, act, start working, entertain, engagement, application, involvement, action, functioning, \'perception\', manifestation, incarnation, continuity [of cause and effect], བྱེད་དུ་འཇུག་པ to entertain the idea that.]. བྱེད་འཇུག་པ completely permeates about compassion-], རབ་འཇུག to make, cause, enable, འདུ་ཤེས་འཇུག to make, cause, enable]. ཞུགས the consciousness engaged in an object]; induce"
+msgstr "" 
+
+# འཇོམས
+msgid 'p. འཇོམས་པ f. ཆོས imp. གཞོམ 1) subdue, quell, conquer, to vanquish, abolish, suppress, beat, overcome, forcibly control, destroy, smash. 2) vi. to go down, quiet down. see བཅོམ'
+msgstr "" 
+
+# འདྲ
+msgid "1) copy. 2) vi. to be alike, be the same. 3) like, as, according to, in accordance with, probability verb + pa \'dra - must be that (the verb occurred)"
+msgstr "" 
+
+# འདྲ་བ
+msgid 'དང་འདྲ་བ trans. v.; to resemble; same, similar, alike, like, similarity, resemblance, equal; འདྲ་བ,་དྲས་པ,་དྲ་བ,་དྲོས similar to, analogous to, approximation of, image, likeness, resemblance སེམས་ཅན་ཐམས་ཅད་རང་དང་འདྲ་བ all other beings are just like you similarities, similar [ggd]'
+msgstr "" 
+
+# འདས
+msgid 'p. of འཇིག་རྟེན་ལས་འདས་པ to pass over /_above /_into /_beyond /_away, transgress, surpass, overtake, surmount, exceed, trespass, transcend, go beyond, pass, - /_spend /_waste time, more than, the past, - Syn མྱང་འདས Syn འདའ; 1) vi. to pass [time]. 2) vi. to pass away, to die 3) to transgress violate 4) vi. to go beyond, exceed, surpass'
+msgstr "" 
+
+# འདི
+msgid 'now, this, the present, the respective, this life /_lifetime'
+msgstr "" 
+
+# འདི་དག
+msgid 'am. འདི་ཚོ these beings'
+msgstr "" 
+
+# འདུ་ཤེས
+msgid 'Skt. samjna, 1) notion, conception, perception, activity, apprehension, concept, consciousness, consideration, discernment, discrimination, discrimination, distinguishing, idea, ideation, image, name, recognition, feelings, thought, perceptions; one of the འདུ་ཤེས་པ. 2) ཕུང་པོ་ལྔ to perceive; hold a notion /_an idea, entertain an idea, feel an inclination of, think'
+msgstr "" 
+
+# འདུད
+msgid 'I bow down! I bow to to pay homage to; (I) pay homage, pray to'
+msgstr "" 
+
+# འདུན་པ
+msgid 'བསམ་བྱའི་དངོས་པོ་དོན་དུ་གཉེར་བ, intr. v.; 1) to desire, to wish earnestly, to yearn, 2) Def. by Jamgön Kongtrül: འདུན་པ,་འདུན་པ,་འདུན་པ intention, as one of the five object-determining mental states. 3) attitude; strong interest, aspiration, wish, determination, inclination, intensity, yearning, zeal, purposeful intent, will, craving; goal, aim; intention, motivation, aspiration, determination, impetus, interest, wish to act, resolve, will, volition, longing, trust, craving, willingness, regard for, planning, goal, scheme, preoccupation'
+msgstr "" 
+
+# འདུལ
+msgid 'see འདུལ་བ: n 1) vb 2) adj 3)'
+msgstr "" 
+
+# འདུས
+msgid 'འདུས་ནི་རྫོགས་པ་ཆེན་པོར་འདུས As inclusion, they are included within the Great Perfection Syn འདུ་བ; imp. of འདུས་པ; to subsume; concentrate'
+msgstr "" 
+
+# འདེབས
+msgid '1) to sow, to plant. 2) a verbalizer 3) to throw /_cast /_strike /_hit 4) puncheon, time'
+msgstr "" 
+
+# འདོད
+msgid "desire /_want/_wish to [\'dod byed OR byed \'dod] passion \'I accept it!.\'; accept, proclaim, maintain, ཁས་ལེན"
+msgstr "" 
+
+# འདོད་ཆགས
+msgid 'attachment, desire; desire-attachment; passion, lust; Def. by Jamgön Kongtrül: ཁམས་གསུམ་གྱི་གནས་ལུས་ལོངས་སྤྱོད་ལ་ཞེན་པ Attachment, as one of the six root disturbances passion, desire, attachment, lust [one of the six root kleshas R]'
+msgstr "" 
+
+# འདོད་པ
+msgid "ambition chad nas \'phro mi \'dod pa - grow weary and feel disinclined to continue craving འདོད་པའི་ཁམས; 1) to wish/_desire; hanker after; lust for, 2) desire; longing, crave, desire, like, desire to do, lust, passion, zeal; attachment, attraction to sense pleasures, be willing, wish, hanker for, aspire to, have in mind, want, hope for, wish; lust; ex. ཁས་ལེན to hope for signs of attainment 3) Syn གྲུབ་རྟགས་+, to suppose, claim, admit, consider, assert, regard as, believe, maintain, proclaim, accept, hold/_maintain (i.e. philosophically); 4) acceptance, admission, belief, claim, consideration, posit, proclamation of one\'s view, 5) Syn འདོད་པ,་འདོད་པ,་འདོད་པ self-centered བཙུན་མོ་དེ་འདོད་པས་ངོ་ཚ་དང་བག་ཡོད་བྲལ་ཏེ the queen was thoughtless and self-centered suppositions, a positing of ... to hold, maintain"
+msgstr "" 
+
+# འཕྲད
+msgid 'came upon མིའམ་ཅི་མོ་ཞིག་དང་འཕྲད came upon a lady gandharva encounter, meet; to meet, see, touch, encounter, knock against, run into, come across'
+msgstr "" 
+
+# འཕྲལ
+msgid '1) present, now, immediate; temporary, momentary, colloquial, petty, momentarily, now; at present, immediately, temporary, sudden, for a little while; sudden. འཕྲལ་བ to be separated off from/_parted with; be isolated from'
+msgstr "" 
+
+# འཕྲོག
+msgid 'deprive, ebb; plunder, ravish away, to rob, snatch, take by force, ravish away, pinch, steal, be stolen away'
+msgstr "" 
+
+# འཕེལ
+msgid 'breed flourish, expand, growth, increase, multiply, expand, wax, perpetuate, to grow, perpetuating [the kleshas]. to in be increased, spread, developed, advanced, carry out, develop, unfold, increase, multiply, grow, to be well-developed, abundant, expansion'
+msgstr "" 
+
+# འབད་པ
+msgid "effort, endeavor, to fall ft. of འབད་པ; འབད་པ,་འབད་པ,་འབད་པ,་འབོད trans. v.; concentrate, diligent, exertion, perseverance, effort, apply one self, put effort into, persevere in, be diligent, exert one self, recite, earnestly, exert [yourself], exert [yourself] in reciting, diligent; to strive, make effort; effort, endeavor, exert one\'s self, apply one\'s self, effort, trouble, struggle, strain, endeavor, striving, pains; pf. of འབད་པ , be diligent in"
+msgstr "" 
+
+# འབབ
+msgid 'See གྲོང་ཡུལ་དུ་མི་འབབ a fall of snow, to fall, drop down; fall [like rain] ཕ་འབབ I shall not go down to the village. happen'
+msgstr "" 
+
+# འབའ་ཞིག
+msgid 'just, only, exclusively, unique, solely, alone, single only, exclusively, unique སྙིང་རྗེ་འབའ་ཞིག་བསྒོམ་པ cultivating solely compassion ཡོན་ཏན་འབའ་ཞིག་ལ་བསམས thinking only of his virtues'
+msgstr "" 
+
+# འབྱུང
+msgid 'the elements; can get, to arise, started, arise, occur, be. future [as in མངོན་འབྱུང. reap. སྔོན་འབྱུང happen, befall, experience, emerge, come forth, become, exist, appear, you will experience, will happen will have'
+msgstr "" 
+
+# འབྱུང་གནས
+msgid 'source, origin; mine'
+msgstr "" 
+
+# འབར
+msgid Noneaaaaaaaaaaa
+msgstr "" 
+
+# འབྲང
+msgid 'chase, pursue; follow rgyas bum-gzugs - full-breast vase-shape'
+msgstr "" 
+
+# འབྲལ
+msgid "dang mi \'bral shog - May we never be separate from forget; to be separated from/_free from"
+msgstr "" 
+
+# འབྲས་བུ
+msgid "fruition. The result, usually the end of a spiritual path. One of the three levels of enlightenment of a shravaka, pratyekabuddha or bodhisattva. In Mahayana the state of complete and perfect buddhahood; in Vajrayana the \'unified state of a vajra-holder,\' in this book expressed as the \'25 attributes of fruition.\' See also \'view, meditation, action and fruition.\' result(ant factor)/_effect; fruition/_goal(aspect); Fruit, result, consequence, [phala]; 1) effect, fruit, consequences, fruition, result, goal, aim. 2) accomplishment, attainment, outcome. 3) adj. resultant, fruitional. 4) fruit. 5) harvest. 6) testicles"
+msgstr "" 
+
+# འབྲིང
+msgid 'mediocre, average; medium, middle, intermediate, middling, in-between, average, midst, mean, moderate, the average man, middle length'
+msgstr "" 
+
+# འབྲེལ
+msgid "link, related, relation, connection, relationship, contact, association, to be connected with /_to, encounter, be united with, linked to, related to, connect to /_with, relevant\' pertinent /_pertaining to, in connection with, relation, liaison, encounter, be united with, linked to, related to, connect to /_with, relevant\' pertinent /_pertaining to, in connection with"
+msgstr "" 
+
+# འབུར་འཇོམས
+msgid Noneaaaaaaaaaaaa
+msgstr "" 
+
+# འབེབས
+msgid Noneaaaaaaaaaaaaa
+msgstr "" 
+
+# འབོར
+msgid 'to lose, discard, fling away; leave'
+msgstr "" 
+
+# འཚོ་བ
+msgid "recovery; x ནན་ཏན་ཉམས་སུ་ལེན་པ་ནི་ནད་ཉེ་བར་འཚོ་བའི་འདུ་ཤེས་བསྐྱེད་པར་བྱའོ you should think of diligent practice as the way to recovery sustenance sustenance, support, subsistence; འཚོ་བ trans. v.; recover (from illness); one of the སྲུང་བ the eightfold noble path; (p. bsos/_sos f. gso) to graze, herd; nourishment; manner of earning his livelihood, to live, lively hood, to be alive, to live. to rear, nurture, guard Syn འཚོ་བ,་འཚོས་པ,་འཚོ་བ worldly living; intr. ft. of འཚོ་བ; intr. སྲུང་བ intr. v.; 1) substitute. 2) basic necessities. 3) to survive, to live, life, livelihood. 4) to rear, nurture, guard [sm. འཕགས་ལམ་གྱི་ཡན་ལག་བརྒྱད 5) nourishment; ft. of འཚོ་བ,་འཚོས་པ,་འཚོ་བ,་འཚོས ting nge \'dzin kyi zas kyis \'tsho ba byung ba - could subsist on samadhi as his only nourishment"
+msgstr "" 
+
+# འཛིན
+msgid "bill; \'dzin btang ba - to bill someone knowledgably [never forgetting the scriptures or the discipline] remember; x མི་བརྗེད་པར་འཛིན remember without forgetting to hold on to. uphold, upholding [the heart of realization], regarded, to catch, capture, seize, to control, manipulate, to grasp, master Syn ཟིན་པ grasp, fix, fixate on, take hold of. the act of seizing, seizure, grasp, gripe. habit, [notion], perceptual habit, the \'holder\', perceiver, apprehender; Dhara; ཁོང་དུ་ཆུད་པ། ཤེས་པ subjective perception/_grasping; to perceive/_apprehend/_grasp/_invest with"
+msgstr "" 
+
+# འཛིན་པ
+msgid "1) hold [firmly]; 2) eclipse; 3) ego grasping; 4) receive in the mind/_apprehend; 4) understand; 5) desire/_attachment (6) black aconite [R] (7) hand (8) thought/_wish, (9) subject)/_[take hold of, accept, grasp, cling, catch, grab, apprehend, grasp, hold, cling, fixate, bear [in mind], take up, accept, be accepted, hold [on to], fixate on, cling to, hold holder or \'fixation\', watcher, grasper, clinging, grasping, holding, fixation, retention, attachment, comprehending the teachings; 1 of the ཆོས་སྤྱོད་བཅུ (10) religious practices] Attachment Clinging remembering; x གོང་འོག་ནོར་ནས་འཛིན་པ remembering them out of order remember /_memorize subject, that which apprehends, [graha]; subject; memorize, retain/_to regard; to be a repository, to hold onto, to hold, adhere to; taking hold of, holder, accept, grasping, clinging, \'the holder\' or \'fixation\', \'the watcher\'. catch, grab, apprehend, the grasper \'the watcher\', to grasp, hold, cling, fixate, clinging, grasping, holding, fixation, retention, attachment, to bear, bearing in mind. 3) retain, comprehend the teachings, one of the བཟུང་བ,་གཟུང་བ,་ཟུང 10 religious practices. take up, to accept, be accepted, to hold, hold on to, fixate on, cling to, holds, taken up, ཆོས་སྤྱོད་བཅུ; to possess to apprehend [ggd] to conceive of .. to fixate; to apprehend; the apprehension process; to perceive; to grasp; to take to be (something); to hold to take hold of"
+msgstr "" 
+
+# འོང
+msgid 'to arise, come, gain, arrive, to suffice, ཡོང will become'
+msgstr "" 
+
+# འོན་ཀྱང
+msgid "at any rate, in any case, but, yet, however, nevertheless; but, yet, notwithstanding. furthermore; well; \'You might say (or think) so, but.\' or \'I disagree.\' however nevertheless Nevertheless,"
+msgstr "" 
+
+# ཡང
+msgid 'again [as the first word in a sentence]. but, yet, again, even, once more, and, also, further, then. although, thereupon, still, too, although, both, even, [not even]; upper moreover Once again, over and over, continually (in front of verbs) Soon, however, then'
+msgstr "" 
+
+# ཡང་དག
+msgid 'Vishuddha; 1) perfectly, in the right way, excellently. 2) real, actual, correct, true, perfect, right, proper, the very, really, verily, in reality, indeed, absolutely, truly, truth, completely, thoroughly, free, very, full, close, well Vishuddha. The heruka of the vajra family or the tantric teachings connected to that wrathful deity. One of the Eight Sadhana Teachings of the Nyingma School. The wrathful deity of vajra mind'
+msgstr "" 
+
+# ཡར་ངོ
+msgid 'དཀར་ཕྱོགས the waxing moon, the first 15 days of the month, including full moon. Syn ཡར་གྱི་ངོ'
+msgstr "" 
+
+# ཡིད
+msgid 'mind. [manas] mind, ideational consciousness; the intellect, mental functioning, thought, subject, subjective mind, thinking process, mental /_intellectual faculty, sentience, cognitive act, mental faculty, as compared with cognitive act and consciousness. consciousness. thought. [manas] mind, mental functioning, thought, mind, subject, subjective thinking process, mental /_intellectual faculty, sentience, cognitive act, as compared with cognitive act and consciousness; imagination; Manas, mind, functional mind'
+msgstr "" 
+
+# ཡིད་དུ་འོང་བ
+msgid 'appealing ལུས་མཛེས་ཤིང་ཡིད་དུ་འོང་བ beautiful and appealing pleasant, attractive, beautiful, lovely, delightful beauty. Syn ཡིད་འོང'
+msgstr "" 
+
+# ཡིན
+msgid 'is, are, both being and non-being. is, are'
+msgstr "" 
+
+# ཡུད
+msgid 'moment, instant'
+msgstr "" 
+
+# ཡུན
+msgid 'duration, time, length of time'
+msgstr "" 
+
+# ཡུལ
+msgid '1) Syn ཕྱོགས་བཅུ་ཐམས་ཅད་ན་གཟུགས་ཅན་གྱིས་བསྡུས་པའི་རྒྱུ་དང་འབྲས་བུ་ཡོད་པ་ཉིད་དོ object. sense objects, sensory objects, field, phenomena, subject of thought. 2) place, Location, as one of the ten non-concurrent formations. country, land, area, location, province. 3) homeland, village. 4) scope, domain, spatial sequence, sphere, region, limit, reach. 2) location, place, locale; (sensory) object; (objective) environment/_field; Def. by Jamgön Kongtrül: དོན object [as in subject and. or object and object holder]; homeland; home'
+msgstr "" 
+
+# ཡོན་ཏན
+msgid "1) attributes, good quality, excellence, taste, effect, virtue, accomplishment. 2) skill, ability. Syn ནུས་རྩལ 3) medical term. secondary quality, capability, capabilities, talents, attainment, achievement. 4) valuable property. 5) learning, knowledge; education. 6) objects, properties. 7) praise. (positive) quality; qualities, capabilities, talents; knowledge; enlightened attributes. offering, a present, gift, offering, fee, benefit, to repay accomplishments x གཞན་གྱི་ཡོན་ཏན་དང་གྲགས་པ་ལ་ཕྲག་དོག་ཆེ་བ most jealous of the accomplishments and prominence of others acquirement, skill, arts positive traits ནོར་ནི་ཡོན་ཏན་ཀུན་གྱི་སྲོག་ཡིན་ཞེས \'wealth is the lifeblood of all positive traits,\' they say spiritual qualities x རྒྱལ་པོའི་ཡོན་ཏན་དང་སྦྱིན་པའི་སྙན་གྲགས the fame of the king\'s wisdom and generosity"
+msgstr "" 
+
+# རྐྱེན
+msgid "circumstance, opportunity condition(s) that determine/_account/_are responsible for . . . + dang \'phrad tshe - as soon as bad times come (secondary) condition/_conditioning factor; circumstance; isc. property Skt. pratyaya; 1) condition, circumstance, [a co-operating /_contributing] cause. 2) adversity, calamity, misfortune, mishap, accident, bad circumstances /_luck, difficulties. Syn སྔར་མ་ཐོབ་པའི་ལུས་གཞན་དང་གཞན་ཐོབ་པ་དང་ཐོབ་ཟིན་པའི་ལུས་གཞན་དང་གཞན་དུ་འདའ་བའི་བྱེད་རྒྱུ་ཡིན་པའི་ཕྱིར་རྐྱེན་གྱི་མཚན་ཉིད་ཅན. 3) because. 4) object. see ཡུལ་རྐྱེན. 5) situation, opportunity. 6) favorable, circumstance, help. 7) occurrence, incident, event. 8) effect, result. 8) affixation (in grammar). occasion, by, on account of, event, case, obstacle, hindrance, a happy, favorable circumstance, furtherance, factor, contributory cause, circumstantial influence. (secondary) condition/_conditioning factor; secondary conditions (accompanying root cause); secondary cause, conditioning; circumstantial/_created by causes; among the 16 aspects of the four truths: Def. by Jamgön Kongtrül: རྐྱེན་ངན"
+msgstr "" 
+
+# རག་ལས
+msgid Noneaaaaaaaaaaaaaa
+msgstr "" 
+
+# རྒྱལ་བ
+msgid "Conqueror. jina, Buddha. Buddha dgra las rgyal ba - to vanquish one\'s enemy Jina, \'Conqueror\'. Victorious One. Same as a buddha; one who has conquered over the four maras Victorious One. Same Buddha Shakyamuni Victorious ones, jina. Same as buddhas victor, victor over the four maras; victorious one; to win/_be victorious; Jina, the Victorious One, (Syn. Buddha); conqueror; 1) [jina], victorious one, victor, conqueror, all the victorious ones [in general], conqueror. an epithet for the buddhas who are - conquerors of samsara. victor over the four maras. 2) the Dalai Lama (h). 3) Jaya, [the 28\'th year of རྒྱལ་བ,་རྒྱལ་བ,་རྒྱལ་བ Male Wood Horse]. Syn ཤིང་ཕོ་རྟ 4) Gyalwa, Jina. རབ་བྱུང intr. v"
+msgstr "" 
+
+# རྒྱལ་སྲས
+msgid "buddha-child, buddha-son, jina putra. bodhisattva, a Buddha-son, child of a conqueror, prince, bodhisattva, the victorious ones and their heirs /_sons and daughters, the heirs /_sons and daughters of the victorious ones; Jinaputra, son of the Victorious One, (Syn. Bodhisattva) spiritual heir/_child of the victorious ones; victorious one\'s child /_son; Offspring of the Buddhas or Conquerors: Bodhisattvas"
+msgstr "" 
+
+# རྒྱུ
+msgid "causal basis, causality, cause, primary cause, to wander, reason, seed, basic ingredient /_cause, causal basis, stuff, object, property, wealth, material [object], movement, circulation, for the sake of, that which, something to be + verbal action. v. to move, movement, the journey, to be on a journey, roam, flicker, opportunity, chance. 1) matter, substance, material. 2) cause [primary or direct], reason, root, causality, primary /_constituting cause. 3) [vb. + -- + linking verb] future particle expressing \'definite\' future action. 4) \'has yet to be done.\'. 5) possibility to do. 6) a] shouldn\'t do b] non-existence of something. ལས་དང་ཉོན་མོངས་པ་དེ་དག་ཀྱང་སྲིད་པ་སྐྱེ་བ་ཕྱི་མ་འགྲུབ་པའི་བག་ཆགས་ས་བོན་འཇོག་པའི་བྱེད་རྒྱུ་ཡིན་པའི་ཕྱིར་རྒྱུའི་མཚན་ཉིད་ཅན wander carefree; intestines; ingredients; cause, primary cause, [hetu]; (primary) cause/_causal factor; among the 16 aspects of the four truths: Def. Jamgön Kongtrül: བག་ཡངས་སུ་རྒྱུ་བ (primary) cause/_causal factor (verb) + rgyu - (something) to be . . . verb + rgyu - \'something to verb\'; object"
+msgstr "" 
+
+# རྒྱུད
+msgid "[alt.] being, mind, stream, a) continuity, being b) Tantra. abbr. མདོ་རྒྱུད Mahayoga. 1) tantra, tantra-texts, being [body, speech and mind], stream of being, mind-stream, continuity, continuum, \'linked together\', area, location, stream of existence, mind, heart, nature, existence. 2) the tantric teachings, texts. 3) via, through [sm. བརྒྱུད. 4) bank, shore, coast, edge, side, range. 5) lineage, descent. 6) area, location. 6) individual, person 7) bow string རྒྱུད sutra and tantra]. 8) continuum [or continua], tantra, string, cord. mind-stream; tantra/_continuum; mind-stream indirect, [opp to དངོས direct] [ggd] mind; ex རང་གི་རྒྱུད་ལ་བརྟག་དཔྱད་པ examining your own mind Stream-of-being, (sems rgyud). The individual continuity of cognition in an individual sentient being. continuity tantra/_continuum (of being); mindstream tantra. The Vajrayana teachings given by the Buddha in his sambhogakaya form. The real sense of tantra is \'continuity,\' the innate buddha nature, which is known as the \'tantra of the expressed meaning.\' The general sense of tantra is the extraordinary tantric scriptures also known as the \'tantra of the expressing words.\' Can also refer to all the resultant teachings of Vajrayana as a whole"
+msgstr "" 
+
+# རྒྱུན
+msgid '1) continuity, flow, stream, continuation, continuum. 2) duration, period, time, everlasting; 3) daily; often, usually 1) period [in a sucession EG year, month, day and dus tshod] [R]; 2) successive numbers/_count [R]; 3) continuity, flow, stream, continuation, continuum; 4) duration, time, everlasting) continua, continuum [ggd]'
+msgstr "" 
+
+# རང
+msgid "See རྗེས་ཡི་རང himself, self, self spontaneous, oneself, myself, etc, natural, own, intrinsic; self, itself, one\'s own, inherent, [sva ]; spontaneous/_natural /_self-/_own; very; 1) oneself, own, self. 2) intrinsic, natural"
+msgstr "" 
+
+# རང་བཞིན
+msgid "essence, own nature; Nature [in Hindu phil] [ggd] གཙོ་བོ primal matter (Samkhya term) nature (of being*); the very nature (of things); isc. (one\'s) true nature Prakriti, the \'ordinary\'; one of སྐད་རིགས་ཆེན་པོ་བཞི four great language groups Self-entity. Self-nature. An inherently existent and independent entity of the individual self or of phenomena. Something that can serve as a valid basis for individual attributes svabhava 1) nature, fundamental /_inherent /_ultimate nature, essence, own-being, character, quality, identity, self-nature. Syn གནས་ལུགས see ཆོས་ཉིད. 2) intrinsic reality, actuality essence. Syn voidness, 3) self-existence, 4) frame of reference, natural expression [of mind]. 5) natural, naturally, short for ནང་ཚུལ,་གཤིས 6) manifesting. 7) character, consist of. 8) essence, 9) himself, oneself, own, self, intrinsic, natural, self spontaneous; similar to གཙོ་བོ but when referring to sugatagarbha, རང་བཞིན refers to the emptiness part whereas ངོ་བོ refers to the luminosity or clarity part. 10) primal matter Syn ངོ་བོ. /_by nature, naturally. vi. to be of the nature of. type, manifesting, nature. Similar to རང་བཞིན་གྱིས, ངོ་བོ་རང་བཞིན་ཐུགས་རྗེ and བདག; consist of, essential [original] nature, own being, in its own being, state of own being, there has been born; independent existence; inherent nature/_self-nature/_the very nature (of things); natural forms [in grammar]. natural expression. the natural expression. essential [original] nature, state of own being, nature, inherent nature, actuality, frame of reference; nature, character; inherent nature, the true nature; natural character"
+msgstr "" 
+
+# རྗེས
+msgid 'tracks, footprints, trace/_after; the concluding; 1) after, later, following, that which follows, subsequent, ensuing, afterwards, concluding. 2) imprint, mark, sign left behind, back, trace, track, trail, footstep. 3) finally 4) honor, 5) conclusion [abbr. of རྗེ་བ; after; concluding section; imp. of རྗེས་ཀྱི་བྱ་བ; print, imprint'
+msgstr "" 
+
+# རྙེད
+msgid 'find; 1) gain, obtain, get, find out, acquire, discover, realize, develop, gain, acquisition. 2) to exist, be found'
+msgstr "" 
+
+# རྙེད་པ
+msgid 'came across; x སྔོན་མི་དབུལ་པོ་ཞིག་གིས་ནས་མང་དུ་རྙེད་པ the story of a poor man who came across a large pile of barley game [when hunting] obtained འཇིག་རྟེན་ཆོས་བརྒྱད intr. v.; found. gain, one of the རྙེད་པ,་རྙེད་པ,་རྙེད་པ eight worldly dharmas. to get, obtain, acquire, to meet with, find, to have attained; to discover'
+msgstr "" 
+
+# རྟག་ཏུ
+msgid 'always, constantly, continual. Syn རྟག་པ always, continually, permanently, ever, at all times, forever'
+msgstr "" 
+
+# རྟོག
+msgid 'to reflect on, conceive, think over, consider, weigh, deliberate, suppose, imagine, hypothesize, intellectualize, perceive, comprehend, understand'
+msgstr "" 
+
+# རྣམ་གཡེང
+msgid "Distractions distraction, see.རྣམ་པར་གཡེང་བ wandering, excitement, distraction, complete distractedness; dug gsum gang rung gi yul la sems rnam par \'phro ba} distraction; wandering/_inattentiveness/_restlessness"
+msgstr "" 
+
+# རྣམ་ཐོས་སྲས
+msgid 'God of Wealth Vaishravana Vaishravana, the god of wealth Vaishravana, the god of wealth, also Namsey'
+msgstr "" 
+
+# རྣམ་པར
+msgid "1) [the Sanskrit emphatic syllable \'vi\'] very, most, completely, fully, utterly, entirely, perfectly, thoroughly, by no means on no account, 2) in the form of, as, into the form, like. 3) in detail/_distinctly . . . completely . . . ; in detail/_distinctly . . . kyi rnam par - in the form/_shape of . . . ; as . . ."
+msgstr "" 
+
+# རྣམ་ཤེས
+msgid "Consciousness consciousness, [vijnana]; རྟེན་འབྲེལ་ཡན་ལག་གསུམ་པ་ནི། ཀུན་གཞིའི་རྣམ་ཤེས་ཀྱི་སྟེང་དུ་ལས་ཀྱི་བག་ཆགས་ཡོངས་སུ་བཞག་པས་རྣམ་ཤེས་དེ་ཉིད་ཡོངས་སུ་འགྱུར་བའི་ཆ་ཡིན་ལ། དེ་ལའང་རྒྱུ་དུས་ཀྱི་རྣམ་ཤེས་དང། འབྲས་བུའི་དུས་ཀྱི་རྣམ་ཤེས་གཉིས་སུ་ཡོད་དོ the cognitions; consciousness, consciousness principle, primary consciousness, discriminative cognition, [a point which needs to be made clear is the distinction between \'mind\' and \'consciousness.\' In the Buddhist tradition mind is purely that which perceives. It doesn\'t require brainwork, it is simple perception, just on the level of the nervous system. This instinctive function is called \'mind.\' In Sanskrit \'chitta\' means \'heart,\' \'essence\' that basic essence of mind which contains the faculty of perception. This kind of perception called mind [reacting to opposites and so on] is very direct, simple and subtle at the same time. Consciousness on the other hand, is articulated and intelligent, it contains \'mind\' feelings and thought patterns.]; mode of awareness perception; skye gnas su \'khrid par byed pa\'i rgyu རྣམ་པར་ཤེས་པ (ordinary) consciousness (one of twelve links of interdependent connection)"
+msgstr "" 
+
+# རྣམ་སྨིན
+msgid '[karmic] effect [ggd] karmic retribution, karmic reprisals; རྣམ་སྨིན་ལ་མི་འཛེམ་པ the slightest concern for karmic retribution later; fully ripened (karma); by striving, full ripening [of actions]. ripening of the nature of karma-result, karma result, karmic ripening, [moment of] maturation. inherited, result of past karma, total ripening, ripening'
+msgstr "" 
+
+# རྣམས
+msgid 'all, everything, everyone etc. many, ordinary people, piece by piece, plural particle, plural postposition, the causal vehicles'
+msgstr "" 
+
+# རབ
+msgid 'highest; culminating point, superior, excellent. Syn རབ་ཏུ 1) [an intensifier] fully, very, extremely, totally, absolutely, intense, intensive. 2) excellent, excellence, superior, highest. 3) the superior man. culminating point. Syn རབ་ཏུ 1) [an intensifier] fully, very, extremely, totally, absolutely, intense, intensive. 2) excellent, excellence, superior, highest. 3) the superior man རབ་ན in the very best of cases . . . རབ་ཏུ utter(ly)/_absolute(ly); intens(iv)ely'
+msgstr "" 
+
+# རྨི་ལམ
+msgid '1) dream; dream, dreaming, dream-like. 2) one of ཆོས་དྲུག'
+msgstr "" 
+
+# རྩྭ
+msgid 'grass, herb, plant [Sngo rtswa,...Skya rtswa,...Phyugs rtswa,...Ri rtswa,...Klung rtswa]'
+msgstr "" 
+
+# རྩུབ་པོ
+msgid "1) oppopsite of soft, coarse, rough, harsh, crude [R]; 2) bad, poor [R]; 3) fierce, unpleasant, harsh [R]; 4) Skya ba dang, \'byar bag med pa,...Sman gyi nus pa rtsub pa,...Sman gyi yon tan rtsub po 1) oppopsite of soft, coarse, rough, harsh, crude [Ras rtsub po,...Snam bu rtsub po,...Rtsam pa rtsub po,...Mar kha rtsub po,...Pang leb rtsub po]; 2) bad, poor [\'Gro lam rtsub po,...Snga ltas rtsub po]; 3) fierce, unpleasant, harsh [Skad cha rtsub po,...Bya spyod rtsub po,...Gshis rgyud rtsub po]; 4) Skya ba dang, \'byar bag med pa,...Sman gyi nus pa rtsub pa,...Sman gyi yon tan rtsub po"
+msgstr "" 
+
+# རྩེ
+msgid 'apex, compassion focal-point; point, peak, tip, top, summit, peak, apex, to play, རྩེད'
+msgstr "" 
+
+# རྩོད
+msgid 'imp. of རྩོད་པ; to debate, argue, dispute, discuss, quarrel, contend, strife'
+msgstr "" 
+
+# རྩོམ
+msgid 'compose, write, make, create, cause, commence, start, begin. cultivate, apply, composition [made of particles]'
+msgstr "" 
+
+# རྫས
+msgid '(material) substance; substantial entity; article, object, thing/_matter, substance/_riches, possessions; real, material thing, materials, thing, matter, object. ritual objects 11. 1'
+msgstr "" 
+
+# རྫོགས
+msgid 'complete, perfect, concludes, finished, fulfilled, terminate, end up perfectly contained'
+msgstr "" 
+
+# རླབས་ཆེན
+msgid 'magnificent, a great undertaking'
+msgstr "" 
+
+# རིག་པ
+msgid "aptitude for studies reasoning; as in རྣམ་བཤད་རིག་པ Well Explained Reasoning Rigpa. The state of awareness devoid of ignorance and dualistic fixation vidya 1) ཤེས་རིག intr. v.; to know, cognize, understand, see, be aware of. 2) intelligence, cognition, understanding, knowledge, insight. 3) intellectual reasoning, rationality, logic, philosophy, [intrinsically] real, reason, intellect, awareness, insightful; science 4) knowing, nondual mind, pure /_sheer presence, awareness mind, wakefulness, intuitive awareness, intrinsic awareness, awakeness, immediate awareness. 5) noun. the knower /_cognizer, mind [Syn རིག་པ,་རིག་པ,་རིག་པ. 6) Two of six/_eight qualities describing the sangha. 7) in gnas \'gyu rig gsum - noticing. 8) mantra"
+msgstr "" 
+
+# རིང་པོ
+msgid 'long, elongated tall'
+msgstr "" 
+
+# རིན་ཆེན
+msgid 'fine x གྲོང་དང་རིན་ཆེན་སྐྱེད་ཚལ་འདི this city and fine garden gem, precious, jewel, jeweled, precious jewel, very dear, valuable; jeweled, jewel, precious, gem Ratna, dkon mchog). Jewel, precious'
+msgstr "" 
+
+# རིམ་པ
+msgid "chapter; རིམ་པར་ཕྱེ་བ་གསུམ་པ third chapter stage, degree, rank, level, grade, part, chapter, sequence, progression, sections, succession, order, phases, progression, turn, series, steps, sequence of events, procedure; in category, a multiplication (x\'s); rank; series, stage (of practice)"
+msgstr "" 
+
+# རེ
+msgid "1) each, some. 2) hope, rely. 3) used as a negative particle. རེ་བ won\'t I think of?; 1) each, single, a single one, some, something, one to each, one at a time, some. 2) hope, rely. 3) used as a negative particle. མི་བསམ་རེ won\'t I think of? 4) not, abbr. for མི་བསམ་རེ hope; verb + : worth doing the verb. how/_so. !; how!/_a, an /_some; verb + re - worth doing the verb noun + re + noun - Das: Under \'re\', 4) Occurs as a particle mostly put between two closely connected words for the purpose of giving the compound word a verbal signification; thus སེམས་རེ་སྐྱོ signifying compassion, can be split in two with the particle དང་རེ་སྤྲོ between them and then it means: to take pity upon ཞེ་རེ་སྐྱིད; in the same manner དོན་རེ་ཆུང fatigue becomes ཡི་རེ་མུག = was fatigued. In like manner, we have ཞེ་རེ་འཇིགས; སྐྱུག་རེ་ལོག, [to be delighted]; བློ་རེ་བདེ; ཉམས་རེ་དགའ; འོ་རེ་བརྒྱལ; འོ་བརྒྱལ. MSS: To this list we can add: སྙིང་རེ་རྗེ; རེ; སྙིང་རྗེ, I\'m feeling sad, how sad. [mss]"
+msgstr "" 
+
+# ལ
+msgid 'and on what! how! གསུང་སྒྲོས how kind is the guru!. [particle] as for; གསུང་སྒྲོས as for the sayings [of.]. mountain pass. [particle] as for, བླ་མའི་ཐུགས་རྗེ as for the sayings [of.]; mountain pass; so/_in order to; what! how! བླ་མའི་ཐུགས་རྗེ how kind is the guru!; what! how! གསུང་སྒྲོས how kind is the guru!. [particle] as for; གསུང་སྒྲོས as for the sayings [of.]; hillside, mountain slope; a mountain pass; /_la ka - a mountain pass; [particle] as for, བླ་མའི་ཐུགས་རྗེ as for the sayings [of.]'
+msgstr "" 
+
+# ལ་སོགས
+msgid 'and others and so forth and various other [texts] including including, such as, for instance, as well as, together with'
+msgstr "" 
+
+# ལག་ལེན
+msgid 'procedure, application, handling; ritualistic procedures rubrics; application, what one does [actually]. to engage in. to take in hand, tradition. Syn ཕྱག་བཞེས; practice; to engage in, to take in hand, tradition. Syn ཕྱག་བཞེས application, what one does [actually]'
+msgstr "" 
+
+# ལྔ
+msgid Noneaaaaaaaaaaaaaaa
+msgstr "" 
+
+# ལྟ
+msgid 'regard, consider; looking upon, to see, look at, view, seek, observe, gaze, pay attention, watch, regard, believe, should be viewed as'
+msgstr "" 
+
+# ལྟ་བུ
+msgid 'like; regard as, for example; such as, similar'
+msgstr "" 
+
+# ལྡན
+msgid 'to have, possess, be endowed with, in possession of, imbued with, possessed of; endowment, possession; conjunction, connection, having, possessing'
+msgstr "" 
+
+# ལྡན་པ
+msgid '1) to have, possess, having, be accomplished, in junction with; endowed with, དང་མི་ལྡན་པ endowed with; དང་ལྡན་པ lacking. 2) endowment, possession equipped with'
+msgstr "" 
+
+# ལན
+msgid 'return [of a favor]; answer, reply, because of, due to, blame, fault, times [Syn. ཐེང as in many times]; gang gis lan na - Why?'
+msgstr "" 
+
+# ལན་ཚྭ
+msgid 'rock-salt'
+msgstr "" 
+
+# ལམ
+msgid '1) the Path, path, way, road, [marga]; (spiritual) path; path aspect; path. road. 2) 13th of the ལམ་མེ་བ among the 16 aspects of the four noble truths: Def. by Jamgön Kongtrül: ལུགས 3) བསྒྲུབས་པས་ཆོས་ཀྱི་དབྱིངས་དེ་ཁོ་ནའི་དོན་འཚོལ་ཞིང་རྟོགས་པར་བྱེད་པའི་མཚན་ཉིད་ཅན system; 4) vivid, see also འཕགས་པའི་བདེན་པ་བཞི་རྣམ་པ་བཅུ་དྲུག་ཏུ་ཕྱེ་བ Paths. The five paths or stages on the way to enlightenment: the path of accumulation, joining, seeing, cultivation, and no more learning. They can be explained differently according to each of the three vehicles'
+msgstr "" 
+
+# ལས
+msgid '1) karma [action]. karmic action /_deed, world-forming deeds. action application, application of the activities, act, deed, work, fortune, destiny, function, karma, karma and its results, karma and its consequences, the principle that every action produces result. karma/_action. Ex ཕྱག་རྒྱ་བཞི past good deeds. 2) rather than/_besides, other than; other than this. than, [comp. case]. + neg. verb - not more than. activity; due to (the fact that).; than (more than); 3) says, states, mentions [when quoting a scripture]. 4) one of the སྔོན་ལས་བཟང four mudras but from which in such-and-such it says: karma/_action .་.་.་ལས་མི་གཞན་པར (to be) none other than . . . .་.་.་ལས there is only/_other than . . . ; due to (the fact that) . . . ; isc. within . . . ; isc. but rather . . . ; isc. this is nothing but . . . ; isc. (but) even so says; x རྣམ་བཤད་རིག་པ་ལས the Well Explained Reasoning says so; ཁ་སྐོམ་པ་ལས་ཆུ་ཞིག་འཐུང his throat felt very dry, so he drank some water task ལས་བཟང་པོ་དང་ངན་པ་ཅི་དང་ཅི་ལྟ་བུ་བཀའ་སྩལ་ཀྱང་མི་ཐེག་པ་མེད་པ་ཟམ་པ་ལྟ་བུ like a bridge, there should be nothing that we cannot bear, however pleasant or unpleasant the tasks he asks us to do'
+msgstr "" 
+
+# ལྷ
+msgid '1) gods [as in worldly gods, or Desire realm gods]. 2) deity, divinity [as in meditational-]. god, deva, 3) divine, sacred. gods. sentient beings of the higher realms. deva. gods within the three realms of samsara. celestial being[s), divine ones, pleasure being, yidam, deva. celestial being[s), yidam, deva. divine; god, deity, Deva; sublime 1) king; 2) buddha [R]; 3) god/_deva [R]; 4) 8 [R] celestial beings Celestial beings deity; [detailed expl., Light of Wisdom, Vol. 2, page 62]'
+msgstr "" 
+
+# ལྷག་པ
+msgid '1) especially. 2) remains, more, superior, exceptional, remainder, greater, more than, exceeding, excess. 3) duplications. 4) a wind. 5) Wednesday [the planet Mercury]. 6) cold wind. 7) the partially defeating acts [in context of the so tar vows]; exceptional, superior, Mercury. the partially defeating acts [in context of the so tar vows]. Wednesday [the planet Mercury]. more, greater, more than, exceeding, superior, remainder, a wind, especially, remains, excess, duplications; maximum; mercury; སོ་ཐར intr. v.; the partially defeating acts [in context of the ལྷག་པ,་ལྷག་པ,་ལྷག་པ vows] བླ་མ་ལས་ལྷག་པ་མེད none greater than greater; las lhag pa - greater than gzhan las lhag pa - surpasses any other sangs rgyas las + - exceeds that of the Buddha'
+msgstr "" 
+
+# ལྷག་མཐོང
+msgid "Insight meditation [KOT=rDzogs chen equivalent of lhag mthong; cf. rang bzhin ye babs kyi bsam gtan] Vipashyana. \'Clear\' or \'wider seeing.\' Usually referring to insight into emptiness. One of the two main aspects of meditation practice, the other being shamatha vipashyana: insight, clear seeing, wider vision, clearly seen, analytical or special wisdom /_insight, superior seeing, vipashyana, panoramic awareness, wider vision /_perspective, penetrating insight. Syn ལྷག་པར་མཐོང་བ, ལྷག་གེར་མཐོང་བ, higher insight; penetrative insight/_; higher insight, [vipashyana, Pali - vipassanna]; special insight; \'sublime seeing\' meditation; intense insight vipashyana; profound/_deeper/_penetrating/_penetrative insight"
+msgstr "" 
+
+# ལུས
+msgid "ordinary body. body, structure, life, lost myself, \'body\'. lost, left behind, left, physical body (ordinary) body; (physical) embodiment; health; Deha"
+msgstr "" 
+
+# ལེགས་པ
+msgid 'excellence, goodness. good, well, fine; perfectly, wholesome, antonym to ཉེས་པ goodness ཞེ་སྡང་གིས་ལེགས་པ་འཇོམས hatred vanquished his goodness'
+msgstr "" 
+
+# ལེན
+msgid 'studying, to receive, accept, to absorb, to connect, join, catch'
+msgstr "" 
+
+# ལོ
+msgid 'age year, abbreviation of བྱས་ལོ added to verbs. ལོ་ཙ་བ routine; + bzhes - year of age; + then pa - to have reached the age of #; after a verb makes the act superficial (seemingly)'
+msgstr "" 
+
+# ལོངས་སྤྱོད
+msgid "1) enjoyment, resources, enjoyments, pleasure, wealth, possessions, riches, perfect rapture. 2) ལོངས་སྤྱོད་པ to experience, enjoy, survive on, enjoy wealth; utilize འཁོར་དང་ལོངས་སྤྱོད servants and possessions lha\'i longs spyod lha la \'os - what belongs to the gods is right for the gods wealth of enjoyment; (enjoyed) wealth x བདག་གིས་ལོངས་སྤྱོད་འདི་དག- all these comforts and wealth i now have"
+msgstr "" 
+
+# ཤི
+msgid 'to die, to go out, put off, turn off, to die, death'
+msgstr "" 
+
+# ཤིན་ཏུ
+msgid 'extremely, most, very, exceedingly, absolute; absolutely, entirely very, exceedingly, completely, utterly'
+msgstr "" 
+
+# ཤུལ
+msgid 'an advisor; a deserted place; path/_method'
+msgstr "" 
+
+# ཤེས
+msgid 'can, be able to, knowledge, recognition, དང་གིས naturally arose, intelligence, to be aware of, come to understand, to know, to grasp, master, to learn, to realize, wisdom'
+msgstr "" 
+
+# ཤེས་བཞིན
+msgid '1) alertness, watchfulness; self-possession, attentiveness, introspective alertness, vigilance. སེམས་འཇོག་པ mental placement. conscience, conscious, cognitive alertness, introspection, awareness; conscientiousness, attentiveness, introspective alertness. self-possession, vigilance, self-possession, 2) knowingly, conscientious, on purpose, willfully inspection Sheshin, in Domey'
+msgstr "" 
+
+# ཤེས་རབ
+msgid "critical acumen [in debate] [ggd] discriminating knowledge prajna, intelligence, knowledge, discrimination, [wisdom]. insight, ཡེ་ཤེས roommate. ཤེས་རབ་ཆུང་བ those who have limited knowledge. Discrimination, as one of the five object determining mental states, superior knowledge [in most contexts] - superior intelligence, or intelligence [when referring to the 51 mental factors] - wisdom [when taken as synonymous with yeshe]. Syn ཕ་དྲུག; superior knowledge [in most contexts]. - superior intelligence, or intelligence [when referring to the 51 mental factors]. - wisdom [when taken as synonymous with yeshe]; Wisdom, discriminating wisdom, [prajna]; bden don gtan la \'bebs} rang dang spyi\'i mtshan nyid rnam par \'byed pa\'o} discriminative awareness. recognition, intelligence, to be aware of, come to understand, to know, to grasp, master, to learn, can, be able to, to realize; discriminative awareness; Discrimination, as one of the five object determining mental states. knowledge. one of the ཡེ་ཤེས the six paramitas. discriminative awareness. insight, intelligence. ཤེས་རབ་ཆུང་བ those who have limited knowledge. prajna, [wisdom]. Syn ཤག་རོག wisdom. superior knowledge [in most contexts]. - superior intelligence, or intelligence [when referring to the 51 mental factors] - wisdom [when taken as synonymous with yeshe]. transcendent knowledge Prajna. Knowledge or intelligence. In particular, the \'knowledge of realizing egolessness.\' the practice of wisdom"
+msgstr "" 
+
+# ཤོག
+msgid 'May!'
+msgstr "" 
+
+# ཤོར
+msgid 'fallen; lost; loss, to lose, slips away'
+msgstr "" 
+
+# སྐྱབས
+msgid '1) refuge, protection, savior, protector, shelter, defense. 2) p. of skyob - to save, protect. 3) help, assistance, 4) epithet of Buddha; refuge'
+msgstr "" 
+
+# སྐྱབས་འགྲོ
+msgid "abbr. of སྐྱབས་སུ་འགྲོ་བ. 1) to take refuge, go for refuge to. 2) refuge. 3) h. practice Refuge. Taking Refuge. Placing one\'s confidence in the Precious Ones, the Three Jewels"
+msgstr "" 
+
+# སྐྱུང
+msgid 'བསྐྱུངས་པ,་བསྐྱུང་བ,་སྐྱུངས. - 1) to throw /_cast away, fling, discard. 2) to reduce, diminish, make smaller /_lower. 3) give up, abandon'
+msgstr "" 
+
+# སྐྱེ
+msgid 'see སྐྱེ་མེད. beings, to be born; life; abbr. of 1) སྐྱེ་བོ. 2) སྐྱེ་བ. beings, arising, 3) born. སྐྱེ་བ unborn will arise'
+msgstr "" 
+
+# སྐྱེ་བོ
+msgid '1) sentient being. 2) person, human being, ordinary men /_people /_beings, living creature. 3) mankind; beings'
+msgstr "" 
+
+# སྐྱེད
+msgid 'imp. of སྐྱེད་པ'
+msgstr "" 
+
+# སྐྱེས་བུ
+msgid '1) noble man, great being. 2) man, human being, person, individual, male, creature, spiritual person; spirit. 3) symbolic designation of number three'
+msgstr "" 
+
+# སྐྱོང
+msgid 'support; nurtures. see also བདེ་སྐྱོང་འཁོར་ལོ'
+msgstr "" 
+
+# སྐྱོན
+msgid '1) defect, fault, fallacy, falling, flaw, mistake, damage. blemish, defect, shortcoming, harm, imperfection, disadvantage, misfortune, drawback, flaw, illness, trouble. 2) wrong, bad, physically imperfect, bodily defect. 3) to get hurt /_harmed /_injured /_damaged. 4) objection, criticism; flawed /_faulty [reasoning]. 5) sin, vice. 6) h. of སྐྱོན་པ. 7) imp. of རྒྱག blemish རང་གི་སྐྱོན་རྣམས་མི་མཐོང་ཞིང་གཞན་སྐྱོན་མཐོང do not see what they themselves do wrong, but they see the faults of others'
+msgstr "" 
+
+# སྐྱོབ
+msgid 'Protector/_Savior; ward off'
+msgstr "" 
+
+# སྒྱུར
+msgid '1) to change, transform, transmute, transmuting, alter. turn into. 2) translate, to interpret. 3) to multiply. 4) times, fold. 5) to bring under control, to rule. 6) to affect, control; lute/_vina; imp. of སྒྱུར་བ'
+msgstr "" 
+
+# སྒྲུབ
+msgid 'bring about, produce establish, བསྒྲུབས; To practice; consummation, establish, བཞག p. བཞག 1) to acquire, to obtain, to practice, accomplish, to fulfill, perform, achieve, attainment, commit, prove, affirm, establish, finish, complete, proceed, to go ahead, handle, do. 2) to work for. 3) practice, sadhana, [lit. method for accomplishment]. 4) to finish accomplish, to prove. 5) cultivate. 6) to fabricate, encourage. 6) which effect'
+msgstr "" 
+
+# སྒྲོག
+msgid 'imp. of སྒྲོག་པ. 1) va. to shout out, to call out, to read out; to proclaim, roar. 2) to strap up, to tie up, to chain. 3) shackles, fetter, chain, trap'
+msgstr "" 
+
+# སྒྲོལ
+msgid 'imp. of བསྒྲལ; p. སྒྲོལ་བ 1) to free, deliver, delivering, liberation, save, liberate, set free, cross over. 2) to pass, to cross, transport. 3) destroy. 4) protecting'
+msgstr "" 
+
+# སྒོ
+msgid 'gate, door means; 1) approach, door, gate, doorway, opening, entrance. སྒོས. 2) means, method, opportunity, medium. 3) compendium, composite. 4) p. བསྒོས imp. འཀུན་འདུས to give an order or instruction; door; avenue/_door(way); gate (of mansion)'
+msgstr "" 
+
+# སྒོམ
+msgid 'reflection, meditation, contemplation, to think of, practice, cultivation, contemplation. p. བསྒོམས imp. Skt. bhavana, to cultivate, bring forth'
+msgstr "" 
+
+# སྒོམ་པ
+msgid "1) meditation, practice, training, cultivation, meditation-training, familiarization, development, contemplation, creative imagination. 2) སྒོམ་པ,་བསྒོམས་པ,་བསྒོམ་པ,་སྒོམས trans. v.; to cultivate, meditate, practice, become accustomed to; \'make familiar with,\' cultivate in meditation. 3) imagine, envision. 4) contemplate, think over, ponder, concentrate upon bsgom pa - meditation; to meditate, [bhavana] lha sgom pa - to visualize deities Meditation. In the context of Mahamudra or Dzogchen practice, meditation is the act of growing accustomed to or sustaining the continuity of the recognition of our buddha nature as pointed out by a qualified master. In the context of learning, contemplating and meditating, it means the act of assimilating the teachings into one\'s personal experience, then growing accustomed to them through actual practice"
+msgstr "" 
+
+# སངས་རྒྱས
+msgid 'awakened being/_buddha(hood) Buddha, 1) enlightenment, awakening, awakened being/_buddha(hood); enlightened being, the awakened stated. 2) enlightened, awakened, purified and perfected, awakened perfection, purified unfoldment. awakened one; buddha Def. by Jamgön Kongtrül: རྒྱས; one, such as Shakyamuni, who has purified obscurations སངས and developed pristine cognition སངས་པ་དང་རྒྱས་པ་གཉིས་ཀ་ལ་འཇུག་པས་སངས་རྒྱས་ཞེས་བརྗོད་པ buddhahood. The perfect and complete enlightenment dwelling in neither samsara nor nirvana; the state of having eradicated all obscurations, endowed with the wisdom of seeing the nature of things as it is and with the wisdom of perceiving all that exists'
+msgstr "" 
+
+# སྙན་པ
+msgid 'renown, glory, fame, praise, rumor. Syn སྙན་གྲགས pleasant, interesting to hear; melodious; renown, repute, account'
+msgstr "" 
+
+# སྙིང་པོ
+msgid "1) essence, core, a solid core, heart of matter, pith, heart, substance, quintessence, e.g., snying po bgrongs, Recite the essential [mantra]!. 2) center. 3) central meaning, purpose, sense, perspective, inner reality. 4) syn སྙིང་པོ་མེད་པ 5) grain, seed, kernel. 6) circle, orb, e.g., ཉི་མའི་སྙིང་པོ the orb of the sun. 7) central, essential, quintessential, meaningful; 8) essence mantra. 9) energy pulse, nucleus. nucleus of reality. /_/_1) heart, \'hridaya\' Skt. 2) embryo, \'garbha\' Skt. 3) essence, \'sara\' Skt. 4) mind, \'chitta\' Skt. Comp བདེ་གཤེགས་སྙིང་པོ"
+msgstr "" 
+
+# སྙིང་རྗེ
+msgid '1) compassion; mercy, pity, empathy, sympathy. 2) compassionate, affectionate; compassionate [one of nine moods of dance]'
+msgstr "" 
+
+# སྟེ
+msgid '1) the gerundive connective particle. having /_after having. 2) adverbial function. -ing. 3) defining function: where. 4) namely, to wit, videlicet; te/_ste/_de - semicolon; colon or m-dash; rather; so, thus colon, semicolon'
+msgstr "" 
+
+# སྟོང
+msgid "1) 1, 000; 2) empty, void, devoid of; 3) the fact of emptiness; 2) blood price in 1000\'s; 3) 1 of T\'s 1st four clans [R]; 4) empty new moon; many/_/_; 1) a thousand,1000. 2) to be empty, void, devoid of, the fact of emptiness 3) fine paid to relatives for manslaughter"
+msgstr "" 
+
+# སྡིག་པ
+msgid 'evil deeds ex ནམ་ཡང་སྡིག་པ་མ་བྱེད never act wrongly! harmful actions Misdeeds, མི་དགེ་བའི་ལས. Refers chiefly to the ten unvirtuous actions སྡིག་པ,་བསྡིགས་པ,་བསྡིག་པ,་སྡིགས trans. v.; negative action; harmful action; sin, scorpion, Evil deeds, negative action, crab, crawfish, sinfulness, to show, to point out, to aim, butt, goal to menace, to threaten'
+msgstr "" 
+
+# སྡུག
+msgid '1) - Syn སྡུག་བསྔལ. 2) - Syn སྡུག་པ 3) - Syn སྡུག་པོ, སྡུག་བསྔལ suffering, misery, pain, sorrow, discomfort, painful, miserable, toil, hardship. vi. to be depressed. adj. comp. of སྡུག་པོ abbr. of སྡུག་པ [pretty]. sad; སྡུག་བསྔལ pain; suffering; suffer; pained'
+msgstr "" 
+
+# སྡུག་བསྔལ
+msgid 'anguish pain, suffering; ཟུག་རྔུ ill, misery, frustration, dissatisfaction, agony, pain, despair sorrow'
+msgstr "" 
+
+# སྡེབ་སྦྱོར
+msgid 'poetry, poetics, composition, prosody. rhetoric, art or style of the text, orthography'
+msgstr "" 
+
+# སྣ་ཚོགས
+msgid 'all kinds of vishva; diversity, different kinds; all kinds, diversified, manifold world, varied, variegated, variety, various, multiplicity, varying, carious, plethora, Citra bhanu, the 16th year of ཆུ་ཕོ་རྟ, Syn རབ་བྱུང; multicolored Vishva. Variety, manifold purposes. In this book the Vishva Temple at Samye used for teaching arts and crafts'
+msgstr "" 
+
+# སྣ་ཚོགས་པ
+msgid 'different kinds, various; variety'
+msgstr "" 
+
+# སྣང
+msgid "abbr. of སྣང་མཛད appearance, phenomena, presence, to appear, show, be seen, be visible, to manifest, seem, day light, app. to མྱོང་བ illumination, thought, heart, mind, ex. མཐོང་བ to be on one\'s mind, to see ཆོས་གནང perception. Syn མུན་པ to illuminate, make visible སྣང་བ to lighten, a vision, one\'s outlook, occur, manifestations, projections, manifest oneself, feeling for, inclination to, to experience, perceive, feel, think, appear, manifest, be present, illuminate; thoughts, mind/_experience; seems; outlook; phenomena"
+msgstr "" 
+
+# སྤྱན་རས་གཟིགས
+msgid 'Avalokite Avalokiteshvara; Avalokiteshvara. Syn འཇིག་རྟེན་དབང་ཕྱུག Lokeshvara, the lord of the world. the bodhisattva Avalokiteshvara, [he who sees in all direction[s], the all seeing one; Avalokiteshvara (red/_northeast) Chenrezig, mountain at Amnye Machen Lord who Sees'
+msgstr "" 
+
+# སྤྱི་བོ
+msgid 'the top /_crown of the head, apex'
+msgstr "" 
+
+# སྤྱོད
+msgid 'imp. of སྤྱོད་པ; 1) to use, to make use of, to employ. 2) to enjoy. 3) action, conduct, behavior, experience, to do, move, act, to behave, to satisfy [desire], experience [suffering]; activity/_practice; experience'
+msgstr "" 
+
+# སྤྱོད་པ
+msgid 'སྤྱོད་པའི་རྒྱུད trans. v.; 1) to engage in; enjoy; behave, carry out, conduct oneself; practice, act, enact, participate in, engage in, be involved with; to use; treat, deal with, to use, employ, apply, utilize; experience, undergo, enjoy, partake of; do, enjoy, experience, accomplish, perform, commit, 2) Skt Charya; conduct, behavior, action, activity, course, deeds,. 3) a practitioner; 4) application, practice, 5) lifestyle, 6) Syn སྤྱོད་པ,་སྤྱད་པ,་སྤྱད་པ,་སྤྱོད Charya. The second of the four sections of tantras according to the Sarma schools'
+msgstr "" 
+
+# སྤྱོད་ལམ
+msgid "byang chub sems dpa\'i spyod lam - the practice of a Bodhisattva (code of) conduct; way of action, behavior, daily activities, ways of conduct, physical activity. Syn སྤྱོད་པ; mode of conduct, life-style, activity, practice daily activities; སྒོ་གསུམ་སྤྱོད་པའི་ལམ daily activities of thought, word and deed"
+msgstr "" 
+
+# སྤྲོས་པ
+msgid 'Complexities Conceptual elaboration construct, elaboration, fabrication, prapanca, complexity, mental constructs, conceptual elaboration, proliferation of discursive thought, propositions, complexity. Syn སྤྲོ་བ, judgment, evaluation, statements, conceptualization, 2) business, employment, activity, employed, occupied, multifarious activity. 3) embellishment, to expand upon. pf. of རྟོག་པ Constructs. Any mental formulation constructs. Any mental formulation. A conceptual fabrication that is not innate to the nature of mind Mental constructs'
+msgstr "" 
+
+# སྤོང
+msgid 'to give up, renounce, abandon, discard, to overcome, [the two extremes], to avoid'
+msgstr "" 
+
+# སྦྱིན་པ
+msgid 'donation gave them back practise of generosity རང་ནོར་ཡོངས་གཏོང་བ trans. v.; ft. of ཆོས་སྤྱོད་བཅུ; 1) to give, bestow. 2) generosity, giving, liberality, charitable, 3) distribution of gifts, charity, donation, alms, one of the ཕར་ཕྱིན་དྲུག six paramitas. giving, one of the སྦྱིན་པ 10 religious practices; Def. by Jamgön Kongtrül: སྦྱིན་པ,་བྱིན་པ,་སྦྱིན་པ,་སྦྱིན to impart'
+msgstr "" 
+
+# སྦྱིན་བདག
+msgid 'alms-giver, patron, benefactor, sponsor donor, benefactor, sponsor, Skt danapati sponsor, donator, benefactor, patron, རྒྱལ་པོ ~king'
+msgstr "" 
+
+# སྦྱོང
+msgid 'to cleanse, purify, practice, train; training/_dispel'
+msgstr "" 
+
+# སྦྱོར་བ
+msgid 'argument, formal argument [ggd] dbyer med du sbyor ba - to merge indivisibly . . . la sbyor ba - (to (provide a) link(age) to . . . ; to apply (to) ནང་འཕྲོད་ཀྱི་སྦྱོར་བ trans. v.; to apply (oneself); to engage actively; to bring/_come into contact with; to insert; acquisition. application, to bind, fetter, endeavor, occupation, preparation, See also སྦྱོར་བ,་སྦྱར་པ,་སྦྱར་བ,་སྦྱོར syllogism, activities, engage in, application to, to be united with, j, to affix, attach, fasten, stick, to apply, to correlate, to unite. Tana/_union of male and female/_deities (secret bliss offering)/_preparation, preliminary; fulfills to apply (oneself); to engage actively; to bring/_come into contact with; to insert; to pertain (to); syllogism; isc. to be one within . . .'
+msgstr "" 
+
+# སྨད་པ
+msgid "blame, slander, one of the སྨོད་པ eight worldly dharmas, blame, disgrace. one of the སྨོད་པ to despise, to revile. 1) to despise, revile, blame. 2) n. blame; pf. of འཇིག་རྟེན་ཆོས་བརྒྱད; ft. of འཇིག་རྟེན་ཆོས་བརྒྱད mgo smad pa - turning one\'s head down to bend down, to hand, to reach down to disrespect སྟན་དང་བཞོན་པ་སྨད་སོགས་བསོད་ནམས་ཉམས to disrespect his mount or seat will spoil your merit"
+msgstr "" 
+
+# སྨྲ
+msgid 'word; expression; abbr. of སྨྲ་བ 1) to say, utter, express, advocate, expound, make an exposition. 2) word, speech, utterance, exposition, advocate, proponent, adherent of'
+msgstr "" 
+
+# སྨོས
+msgid 'imp. of སྨོས་པ; desire, to say, mention'
+msgstr "" 
+
+# སྲས
+msgid 'legitimate son, son; legitimate son'
+msgstr "" 
+
+# སྲིད
+msgid 'དེ་ཡིན་པ་ཡང་སྲིད that might be him high, height, world, cosmic, phenomena, society, temporal, short for སྲིད་པ; property/_kingdom'
+msgstr "" 
+
+# སྲིད་པ
+msgid 'becoming, as one of the twelve links. 1) to be possible, may be, becoming, coming into existence, possibility of existence, is made possible, what is possible, what can be. 2) cyclic existence, projective existence, fictitious being, samsaric existence [dependent-related]. one of the རྟེན་ཅིང་འབྲེལ་བར་འབྱང་བའི་ཡན་ལག་བཅུ་གཉིས four currents and tenth of the ཆུ་བོ་བཞི 12 links of dependent origination. 3) life, being [in a general sense]. 4) realm. 5) the world. 6) procreation; coming into being (samsaric existence; conditioned existence; becoming (as one of twelve links); cosmic; Def. Jamgön Kongtrül: རྟེན་འབྲེལ. domain/_realms/_the universe; existence, (Syn. Samsara); rebirth. becoming, existence, life, the world, possible, existence [as in ཡང་སྲིད་མངོན་པར་འགྲུབ་པར་བྱེད་པའི་ལས་སྟོབས་དང་ལྡན་པ་དེ 12]. to be possible, may be, possibility of existence, is made possible, what is possible, what can be, cyclic existence, projective existence, fictitious being, samsaric existence [dependent-related] one of the རྟེན་ཅིང་འབྲེལ་བར་འབྱང་བའི་ཡན་ལག་བཅུ་གཉིས four currents and tenth of the ཆུ་བོ་བཞི 12 links of dependent origination, life, being [in a general sense] realm, the world, procreation; the wheel of existence; Drive toward existence possible; mi srid - is not a possibility'
+msgstr "" 
+
+# སྲུང
+msgid 'protection, to keep in mind, to keep, protect, observe'
+msgstr "" 
+
+# སྲེད་པ
+msgid 'craving འདོད་ཆགས intr. v. to crave, desire, hanker for; Def. by Jamgön Kongtrül: འདོད་ཆགས Def. by Jamgön Kongtrül: རྟེན་ཅིང་འབྲེལ་བར་འབྱུང་བའི་ཡན་ལག་བཅུ་གཉིས as one of the twelve links, རྟེན་འབྲེལ 12]; craving, clinging; attachment, eighth of the ཡང་སྲིད་སྡུད་པར་བྱེད་པ 12 links of dependent origination. desire; desirous/_to crave; thirst/_craving, greed, miserly, initial desire, hankering. Syn ཡན་ལག་བརྒྱད་པ་ནི། ཚོར་བ་བདེ་སྡུག་བཏང་སྙོམས་གསུམ་ལ་སྲེད་ཅིང་ཞེན་པ་ཡིན་ལ། དེའང་བདེ་བ་ལ་མི་འབྲལ་བར་སྲེད་པ་དང། སྡུག་བསྔལ་ལ་འབྲལ་འདོད་ཀྱི་སྲེད་པ་དང། བཏང་སྙོམས་ལ་མི་འབྲལ་བར་འདོད་པའི་སྲེད་པ་སྐྱེ་བ་ཡིན་ཞིང། ཡང་སྲིད་པ་ལ་འདོད་པའི་སྲེད་པ་དང། སྲིད་པའི་སྲེད་པ་དང། འཇིག་པའི་སྲེད་པ་དང་གསུམ། དང་པོ་འདོད་ཁམས། གཉིས་པ་ཁམས་གོང་མ་གཉིས། གསུམ་པ་ཉེར་སྤྱོད་ཡོངས་སུ་བཟུང་བར་སྲེད་པའོ། ། འདོད་དང་སྲིད་ལྟ་བདག་སྨྲའི་ཉེར་ལེན་གྱིས། ། ཡང་སྲིད་འགྲུབ་བྱེད་ལས་སྟོབས་ལྡན་གྱུར་པས། ། ཉིང་མཚམས་སྦྱར་ཏེ་སྐྱེ་བ་ཐོབ་ནས་བརྩམས། སྐད་ཅིག་རྒྱུན་འགྱུར་སྲོག་འགག་རྒ་ཤི attachment. greed, miserly, initial desire, craving, hankering. སྲེད་པ,་སྲེད་པ,་སྲེད་པ attachment'
+msgstr "" 
+
+# སྲོག
+msgid "lifeblood ནོར་ནི་ཡོན་ཏན་ཀུན་གྱི་སྲོག་ཡིན་ཞེས \'wealth is the lifeblood of all positive traits,\' they say life, life-force, vital essence, heart, central, soul. life force; magical wheel/_life-wheel"
+msgstr "" 
+
+# སླར
+msgid 'after consequently later; again, later'
+msgstr "" 
+
+# སླུ
+msgid Noneaaaaaaaaaaaaaaaa
+msgstr "" 
+
+# སློབ
+msgid '1) to study. 2) to teach, instruct. 3) to follow; Padmasambhava; to teach, advise trained; ex སློབ་འཇུག inspiring others to train /_be trained'
+msgstr "" 
+
+# སུ
+msgid 'who who/_what(ever); anyone/_thing'
+msgstr "" 
+
+# སུ་ཞིག
+msgid 'someone'
+msgstr "" 
+
+# སུམ་ཅུ་སོ་བདུན
+msgid Noneaaaaaaaaaaaaaaaaa
+msgstr "" 
+
+# སེམས
+msgid "cognitive act Longchenpa\'s def: ཁམས་གསུམ་པའི་གློ་བུར་བའི་དྲི་མ་ཚོགས་བརྒྱད་སེམས་བྱུང་དང་བཅས་པའོ Mind mind, \'cognitive act\', grasping mind, frame of mind, mind or soul, thought, main mind, cognitive act[s] Syn ཕུང་ཁམས་སྐྱེ་མཆེད་ཐམས་ཅད་ཀྱི་བག་ཆགས་སམ་ས་བོན་བསགས་པ་དང་སྣ་ཚོགས་ལ་དམིགས་པ་དང་དོན་ལ་སེམས་པས་ན་སེམས་སུ་བཞག་པ་གང་ཡིན་པ་དེ་ནི་ཀུན་གཞིའི་རྣམ་ཤེས་ཁོ་ན experiencing, potential for experience, general forms of experience, grasping, conceptual mind, attitude, intent; (ordinary) mind; attention; cognition, cognitive act, mind or soul, grasping mind, frame of mind, thought, main mind. Syn རྣམ་ཤེས་ཚོགས་དྲུག experiencing, potential for experience, general forms of experience, conceptual mind, attitude, intent. mind, thoughts, thought process, [chitta]; Def. by Jamgön Kongtrül: རྣམ་ཤེས་ཚོགས་དྲུག"
+msgstr "" 
+
+# སེམས་ཅན
+msgid 'possessing the [most sublime] attitude Sentient being. Any living being in one of the six realms who has not attained liberation sentient being[s], [sattva]; being, living creature. living being'
+msgstr "" 
+
+# སོ་སོ
+msgid 'each and every; individual; various; respective; each, distinct, private, personal'
+msgstr "" 
+
+# སོགས
+msgid 'and all the rest and other objects and so forth; etcetera, and the like, or any other way, and so on, and others, and the rest, and elsewhere'
+msgstr "" 
+
+# ཨ་ཐང་ཆད
+msgid Noneaaaaaaaaaaaaaaaaaa
+msgstr "" 
+
